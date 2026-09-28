@@ -1,0 +1,1 @@
+import{t as e}from"./HugeiconsIcon-vXQ3ms6P.js";import{t}from"./jsx-runtime-NZYk81nU.js";var n=t();function r({icon:t,size:r,className:i}){return(0,n.jsx)(e,{className:i,color:`currentColor`,icon:t,size:24,style:{width:`calc(var(--u) * ${r})`,height:`calc(var(--u) * ${r})`}})}export{r as t};

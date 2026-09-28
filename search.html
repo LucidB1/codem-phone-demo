@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Search</title>
+        <style>
+            :root {
+                color-scheme: light dark;
+                font-size: calc((1vh + 1vw) * 1.1);
+            }
+
+            body {
+                margin: 0;
+                padding: 0.6rem 0.8rem 2rem;
+                font-family: 'Roboto', system-ui, sans-serif;
+                font-size: 0.95rem;
+                color: #111;
+                background: #fff;
+            }
+
+            body[data-theme='dark'] {
+                color: #f2f2f7;
+                background: #0d0d0f;
+            }
+
+            .state {
+                padding: 2rem 1rem;
+                text-align: center;
+                opacity: 0.6;
+            }
+
+            .gsc-control-cse {
+                padding: 0 !important;
+                background: transparent !important;
+                border: 0 !important;
+            }
+
+            body[data-theme='dark'] .gsc-control-cse,
+            body[data-theme='dark'] .gsc-webResult.gsc-result,
+            body[data-theme='dark'] .gsc-results .gsc-cursor-box,
+            body[data-theme='dark'] .gsc-above-wrapper-area {
+                color: #f2f2f7 !important;
+                background: transparent !important;
+                border-color: rgba(255, 255, 255, 0.12) !important;
+            }
+
+            body[data-theme='dark'] .gs-title,
+            body[data-theme='dark'] .gs-title b {
+                color: #79b8ff !important;
+            }
+
+            body[data-theme='dark'] .gs-snippet,
+            body[data-theme='dark'] .gsc-url-top,
+            body[data-theme='dark'] .gs-visibleUrl {
+                color: rgba(235, 235, 245, 0.7) !important;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="gcse-searchresults-only" data-queryParameterName="q" data-linkTarget="_self"></div>
+        <div class="state" id="state"></div>
+
+        <script>
+            const params = new URLSearchParams(window.location.search)
+            const cx = params.get('cx') || ''
+            const query = params.get('q') || ''
+            const theme = params.get('theme') === 'dark' ? 'dark' : 'light'
+            const state = document.getElementById('state')
+
+            document.body.setAttribute('data-theme', theme)
+            document.title = query ? query + ' - Search' : 'Search'
+
+            if (!cx) {
+                state.textContent = 'Search is not configured on this server.'
+            } else {
+                state.textContent = 'Searching…'
+
+                window.__gcse = {
+                    parsetags: 'onload',
+                    initializationCallback: () => {
+                        state.textContent = ''
+                    },
+                }
+
+                const script = document.createElement('script')
+                script.async = true
+                script.src = 'https://cse.google.com/cse.js?cx=' + encodeURIComponent(cx)
+                script.onerror = () => {
+                    state.textContent = 'Search could not be loaded.'
+                }
+                document.head.appendChild(script)
+            }
+        </script>
+    </body>
+</html>

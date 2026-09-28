@@ -1,0 +1,2606 @@
+{
+  "rarity": {
+    "common": "Obično",
+    "strange": "Čudno",
+    "rare": "Rijetko",
+    "mint": "Legendarno"
+  },
+  "items": {
+    "1": {
+      "name": "Madrazov Zlatni Idol",
+      "flavor": "Zlatno lice Caida Libre legende — talisman sreće porodice Madrazo."
+    },
+    "2": {
+      "name": "Impotent Rage Figura",
+      "flavor": "Originalno kolekcionarsko izdanje Vinewood Superheroja — postolje još sija."
+    },
+    "3": {
+      "name": "Vanzemaljac Figura",
+      "flavor": "Rijetka odlivka koju love tajni kolekcionari."
+    },
+    "5": {
+      "name": "Beast Figura",
+      "flavor": "Polu-čudovište antagonist iz Vinewood Superhero serije — krzneno izdanje."
+    },
+    "6": {
+      "name": "Sasquatch Figura",
+      "flavor": "Sveti gral \"Bigfoot\" Easter egg lovaca."
+    },
+    "7": {
+      "name": "Rockstar Klasični Logo",
+      "flavor": "Limitirano studijsko sjećanje — ispalo iz vitrine."
+    },
+    "8": {
+      "name": "Rockstar Nagrada Zajednice",
+      "flavor": "Plaketa pritisnuta za članove Rockstar zajednice — jedini takav u Pillbox Hillu."
+    },
+    "12": {
+      "name": "Pop Art Skulptura #1",
+      "flavor": "Retro pop-art komad iz Diamond Casino Heritage Halla."
+    },
+    "13": {
+      "name": "Pop Art Skulptura #2",
+      "flavor": "Druga serija istog umjetnika — manje pritisnutih."
+    },
+    "15": {
+      "name": "Statua Pantera",
+      "flavor": "Tamni bronzani panter — oči ti još uvijek prate."
+    },
+    "16": {
+      "name": "Statua Konja",
+      "flavor": "Vintage skulptura konja — izgubljena od kolekcionara prije godina."
+    },
+    "17": {
+      "name": "Apstraktna Skulptura",
+      "flavor": "Značenje nejasno, cijena strma — zovu to pravom umjetnošću."
+    },
+    "19": {
+      "name": "Vintage Heroj Figura",
+      "flavor": "Kolekcionarski predmet 80-ih Vinewood djece — pravo iz originalne kutije."
+    },
+    "21": {
+      "name": "Plišani Pas",
+      "flavor": "Izgubljeni praznički poklon — nikada nije stigao do vlasnika."
+    },
+    "22": {
+      "name": "Sunny — Maskota Ljetnog Festivala",
+      "flavor": "Karakteristična maskota Vespucci ljetnog festivala — oči još pacifičko plave."
+    },
+    "23": {
+      "name": "Bruno Vinewood Medvjed",
+      "flavor": "Karakteristična nagrada Pixel Pete kandžaste mašine — \"Bruno\" oznaka ušivena u krzno."
+    },
+    "24": {
+      "name": "Po Davis Panda",
+      "flavor": "Legenda kandžaste mašine kvartа Davis — još uvijek slatkooka."
+    },
+    "25": {
+      "name": "Kobi Slatka Koala",
+      "flavor": "Plišanac s gornje police s \"Sladak sam\" oznakom na uhu."
+    },
+    "26": {
+      "name": "Lily Zec",
+      "flavor": "Ljubavni suvenir — ostavljen na ulazu u klub, crvena traka na uhu."
+    },
+    "27": {
+      "name": "Foxxy Mala Lisica",
+      "flavor": "Maskota Burger Shot igraonice — zakrpljen rep."
+    },
+    "28": {
+      "name": "Zara Žirafa",
+      "flavor": "Čudo-pojačivač morala čekaonice Pillbox Hospitala — dug vrat i sve."
+    },
+    "29": {
+      "name": "Toto Tigar",
+      "flavor": "Tihi svjedok Vanilla Unicorn pozornice — VIP značka na vratu."
+    },
+    "30": {
+      "name": "Lucky Pas",
+      "flavor": "Nagrada Pixel Pete posljednje sezone — talisman sreće za one koji upotpune kolekciju."
+    },
+    "31": {
+      "name": "Vinewood Vrtni Patuljak",
+      "flavor": "Preživjeli član kulta patuljaka Vinewood Hillsa — najstarija Rockstar šala u dvorištu."
+    },
+    "32": {
+      "name": "Propinjajući Konj Figurica",
+      "flavor": "Bronzano lijevana figurica trkaćeg konja — vrsta stvari koju Vinewood agent drži da bi izgledao elegantnije nego što jeste."
+    },
+    "33": {
+      "name": "Moderna Skulptura #4",
+      "flavor": "Moderni komad penthouse rotacije — Tao Cheng je lično potpisao certifikat."
+    },
+    "34": {
+      "name": "Skulptura Kartelovog Ureda",
+      "flavor": "Stajala je na stolu kartelovog šefa u Cluckin' Bell pogonu — blago zamrljana pilećom masnoćom."
+    },
+    "35": {
+      "name": "Flipper Šampion Trofej",
+      "flavor": "Najviše rangirano srebro Arena Wara — osvojio jedini vozač koji je završio Flipper na svojim točkovima."
+    },
+    "36": {
+      "name": "Ronova Sretna Kapa",
+      "flavor": "Ron Jakowski ju je nosio kroz svaki Sandy Shores zavjerenički stream — očitanje radijacije: granično."
+    },
+    "37": {
+      "name": "Jeroboam Blêuter'd",
+      "flavor": "3-litarski Jeroboam Blêuter'd '08 — ostavljen u VIP loži, netaknut."
+    },
+    "38": {
+      "name": "Vintage Gamepad",
+      "flavor": "Kontroler iz Jimmy De Santinog cjelonoćnog igranja — ljepljivi sticks uključeni."
+    },
+    "39": {
+      "name": "Pop Art Auto #10",
+      "flavor": "Diamond Heritage Gallery — pop-art posvećena mišićnim autima zlatne decenije Los Santosa."
+    },
+    "40": {
+      "name": "Pop Art Auto #12",
+      "flavor": "Druga polovica Diamond mišićnog auto diptiha — onaj koji je Avi Schwartzman pokušao podići."
+    },
+    "41": {
+      "name": "Pop Art Auto #9",
+      "flavor": "Otvarajući komad Pop-Art Auto triptiha — nikada na aukciji, nikada osiguran."
+    },
+    "42": {
+      "name": "Idol Trofej — Manji Aztek",
+      "flavor": "Vitrinski blizanac vrijednog idola Casino Heista — kartel ga je zadržao kao trofej za hvalisanje."
+    },
+    "43": {
+      "name": "Idol Trofej — Veći Aztek",
+      "flavor": "Cluckin' Bell trofej iz pozadinskog ureda — kartelov šefov omaž Casino Heistu koji je sve započeo."
+    },
+    "44": {
+      "name": "Sunčano-Kameni Planet Trofej",
+      "flavor": "Planetarni komad Aztek seta — jedan od četiri trofeja koje je Cluckin' Bell šef držao na polici ureda."
+    },
+    "45": {
+      "name": "Scarab Tenk Trofej",
+      "flavor": "Bronzani Scarab tenk lijevan za Arena War šampiona koji je preživio demolition derby finale — baza još miriše na izgorjelu gumu."
+    },
+    "46": {
+      "name": "Aztečko Blago",
+      "flavor": "Skupina aztečkih kovanica i karika lanca — kartelov \"porez\" otkinut s originalnog Casino Heista."
+    },
+    "47": {
+      "name": "Sirovi Aztečki Idol",
+      "flavor": "Odvojen od svoje vitrine — izvučen usred heista, nikada ponovo postavljen."
+    },
+    "48": {
+      "name": "Blizanački Aztečki Idol",
+      "flavor": "Mlađi blizanac Madrazo idola — ista forma, drugi livac."
+    },
+    "49": {
+      "name": "Aztečko Sunce-Jaje Trofej",
+      "flavor": "Aztečko sunce-jaje — upotpunjava četverostruku trofejnu policu uz idol, scarab i planet."
+    },
+    "50": {
+      "name": "Zlatni Pogo Trofej",
+      "flavor": "Lucky Wheel glavna nagrada kolekcija — navodno su iskovali samo dvanaest."
+    },
+    "51": {
+      "name": "Retro Konzola Umjetnička Komad",
+      "flavor": "Vintage konzola tretirana kao galerijska umjetnost — Pixel Pete plače svaki put kad se proda."
+    },
+    "52": {
+      "name": "\"For the Love of Cash\" Dijamantna Lubanja",
+      "flavor": "Penthouse komad sujete ukraden tokom originalnog Casino Heista — njegovi pavé dijamanti su pravi, i Lester još ima procjenu."
+    },
+    "53": {
+      "name": "Tataryn Carsko Jaje",
+      "flavor": "Tataryn porodično naslijeđe koje je nestalo preko noći — jutro nakon što je Avi Schwartzman napustio grad."
+    },
+    "54": {
+      "name": "El Rubio Reserva Añejo",
+      "flavor": "Prokrijumčaren s Cayo Perica u sportskoj torbi — pečat je netaknut i voštani žig je još El Rubiov."
+    },
+    "55": {
+      "name": "Declasse Sabre GT Maquette",
+      "flavor": "Naručio Tao Chengov otac nakon pobjedničke noći za stolom blackjacka visokog ograničenja."
+    },
+    "56": {
+      "name": "\"OG1\" South Central Plaketa",
+      "flavor": "Skinuta sa zida Davis garaže — stari kažu da je pripadala Stretchu kad je Grove Street još nešto značila."
+    },
+    "57": {
+      "name": "LS Panic Igraće Lopta",
+      "flavor": "Potpisana izblijedjelim Sharpiem od cijele odbrambene linije Los Santos Panica nakon njihove '08 divizijske pobjede."
+    },
+    "58": {
+      "name": "Vespucci Streetball Turnirska Lopta",
+      "flavor": "Izlizana do gume na Vespucci terenima — \"Lamar 23\" oznaka je još čitljiva."
+    },
+    "59": {
+      "name": "Pogo Majmun Plišanac",
+      "flavor": "Glavna nagrada kandžaste mašine iz arkade Up-n-Atom dinera — oznaka kaže \"Traceyno vlasništvo.\""
+    },
+    "60": {
+      "name": "El Rubiov Strijeljački Trofej",
+      "flavor": "Dodijelio sam El Rubio svom najboljem snajperisti komplekаsa — ugravirano \"Para mi mejor tirador, 2020.\""
+    },
+    "61": {
+      "name": "Pozlaćeni Kuglaški Čunj (Lebowski Izdanje)",
+      "flavor": "Neironična šestocifrena posveta velikoj američkoj razonodi — Tao Cheng ima tri."
+    },
+    "62": {
+      "name": "Macbeth 30-godišnji Kristalni Dekanter",
+      "flavor": "Podignut iz privatnog bara Maze Bank direktora — ugravirani monogram glasi \"AB\", isti inicijali kao Avon Hertzov računovođa."
+    },
+    "63": {
+      "name": "Festive Surprise Trostruki-Pogodak Trofej",
+      "flavor": "Dodijeljen Arena takmičarima koji su postigli hat-trick tokom Festive Surprise događaja — mašnice su još uvijek uvijene."
+    },
+    "64": {
+      "name": "Majstor Bandito Pilot Trofej",
+      "flavor": "Zarađen za deset kinetičkih ubistava minama u RC Banditu — Arena fanovi ga još zovu \"trofej s poda garaže.\""
+    },
+    "65": {
+      "name": "Arena Karijera Uzlazni Toranj",
+      "flavor": "Dodijeljen za preživljavanje 100 uzastopnih Arena rundi — Benny je lično zavario osnovnu ploču."
+    },
+    "66": {
+      "name": "Arena Veliki Šampion Pehar",
+      "flavor": "Velika nagrada koju je Mr. Bossman dijelio na inauguracijskim Arena finalima — samo tri su ikada izlivena, a dva nedostaju."
+    },
+    "67": {
+      "name": "Pegassi Toreador Hromirana Maquette",
+      "flavor": "Komad u razmjeri naručen za obilježavanje Toreadorovog debija na Vinewood Boulevardu."
+    },
+    "68": {
+      "name": "LS Caesars Udarač Bobblehead",
+      "flavor": "Suvenir iz 90-ih iz starog LS Caesars dugouta — Franklin drži jedan na stolu za sreću."
+    },
+    "69": {
+      "name": "San Andreas Stallions Početnik Bobblehead",
+      "flavor": "Vinewood Bowl poklon s '04 domaće sezonske utakmice — opružna glava još uvijek vibrira nakon dvadeset godina."
+    },
+    "70": {
+      "name": "Arena Radionica Pit-Boss Šolja",
+      "flavor": "\"World's #1 Boss\" šolja lično od Mr. Bossmana — prsten kafe još na rubu."
+    },
+    "71": {
+      "name": "Benefactor Krieger Display Maquette",
+      "flavor": "Milion-čipni izložbeni komad iz Penthouse galerije — Yung Ancestor je spomenuo upravo ovu skulpturu u stihu."
+    },
+    "72": {
+      "name": "Pozlaćena \"Slobodno Bacanje\" Skulptura",
+      "flavor": "Šestocifreni razgovorni komad — umjetnikov potpis, \"Jeff K.\", urezan je na donjoj strani."
+    },
+    "73": {
+      "name": "Porcelanska Djevojka Figurica",
+      "flavor": "Načeta mala porcelanska djevojka koja je nekada živjela na Vinewood kaminu — lijepa, naivna i vrijednija nego što izgleda."
+    },
+    "74": {
+      "name": "Harlekin Klovn Figurica",
+      "flavor": "Pierrot lutka s napuklim emajlom i osmijehom koji uvijek izgleda kao da kasni jedan frame."
+    },
+    "75": {
+      "name": "Cypress Apstraktna Skulptura",
+      "flavor": "Hipster galerijski komad ostavljen na Cypress Flats rampi za utovar — označen \"bez naslova #4\" i određen cijenom kao da je važan."
+    },
+    "76": {
+      "name": "Bronzani Pastuh Figurica",
+      "flavor": "Minijaturni pastuh koji je živio na kaminu Michael De Sante — neko ga je ukrao tokom Madrazo posljedica."
+    },
+    "77": {
+      "name": "Tintarnica Lubanja Trofej",
+      "flavor": "Flash-art lubanja podignuta direktno s pulta Harmony tattoo salona — još miriše na zeleni sapun."
+    },
+    "78": {
+      "name": "OG Mixtape — Varijanta 2",
+      "flavor": "Zapečaćena promo kaseta iz bootleg West Coast pritiska — Franklin bi platio duplo."
+    },
+    "79": {
+      "name": "Hromirana Gladijatorska Lubanja",
+      "flavor": "Lubanja veličine ukrasa haube pozlaćena show-hromom — komad za noćni stočić Arena War šampiona."
+    },
+    "80": {
+      "name": "Lowrider Umjetnička Maquette",
+      "flavor": "Galerijska maquette odsječenog lowridera — pinstripes su još mokre na dodir."
+    },
+    "81": {
+      "name": "El Rubiov Trkač Trofej",
+      "flavor": "Pozlaćeni trkač trofej podignut iz trezora privatnog ostrva — gravura je izgrebana."
+    },
+    "82": {
+      "name": "Downtown Cab Co. Zlatni Trofej",
+      "flavor": "Nagrada za vijek službe Downtown Cab Co. — zadnji put viđen na polici dispečera prije nego što je mjesto opljačkano."
+    },
+    "83": {
+      "name": "Kristalna Piramida Pritisaka",
+      "flavor": "Teška kristalna piramida koja je opterećivala producentove ugovore — navodno čisti lošu energiju."
+    },
+    "84": {
+      "name": "Šampionova Boksačka Rukavica",
+      "flavor": "Jedna crvena rukavica ostavljena u uglu davno zatvorene teretane — prašina sa zglobova još na koži."
+    },
+    "85": {
+      "name": "Galaxy Jahta Minijatura",
+      "flavor": "Juvelirska skala modela Galaxyja — pozlata, funkcionalno sidro, cijena kao prava stvar."
+    },
+    "86": {
+      "name": "Up-n-Atomizer Pištolj Zraka",
+      "flavor": "Retro hromirani zrak smrti direktno iz znaka Up-n-Atom dinera — i iznenađujuće težak kad ga pokupiš."
+    },
+    "87": {
+      "name": "Brutalistički Betonski Blok",
+      "flavor": "Liveni betonski umjetnički blok koji galerija insistira da je \"post-Vinewood brutalist\" — iako izgleda kao ivičnjak."
+    },
+    "88": {
+      "name": "Maze Bank Tower Maquette",
+      "flavor": "Savršeno razmjeri model Maze Bank Towera — kućica za lutke koju CEO drži u uglu svog pravog ureda."
+    },
+    "89": {
+      "name": "Perico Compliance Šoker",
+      "flavor": "Crnotržišni šoker oduzet ostrvskom stražaru — još ima pola punjenja u ćeliji."
+    },
+    "90": {
+      "name": "Aztečki Kameni Idol",
+      "flavor": "Vulkansko-kameni idol stariji od samog grada — Franklin se kleo da ga nikada nije kupio, ali stalno se pojavljivao."
+    },
+    "91": {
+      "name": "Arena Wars Šampion Trofej",
+      "flavor": "Veliki — zlatni trofej jedinog preživjelog, dodjeljuje se jednom po Arena Wars sezoni i nikada dva puta."
+    },
+    "92": {
+      "name": "Roza Glazirana Krofna",
+      "flavor": "Polupojedeni roza prsten s dugacastim posipom, ostavljen na salveti tokom dugog osmatranja."
+    },
+    "93": {
+      "name": "Kristalna Flauta Šampanjca",
+      "flavor": "Ruž još na rubu s Vinewood afterpartija koji se niko ne sjeća da je napustio."
+    },
+    "94": {
+      "name": "Cayo Perico Plesač Trofej",
+      "flavor": "Pozlaćena plesačka figurica, osvojena u heist crew opkladi i sklonjena za kišne dane."
+    },
+    "95": {
+      "name": "Cayo Perico Borac Trofej",
+      "flavor": "Blizanac plesača, ovog je preuzeo mišić crewa prije nego što su nestali."
+    },
+    "96": {
+      "name": "Penthouse Dekorativna Skulptura",
+      "flavor": "Modernistički umjetnički komad koji je založio bankrotirani vlasnik arkade; bogati nikada nisu znali da nedostaje."
+    },
+    "97": {
+      "name": "Meteorit Čokoladica",
+      "flavor": "Bingo-tematska čokoladica s omotom koji tvrdi da je iskovana u dubokom svemiru."
+    },
+    "98": {
+      "name": "P's & Q's Kutija Slatkiša",
+      "flavor": "Ljepljiva kutija slovnih slatkiša ostavljena nakon što je dječji rođendan krenuo nizbrdo."
+    },
+    "99": {
+      "name": "Zidno Montirani Koncertni Zvučnik",
+      "flavor": "Izgreban PA zvučnik oslobođen s Vespucci block partyja koji je LSPD ugasio u 2 ujutro."
+    },
+    "100": {
+      "name": "Bean Machine Kafa Za Ponijeti",
+      "flavor": "Mlaki latte s labavim poklopcem — napušten na putu do sastanka koji je već započeo."
+    },
+    "101": {
+      "name": "Taggerova Četka",
+      "flavor": "Čekinje obložene fluorescentno zelenom — ispuštena usred tagiranja kad su sirene pogodile uličicu."
+    },
+    "102": {
+      "name": "Numerirana Bilijar Lopta — 8",
+      "flavor": "Crna lopta, izlizana od hiljadu mečeva mržnje preko peteodolarskih oklada."
+    },
+    "103": {
+      "name": "Numerirana Bilijar Lopta — 7",
+      "flavor": "Bordo pruga otkotrljala se sa stola i nikada se nije vratila u rack."
+    },
+    "104": {
+      "name": "Numerirana Bilijar Lopta — 9",
+      "flavor": "Žuta pruga, izgrebana s jedne strane gdje ju je neko dlanom držao kao pritisak."
+    },
+    "105": {
+      "name": "Numerirana Bilijar Lopta — 13",
+      "flavor": "Narandžasta pruga s napuklim lak uglom od jakog bank udarca koji je pošao po zlu."
+    },
+    "106": {
+      "name": "Numerirana Bilijar Lopta — 11",
+      "flavor": "Bordo pruga umrljana pepelom cigarete — nekada redovni gost Del Perro turnira."
+    },
+    "107": {
+      "name": "Numerirana Bilijar Lopta — 5",
+      "flavor": "Puna narandžasta, glatka kao nova — očito ukradena prve noći iz kutije."
+    },
+    "108": {
+      "name": "Numerirana Bilijar Lopta — 15",
+      "flavor": "Bordo pruga s vlasastom pukotinom koja zviždi kad se udari tačno kako treba."
+    },
+    "109": {
+      "name": "Numerirana Bilijar Lopta — 12",
+      "flavor": "Ljubičasta pruga pronađena u džepu posuđene jakne koju niko nije vratio."
+    },
+    "110": {
+      "name": "Numerirana Bilijar Lopta — 4",
+      "flavor": "Puna ljubičasta, polirana skoro do ogledala — favorit davno penzionisanog hustlera."
+    },
+    "111": {
+      "name": "Bijela Lopta",
+      "flavor": "Lopta koja je razbila hiljadu rackova — krečna mrlja još na vodećoj ivici."
+    },
+    "112": {
+      "name": "Numerirana Bilijar Lopta — 6",
+      "flavor": "Puna zelena s ulegnućem iz vremena kad je služila kao pritisak u uredu sudskog izvršitelja."
+    },
+    "113": {
+      "name": "Numerirana Bilijar Lopta — 1",
+      "flavor": "Puna žuta, sretna — dlanom je držao redovni gost bara prije svakog razbijanja."
+    },
+    "114": {
+      "name": "Numerirana Bilijar Lopta — 2",
+      "flavor": "Puna plava s izblijedjelim inicijalima markerom — odavno prisvojena, nikad povraćena."
+    },
+    "115": {
+      "name": "Numerirana Bilijar Lopta — 3",
+      "flavor": "Puna crvena — kaže se da je sa stola gdje se dogodio čuveni one-pocket hustle."
+    },
+    "116": {
+      "name": "Numerirana Bilijar Lopta — 10",
+      "flavor": "Plava pruga s ogrebotinama filca od jednog od stolova koje niko ne smije popravljati."
+    },
+    "117": {
+      "name": "Numerirana Bilijar Lopta — 14",
+      "flavor": "Zelena pruga nedostaje sa stola Cypress Flats garaže; niko nije pitao dvaput."
+    },
+    "118": {
+      "name": "Glazirani Keramički Vrč",
+      "flavor": "Težak keramički vrč s Grand Senora drumskog štanda — okrnjena usna, još drži vodu."
+    },
+    "119": {
+      "name": "Rolani Arhitektonski Papir",
+      "flavor": "Građevinski planovi čvrsto smotani i vezani konopcem — ispali tokom žurnog izlaza."
+    },
+    "120": {
+      "name": "Prilagođeni SMG Mk II",
+      "flavor": "Modiran SMG s obrisanim serijskim brojem — ostavljen nakon što je Paleto Bay posao postao bučan."
+    },
+    "121": {
+      "name": "Industrijski Kandžasti Čekić",
+      "flavor": "Težak kandžasti čekić posuđen od poslovođe i nikad vraćen u alatni pojas."
+    },
+    "122": {
+      "name": "Berberska Pjenasta Šolja",
+      "flavor": "Polu-upotrebljena berberska pjena, miris sandalovine umiješan."
+    },
+    "123": {
+      "name": "Pneumatski Udarni Šrafciger",
+      "flavor": "Okidač lijepljiv od kočione prašine i stare masti."
+    },
+    "124": {
+      "name": "Daljinski za Surfovanje Kanalima",
+      "flavor": "Poklopac baterije zalijepljen kvadratom trake."
+    },
+    "125": {
+      "name": "Pleteni Koš za Rublje",
+      "flavor": "Miriše na omekšivač i nestalu čarapu."
+    },
+    "126": {
+      "name": "Zaključani Burner Telefon",
+      "flavor": "Zaključani ekran osvijetljen s dvadeset dva propuštena poziva."
+    },
+    "127": {
+      "name": "Hromirani Cocktail Šejker",
+      "flavor": "Još hladan, led udara o polirani čelik."
+    },
+    "128": {
+      "name": "Dvoprstno Sipanje Viskija",
+      "flavor": "Dimni, tresetni, dva prsta žaljenja."
+    },
+    "129": {
+      "name": "Mramorna Kurioza Skulptura",
+      "flavor": "Hladna na dodir, potpisana na bazi olovkom."
+    },
+    "130": {
+      "name": "Hrpa Falsifikovanih Dozvola",
+      "flavor": "Dvanaest identiteta, ista frizura, različita imena."
+    },
+    "131": {
+      "name": "Bjelozlatni Safir Kap",
+      "flavor": "Postavljena u bijelo zlato, težina namjerno neujednačena."
+    },
+    "132": {
+      "name": "Bubnjasta-Mag Street Sweeper",
+      "flavor": "Bubnjasta mag topla, serijski broj izgreban."
+    },
+    "133": {
+      "name": "Skorena Posuda za Hranu",
+      "flavor": "Skorena osušenim sosom, mravi održavaju sastanak."
+    },
+    "134": {
+      "name": "Potrošeni Mesingani Metak",
+      "flavor": "Kapsla pogođena u centar, lak ljušten s čaure."
+    },
+    "135": {
+      "name": "Prašnjava Tvrdokoričena Knjiga",
+      "flavor": "Kičma napukla na četvrtom poglavlju, savijenih uglova i konačna."
+    },
+    "136": {
+      "name": "Žičani Kompjuterski Miš",
+      "flavor": "Točkić ljepljiv, lijevi taster izlizan sjajno."
+    },
+    "137": {
+      "name": "Stoni Sat Alarm",
+      "flavor": "Displej zaglavljen na 12:00, dugme za drijemanje uleknuto."
+    },
+    "138": {
+      "name": "Presavijeni Dosije",
+      "flavor": "Imena precrtana markerom, ivice savijene od vlažnosti."
+    },
+    "139": {
+      "name": "Toster za Dve Kriške",
+      "flavor": "Mrvice u ladici, poluga olabavljena."
+    },
+    "140": {
+      "name": "Modrija Crvena Jabuka",
+      "flavor": "Jedan zalogaj uzet, odložena i zaboravljena."
+    },
+    "141": {
+      "name": "Tanki DVD Plejer",
+      "flavor": "Ladica diska zaglavljena, RCA kabli zapleteni u čvor."
+    },
+    "142": {
+      "name": "C4 Cigla",
+      "flavor": "Detonator odvrnut, kit mekan i topao."
+    },
+    "143": {
+      "name": "Pride Lager Konzerva",
+      "flavor": "Znojeći se hladno, pola otiska palca na jezičku."
+    },
+    "144": {
+      "name": "Paparazzi Tijelo Kamere",
+      "flavor": "Dugi objektiv izgreban, posljednji okvir još u baferu."
+    },
+    "145": {
+      "name": "Brušeno-Stakleni Direktorski Pepeljara",
+      "flavor": "Teško dno, tri cigare upisane večeras."
+    },
+    "146": {
+      "name": "Montirani Taksimetar",
+      "flavor": "Zamrznut na $14.20, kabl visi sa nosača kontrolne table."
+    },
+    "147": {
+      "name": "Princess-Brušeni Dijamant Solitaire",
+      "flavor": "Princess brušenje, certifikovan na ime koje više ne postoji."
+    },
+    "148": {
+      "name": "Air Hockey Štap",
+      "flavor": "Filc-dno izlizano glatko, drška umrljana znojem."
+    },
+    "149": {
+      "name": "Crna Obeliska Figurica",
+      "flavor": "Polirani kamen, baza ugravirana jednim simbolom."
+    },
+    "150": {
+      "name": "Ulegnuta eCola Konzerva",
+      "flavor": "Ulegnuta na ivici, kondenzacija se skuplja na bazi."
+    },
+    "151": {
+      "name": "Casino Sjajni Kvartalnik",
+      "flavor": "Hrskave sjajne stranice koje se hvale jackpotima koje niko koga znaš nikada nije osvojio."
+    },
+    "152": {
+      "name": "Klubaski Burner Laptop",
+      "flavor": "Laptop oblijepljen naljepnicama s baterijom dovoljno vrućom da se ispeče jaje."
+    },
+    "153": {
+      "name": "Mašću-Skorelo Postolje za Alat",
+      "flavor": "Svaka ladica zveckа neusklađenim šrafovima i jednim masnim kineskim kolačićem sreće."
+    },
+    "154": {
+      "name": "Uvozne Cigare",
+      "flavor": "Čvrsto uvijene u foliju i mirišu kao dnevna soba bogatijeg čovjeka."
+    },
+    "155": {
+      "name": "Kristalni Whisky Dekanter",
+      "flavor": "Ručno rezan kristal koji još drži duh tridesetogodišnjeg single malta."
+    },
+    "156": {
+      "name": "Kanta za Led Servisa Flaše",
+      "flavor": "Polu-otopljeni led, ruž na ivici, i okus tuđe dobre noći."
+    },
+    "157": {
+      "name": "Neoznačena DVD Kutija",
+      "flavor": "Bez naslova, bez ocjene, i ljepljivi ostatak koji ne želiš identifikovati."
+    },
+    "158": {
+      "name": "Teški Čelični Ključ",
+      "flavor": "Vrsta ključa koji je stegnuo više vilica nego zavrtnja."
+    },
+    "159": {
+      "name": "Jedna Usamljena Čizma",
+      "flavor": "Đon izlizan, priča neispričana, druga čizma vjerovatno u kontejneru negdje."
+    },
+    "160": {
+      "name": "Ispražnjena Kućna Flaša",
+      "flavor": "Ljepljiva naljepnica ogljuštena, sadržaj odavno nestao, mala pozornica za voćne mušice."
+    },
+    "161": {
+      "name": "Penthouse Mesingana Skulptura",
+      "flavor": "Liveno mesing s krivinom toliko samodopadnom da je morala koštati četvrt miliona."
+    },
+    "162": {
+      "name": "Brušeni Safir Privjesak",
+      "flavor": "Hladan na dodir i nekako teži nego što bi tako mali kamen trebao biti."
+    },
+    "163": {
+      "name": "Vrt Centar Paprat",
+      "flavor": "Malo previše zalivena, malo nedovoljno voljena, spremna umrijeti u novom domu."
+    },
+    "164": {
+      "name": "Trakom Obavijen Snubnose Revolver",
+      "flavor": "Šest komora, dvije potrošene, drška omotana frikcionom trakom koja miriše na znoj."
+    },
+    "165": {
+      "name": "Izgrebana Zvučnik Dock",
+      "flavor": "Baterija mrtva, bas uništen, ali antena još svijetli nadom plavom."
+    },
+    "166": {
+      "name": "Polu-Prazna Sprej Konzerva",
+      "flavor": "Zvecka kad je tresemš, šišti kad pritisneš, pjeva kad ciljaš."
+    },
+    "167": {
+      "name": "Zgužvana Soda Čaša",
+      "flavor": "Slamka savijena, poklopac ugrizen, taman dovoljno sirupa da je zalijepi za ivicu."
+    },
+    "168": {
+      "name": "Višak Gas Maska",
+      "flavor": "Filter kasetа skorena, sočiva zamagljena tuđom panikom."
+    },
+    "169": {
+      "name": "Direktorski Smartphone",
+      "flavor": "Zaključan ekran, dva propuštena poziva, slika zaključanog ekrana jahte koju ne možeš priuštiti."
+    },
+    "170": {
+      "name": "Topla Čaura",
+      "flavor": "Mesing još dovoljno topao da se sjeti povlačenja okidača."
+    },
+    "171": {
+      "name": "Otvorena Magnum Šampanjac",
+      "flavor": "Folija pocijepana, čep izgubljen, noć već na putu da postane legendarna."
+    },
+    "172": {
+      "name": "Gvozdena Bojna Sjekira",
+      "flavor": "Oštrica usječena, drška izlizana glatka, vrsta stvari koja pripada iznad kamina."
+    },
+    "173": {
+      "name": "Zapečaćen Krijumčarski Whisky",
+      "flavor": "Ćilibarno iznutra, netaknuto, etiketa s utisnutim imenom koje niko pravilno ne izgovara."
+    },
+    "174": {
+      "name": "Sedef-Drška Vintage Pištolj",
+      "flavor": "Ugravirana cijev, sedefasta drška, blago miriše na ulje za oružje i žaljenje."
+    },
+    "175": {
+      "name": "Polu-Puna Vinska Čaša",
+      "flavor": "Ruž na ivici, talog na dnu, razgovor odavno napušten."
+    },
+    "176": {
+      "name": "Teški .50 Pištolj",
+      "flavor": "Materijal za modrice trzaja, sa serijskim brojem izglačanim do srebra."
+    },
+    "177": {
+      "name": "Visoka Staklena Vodena Lula",
+      "flavor": "Mutna komora, napuknut donji dio, miriše kao Vinewood muzički video set."
+    },
+    "178": {
+      "name": "Iscijeđena Boca Senfa",
+      "flavor": "Skorena mlaznica, ulegnute strane, poklopac u akciji nestao."
+    },
+    "179": {
+      "name": "Zgnječena Soda Konzerva",
+      "flavor": "Jezičak još pričvršćen, strana uleknuta čizmom koja se žurila."
+    },
+    "180": {
+      "name": "Šablonska Municija Sanduk",
+      "flavor": "Žigosan brojem jedinice, zapečaćen ljepljivom trakom i molitvom."
+    },
+    "181": {
+      "name": "Napukli DVD Tok",
+      "flavor": "Izgreban plastični tok bez diska i s izblijedjelom oznakom za iznajmljivanje."
+    },
+    "182": {
+      "name": "Kutija Hitnih Baklji",
+      "flavor": "Spaljena kartonska kutija šablonisana crvenim upozorenjima."
+    },
+    "183": {
+      "name": "Pozlaćena Bista Lubanje II",
+      "flavor": "Hromirani memento-mori koji je neko odnio prije otvaranja."
+    },
+    "184": {
+      "name": "Kuhinjska Staklena Tegla",
+      "flavor": "Toplotom-zamrljana Pyrex tegla još blago miriše na marinaru."
+    },
+    "185": {
+      "name": "Front-Office Aktovka",
+      "flavor": "Izgrebani aluminijski kofer zatvoren prtljažnom oznakom na italijanskom."
+    },
+    "186": {
+      "name": "Kabinski Stoni Organizator",
+      "flavor": "Puna olovkarica koja očigledno nikada nije bila organizovana."
+    },
+    "187": {
+      "name": "Aztečka Idol Skrivnica",
+      "flavor": "Predkolumbijska kuriozа obrasla džungalskim mahovinom; neko zaista nije trebao da je pomjera."
+    },
+    "188": {
+      "name": "Pločnik Smeće Hrpa",
+      "flavor": "Zgnječene čaše, listić lota, i flyer za klub zatvoren 2014."
+    },
+    "189": {
+      "name": "MC Kurirski Kofer",
+      "flavor": "Zaključan road case oblijepljen naljepnicama tri različita chaptera."
+    },
+    "190": {
+      "name": "Rezidentni DJ Laptop",
+      "flavor": "Borbeno-ožiljkasan deck još na pjesmi koju niko ne priznaje da je napisao."
+    },
+    "191": {
+      "name": "Butik Display Vaza",
+      "flavor": "Ručno bačena keramika s cijenom vrijednom mjesec dana kirije."
+    },
+    "192": {
+      "name": "Ispušten 9mm Pištolj",
+      "flavor": "Klizač zaključan, serije izglačane čisto, tri metka manje od šaržera."
+    },
+    "193": {
+      "name": "Pozlaćena Bista Lubanje III",
+      "flavor": "Odgovarajući komad iz nezavršenog casino instalacijskog triptiha."
+    },
+    "194": {
+      "name": "LSPD Maglite",
+      "flavor": "Težak aluminij, ulegnuto okno, i klip kamere tijela još pričvršćen."
+    },
+    "195": {
+      "name": "Mama-Tata ZATVORENO Znak",
+      "flavor": "Hiljadu puta ručno okrenut; uglovi savijeni, sati dvaput precrtani."
+    },
+    "196": {
+      "name": "Izgubljeni Dizajnerski Trener",
+      "flavor": "Samo desno stopalo, izgrebana pertla, pertle još vezane — neko je trčao."
+    },
+    "197": {
+      "name": "Nizinski Peyote Cvijet",
+      "flavor": "Voštano pustinjsko dugme koje slabo bruji kad čučneš pored njega."
+    },
+    "198": {
+      "name": "Industrijska Bure Ulja",
+      "flavor": "Nabrekli šavovi i svježe curenje koje podmazuje šljunak ispod."
+    },
+    "199": {
+      "name": "Višak Municija Kutija",
+      "flavor": "Vojno žigosana, polu-otvorena, brojanje očito izvan knjiga."
+    },
+    "200": {
+      "name": "Direktorski Rolodex",
+      "flavor": "Flipper pun olovkom napisanih imena; svaki treći unos je precrtan."
+    },
+    "201": {
+      "name": "Casino Art Auto Skulptura",
+      "flavor": "Hromirana silueta mišićnog auta montirana kao ukras haube postao divlji."
+    },
+    "202": {
+      "name": "Vintage Tranzistorski Radio",
+      "flavor": "Napuknut tunirajući brojčanik, još uhvati Los Santos Rock ako pravilno kucneš."
+    },
+    "203": {
+      "name": "Pozlaćena Bista Lubanje I",
+      "flavor": "Prva u triptihu — ona koju je umjetnik odbio nasloviti."
+    },
+    "204": {
+      "name": "Prokrijumčarena Whisky Flaša",
+      "flavor": "Strana etiketa, slomljen pečat, uvozna marka nezgrapno izgrebana."
+    },
+    "205": {
+      "name": "Odbačena Novitetna Igračka",
+      "flavor": "Pronađena iza kontejnera; niko ne priznaje čija je bila."
+    },
+    "206": {
+      "name": "Headshop Centralni Komad",
+      "flavor": "Ručno duhan borosilikat, komora prekrivena dimom, cijena već raspravljena."
+    },
+    "207": {
+      "name": "Hromirani Salonski Fen",
+      "flavor": "Težak hromirani drška, motor još topao na dodir."
+    },
+    "208": {
+      "name": "Konzerva Krem Paradajza",
+      "flavor": "Ulegnuta etiketa, datum isteka izriban markerom."
+    },
+    "209": {
+      "name": "Radionica Sanduk Alata",
+      "flavor": "Gornja ladica visi otvorena; šrafovi u metričkom, čegrtaljke u imperijalu."
+    },
+    "210": {
+      "name": "Casino Court Trofejna Lopta",
+      "flavor": "Pozlaćena košarkaška skulptura, potpisana markerom imenom napola izbrisanim."
+    },
+    "211": {
+      "name": "Šablonska Municija Sanduk II",
+      "flavor": "Mesingane čaure zveckaju iznutra kao labavi zubi u tegli kafe."
+    },
+    "212": {
+      "name": "Plišana Naslijeđena Kutija",
+      "flavor": "Sitne mesingane šarke još mirišu na nečiju baku."
+    },
+    "213": {
+      "name": "Pozlaćena Maquette Haube",
+      "flavor": "Lak debeo dovoljno da se hipotekira mali studio."
+    },
+    "214": {
+      "name": "Direktorska Bistа Skulptura",
+      "flavor": "Neki VP je odabrao; asistentica je zakolutala očima."
+    },
+    "215": {
+      "name": "Preskakajuća Hrpa CD-ova",
+      "flavor": "Pola futrola je prazno; ostatak je izgreban do pakla."
+    },
+    "216": {
+      "name": "Pultna Kutija Municije",
+      "flavor": "Naljepnica kaže RASPRODAJA; kutija se nikada nije pomjerila."
+    },
+    "217": {
+      "name": "Bar Citrus Tegla",
+      "flavor": "Usamljena kriška plovi kao da čeka napojnicu."
+    },
+    "218": {
+      "name": "Imitirani Bombni Uređaj",
+      "flavor": "Žice u boji jeftinih slatkiša i tajmer koji ne otkucava."
+    },
+    "219": {
+      "name": "Igračka Iz Izloga",
+      "flavor": "Čak i mačke iz uličica zaobilaze ovo širokim lukom."
+    },
+    "220": {
+      "name": "Smolni Toranj Bong",
+      "flavor": "Voda nije mijenjana od prethodnog stanara."
+    },
+    "221": {
+      "name": "Brušeno Kristalno Posuđe za Cigare",
+      "flavor": "Tri vrha cigara, sve kubanske, sve ugašene usred dogovora."
+    },
+    "222": {
+      "name": "Pultni Toster",
+      "flavor": "Točkić zaglavljen na pet i niko se još nije žalio."
+    },
+    "223": {
+      "name": "Krvava Vrtna Lopata",
+      "flavor": "Zemlja na sječivu izgleda crvenija nego što bi gornji sloj trebao."
+    },
+    "224": {
+      "name": "Anonimni Smeđi Paket",
+      "flavor": "Nema povratne adrese, tri različite poštanske naljepnice."
+    },
+    "225": {
+      "name": "No.1 Arkadni Trofej",
+      "flavor": "Gravura piše BROJ JEDAN u fontu iz 1983."
+    },
+    "226": {
+      "name": "Apoteka Prolaz Flaše",
+      "flavor": "Etiketa bez brenda, miris brenda trgovine, puna cijena."
+    },
+    "227": {
+      "name": "Isječena Cijev za Miješanje",
+      "flavor": "Prstenovi ostatka iznutra kao loša godina za drveće."
+    },
+    "228": {
+      "name": "Taktička Ploča Maska",
+      "flavor": "Pojas još miriše na adrenalin posljednjeg tipa."
+    },
+    "229": {
+      "name": "Crna Skulptura Bez Naslova",
+      "flavor": "Katalog je zove Bez Naslova; računovođa je zove otpis."
+    },
+    "230": {
+      "name": "Zapečaćena Flaša Šampiona",
+      "flavor": "Datum plakete je stariji od većine redovnih posjetilaca arkade."
+    },
+    "231": {
+      "name": "Tvrda Pjena Kofer za Oružje",
+      "flavor": "Pjeni umetak još oblikovan za nešto ozbiljno."
+    },
+    "232": {
+      "name": "Cayo Solenom-Rubom Tegla",
+      "flavor": "Solni rub oko poklopca kaže da je ovo bilo na ostrvima."
+    },
+    "233": {
+      "name": "Trostruko-Stubne Butik Svijeće",
+      "flavor": "Tri fitilja, tri različite brzine gorenja, jedno raspoloženje."
+    },
+    "234": {
+      "name": "Terenska Gas Maska",
+      "flavor": "Filter je svjež; sočiva su izgrebana do čipke."
+    },
+    "235": {
+      "name": "Hromirana Maquette Haube",
+      "flavor": "Polirana do završnog sloja u kojem se možeš obrijati."
+    },
+    "236": {
+      "name": "Polu-Pojedena Kutija Krofni",
+      "flavor": "Tri su ostale; jedna je definitivno polizana."
+    },
+    "237": {
+      "name": "Glinena Vrtna Saksija",
+      "flavor": "Zemlja suha, sukulent tvrdoglav, oznaka još visi s ruba."
+    },
+    "238": {
+      "name": "Crveni Jerrycan",
+      "flavor": "Polu-pun i poklopac miriše na loš vikend."
+    },
+    "239": {
+      "name": "Mina Pod Pritiskom",
+      "flavor": "Opruga na okidaču napeta dovoljno čvrsto da zvižduće."
+    },
+    "240": {
+      "name": "RC Hobi Daljinski",
+      "flavor": "Antena savijena, lijevi stick ljepljiv, baterije nekako još dobre."
+    },
+    "241": {
+      "name": "Magnetna Mina za Vozilo",
+      "flavor": "Magnetna mina koja izgleda aktivno koju je neko napustio u žurbi."
+    },
+    "242": {
+      "name": "Roza Novitetna Igračka B",
+      "flavor": "Umotana u papirnu vrećicu koja nije preživjela vjetar."
+    },
+    "243": {
+      "name": "Prašnjavi VHS Plejer",
+      "flavor": "Kaseta zaglavljena iznutra, etiketa kaže 'NE GLEDAJ'."
+    },
+    "244": {
+      "name": "Plišani Display za Ogrlicu",
+      "flavor": "Dragulj je nestao ali pliš još miriše na ulaštenje."
+    },
+    "245": {
+      "name": "Cayo Brušeno-Kristalni Dekanter",
+      "flavor": "Brušeni kristal koji šapuće o ukradenom romu i slanoj prašini."
+    },
+    "246": {
+      "name": "Desna Patika",
+      "flavor": "Pertle još vezane, vlasnik očito skakuće kući na jednoj nozi."
+    },
+    "247": {
+      "name": "Ispovijed sa Litice",
+      "flavor": "Vremenski izblijedjela ispovijed prikvačena pod kamen."
+    },
+    "248": {
+      "name": "24/7 Pot Noodle Šolja",
+      "flavor": "Još topla, viljuška uspravno postavljena u porazu."
+    },
+    "249": {
+      "name": "Vintage iPod Dock",
+      "flavor": "Statički šum još izlazi ako ga nagneš pravilno."
+    },
+    "250": {
+      "name": "Cenzurisana Mision Mapa",
+      "flavor": "Manila koža, cenzurisana tinta, blago miriše na barut."
+    },
+    "251": {
+      "name": "Zgnječena Aluminijska Konzerva",
+      "flavor": "Nečiji bijes na parkirаm metru, uhvaćen u aluminiju."
+    },
+    "252": {
+      "name": "Lesterov Laptop",
+      "flavor": "Dvanaest prozora otvoreno, nijedan nije legalan."
+    },
+    "253": {
+      "name": "Roza Novitetna Igračka D",
+      "flavor": "Glitter završetak, baterije optimistične."
+    },
+    "254": {
+      "name": "Servisni Dispatch Radio",
+      "flavor": "Podešen na dispečersku frekvenciju koja više ne postoji."
+    },
+    "255": {
+      "name": "Flaša od Četrdeset Unci",
+      "flavor": "Dno još ljepljivo od duge Davis večeri."
+    },
+    "256": {
+      "name": "Spec Ops Balaclava",
+      "flavor": "Miriše na kordit i loše odluke."
+    },
+    "257": {
+      "name": "Kompaktni Paket Municije",
+      "flavor": "Mesing zveči kad se vjetar promijeni."
+    },
+    "258": {
+      "name": "Pultni Toster za Dve Kriške",
+      "flavor": "Tacna za mrvice nije ispražnjena od 2013."
+    },
+    "259": {
+      "name": "Pisswasser Tall Boy",
+      "flavor": "Polu-prazan, potpuno zažaljen."
+    },
+    "260": {
+      "name": "Rosé Plonk Flaša",
+      "flavor": "Čep iskočio na godišnjicu koja nikada nije došla."
+    },
+    "261": {
+      "name": "Postolje za Ogrlicu od Perli",
+      "flavor": "Jedna perla još uhvaćuje Vinewood neon."
+    },
+    "262": {
+      "name": "SNS Pištolj Mk II",
+      "flavor": "Skrivljiv, neporeciv, vrlo stvaran."
+    },
+    "263": {
+      "name": "Keramička Kancelarijska Posuda",
+      "flavor": "Prazna osim jedne tvrdoglave spajalice."
+    },
+    "264": {
+      "name": "Pištolj Jednog Hica",
+      "flavor": "Jedan metak, jedna prilika, jedan loš dan za nekoga."
+    },
+    "265": {
+      "name": "Napukla Borbeni Šlem",
+      "flavor": "Pojas se istrošio, vizir napukao, priča neispričana."
+    },
+    "266": {
+      "name": "Casino Skulptura Auto #6",
+      "flavor": "Skali model auta vrednijeg od onoga što je casino platio za njega."
+    },
+    "267": {
+      "name": "Crvena Plonk Flaša",
+      "flavor": "Etiketa izblijedila, godina nekako gora od cijene."
+    },
+    "268": {
+      "name": "Cluckin' Bell Eksploziv",
+      "flavor": "Umotan u traku s printom piletine, što ga nekako čini gorim."
+    },
+    "269": {
+      "name": "Betonski Umjetnički Blok I",
+      "flavor": "Brutalist namjerno, tagiran slučajno."
+    },
+    "270": {
+      "name": "Roza Novitetna Igračka F",
+      "flavor": "Ostavljena na noćnom stočiću Vinewood walk-upa nakon vrlo glasnog utorka."
+    },
+    "271": {
+      "name": "Mesarsko Sjeckalo",
+      "flavor": "Još blago miriše na svinjski but i loše odluke."
+    },
+    "272": {
+      "name": "Mehaničareva Čegrtaljka",
+      "flavor": "Svaki ključ je urezao svoju molitvu u glavu."
+    },
+    "273": {
+      "name": "High-Roller Hotline Telefon",
+      "flavor": "Slušalica još topla od poziva koji niko neće priznati da je obavio."
+    },
+    "274": {
+      "name": "Krijumčarska Statička Kutija",
+      "flavor": "Točkić hvata samo jedan kanal i šapće na španskom."
+    },
+    "275": {
+      "name": "Plišano Postolje za Ogrlicu",
+      "flavor": "Lanac koji je nekada držao založen je tri puta prije podneva."
+    },
+    "276": {
+      "name": "Bar Čaša za Pite-Slamke",
+      "flavor": "Pola slamki je savijeno u istom smjeru, kao trska u poplavi."
+    },
+    "277": {
+      "name": "Pacific Standard Sanduk",
+      "flavor": "Osam kopči, četiri brave, jedno obećanje koje prijevoznici nisu održali."
+    },
+    "278": {
+      "name": "Speedway Bronzani Odljev",
+      "flavor": "Trofej s trke koju se samo dileri sjećaju."
+    },
+    "279": {
+      "name": "Natrijumova Cigla Nudli",
+      "flavor": "Istekla 2008. Još uvijek pravno jestiva u Blaine Countyju."
+    },
+    "280": {
+      "name": "Gospodski Konjak",
+      "flavor": "Tri prsta nestala i čep izgubljen u vjetru."
+    },
+    "281": {
+      "name": "Iskrašena Maska Variocea",
+      "flavor": "Iskre su napisale sazviježđa preko stakla."
+    },
+    "282": {
+      "name": "Neoznačeni Pehar Šampiona",
+      "flavor": "Nema ugraviranog imena. Ko god je ovo osvojio, nikada nije htio priznanje."
+    },
+    "283": {
+      "name": "Hromirani Idol Podataka",
+      "flavor": "Hromiran i napunjen tajnama Lifeinvader praktikanata."
+    },
+    "284": {
+      "name": "Hladna Pisswasser Flaša",
+      "flavor": "Flaša tako hladna da je naučila čovjeka da oprosti."
+    },
+    "285": {
+      "name": "Crveni Podni Strobe",
+      "flavor": "Još topao. Još crven. Još bruji isti ritam."
+    },
+    "286": {
+      "name": "Sanduk za Slanje Koks Idola",
+      "flavor": "Carinska etiketa potpisana tuđom krvlju."
+    },
+    "287": {
+      "name": "Iskrena Whisky Flaša",
+      "flavor": "Ko god je pio iz nje, ništa nije oprostio."
+    },
+    "288": {
+      "name": "Plimnog Bazena Peyote Cvijet",
+      "flavor": "Slana voda je sačuvala ono što je pustinja pokušala poreći."
+    },
+    "289": {
+      "name": "Kupatilske Štapiće za Uši",
+      "flavor": "Korišteni. Svaki drugačiji. Ne pitaj."
+    },
+    "290": {
+      "name": "Sugar Loop Kutija Žitarica",
+      "flavor": "Maskotine oči izgrebao prethodni vlasnik."
+    },
+    "291": {
+      "name": "Betonska Coupe Maquette",
+      "flavor": "Minijatura oslikana prašinom prave."
+    },
+    "292": {
+      "name": "Zaboravljena Skladišna Kutija",
+      "flavor": "Što god je bilo u njoj rasprodalo se prije nego što je sunce izašlo."
+    },
+    "293": {
+      "name": "Zlatno Jaje",
+      "flavor": "Izneseno iz Fleeca trezora u violin futroli."
+    },
+    "294": {
+      "name": "Diplomatska Aktovka",
+      "flavor": "Kombinacija zaključana za rođendan koji niko neće priznati."
+    },
+    "295": {
+      "name": "Lovačka Trofejna Lubanja",
+      "flavor": "Jelen s cijenom na rogovima."
+    },
+    "296": {
+      "name": "Annotirani Margin Pisar",
+      "flavor": "Svaka stranica podvučena. Nijedna se ne slaže."
+    },
+    "297": {
+      "name": "Tropski Ananas Sitnurija",
+      "flavor": "Pogrešno voće, pogrešno ostrvo, ispravna namjera."
+    },
+    "298": {
+      "name": "Sa Deponije Krpana",
+      "flavor": "Ko god ju je ponovo zašio žurio se."
+    },
+    "299": {
+      "name": "Iznošena Patika",
+      "flavor": "Jedna patika ostavljena u žurbi sinoćne rasprodaje."
+    },
+    "300": {
+      "name": "Space Ranger Blaster",
+      "flavor": "Replika pištolj zraka iz davno otkazanog Vinewood franšizа."
+    },
+    "301": {
+      "name": "Pride Lager Šesticа",
+      "flavor": "Stocked juče, već napola zaboravljen na donjoj polici."
+    },
+    "302": {
+      "name": "Battle Whisky Dekanter",
+      "flavor": "Matiranog stakla kućno sipanje iz davno zatvorene kantine."
+    },
+    "303": {
+      "name": "Porcelanska Mačka Figurica",
+      "flavor": "Njena keramička oko je okrnjeno ali još uvijek gleda u sobu."
+    },
+    "304": {
+      "name": "Direktorska Olovkarica",
+      "flavor": "Šest hemijskih, dvije suhe, jedna izgrizena bez popravke."
+    },
+    "305": {
+      "name": "Odbačena Radna Čizma",
+      "flavor": "Blato još na podplatu od posla koji niko nije završio."
+    },
+    "306": {
+      "name": "Stara Bojna Rezerva",
+      "flavor": "Etiketa ogljuštena, sadržaj ćilibarni, godina nemoguća verifikovati."
+    },
+    "307": {
+      "name": "Kožno Uvezena Antologija",
+      "flavor": "Margine bilješki u tri različite ruke i jednom stranom pismu."
+    },
+    "308": {
+      "name": "Korištena Sprej Konzerva",
+      "flavor": "Kapa nedostaje, mlaznica začepljena sinoćnim električno plavim."
+    },
+    "309": {
+      "name": "Karmin Aerosol",
+      "flavor": "Omiljena nijansa lokalnih ekipa, uvijek pri kraju."
+    },
+    "310": {
+      "name": "Ponoćni Aerosol",
+      "flavor": "Teža konzerva od svog blizanca, tresena dok kuglica nije popustila."
+    },
+    "311": {
+      "name": "Izlupana Kanistera Plina",
+      "flavor": "Polu-puna, uglavnom isparenja, upozoravajuća naljepnica davno izblijedila."
+    },
+    "312": {
+      "name": "Imperator Arena Pehar",
+      "flavor": "Arena nagrada za koju se šampion nikada nije vratio."
+    },
+    "313": {
+      "name": "Zapečaćeni Dosije",
+      "flavor": "Stranice žigosane, datumi cenzurisani, spajalica izjedena rđom."
+    },
+    "314": {
+      "name": "Tequila Reposado",
+      "flavor": "Crv davno raspršen u legendu."
+    },
+    "315": {
+      "name": "Tkanine-Sa Hrptom Tom",
+      "flavor": "Otisak palca čitaoca trajno utisnut u četvrto poglavlje."
+    },
+    "316": {
+      "name": "Bačena Patika",
+      "flavor": "Pertle vezane zajedno, neko ju je htio baciti preko žice."
+    },
+    "317": {
+      "name": "Vintage Šampanjac",
+      "flavor": "Folija netaknuta, čep tiho znojav u hladnoj tami."
+    },
+    "318": {
+      "name": "Diner Kafa Šolja",
+      "flavor": "Polumjesec ruža na ivici, dopuna nikada nije došla."
+    },
+    "319": {
+      "name": "Zgužvani Magazin za Odrasle",
+      "flavor": "Stranice zalijepljene tamo gdje je guma sletjela."
+    },
+    "320": {
+      "name": "Mramorni Stupir & Tuk",
+      "flavor": "Bijeli ostatak slegnut u zrnu, ne potpuno šećer."
+    },
+    "321": {
+      "name": "Zamagljena Ronilačka Maska",
+      "flavor": "Pojas slano ukrut, sočivo izgrebano od jednog grebenа previše."
+    },
+    "322": {
+      "name": "Žičano Vezan Rušilački Paket",
+      "flavor": "Ko god je postavio tajmer takođe je nacrtao smajli na traci."
+    },
+    "323": {
+      "name": "Industrijska Limenka Boje",
+      "flavor": "Poklopac otkinut, četka zaglavljena, poklopac više ne zatvara."
+    },
+    "324": {
+      "name": "Znojem-Umrljani Stetson",
+      "flavor": "Pregib ti kaže da je nosilac jahao naporno, sjeo uspravno."
+    },
+    "325": {
+      "name": "Banka Lobi Telefon",
+      "flavor": "Slušalica topla, neko je spustio u sekundi kad si ušao."
+    },
+    "326": {
+      "name": "Kućna Votka Petina",
+      "flavor": "Jeftina etiketa, iskreno paljenje, pola nestala prije podneva."
+    },
+    "327": {
+      "name": "Liveno Gvožđe Bučica",
+      "flavor": "Nazubljena drška potamnjena od hiljadu ponavljanja."
+    },
+    "328": {
+      "name": "Skorena Škrinja Blago",
+      "flavor": "Mesingana kopča sa soli istopljena, brava sikće kad je podigneš."
+    },
+    "329": {
+      "name": "Redwood Kutija",
+      "flavor": "Spljošteni paket Redwoodsa ugurаn iza stakla kase."
+    },
+    "330": {
+      "name": "Hrpa Referentnih Knjiga",
+      "flavor": "Tri tvrdokoričene složene od strane nekoga ko se nikada nije vratio da ih završi."
+    },
+    "331": {
+      "name": "Pultnа Šećer Bar",
+      "flavor": "Snek omot koji se vrlo trudi da izgleda gourmet."
+    },
+    "332": {
+      "name": "DJ Booth EQ Rack",
+      "flavor": "Patch kablovi slabo svijetle pod strobom."
+    },
+    "333": {
+      "name": "Pantheon Platneni Otisak",
+      "flavor": "Platno čeka zid koji nikada baš ne zasluži."
+    },
+    "334": {
+      "name": "Tri-Rupa Skijaška Maska",
+      "flavor": "Još uvijek miriše na nervozan znoj."
+    },
+    "335": {
+      "name": "House Edge Maquette",
+      "flavor": "Mala posveta zgradi koja nikada ništa ne vraća."
+    },
+    "336": {
+      "name": "Modrija Roma Paradajz",
+      "flavor": "Dva-za-jedan i vjerovatno s razlogom."
+    },
+    "337": {
+      "name": "Kuhana Pyrex Čaša",
+      "flavor": "Ostatak na dnu kaže da je neko išao prečicom."
+    },
+    "338": {
+      "name": "Gospodski Sjajni",
+      "flavor": "Uglovi savijeni na istoj stranici od 2013."
+    },
+    "339": {
+      "name": "Gradilišni Upozoravajući Svjetionik",
+      "flavor": "Treperi narandžasto kao da ima negdje da bude."
+    },
+    "340": {
+      "name": "Display Trener Desni",
+      "flavor": "Display model, nikada uparen, nikada prodan."
+    },
+    "341": {
+      "name": "Kancelarijska Kafa Šolja",
+      "flavor": "Mlaka, ruž na ivici, vlasnik nepoznat."
+    },
+    "342": {
+      "name": "Display Travnjak Kvadrat",
+      "flavor": "Uredan mali kvadrat koji se pretvara da je livada."
+    },
+    "343": {
+      "name": "Krpenom Fitilja Molotov",
+      "flavor": "Miriše na jeftin gin i gore odluke."
+    },
+    "344": {
+      "name": "MC Chapter Poklopac",
+      "flavor": "Pin još topao s ceremonije patchovanja na parkingu."
+    },
+    "345": {
+      "name": "Zapečaćena Krijumčarska Zaliha",
+      "flavor": "Flaša još fabrički svježa, etiketa hrskava."
+    },
+    "346": {
+      "name": "Helijum Party Balon",
+      "flavor": "Konop zapleten oko noge sklopive stolice."
+    },
+    "347": {
+      "name": "Display Trener Lijevi",
+      "flavor": "Đon netaknut, pertle uvučene previše čvrsto da bi se ikada nosile."
+    },
+    "348": {
+      "name": "Lakirani Umjetnički Coupe",
+      "flavor": "Oslikao neko ko nikada nije posjedovao pravi."
+    },
+    "349": {
+      "name": "Kartelova Smolna Bista",
+      "flavor": "Lice koje niko nije tražio da pamti."
+    },
+    "350": {
+      "name": "Tvrdokoričeni Singl",
+      "flavor": "Kičma napukla jednom, dvaput, pa vraćeno."
+    },
+    "351": {
+      "name": "Otvoreni Šampanjac II",
+      "flavor": "Pola ravan, puna cijena."
+    },
+    "352": {
+      "name": "Toaletno Stakleno Ogledalo",
+      "flavor": "Umrljano od strane nekoga ko je stvarno htio biti siguran."
+    },
+    "353": {
+      "name": "Polu-Paket Pepeljara",
+      "flavor": "Tri filtera, jedna šibica, nula žaljenja."
+    },
+    "354": {
+      "name": "Butik Testna Flaša",
+      "flavor": "Polu-poprskano od strane stranaca, nikada kupljeno."
+    },
+    "355": {
+      "name": "Dockside Cargo Kuka",
+      "flavor": "Čvor konopca otrcan tamo gdje je neko postao nestrpljiv."
+    },
+    "356": {
+      "name": "Crate-Dive Vinyl Tok",
+      "flavor": "B-strana iškrabana markerom od strane originalnog vlasnika."
+    },
+    "357": {
+      "name": "Hrpa Diner Salveta",
+      "flavor": "Mrlja ruža još na vrhnjoj salveti."
+    },
+    "358": {
+      "name": "Stanica Štit Plaketa",
+      "flavor": "Plaketa polirana češće nego što je zaslužila."
+    },
+    "359": {
+      "name": "Pacific Bullion Šipka",
+      "flavor": "Jedna šipka pritisnutog sunčevog svjetla, teža od svoje tišine."
+    },
+    "360": {
+      "name": "Arkadni Robot Sitnurija",
+      "flavor": "Limeni osmijeh, plastično srce, osam bita pogrešno postavljene lojalnosti."
+    },
+    "361": {
+      "name": "Donatorska Maskota Sitnurija",
+      "flavor": "Suvenir s večere koja je platila za nečije ćutanje."
+    },
+    "362": {
+      "name": "Kasno Noćni Iznajmljeni DVD",
+      "flavor": "Vrsta plastičnog toka koji se nikada nije vratio u radnju."
+    },
+    "363": {
+      "name": "Akcijska Snapback Kapa",
+      "flavor": "Štit još savijen s police, nikad s glave."
+    },
+    "364": {
+      "name": "Antikni Rotacijski Telefon",
+      "flavor": "Zvono koje još vjeruje da je neko na drugom kraju."
+    },
+    "365": {
+      "name": "Sedmi Lane Lopta Siroče",
+      "flavor": "Tri prsta su je promašila; oluk ju je uhvatio."
+    },
+    "366": {
+      "name": "Podvučena Margin Knjiga",
+      "flavor": "Podvučena dvaput, uglovi savijeni, nikada završeno iza četvrtog poglavlja."
+    },
+    "367": {
+      "name": "Dva-Za-Jedan Konzerva",
+      "flavor": "Ulegnuta od rata polica, još hladna iz frižidera."
+    },
+    "368": {
+      "name": "Mrtvi Semafor",
+      "flavor": "Crveno oko koje je konačno moglo da se zatvori."
+    },
+    "369": {
+      "name": "Izgubljeni Pilot Beta Tape",
+      "flavor": "Magnetska memorija emisije koja se nikada nije emitovala."
+    },
+    "370": {
+      "name": "Register Slatkiš Bar",
+      "flavor": "Impulzivna kupovina koja je gledala stotinu novčanika kako se otvaraju."
+    },
+    "371": {
+      "name": "Embers Zarađeni Trofej",
+      "flavor": "Dodijeljen onome ko je održao vatru kroz hladnoću."
+    },
+    "372": {
+      "name": "Court Veteran Odbojkaška Lopta",
+      "flavor": "Izblijedjeli paneli, džepovi pijeska, još jedan set u njoj."
+    },
+    "373": {
+      "name": "Kvartalnа Prognozа Fascikla",
+      "flavor": "Brojevi koji su obećali više nego što su isporučili."
+    },
+    "374": {
+      "name": "Mast Majmun Šolja",
+      "flavor": "Polirana tamo gdje je ruke drže, ožiljkasta svuda drugdje."
+    },
+    "375": {
+      "name": "B-Movie Pištolj Zraka",
+      "flavor": "Vakuumske cijevi, hromana peraja, prijetnje koje ne može održati."
+    },
+    "376": {
+      "name": "Spašena Porcelanska Posuda",
+      "flavor": "Porcelan koji je čuo stvari koje nijedan porcelan ne bi trebao."
+    },
+    "377": {
+      "name": "Napukli Otvorenih-Tabova Laptop",
+      "flavor": "Baterija mrtva na najgoroj mogućoj tački čuvanja."
+    },
+    "378": {
+      "name": "Skriveni Beacon Skener",
+      "flavor": "Cvrkuće na stvari koje je grad pokušao zakopati."
+    },
+    "379": {
+      "name": "Boardroom Originalna Slika",
+      "flavor": "Uokviren ukus, potpisan od strane nekoga ko je mogao priuštiti."
+    },
+    "380": {
+      "name": "Kasa Mamac Umotani Slatkiš",
+      "flavor": "Umotan u foliju, držan tačno na dohvat ruke."
+    },
+    "381": {
+      "name": "Smeđe-Rukav DVD",
+      "flavor": "Naslov koji je došao u običnom smeđem rukavu."
+    },
+    "382": {
+      "name": "Kamena Sjekirа Naslijeđe",
+      "flavor": "Klesana strpljivo i tiho, rukama koje su poznavale šume."
+    },
+    "383": {
+      "name": "Take Četrdeset-Sedam Klaper",
+      "flavor": "Označen, planiran, nikada korišten u konačnom rezu."
+    },
+    "384": {
+      "name": "Vatrogasni Dispatch Ručni",
+      "flavor": "Statika i pozivni znak koji niko nije odgovorio."
+    },
+    "385": {
+      "name": "Galeri Centralni Auto",
+      "flavor": "Auto koji je zamijenio svoj motor za mišljenje."
+    },
+    "386": {
+      "name": "Pier Finalni Vatromet",
+      "flavor": "Jedan fitilj, jedan procvat, jedna brzina zatvarača."
+    },
+    "387": {
+      "name": "Pločnik Pronađeni Novčanik",
+      "flavor": "Kartice još unutra, nada još presavijena u držač novca."
+    },
+    "388": {
+      "name": "Potamnjela Boca Tableta",
+      "flavor": "Etiketa očišćena, poklopac labav, sadržaj odavno nestao."
+    },
+    "389": {
+      "name": "Zgužvana eCola Konzerva",
+      "flavor": "Još ljepljiva od ljeta kojeg se niko ne sjeća."
+    },
+    "390": {
+      "name": "Potrošene Butik Svijeće",
+      "flavor": "Vosak slegnut u oblik koji skoro liči na lice."
+    },
+    "391": {
+      "name": "Block Party Boombox",
+      "flavor": "Kasetni deck zaglavljen u sredini pjesme, baterije cure kiselinu."
+    },
+    "392": {
+      "name": "Industrijski Span Set",
+      "flavor": "Otrcane trake, kuka ožiljkasta od jedne previše dizanja."
+    },
+    "393": {
+      "name": "Zaboravljena Tegla Slatkiša",
+      "flavor": "Staklo izgrebano, slatkiši stopljeni u jednu žvakastu masu."
+    },
+    "394": {
+      "name": "Kartelova Boca Likera",
+      "flavor": "Strana etiketa, pola pečata još netaknuto."
+    },
+    "395": {
+      "name": "Variocev Plameni Pištolj",
+      "flavor": "Vrh pocrnio, paljenje još slabo klika."
+    },
+    "396": {
+      "name": "Lab-Stepena Aceton",
+      "flavor": "Pare se još uvijaju s poklopca kad ga otvoriš."
+    },
+    "397": {
+      "name": "Trezor Ulaz Tipkovnica",
+      "flavor": "Pet i sedam izlizani glatko, osam treperi crveno."
+    },
+    "398": {
+      "name": "Cayo Kristalni Dekanter",
+      "flavor": "Ćilibar osušen u prsten na bazi, etiketa odavno nestala."
+    },
+    "399": {
+      "name": "Kalem Mill Konca",
+      "flavor": "Obojen industrijski crveno, još topao od razboja."
+    },
+    "400": {
+      "name": "Banka Sigurnosna Tipkovnica",
+      "flavor": "Magstripe otvor zaglavljen pocijepanom ivicom kartice."
+    },
+    "401": {
+      "name": "Slomljena Toaletna Baza",
+      "flavor": "Porcelan napukao, blago miriše na dezinficijens."
+    },
+    "402": {
+      "name": "Casino Pištolj Skulptura",
+      "flavor": "Pozlaćeni čelik, valet stalak okrnjen na cijevi."
+    },
+    "403": {
+      "name": "Stara Konzolna Jedinica",
+      "flavor": "Power LED još treperi kad kucneš kućište."
+    },
+    "404": {
+      "name": "Display Sneaker",
+      "flavor": "Jedna cipela, pertle još fabrički hrskave."
+    },
+    "405": {
+      "name": "Brodogradilište Variocev Maska",
+      "flavor": "Vizir zamagljen iznutra, pojas slano kreknjen."
+    },
+    "406": {
+      "name": "Džep Hack Uređaj",
+      "flavor": "Ekran izgreban do ničega, antena još rastegnuta."
+    },
+    "407": {
+      "name": "Ulegnuta Aluminijska Palica",
+      "flavor": "Aluminij kraterski tamo gdje je susreo nešto čvrsto."
+    },
+    "408": {
+      "name": "Kutija Sjeckotinе Sode",
+      "flavor": "Polu-prazna, kašika još zakopana u prahu."
+    },
+    "409": {
+      "name": "Pier Granata za Minobacač",
+      "flavor": "Fitilj kratko obrezan, prsten gorenja oko baze."
+    },
+    "410": {
+      "name": "Taktički Hack Uređaj",
+      "flavor": "Gumeni oklop pocijepan, prilagođeni firmware tiho radi."
+    },
+    "411": {
+      "name": "Umrljani Magazin za Odrasle",
+      "flavor": "Stranice zalijepljene, sredina davno isprana."
+    },
+    "412": {
+      "name": "Ugaona Prodavnica Trokutasti Znak",
+      "flavor": "Plastika izblijedila, jedan nosač savijen od nemarnog kamiona."
+    },
+    "413": {
+      "name": "Pozlaćeni Karabin Magazin",
+      "flavor": "Ugravirano svitanje, meci još na mjestu."
+    },
+    "414": {
+      "name": "Kurioza Display Kocka",
+      "flavor": "Staklena kocka, sadržaj hvata svjetlo iz bilo kojeg ugla."
+    },
+    "415": {
+      "name": "Eksterni Hard Disk",
+      "flavor": "Kućište toplo, indikator zaglavljen na ćilibarnoj."
+    },
+    "416": {
+      "name": "Polu-Popijen Koktel",
+      "flavor": "Led se otopio u slush, kora limete se uvija."
+    },
+    "417": {
+      "name": "Razboj Tкana Snop",
+      "flavor": "Indigo boja još krvari u jezgro kalema."
+    },
+    "418": {
+      "name": "Patriot Spirit Trofej",
+      "flavor": "Dodijeljen najvišem skoreru koji nije mogao prestati hraniti tokenima orao kabinet."
+    },
+    "419": {
+      "name": "Stage Stack Zvučnik",
+      "flavor": "Još zvoni od četiri-ujutro Boris Brejcha seta koji niko nije htio završiti."
+    },
+    "420": {
+      "name": "QUB3D Šampion Trofej",
+      "flavor": "Klesana pjenasta plastika i čista pikselizovana slava — inicijali liste još vidljivi."
+    },
+    "421": {
+      "name": "Diner Desertna Tacna",
+      "flavor": "Toranj palačinki koji je neko napustio u trenutku kad je njihova narudžba postala vruća."
+    },
+    "422": {
+      "name": "Brušeni Safir Kamen",
+      "flavor": "Faceted tek dovoljno da izgleda stvarno — ograda će trebati lupu i laž."
+    },
+    "423": {
+      "name": "Mesar Bijela Kapa",
+      "flavor": "Blago miriše na salamuru i jučerašnju smjenu, šešir presavijen žuljanim prstima."
+    },
+    "424": {
+      "name": "Producent Bilježnica",
+      "flavor": "Margine pretrpane budžetskim rezovima i telefonskim brojem zaokruženim četiri puta."
+    },
+    "425": {
+      "name": "Take-Dvanaest Clapperboard",
+      "flavor": "Scena oznaka naškrabana suhom brisalicom: INT. SKLADIŠTE — DAN. OPET."
+    },
+    "426": {
+      "name": "Korporativna Lucite Nagrada",
+      "flavor": "Lucite krhotina ugravirana s imenom koje se niko u firmi više ne sjeća."
+    },
+    "427": {
+      "name": "Potrošen Mesingani Metak",
+      "flavor": "Još topao s zatvorenog poligona — kapsla ulegnuta od istrošenog udarača."
+    },
+    "428": {
+      "name": "Inertna Fragmentaciona Granata",
+      "flavor": "Pin pravo, kašika oblijepljena — neko je stvarno htio da ovo bude prodajno."
+    },
+    "429": {
+      "name": "Sud Mesingana Imenska Ploča",
+      "flavor": "Mesingana ploča iskinuta čisto sa sudijinih vrata — inicijali izgrebani u žurbi."
+    },
+    "430": {
+      "name": "Modificirani Borbeni Pištolj",
+      "flavor": "Navojnа cijev, ručno karirana drška — serija pješčana Dremelom i sramotom."
+    },
+    "431": {
+      "name": "Casino Raketa Skulptura",
+      "flavor": "Brušeni hrom i crveni lak — obećala da će odvesti nekog sretnog valeta na mjesec."
+    },
+    "432": {
+      "name": "Trokut za Slaganje Bilijara",
+      "flavor": "Jeftino drvo izlizano glatko — filc ispod je vidio deset hiljada početnih udaraca."
+    },
+    "433": {
+      "name": "Napukla Effigy Replika",
+      "flavor": "Datoteka teksture glitchovala na dan kad je napravljena — render greška sačuvana kao relikvija."
+    },
+    "434": {
+      "name": "24/7 Konzerva Povrtне Supe",
+      "flavor": "Najbolji do datum davno prošao — etiketa obećava dvanaest baštenskih povrća i nula okusa."
+    },
+    "435": {
+      "name": "Starija Boca Brandyja",
+      "flavor": "Čep se osušio prije godina — pozadinska naljepnica se ljušti u uglu."
+    },
+    "436": {
+      "name": "VHS Nadzorna Traka",
+      "flavor": "Etiketa kaže OPS 04/12 — ostatak pisanja je izgreban."
+    },
+    "437": {
+      "name": "Bullhorn Megafon",
+      "flavor": "Okidač zapeo na pola — neko se izvikao do promuklosti i ispustio ga na ivicu."
+    },
+    "438": {
+      "name": "Spaljeni ID Template Disk",
+      "flavor": "CD-R miriše na rastvarač — tabela imena oblijepljena na futroli, pola precrtanih."
+    },
+    "439": {
+      "name": "Penthouse Bronzana Skulptura",
+      "flavor": "Aukcionar bi je nazvao derivativnom — vlasnik ju je zvao neprocjenjivom i mislio je to."
+    },
+    "440": {
+      "name": "Scenska Lampa Rig",
+      "flavor": "Gel filter pocrnio u jednom uglu — armatura škripi kad bas pogodi."
+    },
+    "441": {
+      "name": "Bjelozlatni Privjesak Dijamant",
+      "flavor": "Kruglo rezan, dva karata, postavljen u bijelo zlato — skliznuo s lanca koji nije bio njen."
+    },
+    "442": {
+      "name": "Studijski Snimajući Mikrofon",
+      "flavor": "Dijafragma blago savijena — svaki vokal kroz njega dobija ukletu tišinu na vrhu."
+    },
+    "443": {
+      "name": "Ukrаdeni Sapun Dispenser",
+      "flavor": "Montažna konzola savijena — polu-pun roza bolničkog sapuna koji ne miriše ni na šta."
+    },
+    "444": {
+      "name": "Hemičar Stash Torba",
+      "flavor": "Vinil spolja, olovom obložen iznutra — teži nego što ima pravo biti."
+    },
+    "445": {
+      "name": "Butik Zvučnik Dock",
+      "flavor": "Bluetooth se još uparuje s telefonom imena aaron's iphone koji se nije vratio."
+    },
+    "446": {
+      "name": "Narandžasti Kanister",
+      "flavor": "Četvrtinu pun srednje klase — mlaznica još kapa kad ga nagneš preko četrdeset pet."
+    },
+    "447": {
+      "name": "Sušen na Suncu Peyote",
+      "flavor": "Iščupan iz napukle zemlje gdje pustinja brunda sebi u podne."
+    },
+    "448": {
+      "name": "Redatelja Terenska Kamera",
+      "flavor": "Još topla od posljednjeg snimanja, leća zamagljena svjetlima seta i lažnom kišom."
+    },
+    "449": {
+      "name": "High-Roller Pozivno Dugme",
+      "flavor": "Jedan pritisak je pozivao šampanjac; dva su jače isprobala tvoju sreću."
+    },
+    "450": {
+      "name": "Jedan Velvet Trener",
+      "flavor": "Samo lijeva noga, izgrebana na prstu kao da je pokušala održati korak s prometom."
+    },
+    "451": {
+      "name": "Cut-Crystal Dekanter",
+      "flavor": "Vrsta stakla koja sitnu priču pretvara u ispovijed."
+    },
+    "452": {
+      "name": "Ugravirana Civic Plaketa",
+      "flavor": "Ime u mesingu, polu-polirano, polu-zaboravljeno od ljudi koji prolaze."
+    },
+    "453": {
+      "name": "Bench-Test EMP Spirala",
+      "flavor": "Žičano vezana sa strpljenjem nekoga ko je trebao biti u pravu samo jednom."
+    },
+    "454": {
+      "name": "Arkadni Šampion Trofej",
+      "flavor": "Zarađen u tokenima, poliran rukavima, potpisan u izgrebanoj plastici."
+    },
+    "455": {
+      "name": "Tellerov Mesingani Trofej",
+      "flavor": "Dat za četrdeset godina brojanja tuđe dobre sreće."
+    },
+    "456": {
+      "name": "Podstavljeni Sportski Šlem",
+      "flavor": "Blago miriše na svlačionice i loše odluke donesene u petak uveče."
+    },
+    "457": {
+      "name": "Snop Falsifikovanih Pasoša",
+      "flavor": "Svaka slika žmirka na isti način, kao da ih je kamera uhvatila usred laži."
+    },
+    "458": {
+      "name": "Polu-Popijena Pina Colada",
+      "flavor": "Suncobran se nagnuo, rum je sjeo, noć je odbila da se završi."
+    },
+    "459": {
+      "name": "Umotanа Hrpa Novca",
+      "flavor": "Još miriše na sef iz kojeg je izašla, povezana rukama koje nisu brojale dva puta."
+    },
+    "460": {
+      "name": "Plišanac iz Kandžaste Mašine",
+      "flavor": "Dva novčića, tri pokušaja, jedna drhtava ruka na joysticku."
+    },
+    "461": {
+      "name": "Laboratorijski Stalak za Bočice",
+      "flavor": "Etikete polu-skinute, sadržaji bez etikete, ambicije izrazito kemijske."
+    },
+    "462": {
+      "name": "Zgužvani Tabloid",
+      "flavor": "Jučerašnji skandal, pola cijene, dvostruke greške u kucanju."
+    },
+    "463": {
+      "name": "Stiletto na Pločici",
+      "flavor": "Sklanjen u žurbi od strane nekoga ko je pokušavao zapamtiti njeno ime."
+    },
+    "464": {
+      "name": "Nauljeni Teški Pištolj",
+      "flavor": "Drška izlizana glatka rukom koja je znala gdje je sigurnost prije bila."
+    },
+    "465": {
+      "name": "Sanduk Labavih Metaka",
+      "flavor": "Žigosan serijom koju niko nije bio dovoljno smetan da ovaj put obriše."
+    },
+    "466": {
+      "name": "Izgrebani Tvrdi Šešir",
+      "flavor": "Žuta boja se ljuska tamo gdje je armatura postavljala pitanja."
+    },
+    "467": {
+      "name": "Sa Savijenim Uglovima Sjajni",
+      "flavor": "Vrhnja polica, donje cijene, čitano uglavnom zbog članaka, navodno."
+    },
+    "468": {
+      "name": "Trezor Dijamantna Futrola",
+      "flavor": "Pliš iznutra, otisci prstiju izvana, priča neispričana u oboje."
+    },
+    "469": {
+      "name": "Onyx Bista Lubanje",
+      "flavor": "Klesan od skulptora koji je insistirao da memento mori pripada na craps stolu."
+    },
+    "470": {
+      "name": "Apoteka Kutija za Preuzimanje",
+      "flavor": "Dopuni, zatvori, ponovi, plus jedna pastila za kašalj za put."
+    },
+    "471": {
+      "name": "Kurioza Staklena Tegla",
+      "flavor": "Zapečaćena voskom, označena namjerom, otvorena od strane apsolutno nikoga."
+    },
+    "472": {
+      "name": "Bambusova Parna Korpa",
+      "flavor": "Poklopac podignut dva puta, prsti opečeni jednom, knedle vrijedne svega toga."
+    },
+    "473": {
+      "name": "Celofan-Umotani Slatkiš",
+      "flavor": "Omot uvrnut dva puta, šećer još glasniji od bilo kog razgovora."
+    },
+    "474": {
+      "name": "Vezeno Ukrasno Jastuče",
+      "flavor": "Uglovi s resama, blago ulegnuće gdje je neko skoro rekao nešto iskreno."
+    },
+    "475": {
+      "name": "Iznošeno Plišano Jastuče",
+      "flavor": "Izblijedjela zlatna nit, dvije različite mačje dlake, jedna mrlja koju odbija raspravljati."
+    },
+    "476": {
+      "name": "Zapečaćen Cayo Ammo Sanduk",
+      "flavor": "Šablon još vlažan, sanduk još uobrazljen, sadržaj još zujajući."
+    },
+    "477": {
+      "name": "Forum Drive Court Lopta",
+      "flavor": "Driblana ravno hiljadom pickup igara na južnoj strani."
+    },
+    "478": {
+      "name": "Mirror Park Trijemska Lampa",
+      "flavor": "Sijalica izgorjela noći kad je blok zauvijek izgubio struju."
+    },
+    "479": {
+      "name": "Sandy Trailer Skijaška Maska",
+      "flavor": "Vuna svrbi kao grijeh i miriše na meth i Pisswasser."
+    },
+    "480": {
+      "name": "Kabin PC Zvučnik",
+      "flavor": "Svirao muziku za čekanje analitičarima koji nikada nisu unapređeni."
+    },
+    "481": {
+      "name": "LS River Tag Konzerva",
+      "flavor": "Krylon Apple Red, tresena dok se kuglični ležaj nije istrošio."
+    },
+    "482": {
+      "name": "Little Seoul Kurioza Kutija",
+      "flavor": "Cedrov umetak blago miriše na kamfor i nečiju baku."
+    },
+    "483": {
+      "name": "Sandy Ammu-Nation Optika",
+      "flavor": "Krstovi su pomakli za dlaku ali staklo je još čisto."
+    },
+    "484": {
+      "name": "Maze Bank Arena Trofej",
+      "flavor": "Vrti se zauvijek ako ga zaštipneš pravilno."
+    },
+    "485": {
+      "name": "Vespucci Headshop Bong",
+      "flavor": "Voda još pljuska. Ne pitaj koje je boje."
+    },
+    "486": {
+      "name": "Strawberry 24/7 Karton",
+      "flavor": "Pola šestice tople energetske, ljepljiva na dnu."
+    },
+    "487": {
+      "name": "Del Perro Vape Pen",
+      "flavor": "Coil ima ukus plave maline i žaljenja."
+    },
+    "488": {
+      "name": "Vinewood Casino Smolna Lubanja",
+      "flavor": "Smola ne kost, ali dovoljno teška da prevari galeriju."
+    },
+    "489": {
+      "name": "Cypress Flats Ammo Sanduk",
+      "flavor": "Šablonirani broj serije još čitljiv ispod masnoće."
+    },
+    "490": {
+      "name": "Hill Valley Groblja Ruža",
+      "flavor": "Latice već postaju smeđe na ivicama."
+    },
+    "491": {
+      "name": "LS Liquor Mart Petina",
+      "flavor": "Etiketa skinuta dnom papirne vrećice."
+    },
+    "492": {
+      "name": "Galaxy Club DJ Slušalice",
+      "flavor": "Lijeva čaša je ljepljiva. Desna još lupa kao kick drum."
+    },
+    "493": {
+      "name": "Rockford Smart Naočale",
+      "flavor": "Sočiva još trepere kad ih nagneš prema svjetlu."
+    },
+    "494": {
+      "name": "Otvoreni Vogue Magazin",
+      "flavor": "Otvoren na Ponsonbys reklami, tri sezone star."
+    },
+    "495": {
+      "name": "Newsstand Sjajni",
+      "flavor": "Model s naslovnice ima prsten od kafe preko čela."
+    },
+    "496": {
+      "name": "Pitchers Patio Boca",
+      "flavor": "Ispijena na posljednjem pozivu, otisci prstiju još na vratu."
+    },
+    "497": {
+      "name": "Zancudo Ograda Raketa",
+      "flavor": "Inertna. Vjerovatno. Krilca su savijena ali oznake su čiste."
+    },
+    "498": {
+      "name": "Vinewood Hills Aplika",
+      "flavor": "Filament bruji kad kucneš bazu, staklo toplo na dodir."
+    },
+    "499": {
+      "name": "Vinewood Bowl Pin Art",
+      "flavor": "Lakirani pin postavljen na ploču obojanog bora."
+    },
+    "500": {
+      "name": "Richman Glen Dekanter",
+      "flavor": "Kristal toliko duboko brušen da baca duge preko tepiha."
+    },
+    "501": {
+      "name": "Mission Row Lisičine Trofej",
+      "flavor": "Gravura izlizana glatko gdje je kapetan trljao palac."
+    },
+    "502": {
+      "name": "Pinkcage Motel Sat",
+      "flavor": "Zaglavljen na 3:17, treperi prašinu kroz brojeve."
+    },
+    "503": {
+      "name": "Pillbox Medicinski Naslon Vrata",
+      "flavor": "Vinil ljepljiv od starog antiseptika, pjena spljoštena ravno."
+    },
+    "504": {
+      "name": "Vanilla Unicorn Kućno Sipanje",
+      "flavor": "Ruž na vratu, tri različite nijanse."
+    },
+    "505": {
+      "name": "Apoteka Model Uha",
+      "flavor": "Anatomski, lateks, s jednim hrskavičnim piercingom već istrošenim."
+    },
+    "506": {
+      "name": "Murrieta Heights Hack Cigla",
+      "flavor": "LED još kruži kroz handshake koji niko više ne odgovara."
+    },
+    "507": {
+      "name": "Mesingana Bankarska Lampa",
+      "flavor": "Zeleni sjaj koji je gledao hiljadu loših kredita kako se odobrava."
+    },
+    "508": {
+      "name": "Montirana Sretna Kegla",
+      "flavor": "Sretna kegla sedme staze, lakirana nakon savršene igre 1987."
+    },
+    "509": {
+      "name": "Boutique Bronzana Figura",
+      "flavor": "Cijenjena na četiri cifre, prodana u dijelovima ogradi u Strawberryju."
+    },
+    "510": {
+      "name": "Shunt Cup Replika",
+      "flavor": "Pravi je na Areni. Ovaj je teži nego što izgleda."
+    },
+    "511": {
+      "name": "Stargazer Trofej",
+      "flavor": "Dodijeljen onome ko je prvi pronašao kometu. Plaketa je prazna."
+    },
+    "512": {
+      "name": "Reed Diffuser Set",
+      "flavor": "Sandalovina, vetiver, i slabo sjećanje na odbijenu kreditnu karticu."
+    },
+    "513": {
+      "name": "Klasifikovana Manila Fascikla",
+      "flavor": "Jedanaest stranica redakcija i jedan pasivno-agresivan ljepljivi listić."
+    },
+    "514": {
+      "name": "Flip Jam Kabinet Token",
+      "flavor": "Visoki rezultat pripada LIL, koji nije viđen od 1996."
+    },
+    "515": {
+      "name": "Galerija Bista od Gipsa",
+      "flavor": "Umjetnik insistira da predstavlja žalost. Kupac insistira da se slaže s kaučem."
+    },
+    "516": {
+      "name": "Apoteka Pultni Display",
+      "flavor": "Tablete D vitamina i tri istekla kupona zalijepljena ispod."
+    },
+    "517": {
+      "name": "Okrnjena Diner Šolja",
+      "flavor": "Najobičniji Tata na Svijetu. Prsten kafe trajno spojen s rubom."
+    },
+    "518": {
+      "name": "Potrošen Termit Naboj",
+      "flavor": "Sagorio kroz sef i pod ispod njega. Još topao na dodir."
+    },
+    "519": {
+      "name": "Padron Kutija Cigara",
+      "flavor": "Tri štapića ostala. Četvrti je zamijenjen za alibi."
+    },
+    "520": {
+      "name": "Tattle Weekly Broj",
+      "flavor": "Naslovna priča: koji Vinewood par je tajno ista osoba."
+    },
+    "521": {
+      "name": "Spaljeni Kafa Bokal",
+      "flavor": "Dno je tako sprženo da konobarica to samo zove začinom."
+    },
+    "522": {
+      "name": "Polu-Pojeden Bleeder Burger",
+      "flavor": "Dva ugriza u, sumnjivac je pobjegao. Krastavac je ostao lojalan."
+    },
+    "523": {
+      "name": "Zapečaćena Kesa za Polog",
+      "flavor": "Zapečaćena od strane Fleeca u 15:47. Otvorena od strane nekog drugog u 15:51."
+    },
+    "524": {
+      "name": "Krylon Sundowner Konzerva",
+      "flavor": "Kapa žvakana, konzerva ulegnuta, poruka napola završena na ogradi od žice."
+    },
+    "525": {
+      "name": "Koktel Štapić Tegla",
+      "flavor": "Plastični flamingosi u zamrljanom staklu. Niko ne pamti da je punio."
+    },
+    "526": {
+      "name": "Polu-Iscijeđena Kokos Čaša",
+      "flavor": "Dva papirna suncobrana, jedan topljen led, nigdje krema za sunčanje."
+    },
+    "527": {
+      "name": "Razoružana AP Mina",
+      "flavor": "Pin izvučen, nagazna ploča zaglavljena novčićem. Inženjerstvo ili ludilo."
+    },
+    "528": {
+      "name": "Napukla Pisswasser Boca",
+      "flavor": "Vrat čisto pukao. Pronađena iza kontejnera s jednim otiskom prsta."
+    },
+    "529": {
+      "name": "Izlupani CDJ Deck",
+      "flavor": "Jog wheel okrnjen, kanal dva mrtav, još uvijek svira set vrijedan slušanja."
+    },
+    "530": {
+      "name": "SPF 4 Boca",
+      "flavor": "Kapa nedostaje, miriše na piña coladu i vrlo loše odluke."
+    },
+    "531": {
+      "name": "Mramorna Patron Bista",
+      "flavor": "Oči izdubljene, izraz neutralan, usne sugerišu da je vidjela stvari."
+    },
+    "532": {
+      "name": "Logger Lager Konzerva",
+      "flavor": "Prazna, zgnječena, vraćena u frižider od strane nekoga ko se nadao da niko neće primijetiti."
+    },
+    "533": {
+      "name": "Katalogizirani Artefakt M-31",
+      "flavor": "Etiketa glasi M-31. Porijeklo glasi stečeno. Origin glasi nije tvoje."
+    },
+    "534": {
+      "name": "After Hours Plesač Trofej",
+      "flavor": "Dodijeljen za set tako glasan da je pritužba na buku postala obožavateljsko pismo."
+    },
+    "535": {
+      "name": "Orbitalna Konzola za Ciljanje",
+      "flavor": "Koordinate zaključane, ljepljivi listić s lozinkom još na strani."
+    },
+    "536": {
+      "name": "Valet Štap Svjetla",
+      "flavor": "Crvena plastika, mrtva baterija, signalizirala je tri Addera na pogrešno mjesto."
+    },
+    "537": {
+      "name": "Onyx Mramorna Bista",
+      "flavor": "Polirana opsidijanska glava, oči urezane da prate dilerove ruke."
+    },
+    "538": {
+      "name": "Lakirana Kurioza Kutija",
+      "flavor": "Mesingane kopče i plišana obloga koja još miriše na cedrov dim."
+    },
+    "539": {
+      "name": "Labav Cushion Dijamant",
+      "flavor": "Hvata uličnu rasvjetu kao da je rezan tačno za ovaj ugao."
+    },
+    "540": {
+      "name": "Skinut Server Disk",
+      "flavor": "Caddy izbačen usred pisanja, treperi stabilnim ćilibarnim pulsom."
+    },
+    "542": {
+      "name": "Galerija Hoop Studija",
+      "flavor": "Iznošena kožna lopta lijevana u laku, potpisana markerom ispod hvata."
+    },
+    "543": {
+      "name": "Zaboravljeni Hard Disk",
+      "flavor": "Naljepnica polu-pocijepana, datum posljednjeg pisanja olovkom."
+    },
+    "544": {
+      "name": "Skinut AV Prijemnik",
+      "flavor": "Prednje dugmad nestale, RCA utičnice savijene, brunda kad je uzemljen."
+    },
+    "545": {
+      "name": "Liveni Gvozdeni Kapija Ventil",
+      "flavor": "Zatvoren navojem, boja se ljušti u dugim uvojcima."
+    },
+    "546": {
+      "name": "Tester Kolonjska Flaška",
+      "flavor": "Atomizer skorenо zatvoren, etiketa se ljušti u vlažnim uvojcima."
+    },
+    "547": {
+      "name": "Mramorna Cezar Glava",
+      "flavor": "Krhotina u obrvi koja hvata sjaj casino reklame."
+    },
+    "548": {
+      "name": "Zaboravljena Tacna Žetona",
+      "flavor": "Nekoliko crnih stotina još zveckaju u donjem uglu."
+    },
+    "549": {
+      "name": "Livena Klupa Ploča",
+      "flavor": "Rdjasti prsten na jednoj strani, krečnjak otisak ruke na drugoj."
+    },
+    "550": {
+      "name": "Ožiljen Tvrdo-Drveni Bat",
+      "flavor": "Trakavi hvat, tri ureza spaljena u fattyju."
+    },
+    "551": {
+      "name": "Polu-Prazan Rattler",
+      "flavor": "Kapa nedostaje, mlaznica začepljena osušenim magentom."
+    },
+    "552": {
+      "name": "Lost Chapter Šlem",
+      "flavor": "Postava vlažna od motornog ulja, naljepnica se ljušti na slepoočnici."
+    },
+    "553": {
+      "name": "Mesinganu Jahtu Minijatura",
+      "flavor": "Korpus urezan brojem slipa koji više ne postoji."
+    },
+    "554": {
+      "name": "Retro Arkadni Trofej",
+      "flavor": "Plaketa izgrebena novčićem, novi inicijal urezan."
+    },
+    "555": {
+      "name": "Bijeli Mramorni Atleta",
+      "flavor": "Hladan na dodir, slaba krhotina iza lijevog uha."
+    },
+    "556": {
+      "name": "Podstavljeni Disk Tok",
+      "flavor": "Pjena izrezana za disk koji više nije tu."
+    },
+    "557": {
+      "name": "Polu-Iskorištena Pumpa Losiona",
+      "flavor": "Pumpa još napunjena, etiketa omekšala od pare."
+    },
+    "558": {
+      "name": "CamHedz Šampion Pehar",
+      "flavor": "Ugraviran s najboljim rezultatom prošle sezone i razmazanim otiskom prsta."
+    },
+    "559": {
+      "name": "Casino Diorama Pločica",
+      "flavor": "Skalirana reklama s malom linijom gostiju zamrznutih u koraku."
+    },
+    "560": {
+      "name": "Trakom Obavijen Slugger Bat",
+      "flavor": "Atletski tape dvaput omotан, krajnja kapa nedostaje."
+    },
+    "561": {
+      "name": "Porcelanski Trio Figura",
+      "flavor": "Tri glazirane plesačice uhvaćene usred okreta, netaknute od kada je casino otvorio vrata."
+    },
+    "562": {
+      "name": "Potamnjeli Zalagaonički Bodež",
+      "flavor": "Neko ga je založio za kiriju i nikada se nije vratio po njega."
+    },
+    "563": {
+      "name": "Dud RPG Raketni Plašt",
+      "flavor": "Žigosan MERRYWEATHER, povučen, i sasvim sigurno ne suvenir."
+    },
+    "564": {
+      "name": "Vinewood Boutique Figura",
+      "flavor": "Display komad od dekoratera izloga koji nikada nije primijetio da nedostaje."
+    },
+    "565": {
+      "name": "Neizgovorljivi Suvenir",
+      "flavor": "Ostavljen u uličici iza prodavnice za odrasle nakon zatvaranja — niko ne traži."
+    },
+    "566": {
+      "name": "Keramička Kupatilska Posuda",
+      "flavor": "Boutique dekor koji niko ne kupuje ali niko ne uklanja takođe."
+    },
+    "567": {
+      "name": "Putna Diner Šolja",
+      "flavor": "Mlaka dopuna koju je konobarica zaboravila počistiti sa sedmog separe."
+    },
+    "568": {
+      "name": "Marina Kapetanska Kapa",
+      "flavor": "Sa soli umrljana i blago savijena — skipper se penzionisao bez nje."
+    },
+    "569": {
+      "name": "Zaboravljena Pocket Knjiga",
+      "flavor": "S uglovima savijenim na četvrtom poglavlju, s nečijim spiskom za kupovinu kao oznakom."
+    },
+    "570": {
+      "name": "Marabunta Slugger",
+      "flavor": "Tagiran zelenim sprejom i vrlo očito nije bat za sportske artikle."
+    },
+    "571": {
+      "name": "Ballas Bat",
+      "flavor": "Ljubičasti hvat trake, sumnjivi ulegnuća, naslonjen na ogradu od žice."
+    },
+    "572": {
+      "name": "Brawler Turnirski Trofej",
+      "flavor": "Ugraviran Maibatsu Arena Champion — pobjednik se nikada nije vratio po njega."
+    },
+    "573": {
+      "name": "Brijačeve Mašinice",
+      "flavor": "Još slabo zuje — brijač je izašao na cigaretu prije sat vremena."
+    },
+    "574": {
+      "name": "Dekor Svijeća Klaster",
+      "flavor": "Tri voštana stuba postavljena tačno tako — boutique display koji nije prodan."
+    },
+    "575": {
+      "name": "Izgubljen MC Bat",
+      "flavor": "Skull naljepnice i lanac omotan oko hvata — vlasništvo clubhousea."
+    },
+    "576": {
+      "name": "Pozlaćena Granata Skulptura",
+      "flavor": "Pop-art komad naručen za privatni apartman — nekako završio na rubu."
+    },
+    "577": {
+      "name": "Direktorska Boutique Vaza",
+      "flavor": "Uvozna keramika koja se prodavala za više od kirije većine ljudi."
+    },
+    "578": {
+      "name": "Usamljena Bowling Kegla",
+      "flavor": "Posljednja stojeća kegla, zatim zaboravljena u olucima kada se ligaška noć završila."
+    },
+    "579": {
+      "name": "Arkadni Kandžasti Pliš",
+      "flavor": "Iščupan iz mašine nakon dvadeset dolara u novčićima — vrijedan svake pare."
+    },
+    "580": {
+      "name": "After Hours DJ Slušalice",
+      "flavor": "Podstavljene čaše još tople iz boothha — neko je rano izašao."
+    },
+    "581": {
+      "name": "Ispušten Pločnik Novčanik",
+      "flavor": "Vozačka unutra, nema novca — neko je tu stigao prvi."
+    },
+    "582": {
+      "name": "Napukla Građevinska Kapa",
+      "flavor": "Vlasasta pukotina niz krunu — poslovođa ga je otpisao i ostavio."
+    },
+    "583": {
+      "name": "Boutique Display Sat",
+      "flavor": "Švicarski pokret, još tikta, nema cijene gdje je nekada bila."
+    },
+    "584": {
+      "name": "Tech Store Demo Laptop",
+      "flavor": "Screen-saver još kotrlja — model na podu koji se niko nije potrudio zaključati."
+    },
+    "585": {
+      "name": "Pozlaćene Figure Par",
+      "flavor": "Par zlatnih statueta nekada izložen u vitrini casino lobija."
+    },
+    "586": {
+      "name": "Sa Kapaljkom Bočicа Kiseline",
+      "flavor": "Mala bočica s kapaljkom koja zaudara na rastvarač i loše odluke."
+    },
+    "587": {
+      "name": "House Čip Hrpa",
+      "flavor": "Uredan toranj casino čipova koje je neko zaboravio unovčiti."
+    },
+    "588": {
+      "name": "Skorena Autobaterija",
+      "flavor": "Terminali obrasli korozijom, još drže slabo punjenje."
+    },
+    "589": {
+      "name": "Džepna Galaxy Jahta",
+      "flavor": "Skalni model Galaxy superyachta, ukraden s prodajnog poda."
+    },
+    "590": {
+      "name": "Sa Stiskanjem Boca Ketchupa",
+      "flavor": "Skoro prazna boca crvene paste, kapa trajno ljepljiva."
+    },
+    "591": {
+      "name": "Beluga Kavijar Konzerva",
+      "flavor": "Hladna konzerva kavijara, poklopac otvoren do pola, kašika od sedefa nedostaje."
+    },
+    "592": {
+      "name": "Obrezana Marihuana Pupoljak",
+      "flavor": "Debeo obrezan pupoljak, dovoljno ljepljiv da zalijepi novčanik."
+    },
+    "593": {
+      "name": "Pitkin Motel Pepeljara",
+      "flavor": "Motel pepeljara prepuna ruž-umrljanim filterima."
+    },
+    "594": {
+      "name": "Vinewood Boutique Kristal",
+      "flavor": "Faceted kristal koji baca prizmaničku svjetlost preko pliša."
+    },
+    "595": {
+      "name": "Cluster Geode",
+      "flavor": "Nazubljena cluster geoda posuđena s modnog redakcijskog seta."
+    },
+    "596": {
+      "name": "Polu-Popijena Cava Boca",
+      "flavor": "Boca cave koja je postala ravna između dvije prazne čaše."
+    },
+    "597": {
+      "name": "Konopcem Vezana Tvrdokoričena Hrpa",
+      "flavor": "Tri tvrdokoričene vezane konopcem, kičme napukle od previše vraćanja."
+    },
+    "598": {
+      "name": "Polje Pulsa Oscilator",
+      "flavor": "Pulsa oscilator izvučen iz med-bay dijagnostičkog kolica."
+    },
+    "599": {
+      "name": "Limeni Pub PINTS Znak",
+      "flavor": "Ulegnuti limeni pub znak koji još uvijek čita PINTS u ljuskajućoj boji."
+    },
+    "600": {
+      "name": "Dizajnerska Kutija Cipela",
+      "flavor": "Boutique kutija cipela s jednim stilettoom unutra i potvrdom još utuknutim."
+    },
+    "601": {
+      "name": "Scenski Kondenzatorski Mikrofon",
+      "flavor": "Kondenzatorski mikrofon još topao iz vokalnog snimanja."
+    },
+    "602": {
+      "name": "Bambusov Blok Noževa",
+      "flavor": "Pun blok noževa podignut s Vinewood kuhinjskog pulta."
+    },
+    "603": {
+      "name": "CS Gas Kontejner",
+      "flavor": "CS gas kontejner s pinom još uvijek oblijepljenim, prsti s kašike."
+    },
+    "604": {
+      "name": "Obavijen Aluminijski Slugger",
+      "flavor": "Aluminijski bat obavijen trakom hvata i lošim namjerama."
+    },
+    "605": {
+      "name": "Tamničarev Gvozdeni Lančić",
+      "flavor": "Težak gvozdeni lančić koji zveči kao alibi."
+    },
+    "606": {
+      "name": "Sa Prstenom za Povlačenje Dimna Granata",
+      "flavor": "Konzerva dima s prstenom za povlačenje koja slabo miriše na fosfor."
+    },
+    "607": {
+      "name": "Pit Boss Kalkulator",
+      "flavor": "Casino stoni kalkulator s rolnom trake pukotom čisto."
+    },
+    "608": {
+      "name": "Trezor Diorama Minijatura",
+      "flavor": "Minijaturna trezor diorama podignuta s casino marketing zida."
+    },
+    "609": {
+      "name": "Žigosani Čelični Kargo Sanduk",
+      "flavor": "Izgrebani čelični sanduk žigosan izblijedjelim brojem partije."
+    },
+    "610": {
+      "name": "Moderni Platneni Fragment",
+      "flavor": "Pocijepani komad galerijskog platna još miriše na svjež akril i ustajali šampanjac."
+    },
+    "611": {
+      "name": "Založen Trezor Dijamant",
+      "flavor": "Rezan za casino trezor, izgubljen u predaji, pronađen u prašini."
+    },
+    "612": {
+      "name": "Sakrivena Pivska Pak Konzerva",
+      "flavor": "Miriše na motorno ulje i jeftino pivo, baš kao i čovjek koji ga je sakrio."
+    },
+    "613": {
+      "name": "Šampionova Zastava Trofej",
+      "flavor": "Osvojen pod stadionskim svjetlima, napušten u trenutku kad se pojavio veći trofej."
+    },
+    "614": {
+      "name": "Battle Club Ručna Lepeza",
+      "flavor": "Oslikana režeći licem, još zuji od sinoćnjeg basa."
+    },
+    "615": {
+      "name": "Uličica-Vlažan Sjajni Mag",
+      "flavor": "Stranice zalijepljene kišom, ne razlog koji bi većina pogodila."
+    },
+    "616": {
+      "name": "Hobbist RC Daljinski",
+      "flavor": "Antena savijena od jednog previše niskoorbitnih slijetanja na parkirano vozilo."
+    },
+    "617": {
+      "name": "Višak C4 Cigla Hrpa",
+      "flavor": "Etiketa ogljušttena, žice odsječene, opasnost još impliciraна."
+    },
+    "618": {
+      "name": "Travom-Napukao Drveni Bat",
+      "flavor": "Drvo iverani na tri mjesta, svaka pukotina s drugačijom pričom."
+    },
+    "619": {
+      "name": "Izgubljena Arkadna Kapa",
+      "flavor": "Štit savijen znojem, umrljana visokim-rezultatnim cherry colom."
+    },
+    "620": {
+      "name": "Mehaničareva Alatka Caddy III",
+      "flavor": "Tri šrafa kratki, ali mast ti kaže da je zaslužio svaki ulegnuće."
+    },
+    "621": {
+      "name": "Sunce-Izblijedjeli Odbojkaš",
+      "flavor": "Pijesak još zveči iznutra od serve koji je išao predugo."
+    },
+    "622": {
+      "name": "Boutique Kapa Skulptura",
+      "flavor": "Prodavana kao nosiva umjetnost, cijenjena kao kirija, uglavnom fotografisana."
+    },
+    "623": {
+      "name": "Višak Cijev Minobacača",
+      "flavor": "Šablonirana i ukradena, serija izgrebana pažljivim palcem."
+    },
+    "624": {
+      "name": "Industrijski Rezac Vijaka",
+      "flavor": "Čeljusti polirane korištenjem, drške omotane tuđom trakom."
+    },
+    "625": {
+      "name": "Arkadni Borac Trofej",
+      "flavor": "Plastično zlato preko plastike, ali dijete koje ga je osvojilo svejedno je trčalo kući."
+    },
+    "626": {
+      "name": "Napukla Display Vaza",
+      "flavor": "Vlasasta pukotina hvata svjetlo, udvostručujući traženu cijenu."
+    },
+    "627": {
+      "name": "Teretana 10kg Ploča",
+      "flavor": "Gumena ivica izgrizena godinama lošeg oblika i gorim ispuštanjima."
+    },
+    "628": {
+      "name": "Arena Šampion Nagrada",
+      "flavor": "Ugravirana s pobjednikom koji je nikada nije preuzeo, polirana od strane nekoga ko jest."
+    },
+    "629": {
+      "name": "Podrum Koks Vaga",
+      "flavor": "Kalibrirana na desetinu grama i život paranoje."
+    },
+    "630": {
+      "name": "Plišana Bista za Ogrlicu",
+      "flavor": "Lanac je odavno otišao, pliš još drži oblik."
+    },
+    "631": {
+      "name": "Ugraviran Teški Pištolj",
+      "flavor": "Filigran na klizaču, svježa krhotina na drški, priča neispričana."
+    },
+    "632": {
+      "name": "Neispaljeni Pier Vatromet",
+      "flavor": "Fitilj netaknut, etiketa vodom iskrivljena, ime festivala izblijedjelo."
+    },
+    "633": {
+      "name": "Spa Lavanda Sapun",
+      "flavor": "Lavanda i klor, polu-topljen, monogramiran imenom koje niko ne prepoznaje."
+    },
+    "634": {
+      "name": "Vraćen Sjajni za Odrasle",
+      "flavor": "Naslovnica pocijepana, barkod netaknut, vraćen iz razloga navedenog samo kao habanje."
+    },
+    "635": {
+      "name": "Iskidan Maxwell Trofej",
+      "flavor": "Plaketa pocijepana čisto kroz torzo, bučica još uvijek podignuta."
+    },
+    "636": {
+      "name": "OG Mixtape Reizdanje",
+      "flavor": "Kičma kasete napukla, ručno označena srebrnim Sharpie-om."
+    },
+    "637": {
+      "name": "DJ Booth CD Rack",
+      "flavor": "Pola otvora prazno, ostatak izgreban iznad spasa."
+    },
+    "638": {
+      "name": "After Hours No.1 Trofej",
+      "flavor": "Zlatna folija još netaknuta, baza ugravirana zaboravljenim gamertagom."
+    },
+    "639": {
+      "name": "Motor Entuzijast Mag",
+      "flavor": "Pregib niz centerfold od previše garažnih pregledavanja."
+    },
+    "640": {
+      "name": "Minsko Polje Šampion Trofej",
+      "flavor": "Liven u kalaju, baza kaže Preživio Šestu Rundu malim utisnutim slovima."
+    },
+    "641": {
+      "name": "Spaljeni Slugger Bat",
+      "flavor": "Drška omotana frikcionim tape-om, fattyj polu-topljen na vrhu."
+    },
+    "642": {
+      "name": "Trik-Žičan Stoni Telefon",
+      "flavor": "Slušalica zalijepljena, žice se zmijaju gdje bi kabl trebao biti."
+    },
+    "643": {
+      "name": "Povučeni Homing Metak",
+      "flavor": "Inertan i šabloniran FOR DISPLAY, krilca savijena od sanduka koji je trebao preživjeti."
+    },
+    "644": {
+      "name": "Šef Blok Noževa",
+      "flavor": "Bukov drveni blok izlizan glatko od dvadeset godina povučenih drški."
+    },
+    "645": {
+      "name": "Plastik-Obavijen Centerfold",
+      "flavor": "Plastik-obavijen i s cijenom oblijepljen dvaput, oba broja precrtana."
+    },
+    "646": {
+      "name": "Magnetska Traka Noževa",
+      "flavor": "Magnetska traka požutjela od starosti, tri otvora upadljivo prazna."
+    },
+    "647": {
+      "name": "Pozlaćeni Revolver",
+      "flavor": "Gravura se zmija oko cilindra, zlato lohušteno s okidačnog štitnika."
+    },
+    "648": {
+      "name": "Zidno Montiran Komplet za Prvu Pomoć",
+      "flavor": "Snap reza slomljena, zeleni krst izblijedio do sivog."
+    },
+    "649": {
+      "name": "Sa Kiselinom Umrljan Akumulator",
+      "flavor": "Kisela mrlja osušena u polumjesec niz jednu stranu, terminali zelena korozija."
+    },
+    "650": {
+      "name": "Spašena Stona Brusilica",
+      "flavor": "Točak okrnjen od rezanja nečeg tvrđeg od čelika, kućište motora spaljeno."
+    },
+    "651": {
+      "name": "Bluetooth Zvučnik Dock",
+      "flavor": "Aux kabl još uključen u ništa, prašina nakupljena u rešetki."
+    },
+    "652": {
+      "name": "Poliesterski Kalem Konca",
+      "flavor": "Poliester namotan na kartonsku jezgru, kraj jednom zaheftan."
+    },
+    "653": {
+      "name": "Luksuzni Borbeni Pištolj",
+      "flavor": "Sedefasta drška, klizač urezan s vinovim uzorkom koji niko nije tražio."
+    },
+    "654": {
+      "name": "Wade Otkinuta Glava Prop",
+      "flavor": "Lateks maska oblikovana preko pjene lubanje, oči obojene blago razroke."
+    },
+    "655": {
+      "name": "Izgreban Trening Baseball",
+      "flavor": "Crveni šavovi labavi, autogram izblijedio u nečitljivu mrlju."
+    },
+    "656": {
+      "name": "Žiletom-Obavijen Bat",
+      "flavor": "Bodljikava žica skorena rđom, omot zglobova natopljen tamno na hvatu."
+    },
+    "657": {
+      "name": "Display Skulptura Lopte",
+      "flavor": "Smola lijevana s zlatnim listom uz pertle, baza potpisana od strane nikog poznatog."
+    }
+  }
+}

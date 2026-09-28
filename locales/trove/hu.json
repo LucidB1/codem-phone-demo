@@ -1,0 +1,2606 @@
+{
+  "rarity": {
+    "common": "Közönséges",
+    "strange": "Különös",
+    "rare": "Ritka",
+    "mint": "Legendás"
+  },
+  "items": {
+    "1": {
+      "name": "Madrazo Arany Bálványa",
+      "flavor": "A Caida Libre legenda arany arca — a Madrazo család szerencsetalizmánja."
+    },
+    "2": {
+      "name": "Impotent Rage Figura",
+      "flavor": "A Vinewood Superhero eredeti gyűjtői kiadása — a talapzat még mindig csillog."
+    },
+    "3": {
+      "name": "Idegen Figura",
+      "flavor": "Egy ritka öntvény, melyet titkos gyűjtők vadásznak."
+    },
+    "5": {
+      "name": "Beast Figura",
+      "flavor": "Fél-szörny antagonista a Vinewood Superhero sorozatból — szőrös kiadás."
+    },
+    "6": {
+      "name": "Sasquatch Figura",
+      "flavor": "A \"Bigfoot\" Easter egg vadászok szent grálja."
+    },
+    "7": {
+      "name": "Rockstar Klasszikus Logó",
+      "flavor": "Limitált stúdió-emléktárgy — egy vitrinből esett ki."
+    },
+    "8": {
+      "name": "Rockstar Közösségi Díj",
+      "flavor": "Plakett a Rockstar közösség tagjai számára préselve — egyetlen darab Pillbox Hillben."
+    },
+    "12": {
+      "name": "Pop Art Szobor #1",
+      "flavor": "Retro pop-art darab a Diamond Casino Heritage Hallból."
+    },
+    "13": {
+      "name": "Pop Art Szobor #2",
+      "flavor": "Ugyanazon művész második sorozata — kevesebb préselve."
+    },
+    "15": {
+      "name": "Párduc Szobor",
+      "flavor": "Sötét bronz párduc — szemei még mindig követnek."
+    },
+    "16": {
+      "name": "Ló Szobor",
+      "flavor": "Vintage ló-szobor — egy gyűjtő évekkel ezelőtt elvesztette."
+    },
+    "17": {
+      "name": "Absztrakt Szobor",
+      "flavor": "Jelentés homályos, ár meredek — ezt nevezik igazi művészetnek."
+    },
+    "19": {
+      "name": "Vintage Hős Figura",
+      "flavor": "80-as évek Vinewood gyerekgyűjtemény — egyenesen az eredeti dobozból."
+    },
+    "21": {
+      "name": "Plüss Kutya",
+      "flavor": "Egy elveszett ünnepi ajándék — soha nem ért el a tulajdonosához."
+    },
+    "22": {
+      "name": "Sunny — Nyári Fesztivál Kabala",
+      "flavor": "A Vespucci nyári fesztivál ikonikus kabalája — szemei még mindig Csendes-óceán kékek."
+    },
+    "23": {
+      "name": "Bruno a Vinewood Maci",
+      "flavor": "Pixel Pete karmos játék fődíja — \"Bruno\" címke a szőrébe varrva."
+    },
+    "24": {
+      "name": "Po a Davis Panda",
+      "flavor": "A Davis környékének karmos játék legendája — még mindig édes pillantású."
+    },
+    "25": {
+      "name": "Kobi az Aranyos Koala",
+      "flavor": "Felső polc plüss \"aranyos vagyok\" címkével a fülén."
+    },
+    "26": {
+      "name": "Lily a Nyuszi",
+      "flavor": "Egy szerelmi emlék — egy klub bejáratánál hagyva, piros szalag a fülén."
+    },
+    "27": {
+      "name": "Foxxy a Kis Róka",
+      "flavor": "Burger Shot játéksarok-kabala — foltozott farok."
+    },
+    "28": {
+      "name": "Zara a Zsiráf",
+      "flavor": "A Pillbox Hospital váróterem csodálatos morálnövelője — hosszú nyak és minden."
+    },
+    "29": {
+      "name": "Toto a Tigris",
+      "flavor": "A Vanilla Unicorn színpad néma tanúja — VIP jelvény a nyakán."
+    },
+    "30": {
+      "name": "Lucky a Kutya",
+      "flavor": "Pixel Pete utolsó szezonjának díja — szerencsetalizmán azoknak, akik teljesítik a gyűjteményt."
+    },
+    "31": {
+      "name": "Vinewood Kerti Törpe",
+      "flavor": "A Vinewood Hills törpe-kultusz túlélő tagja — a Rockstar legrégebbi hátsóudvar tréfája."
+    },
+    "32": {
+      "name": "Ágaskodó Ló Figurin",
+      "flavor": "Egy bronzöntésű versenyló dísz — az a fajta dolog, amit egy Vinewood ügynök tart, hogy elegánsabbnak tűnjön mint amilyen."
+    },
+    "33": {
+      "name": "Modern Szobor #4",
+      "flavor": "Penthouse-rotációs modern darab — Tao Cheng személyesen írta alá a tanúsítványt."
+    },
+    "34": {
+      "name": "Kartell Iroda Szobra",
+      "flavor": "A kartell művezetőjének asztalán állt a Cluckin' Bell feldolgozóüzemben — kissé csirkezsírtól foltos."
+    },
+    "35": {
+      "name": "Flipper Bajnok Trófea",
+      "flavor": "Csúcsminőségű Arena War ezüst — az egyetlen pilóta nyerte, aki kerekein fejezte be a Flippert."
+    },
+    "36": {
+      "name": "Ron Szerencsés Sapkája",
+      "flavor": "Ron Jakowski minden Sandy Shores összeesküvés-streamen ezt viselte — sugárzás érték: határos."
+    },
+    "37": {
+      "name": "Blêuter'd Jeroboam",
+      "flavor": "Egy 3 literes Jeroboam Blêuter'd '08 — a VIP boxban hátrahagyva, érintetlenül."
+    },
+    "38": {
+      "name": "Vintage Gamepad",
+      "flavor": "Jimmy De Santa éjszakázásának kontrollere — ragadós thumbstickekkel együtt."
+    },
+    "39": {
+      "name": "Pop Art Autó #10",
+      "flavor": "Diamond Heritage Gallery — pop-art tisztelgés Los Santos arany évtizedének izomautói előtt."
+    },
+    "40": {
+      "name": "Pop Art Autó #12",
+      "flavor": "A Diamond izomautó diptichon második fele — amit Avi Schwartzman próbált emelni."
+    },
+    "41": {
+      "name": "Pop Art Autó #9",
+      "flavor": "A Pop-Art Autó triptichon nyitódarabja — soha nem árverezték, soha nem biztosították."
+    },
+    "42": {
+      "name": "Bálvány Trófea — Kisebb Azték",
+      "flavor": "A Casino Heist értékes bálványának vitrintestvére — a kartell dicsekvő trófeaként tartotta."
+    },
+    "43": {
+      "name": "Bálvány Trófea — Nagyobb Azték",
+      "flavor": "Cluckin' Bell hátsó iroda trófea — a kartellfőnök tisztelgése a Casino Heist előtt, amely mindent elindított."
+    },
+    "44": {
+      "name": "Nap-Kő Bolygó Trófea",
+      "flavor": "Az Azték tábla-szett bolygó-darabja — a négy trófea egyike, melyet Cluckin' Bell főnöke az iroda polcán tartott."
+    },
+    "45": {
+      "name": "Scarab Tank Trófea",
+      "flavor": "Bronz Scarab tank az Arena War bajnoknak, aki túlélte a demolition derby döntőket — az alap még mindig égett gumiszagú."
+    },
+    "46": {
+      "name": "Azték Kincslelet",
+      "flavor": "Azték érmék és láncszemek csoportja — a kartell \"adója\" az eredeti Casino Heistből lefölözve."
+    },
+    "47": {
+      "name": "Nyers Azték Bálvány",
+      "flavor": "Levált a vitrinjéről — a heist közepén kihúzva, soha nem szerelték vissza."
+    },
+    "48": {
+      "name": "Iker Azték Bálvány",
+      "flavor": "A Madrazo bálvány fiatalabb ikre — ugyanaz a forma, más öntő."
+    },
+    "49": {
+      "name": "Azték Nap-Tojás Trófea",
+      "flavor": "Az azték nap-tojás — kiegészíti a négydarabos trófea polcot a bálvány, scarab és bolygó mellett."
+    },
+    "50": {
+      "name": "Arany Pogó Trófea",
+      "flavor": "Lucky Wheel fődíj gyűjtemény — állítólag csak tizenkettőt vertek belőle."
+    },
+    "51": {
+      "name": "Retró Konzol Műalkotás",
+      "flavor": "Vintage konzol galériaművészetként kezelve — Pixel Pete minden eladáskor sír."
+    },
+    "52": {
+      "name": "\"For the Love of Cash\" Gyémánt Koponya",
+      "flavor": "Egy penthouse hivalkodó darab, az eredeti Casino Heist során lopták — pavé gyémántjai valódiak, és Lester még mindig őrzi az értékelést."
+    },
+    "53": {
+      "name": "Tataryn Császári Tojás",
+      "flavor": "Egy Tataryn család öröksége, amely egyik napról a másikra eltűnt — a reggel, miután Avi Schwartzman elhagyta a várost."
+    },
+    "54": {
+      "name": "El Rubio Reserva Añejo",
+      "flavor": "Cayo Pericóból csempészve egy sportszatyorban — a pecsét sértetlen és a viaszbélyegző még El Rubioé."
+    },
+    "55": {
+      "name": "Declasse Sabre GT Maquette",
+      "flavor": "Tao Cheng apja rendelte egy nyertes éjszaka után a magas tét blackjack asztalánál."
+    },
+    "56": {
+      "name": "\"OG1\" South Central Plakett",
+      "flavor": "Egy Davis garázs faláról emelve — a vének szerint Stretché volt, amikor a Grove Street még jelentett valamit."
+    },
+    "57": {
+      "name": "LS Panic Játéklabda",
+      "flavor": "Az egész Los Santos Panic védelmi sor halvány Sharpie-val aláírta a '08-as divízió győzelmük után."
+    },
+    "58": {
+      "name": "Vespucci Streetball Torna Labda",
+      "flavor": "A Vespucci pályákon gumiig koptatott — a \"Lamar 23\" jelölés még olvasható."
+    },
+    "59": {
+      "name": "Pogo a Majom Plüss",
+      "flavor": "Karmos játék fődíj az Up-n-Atom diner hátsó arcade-jából — a címke azt írja \"Tracey tulajdona.\""
+    },
+    "60": {
+      "name": "El Rubio Mesterlövész Trófeája",
+      "flavor": "Maga El Rubio adta a legjobb komplex mesterlövészének — gravírozva \"Para mi mejor tirador, 2020.\""
+    },
+    "61": {
+      "name": "Aranyozott Bowlingbáb (Lebowski Kiadás)",
+      "flavor": "Egy iróniamentes hat számjegyű tisztelgés a nagy amerikai időtöltés előtt — Tao Chengnek három van."
+    },
+    "62": {
+      "name": "Macbeth 30 éves Kristály Karaffa",
+      "flavor": "Egy Maze Bank vezető magánbárjából emelve — a vésett monogram \"AB\"-t olvas, ugyanaz az inicialé mint Avon Hertz könyvelőjéé."
+    },
+    "63": {
+      "name": "Festive Surprise Tripla-Pont Trófea",
+      "flavor": "Az Arena versenyzőinek adták, akik mesterhármast szereztek a Festive Surprise eseményen — a masnik még mindig göndörek."
+    },
+    "64": {
+      "name": "Mester Bandito Pilóta Trófea",
+      "flavor": "Tíz kinetikus aknás ölésért RC Banditoban — az Arena rajongók még mindig \"garázspadló trófeának\" nevezik."
+    },
+    "65": {
+      "name": "Arena Karrier Felemelkedő Torony",
+      "flavor": "100 egymást követő Arena kör túléléséért adva — Benny maga hegesztette az alaplemezt."
+    },
+    "66": {
+      "name": "Arena Nagybajnok Kupa",
+      "flavor": "A fődíj, melyet Mr. Bossman az első Arena döntőkön adott — csak hármat öntöttek, és kettő hiányzik."
+    },
+    "67": {
+      "name": "Pegassi Toreador Króm Maquette",
+      "flavor": "Egy léptékű darab a Toreador Vinewood Boulevard-i debütálásának megjelölésére."
+    },
+    "68": {
+      "name": "LS Caesars Ütős Bobblehead",
+      "flavor": "Egy 90-es évek emléktárgy a régi LS Caesars dugoutból — Franklin egyet tart az asztalán szerencséért."
+    },
+    "69": {
+      "name": "San Andreas Stallions Újonc Bobblehead",
+      "flavor": "Vinewood Bowl ajándék a '04-es hazai szezonnyitóról — a rugós fej húsz év után is rezeg."
+    },
+    "70": {
+      "name": "Arena Műhely Pit-Boss Bögre",
+      "flavor": "\"World's #1 Boss\" bögre magától Mr. Bossmantól — a kávégyűrű még a peremen."
+    },
+    "71": {
+      "name": "Benefactor Krieger Display Maquette",
+      "flavor": "Egy millió-zsetonos kiállítási darab a Penthouse galériából — Yung Ancestor pontosan ezt a szobrot említette egy versben."
+    },
+    "72": {
+      "name": "Aranyozott \"Büntető\" Szobor",
+      "flavor": "Egy hat számjegyű beszélgetési darab — a művész aláírása, \"Jeff K.\", az aljára vésve."
+    },
+    "73": {
+      "name": "Porcelán Lány Figurin",
+      "flavor": "Egy csorba kis porcelán lány, amely egykor egy Vinewood kandallópárkányon élt — szép, naiv és többet ér mint amilyen kinéz."
+    },
+    "74": {
+      "name": "Harlekin Bohóc Figurin",
+      "flavor": "Egy pierrot baba megrepedt zománccal és egy mosollyal, ami mindig egy képkockával csúszottnak tűnik."
+    },
+    "75": {
+      "name": "Cypress Absztrakt Szobor",
+      "flavor": "Hipster galériadarab egy Cypress Flats rakodóhídján hagyva — \"cím nélkül #4\" felirattal és úgy beárazva, mintha számítana."
+    },
+    "76": {
+      "name": "Bronz Csődör Figurin",
+      "flavor": "Egy miniatűr csődör, amely Michael De Santa kandallópárkányán élt — valaki elcsente a Madrazo bukás során."
+    },
+    "77": {
+      "name": "Tintatartó Koponya Trófea",
+      "flavor": "Egy flash-art koponya egyenesen egy Harmony tetoválószalon pultjáról emelve — még mindig zöld szappan illatú."
+    },
+    "78": {
+      "name": "OG Mixtape — Változat 2",
+      "flavor": "Lezárt promó kazetta egy West Coast bootleg préselésből — Franklin a duplát is megfizetné érte."
+    },
+    "79": {
+      "name": "Króm Gladiátor Koponya",
+      "flavor": "Motorháztető-dísz méretű koponya show-krómmal bevonva — egy Arena War bajnok éjjeliszekrény darabja."
+    },
+    "80": {
+      "name": "Lowrider Művészet Maquette",
+      "flavor": "Egy szétvágott lowrider galéria-maquette-je — a pinstripe-ok érintésre még nedvesek."
+    },
+    "81": {
+      "name": "El Rubio Versenyző Trófea",
+      "flavor": "Aranyozott versenyző trófea egy magánsziget széfből emelve — a gravírozás lekaparva."
+    },
+    "82": {
+      "name": "Downtown Cab Co. Arany Trófea",
+      "flavor": "A Downtown Cab Co. évszázados szolgálatáért adott díj — utoljára egy diszpécser polcán látták, mielőtt kirabolták a helyet."
+    },
+    "83": {
+      "name": "Kristály Piramis Levélnehezék",
+      "flavor": "Egy nehéz kristály piramis, amely egy producer szerződéseit nyomta — állítólag tisztítja a rossz energiát."
+    },
+    "84": {
+      "name": "Bajnok Bokszkesztyűje",
+      "flavor": "Egyetlen piros kesztyű egy régen bezárt edzőterem sarkában hagyva — a bütyökpor még mindig a bőrön."
+    },
+    "85": {
+      "name": "Galaxy Jacht Miniatűr",
+      "flavor": "Egy ékszerész léptékű modellje a Galaxynek — aranybevonat, működő horgony, mint az igazi áron."
+    },
+    "86": {
+      "name": "Up-n-Atomizer Sugárfegyver",
+      "flavor": "Egy retró króm halálsugár egyenesen az Up-n-Atom diner cégéréről — és meglepően nehéz amikor felveszed."
+    },
+    "87": {
+      "name": "Brutalista Beton Blokk",
+      "flavor": "Egy öntött beton művészeti blokk, amelyről a galéria ragaszkodik hogy \"post-Vinewood brutalista\" — bár úgy néz ki mint egy járdaszegély."
+    },
+    "88": {
+      "name": "Maze Bank Tower Maquette",
+      "flavor": "A Maze Bank Tower tökéletes léptékű modellje — a babaház, amit egy CEO tart az igazi irodája sarkában."
+    },
+    "89": {
+      "name": "Perico Megfelelőségi Sokkoló",
+      "flavor": "Egy feketepiaci sokkoló egy szigetőrtől elvéve — még fél töltés van a cellában."
+    },
+    "90": {
+      "name": "Azték Kő Bálvány",
+      "flavor": "Egy vulkanikus kő bálvány idősebb mint maga a város — Franklin esküdött hogy soha nem vette meg, de mindig felbukkant."
+    },
+    "91": {
+      "name": "Arena Wars Bajnok Trófea",
+      "flavor": "A nagy — tömör arany egyedüli-túlélő trófea, Arena Wars szezonon egyszer adva és soha kétszer."
+    },
+    "92": {
+      "name": "Rózsaszín Cukros Fánk",
+      "flavor": "Egy félig megevett rózsaszín cukrozott gyűrű szivárvány cukorkával, egy szalvétán hagyva egy hosszú megfigyelés alatt."
+    },
+    "93": {
+      "name": "Kristály Pezsgőspohár",
+      "flavor": "Rúzs még a peremen egy Vinewood afterpartyról, amelynek távozására senki nem emlékszik."
+    },
+    "94": {
+      "name": "Cayo Perico Táncos Trófea",
+      "flavor": "Egy aranyozott táncos figurin, egy heist legénység fogadásban nyerve és esős napra elrejtve."
+    },
+    "95": {
+      "name": "Cayo Perico Harcos Trófea",
+      "flavor": "A táncos ikre, ezt a legénység izomembere kapta meg eltűnésük előtt."
+    },
+    "96": {
+      "name": "Penthouse Dekoratív Szobor",
+      "flavor": "Modernista műalkotás, melyet egy lecsúszott arcade tulajdonos zálogba adott; a gazdagok soha nem tudták hogy hiányzik."
+    },
+    "97": {
+      "name": "Meteorit Csokoládé Szelet",
+      "flavor": "Bingó-témájú édesség, csomagolása azt állítja hogy a mély űrben kovácsolták."
+    },
+    "98": {
+      "name": "P's & Q's Cukorka Doboz",
+      "flavor": "Egy ragadós doboz ábécé-cukorka egy gyerek szülinapi rosszul sült el után hátrahagyva."
+    },
+    "99": {
+      "name": "Falra Szerelt Koncert Hangszóró",
+      "flavor": "Egy karcos PA hangszóró egy Vespucci block partyból kiszabadítva, amit az LSPD 2-kor leállított."
+    },
+    "100": {
+      "name": "Bean Machine Elviteles Kávé",
+      "flavor": "Langyos latte laza tetővel — elhagyva egy megbeszélésre menet, amely már elkezdődött."
+    },
+    "101": {
+      "name": "Tagger Festőecsete",
+      "flavor": "Sörték fluoreszcens zölddel kérgezve — taglés közben elejtették amikor szirénák értek a sikátorba."
+    },
+    "102": {
+      "name": "Számozott Biliárdgolyó — 8",
+      "flavor": "A fekete golyó, ezer haragmérkőzés ötdolláros fogadásától horzsolva."
+    },
+    "103": {
+      "name": "Számozott Biliárdgolyó — 7",
+      "flavor": "Bordó csík legurult az asztalról és soha nem jutott vissza az állványra."
+    },
+    "104": {
+      "name": "Számozott Biliárdgolyó — 9",
+      "flavor": "Sárga csík, az egyik oldalán karcolva ahol valaki levélnehezékként markolta."
+    },
+    "105": {
+      "name": "Számozott Biliárdgolyó — 13",
+      "flavor": "Narancs csík egy lekorpázott lakksarokkal egy rossz bank lövésből."
+    },
+    "106": {
+      "name": "Számozott Biliárdgolyó — 11",
+      "flavor": "Bordó csík cigarettahamuval foltozva — egykor egy Del Perro torna törzsvendége."
+    },
+    "107": {
+      "name": "Számozott Biliárdgolyó — 5",
+      "flavor": "Egyszínű narancs, mint új, sima — egyértelműen első éjszaka lopták ki a dobozból."
+    },
+    "108": {
+      "name": "Számozott Biliárdgolyó — 15",
+      "flavor": "Bordó csík hajszálrepedéssel ami füttyent ha pont jól ütöd."
+    },
+    "109": {
+      "name": "Számozott Biliárdgolyó — 12",
+      "flavor": "Lila csík egy kölcsönkért dzseki zsebében találva, amit senki nem vitt vissza."
+    },
+    "110": {
+      "name": "Számozott Biliárdgolyó — 4",
+      "flavor": "Egyszínű ibolya, majdnem tükörré polírozva — egy régen visszavonult hustler kedvence."
+    },
+    "111": {
+      "name": "Fehér Dákógolyó",
+      "flavor": "A dákógolyó, amely ezer rack-et tört — krétanyom még a vezető élén."
+    },
+    "112": {
+      "name": "Számozott Biliárdgolyó — 6",
+      "flavor": "Egyszínű zöld egy horpadással abból amikor egy adósságbehajtó irodában levélnehezékként szolgált."
+    },
+    "113": {
+      "name": "Számozott Biliárdgolyó — 1",
+      "flavor": "Egyszínű sárga, a szerencsés — egy bár törzsvendége minden lendítés előtt a tenyerébe vette."
+    },
+    "114": {
+      "name": "Számozott Biliárdgolyó — 2",
+      "flavor": "Egyszínű kék elhalványult markeres iniciáléval — régen igényelték, soha nem vették vissza."
+    },
+    "115": {
+      "name": "Számozott Biliárdgolyó — 3",
+      "flavor": "Egyszínű piros — egy asztalról származik, ahol híres one-pocket hustle történt."
+    },
+    "116": {
+      "name": "Számozott Biliárdgolyó — 10",
+      "flavor": "Kék csík filcsúrlódással egy asztalból, amit senki nem javíthat meg."
+    },
+    "117": {
+      "name": "Számozott Biliárdgolyó — 14",
+      "flavor": "Zöld csík hiányzik egy Cypress Flats garázs asztaláról; senki nem kérdezte kétszer."
+    },
+    "118": {
+      "name": "Mázas Kerámia Korsó",
+      "flavor": "Egy nehéz kerámia korsó egy Grand Senora útszéli standról — csorba ajak, még tart vizet."
+    },
+    "119": {
+      "name": "Tekercselt Építész Papír",
+      "flavor": "Épülettervek szorosan tekercselve és zsineggel átkötve — egy sietős kijárat során leesett."
+    },
+    "120": {
+      "name": "Egyedi SMG Mk II",
+      "flavor": "Egy moddolt SMG sorozatszámmal tisztára reszelve — egy Paleto Bay-i meló után hátrahagyva, amikor hangos lett."
+    },
+    "121": {
+      "name": "Ipari Karmolt Kalapács",
+      "flavor": "Egy nehéz karmolt kalapács egy művezetőtől kölcsönvéve és soha nem visszaadva a szerszámos övbe."
+    },
+    "122": {
+      "name": "Borbély Habpohár",
+      "flavor": "Félig használt borbély hab, szantálfa illat besütve."
+    },
+    "123": {
+      "name": "Pneumatikus Ütvefúró",
+      "flavor": "Ravasz ragadós a fékportól és régi zsírtól."
+    },
+    "124": {
+      "name": "Csatorna Szörfös Távirányító",
+      "flavor": "Elemfedél négyzet alakú szigetelőszalaggal ragasztva."
+    },
+    "125": {
+      "name": "Vesszőkosár Szennyestartó",
+      "flavor": "Öblítőszer és egy hiányzó zokni szaga."
+    },
+    "126": {
+      "name": "Lezárt Burner Telefon",
+      "flavor": "Lezárt képernyő huszonkét nem fogadott hívással világít."
+    },
+    "127": {
+      "name": "Króm Koktélkeverő",
+      "flavor": "Még hideg, jég csörög a polírozott acélnak."
+    },
+    "128": {
+      "name": "Kétujjnyi Whisky",
+      "flavor": "Füstös, tőzeges, kétujjnyi megbánás."
+    },
+    "129": {
+      "name": "Márvány Dísztárgy Szobor",
+      "flavor": "Hideg érintésre, az alapra ceruzával aláírva."
+    },
+    "130": {
+      "name": "Hamis Engedélyek Halma",
+      "flavor": "Tizenkét személyazonosság, ugyanaz a frizura, különböző nevek."
+    },
+    "131": {
+      "name": "Fehéraranyú Zafír Csepp",
+      "flavor": "Fehéraranyba foglalva, súly szándékosan egyenetlen."
+    },
+    "132": {
+      "name": "Dobtáras Street Sweeper",
+      "flavor": "Dobtár meleg, sorozatszám lemarva."
+    },
+    "133": {
+      "name": "Kérgezett Eledel Tál",
+      "flavor": "Megszáradt szafttal kérgezve, hangyák gyűlést tartanak."
+    },
+    "134": {
+      "name": "Elhasznált Sárgaréz Hüvely",
+      "flavor": "Gyutacs középre ütve, lakk lehámlott a hüvelyről."
+    },
+    "135": {
+      "name": "Porborítású Keménytáblás",
+      "flavor": "Gerinc megrepedt a negyedik fejezetnél, sarkok behajtva és végleges."
+    },
+    "136": {
+      "name": "Vezetékes Számítógépes Egér",
+      "flavor": "Görgő ragadós, bal gomb fényesre kopott."
+    },
+    "137": {
+      "name": "Éjjeliszekrény Ébresztőóra",
+      "flavor": "Kijelző 12:00-nál ragadt, szundi gomb benyomva."
+    },
+    "138": {
+      "name": "Összehajtott Dosszié",
+      "flavor": "Nevek markerrel kihúzva, szélek nedvességtől göndörödve."
+    },
+    "139": {
+      "name": "Két-Szeletes Kenyérpirító",
+      "flavor": "Morzsák a tálcán, kar kilazult."
+    },
+    "140": {
+      "name": "Zúzott Piros Alma",
+      "flavor": "Egy harapás után letéve és elfelejtve."
+    },
+    "141": {
+      "name": "Karcsú DVD Lejátszó",
+      "flavor": "Lemeztálca beragadt, RCA kábelek csomóba gabalyodva."
+    },
+    "142": {
+      "name": "C4 Tégla",
+      "flavor": "Detonátor kicsavarva, gyurma puha és meleg."
+    },
+    "143": {
+      "name": "Pride Lager Doboz",
+      "flavor": "Hidegen izzad, fél ujjlenyomat a fülön."
+    },
+    "144": {
+      "name": "Paparazzi Kameratest",
+      "flavor": "Hosszú lencse karcos, utolsó képkocka még a pufferben."
+    },
+    "145": {
+      "name": "Csiszolt Üveg Vezetői Hamutartó",
+      "flavor": "Nehéz alja, ma este három szivar lett nyilvántartva."
+    },
+    "146": {
+      "name": "Beépített Taxióra",
+      "flavor": "$14.20-nál fagyott, kábel lóg a műszerfal tartójáról."
+    },
+    "147": {
+      "name": "Princessz-csiszolású Gyémánt Solitaire",
+      "flavor": "Princessz csiszolás, már nem létező névre hitelesítve."
+    },
+    "148": {
+      "name": "Léghoki Ütő",
+      "flavor": "Filc alja simára kopott, nyél izzadtsággal foltozva."
+    },
+    "149": {
+      "name": "Fekete Obeliszk Figurin",
+      "flavor": "Polírozott kő, alap egyetlen szimbólummal vésve."
+    },
+    "150": {
+      "name": "Horpadt eCola Doboz",
+      "flavor": "A peremnél horpadt, kondenzáció gyűlik az aljánál."
+    },
+    "151": {
+      "name": "Casino Fényes Negyedéves",
+      "flavor": "Friss fényes oldalak főnyereményekkel dicsekedve, melyeket senki ismerősöd soha nem nyert."
+    },
+    "152": {
+      "name": "Klubház Burner Laptop",
+      "flavor": "Matricákkal teleragasztott laptop akkumulátorral elég melegre hogy tojást süss rajta."
+    },
+    "153": {
+      "name": "Zsír-Kérgű Szerszámtartó",
+      "flavor": "Minden fiók nem összeillő dugókulcsokkal és egyetlen zsíros szerencsesütivel csörög."
+    },
+    "154": {
+      "name": "Importált Szivarkészlet",
+      "flavor": "Szorosan fóliába csomagolva és úgy illatozik mint egy gazdagabb ember nappalija."
+    },
+    "155": {
+      "name": "Kristály Whisky Karaffa",
+      "flavor": "Kézzel csiszolt kristály, amely még mindig őrzi egy harminc éves single malt szellemét."
+    },
+    "156": {
+      "name": "Üvegszolgáltatás Jégveder",
+      "flavor": "Félig olvadt jég, rúzsperem és valaki más jó éjszakájának utóíze."
+    },
+    "157": {
+      "name": "Címkézetlen DVD Tok",
+      "flavor": "Nincs cím, nincs korhatár, és egy ragadós maradék amit nem akarsz azonosítani."
+    },
+    "158": {
+      "name": "Nehéz Acél Villáskulcs",
+      "flavor": "Az a fajta villáskulcs ami több állkapcsot húzott meg mint csavart."
+    },
+    "159": {
+      "name": "Egy Magányos Csizma",
+      "flavor": "Talp átkopva, történet el nem mesélve, második csizma valószínűleg egy kukában valahol."
+    },
+    "160": {
+      "name": "Kiürült Házi Palack",
+      "flavor": "Ragadós címke lehúzva, tartalom rég eltűnt, apró színpad gyümölcslegyeknek."
+    },
+    "161": {
+      "name": "Penthouse Sárgaréz Szobor",
+      "flavor": "Öntött sárgaréz olyan önelégült ívvel hogy negyedmillióba kellett kerülnie."
+    },
+    "162": {
+      "name": "Csiszolt Zafír Medál",
+      "flavor": "Hideg érintésre és valahogy nehezebb mint amilyennek egy ekkora kőnek lennie kéne."
+    },
+    "163": {
+      "name": "Kertészeti Központ Páfrány",
+      "flavor": "Kicsit túlöntözve, kicsit alul-szeretve, készen áll meghalni egy új otthonban."
+    },
+    "164": {
+      "name": "Szalagos Markolat Snubnose Revolver",
+      "flavor": "Hat kamra, kettő elhasznált, markolat súrlódási szalaggal becsavarva ami izzadt szagú."
+    },
+    "165": {
+      "name": "Karcos Hangszórótartó",
+      "flavor": "Akku halott, basszus szétment, de az antenna még reményteljes kéken világít."
+    },
+    "166": {
+      "name": "Félüres Spray Doboz",
+      "flavor": "Csörög ha rázod, sziszeg ha nyomod, énekel ha célzod."
+    },
+    "167": {
+      "name": "Gyűrött Üdítőspohár",
+      "flavor": "Szívószál meghajlítva, fedél megharapva, épp annyi szirup hogy a járdaszegélyhez ragassza."
+    },
+    "168": {
+      "name": "Felesleg Gázmaszk",
+      "flavor": "Szűrőpatron kérges, szemlencsék párásak valaki más pánikjától."
+    },
+    "169": {
+      "name": "Vezetői Okostelefon",
+      "flavor": "Lezárt képernyő, két nem fogadott hívás, zárképernyő fotó egy jachtról amit nem engedhetsz meg."
+    },
+    "170": {
+      "name": "Meleg Hüvely",
+      "flavor": "A sárgaréz még elég meleg hogy emlékezzen a ravasz meghúzására."
+    },
+    "171": {
+      "name": "Kinyitott Magnum Pezsgő",
+      "flavor": "Fólia elszakadva, dugó elveszve, az éjszaka már úton van hogy legendás legyen."
+    },
+    "172": {
+      "name": "Vas Csatabárd",
+      "flavor": "Él csorba, nyél simára kopott, az a fajta dolog ami egy kandalló fölé való."
+    },
+    "173": {
+      "name": "Lezárt Csempész Whisky",
+      "flavor": "Borostyán bent, érintetlen, címke domborítva egy névvel amit senki nem ejt jól ki."
+    },
+    "174": {
+      "name": "Gyöngyházmarkolatú Vintage Pisztoly",
+      "flavor": "Vésett cső, gyöngyház markolat, halványan fegyverolaj és megbánás illatú."
+    },
+    "175": {
+      "name": "Félteli Borospohár",
+      "flavor": "Rúzs a peremen, üledék az alján, beszélgetés rég elhagyva."
+    },
+    "176": {
+      "name": "Nehéz .50 Kézifegyver",
+      "flavor": "Visszarúgási zúzódás anyag, sorozatszám ezüstig tisztára reszelve."
+    },
+    "177": {
+      "name": "Magas Üveg Vízipipa",
+      "flavor": "Felhős kamra, repedt downstem, egy Vinewood zenei videó forgatás illatú."
+    },
+    "178": {
+      "name": "Kinyomott Mustáros Üveg",
+      "flavor": "Kérges fúvóka, behorpadt oldalak, fedél akcióban hiányzik."
+    },
+    "179": {
+      "name": "Összenyomott Üdítős Doboz",
+      "flavor": "Fül még csatolva, oldal behorpadva egy sietős csizmától."
+    },
+    "180": {
+      "name": "Sablonozott Lőszer Láda",
+      "flavor": "Egységszámmal bélyegezve, csomagolószalaggal és imával lezárva."
+    },
+    "181": {
+      "name": "Repedt DVD Tok",
+      "flavor": "Egy karcos műanyag tok lemez nélkül és egy elhalványult kölcsönző matricával."
+    },
+    "182": {
+      "name": "Vészjelző Fáklya Doboz",
+      "flavor": "Egy megpörkölődött kartondoboz vörös veszélyfigyelmeztetésekkel sablonozva."
+    },
+    "183": {
+      "name": "Aranyozott Koponya Büszt II",
+      "flavor": "Egy krómozott memento-mori amit valaki elvitt az avatás előtt."
+    },
+    "184": {
+      "name": "Konyha Üveg Edény",
+      "flavor": "Egy hő-foltozott Pyrex edény még halványan marinara szagú."
+    },
+    "185": {
+      "name": "Recepció Aktatáska",
+      "flavor": "Egy karcos alumínium tok olasz nyelvű poggyász címkével reteszelve."
+    },
+    "186": {
+      "name": "Kabin Asztali Rendszerező",
+      "flavor": "Egy teli tolltartó ami egyértelműen soha nem volt rendezve."
+    },
+    "187": {
+      "name": "Azték Bálvány Készlet",
+      "flavor": "Egy prekolumbián érdekesség dzsungelmohával kérgezve; valakinek tényleg nem kellett volna elmozdítania."
+    },
+    "188": {
+      "name": "Járda Szemét Halom",
+      "flavor": "Összetört poharak, egy lottószelvény és egy flyer egy 2014-ben bezárt klubról."
+    },
+    "189": {
+      "name": "MC Futár Tok",
+      "flavor": "Egy lezárt road case három különböző chapter matricákkal beragasztva."
+    },
+    "190": {
+      "name": "Rezidens DJ Laptop",
+      "flavor": "Csata-sebzett deck még egy számra állítva amit senki nem ismer el hogy írt."
+    },
+    "191": {
+      "name": "Boutique Display Váza",
+      "flavor": "Egy kézzel formált kerámia havi bérleti díjat érő árcímkével."
+    },
+    "192": {
+      "name": "Eldobott 9mm Mellékfegyver",
+      "flavor": "Szán hátsó helyzetben rögzítve, sorozatok tisztára reszelve, három lövéssel kevesebb mint egy tár."
+    },
+    "193": {
+      "name": "Aranyozott Koponya Büszt III",
+      "flavor": "Egy illő darab a befejezetlen casino installáció triptichonjából."
+    },
+    "194": {
+      "name": "LSPD Maglite",
+      "flavor": "Nehéz alumínium, egy behorpadt foglalat, és egy testkamera klip még csatolva."
+    },
+    "195": {
+      "name": "Anyu-Apu ZÁRVA Tábla",
+      "flavor": "Ezerszer kézzel megfordítva; sarkok behajtva, órák kétszer kihúzva."
+    },
+    "196": {
+      "name": "Eltévedt Designer Sportcipő",
+      "flavor": "Csak jobb láb, karcos orr, fűzők még megkötve — valaki futott."
+    },
+    "197": {
+      "name": "Alföldi Peyote Bimbó",
+      "flavor": "Egy viaszos sivatagi gomb amely halkan zümmög amikor mellé guggolsz."
+    },
+    "198": {
+      "name": "Ipari Olajos Hordó",
+      "flavor": "Dudorodó varratok és egy friss szivárgás alatta a kavicsot kenve."
+    },
+    "199": {
+      "name": "Felesleg Lőszerdoboz",
+      "flavor": "Katonai bélyegzővel, félig nyitva, számolás egyértelműen a könyvön kívül."
+    },
+    "200": {
+      "name": "Vezetői Rolodex",
+      "flavor": "Egy flipper tele ceruzával írt nevekkel; minden harmadik bejegyzés át van húzva."
+    },
+    "201": {
+      "name": "Casino Művészeti Autó Szobor",
+      "flavor": "Egy krómozott izomautó sziluett vadon lett motorháztető díszként felszerelve."
+    },
+    "202": {
+      "name": "Vintage Tranzisztoros Rádió",
+      "flavor": "Repedt hangoló tárcsa, még felveszi Los Santos Rockot ha jól kopogtatod."
+    },
+    "203": {
+      "name": "Aranyozott Koponya Büszt I",
+      "flavor": "A triptichon első darabja — amit a művész megtagadott címmel ellátni."
+    },
+    "204": {
+      "name": "Csempészett Whisky Üveg",
+      "flavor": "Külföldi címke, tört pecsét, az import bélyegző ügyetlenül lekaparva."
+    },
+    "205": {
+      "name": "Eldobott Újdonság Játék",
+      "flavor": "A konténer mögött találva; senki nem vallja be hogy kié volt."
+    },
+    "206": {
+      "name": "Headshop Központi Darab",
+      "flavor": "Kézzel fújt boroszilikát, füsttel bevont kamra, matricaár már megtárgyalva."
+    },
+    "207": {
+      "name": "Króm Szalon Hajszárító",
+      "flavor": "Nehéz króm nyél, motor még meleg érintésre."
+    },
+    "208": {
+      "name": "Paradicsomkrém Konzerv",
+      "flavor": "Horpadt címke, lejárati dátum markerrel ledörzsölve."
+    },
+    "209": {
+      "name": "Műhely Szerszámláda",
+      "flavor": "Felső fiók nyitva lóg; dugókulcsok metrikusban, racsnik impériumban."
+    },
+    "210": {
+      "name": "Casino Pálya Trófea Labda",
+      "flavor": "Egy aranyozott kosárlabda szobor, markerrel aláírva egy félig elmaszatolt névvel."
+    },
+    "211": {
+      "name": "Sablonozott Lőszer Láda II",
+      "flavor": "Sárgaréz hüvelyek belül úgy csörögnek mint laza fogak egy kávés dobozban."
+    },
+    "212": {
+      "name": "Bársony Örökség Doboz",
+      "flavor": "Apró sárgaréz zsanérok még valaki nagymamájának illatát árasztják."
+    },
+    "213": {
+      "name": "Aranyozott Motorháztető Maquette",
+      "flavor": "Lakk elég vastag hogy egy kis garzont megfinanszírozz vele."
+    },
+    "214": {
+      "name": "Vezetői Büszt Szobor",
+      "flavor": "Valami alelnök választotta; az asszisztens forgatta a szemét."
+    },
+    "215": {
+      "name": "Ugráló CD Halom",
+      "flavor": "A tokok fele üres; a többi pokolig karcolva."
+    },
+    "216": {
+      "name": "Pult Lőszer Doboz",
+      "flavor": "Matrica AKCIÓ-t mond; a doboz soha nem mozdult."
+    },
+    "217": {
+      "name": "Bár Citrus Üveg",
+      "flavor": "Egy magányos szelet úgy úszik mintha borravalót várna."
+    },
+    "218": {
+      "name": "Hamis Bomba Eszköz",
+      "flavor": "Vezetékek olcsó cukorka színűek és egy időzítő ami nem ketyeg."
+    },
+    "219": {
+      "name": "Kirakat Játék",
+      "flavor": "Még a sikátorbeli macskák is messze elkerülik ezt."
+    },
+    "220": {
+      "name": "Gyanta Torony Bong",
+      "flavor": "A víz nem lett kicserélve az előző bérlő óta."
+    },
+    "221": {
+      "name": "Csiszolt Kristály Szivartartó",
+      "flavor": "Három szivarvég, mind kubai, mind alku közben elnyomva."
+    },
+    "222": {
+      "name": "Pult Kenyérpirító",
+      "flavor": "A tárcsa öton ragadt és még senki nem panaszkodott."
+    },
+    "223": {
+      "name": "Véres Kerti Ásó",
+      "flavor": "A pengén lévő föld vörösebb mint a felső talaj kellene legyen."
+    },
+    "224": {
+      "name": "Névtelen Barna Csomag",
+      "flavor": "Nincs visszaküldési cím, három különböző bélyegmatrica."
+    },
+    "225": {
+      "name": "No.1 Arcade Trófea",
+      "flavor": "Gravírozás EGYES SZÁM-ot olvas 1983-as betűtípusban."
+    },
+    "226": {
+      "name": "Gyógyszertár Polc Üveg",
+      "flavor": "Sajátmárkás címke, sajátmárkás szag, teljes árú címke."
+    },
+    "227": {
+      "name": "Vágott Keverő Cső",
+      "flavor": "Maradék gyűrűk belül mint egy rossz év a fáknak."
+    },
+    "228": {
+      "name": "Taktikai Lemez Maszk",
+      "flavor": "A szíj még mindig az utolsó fickó adrenalinjának illatát árasztja."
+    },
+    "229": {
+      "name": "Fekete Cím Nélküli Szobor",
+      "flavor": "A katalógus Cím nélkülinek hívja; a könyvelő veszteségnek."
+    },
+    "230": {
+      "name": "Lezárt Bajnok Üveg",
+      "flavor": "A plakett dátuma régebbi mint az arcade törzsvendégeinek többsége."
+    },
+    "231": {
+      "name": "Kemény Hab Fegyver Tok",
+      "flavor": "Habbetét még valami komoly dologhoz formázva."
+    },
+    "232": {
+      "name": "Cayo Só-Peremű Üveg",
+      "flavor": "A fedél körüli sópéerem azt mondja ez volt a szigeteken."
+    },
+    "233": {
+      "name": "Hárompillérű Boutique Gyertyák",
+      "flavor": "Három kanóc, három különböző égési sebesség, egy hangulat."
+    },
+    "234": {
+      "name": "Terep-Kiadású Gázmaszk",
+      "flavor": "A szűrő friss; a lencsék csipkévé karcolva."
+    },
+    "235": {
+      "name": "Króm Motorháztető Maquette",
+      "flavor": "Olyan fényesre polírozva amibe borotválkozhatsz."
+    },
+    "236": {
+      "name": "Félig Megevett Fánk Doboz",
+      "flavor": "Három maradt; egy biztosan meg lett nyalva."
+    },
+    "237": {
+      "name": "Agyag Kerti Cserép",
+      "flavor": "Föld száraz, pozsgás makacs, címke még a peremről lóg."
+    },
+    "238": {
+      "name": "Vörös Kanna",
+      "flavor": "Félig tele és a fedél egy rossz hétvége szagát árasztja."
+    },
+    "239": {
+      "name": "Nyomásérzékelős Akna",
+      "flavor": "A ravaszon a rugó elég feszesen tekercselve hogy fütyüljön."
+    },
+    "240": {
+      "name": "RC Hobbi Kézi Adó",
+      "flavor": "Antenna meghajlítva, bal stick ragadós, elemek valahogy még jók."
+    },
+    "241": {
+      "name": "Mágneses Jármű Akna",
+      "flavor": "Egy élőnek tűnő mágneses akna amit valaki sietve elhagyott."
+    },
+    "242": {
+      "name": "Rózsaszín Újdonság Játék B",
+      "flavor": "Egy papírzacskóba csomagolva amely nem élte túl a szelet."
+    },
+    "243": {
+      "name": "Poros VHS Lejátszó",
+      "flavor": "Kazetta beragadva belül, címke azt írja 'NE NÉZD'."
+    },
+    "244": {
+      "name": "Bársony Nyaklánc Kijelző",
+      "flavor": "Az ékszer eltűnt de a bársony még mindig fényezett illatú."
+    },
+    "245": {
+      "name": "Cayo Csiszolt Kristály Karaffa",
+      "flavor": "Csiszolt kristály ami lopott rumról és sós permetről suttog."
+    },
+    "246": {
+      "name": "Jobb Sportcipő",
+      "flavor": "Fűzők még megkötve, tulajdonos egyértelműen fél lábon ugrál haza."
+    },
+    "247": {
+      "name": "Sziklaszáli Vallomás",
+      "flavor": "Időjárásszín-vesztett vallomás egy szikla alá tűzve."
+    },
+    "248": {
+      "name": "24/7 Pot Tészta Pohár",
+      "flavor": "Még meleg, villa egyenesen felállva a vereségben."
+    },
+    "249": {
+      "name": "Vintage iPod Dokkoló",
+      "flavor": "Statikus zümmögés még kiárad ha pont jól megdöntöd."
+    },
+    "250": {
+      "name": "Cenzúrázott Küldetés Mappa",
+      "flavor": "Manila bőr, cenzúrázott tinta, halványan puskapor illatú."
+    },
+    "251": {
+      "name": "Összenyomott Alumínium Doboz",
+      "flavor": "Valaki parkolóóra dühe, alumíniumba örökítve."
+    },
+    "252": {
+      "name": "Lester Laptopja",
+      "flavor": "Tizenkét ablak nyitva, egyik sem legális."
+    },
+    "253": {
+      "name": "Rózsaszín Újdonság Játék D",
+      "flavor": "Csillámos felület, elemek optimisták."
+    },
+    "254": {
+      "name": "Szerviz Diszpécser Rádió",
+      "flavor": "Egy már nem létező diszpécser frekvenciára hangolva."
+    },
+    "255": {
+      "name": "Negyven Uncia Palack",
+      "flavor": "Az alja még ragadós egy hosszú Davis estéből."
+    },
+    "256": {
+      "name": "Spec Ops Sícsuklya",
+      "flavor": "Kordit és rossz döntések illata."
+    },
+    "257": {
+      "name": "Kompakt Lőszer Csomag",
+      "flavor": "A sárgaréz csendül amikor a szél fordul."
+    },
+    "258": {
+      "name": "Két-Szeletes Pult Kenyérpirító",
+      "flavor": "Morzsatálca nem lett kiürítve 2013 óta."
+    },
+    "259": {
+      "name": "Pisswasser Tall Boy",
+      "flavor": "Félüres, teljesen megbánva."
+    },
+    "260": {
+      "name": "Rosé Plonk Üveg",
+      "flavor": "Dugó kipattant egy évfordulóra ami soha nem jött."
+    },
+    "261": {
+      "name": "Gyöngyös Nyaklánc Állvány",
+      "flavor": "Egyetlen gyöngy még elkapja a Vinewood neont."
+    },
+    "262": {
+      "name": "SNS Pisztoly Mk II",
+      "flavor": "Elrejthető, letagadható, nagyon valódi."
+    },
+    "263": {
+      "name": "Kerámia Irodai Tál",
+      "flavor": "Üres egy makacs gemkapocs kivételével."
+    },
+    "264": {
+      "name": "Egylövetű Pisztoly",
+      "flavor": "Egy lövés, egy esély, egy rossz nap valakinek."
+    },
+    "265": {
+      "name": "Repedt Harci Sisak",
+      "flavor": "Szíj kopott, lencse repedt, történet el nem mesélve."
+    },
+    "266": {
+      "name": "Casino Szobor Autó #6",
+      "flavor": "Egy léptékű modell egy autóról ami többet ér mint amit a casino fizetett érte."
+    },
+    "267": {
+      "name": "Vörös Plonk Üveg",
+      "flavor": "Címke elhalványulva, évjárat valahogy rosszabb mint az árcímke."
+    },
+    "268": {
+      "name": "Cluckin' Bell Robbanóanyag",
+      "flavor": "Csirke-mintás szigetelőszalagba csomagolva, ami valahogy rosszabbá teszi."
+    },
+    "269": {
+      "name": "Beton Művészet Blokk I",
+      "flavor": "Szándékosan brutalista, véletlenül taglve."
+    },
+    "270": {
+      "name": "Rózsaszín Újdonság Játék F",
+      "flavor": "Egy Vinewood walk-up éjjeliszekrényén hagyva egy nagyon hangos kedd után."
+    },
+    "271": {
+      "name": "Hentes Bárdja",
+      "flavor": "Még halványan sertésdarab és rossz döntések szagú."
+    },
+    "272": {
+      "name": "Szerelő Racsnija",
+      "flavor": "Minden kulcs a maga imáját karcolta a fejbe."
+    },
+    "273": {
+      "name": "Magas Tét Forródrót Telefon",
+      "flavor": "Kagyló még meleg egy hívástól amit senki nem fog elismerni hogy ő tett."
+    },
+    "274": {
+      "name": "Csempész Statikus Doboz",
+      "flavor": "A tárcsa csak egy csatornát vesz fel és spanyolul suttog."
+    },
+    "275": {
+      "name": "Bársony Nyaklánc Állvány",
+      "flavor": "A lánc amit egykor tartott háromszor lett elzálogosítva dél előtt."
+    },
+    "276": {
+      "name": "Bár Szívószál Pohár",
+      "flavor": "A szívószálak fele ugyanabba az irányba hajlítva, mint nádak az áradásban."
+    },
+    "277": {
+      "name": "Pacific Standard Láda",
+      "flavor": "Nyolc csat, négy zár, egy ígéret amit a fuvarozók soha nem tartottak."
+    },
+    "278": {
+      "name": "Speedway Bronz Öntvény",
+      "flavor": "Egy trófea egy versenyről amire csak a dealerek emlékeznek."
+    },
+    "279": {
+      "name": "Nátrium Tészta Tégla",
+      "flavor": "Lejárt 2008-ban. Még mindig törvényesen ehető Blaine County-ban."
+    },
+    "280": {
+      "name": "Úriember Konyak Adag",
+      "flavor": "Három ujjnyi eltűnt és a dugó elveszett a szélben."
+    },
+    "281": {
+      "name": "Szikrázott Hegesztő Vizír",
+      "flavor": "Szikrák csillagképeket írtak az üvegen át."
+    },
+    "282": {
+      "name": "Jelöletlen Bajnok Kupa",
+      "flavor": "Nincs név vésve. Aki ezt nyerte, soha nem akart elismerést."
+    },
+    "283": {
+      "name": "Krómozott Adat Bálvány",
+      "flavor": "Krómmal bevonva és Lifeinvader gyakornokok titkaival tömve."
+    },
+    "284": {
+      "name": "Hideg Pisswasser Üveg",
+      "flavor": "Egy palack olyan hideg hogy megtanította egy férfit megbocsátani."
+    },
+    "285": {
+      "name": "Vörös Padló Strobe",
+      "flavor": "Még meleg. Még vörös. Még ugyanazt a ritmust zümmögi."
+    },
+    "286": {
+      "name": "Kokain Bálvány Szállító Láda",
+      "flavor": "A vámcímke valaki más vérével lett aláírva."
+    },
+    "287": {
+      "name": "Őszinte Whisky Üveg",
+      "flavor": "Aki ivott belőle, semmit nem bocsátott meg."
+    },
+    "288": {
+      "name": "Apályi Tó Peyote Bimbó",
+      "flavor": "A sósvíz megőrizte amit a sivatag megpróbált tagadni."
+    },
+    "289": {
+      "name": "Fürdőszobai Vattacsutkák",
+      "flavor": "Használt. Mindegyik különböző. Ne kérdezz."
+    },
+    "290": {
+      "name": "Sugar Loop Müzli Doboz",
+      "flavor": "A kabala szemeit egy előző tulajdonos kikaparta."
+    },
+    "291": {
+      "name": "Beton Coupé Maquette",
+      "flavor": "Egy miniatűr a valóságos porával festve."
+    },
+    "292": {
+      "name": "Elfeledett Készlet Doboz",
+      "flavor": "Bármi is volt benne, elkelt mielőtt a nap felkelt."
+    },
+    "293": {
+      "name": "Arany Tojás",
+      "flavor": "Egy Fleeca széfből hegedűtokban hozva ki."
+    },
+    "294": {
+      "name": "Diplomata Aktatáska",
+      "flavor": "Kombináció egy születésnapra zárva amit senki nem fog bevallani."
+    },
+    "295": {
+      "name": "Vadász Trófea Koponya",
+      "flavor": "Egy bak az agancsain árral."
+    },
+    "296": {
+      "name": "Margón Jegyzetelt Író",
+      "flavor": "Minden oldal aláhúzva. Egyik sem ért egyet."
+    },
+    "297": {
+      "name": "Trópusi Ananász Csecsebecse",
+      "flavor": "Rossz gyümölcs, rossz sziget, helyes szándék."
+    },
+    "298": {
+      "name": "Szemétlerakó Rongybaba",
+      "flavor": "Aki visszavarrta sietett."
+    },
+    "299": {
+      "name": "Kopott Sportcipő",
+      "flavor": "Egyetlen sportcipő hátrahagyva tegnap esti vásár forgatagában."
+    },
+    "300": {
+      "name": "Space Ranger Blaster",
+      "flavor": "Egy replika sugárfegyver egy régen kifutott Vinewood franchise-ból."
+    },
+    "301": {
+      "name": "Pride Lager Hatos Pack",
+      "flavor": "Tegnap raktározva, már félig elfelejtve az alsó polcon."
+    },
+    "302": {
+      "name": "Csata Whisky Karaffa",
+      "flavor": "Egy matt üveg ház adag egy régen bezárt cantinából."
+    },
+    "303": {
+      "name": "Porcelán Macska Figurin",
+      "flavor": "Kerámia szeme csorba de még figyeli a szobát."
+    },
+    "304": {
+      "name": "Vezetői Tolltartó",
+      "flavor": "Hat golyóstoll, kettő száraz, egy javíthatatlanul rágott."
+    },
+    "305": {
+      "name": "Eldobott Munkáscsizma",
+      "flavor": "Sár még a talpán egy melóból amit senki nem fejezett be."
+    },
+    "306": {
+      "name": "Régi Csata Tartalék",
+      "flavor": "Címke lehúzva, tartalom borostyán, évjárat lehetetlen ellenőrizni."
+    },
+    "307": {
+      "name": "Bőrkötésű Antológia",
+      "flavor": "Margón jegyzetek három különböző kézben és egy idegen írásban."
+    },
+    "308": {
+      "name": "Használt Spray Doboz",
+      "flavor": "Kupak hiányzik, fúvóka tegnap esti elektromos kékkel eltömődve."
+    },
+    "309": {
+      "name": "Karmin Aeroszol",
+      "flavor": "A helyi crewk kedvenc árnyalata, mindig fogyóban."
+    },
+    "310": {
+      "name": "Éjféli Aeroszol",
+      "flavor": "Nehezebb doboz mint ikertestvére, addig rázva amíg a golyó engedett."
+    },
+    "311": {
+      "name": "Megviselt Gáz Konténer",
+      "flavor": "Félig tele, főleg gőzök, egy figyelmeztető matrica rég elhalványulva."
+    },
+    "312": {
+      "name": "Imperator Arena Kupa",
+      "flavor": "Egy arena díj amelyért egy bajnok soha nem ment vissza."
+    },
+    "313": {
+      "name": "Lezárt Dosszié",
+      "flavor": "Oldalak bélyegezve, dátumok cenzúrázva, gemkapocs rozsda-rágta."
+    },
+    "314": {
+      "name": "Tequila Reposado",
+      "flavor": "A féreg régen feloldódott a legendába."
+    },
+    "315": {
+      "name": "Vászonkötésű Kötet",
+      "flavor": "Egy olvasó hüvelykujjlenyomata véglegesen a negyedik fejezetbe nyomva."
+    },
+    "316": {
+      "name": "Eldobott Sportcipő",
+      "flavor": "Fűzők összekötve, valaki azt akarta hogy egy vezetékre dobja."
+    },
+    "317": {
+      "name": "Vintage Pezsgő Üveg",
+      "flavor": "Fólia érintetlen, dugó csendben izzadva a hűvös sötétben."
+    },
+    "318": {
+      "name": "Diner Kávés Bögre",
+      "flavor": "Rúzs félhold a peremen, utántöltés soha nem jött."
+    },
+    "319": {
+      "name": "Gyűrött Felnőtt Magazin",
+      "flavor": "Oldalak összeragadva ahol a rágógumi pálca leesett."
+    },
+    "320": {
+      "name": "Márvány Mozsár és Tölcsér",
+      "flavor": "Fehér maradék a szemcsékbe ülepedve, nem teljesen cukor."
+    },
+    "321": {
+      "name": "Bepárásodott Búvármaszk",
+      "flavor": "Szíj sótól merev, lencse karcos egy zátony túl sokkal."
+    },
+    "322": {
+      "name": "Vezetékes Robbantó Csomag",
+      "flavor": "Aki beállította az időzítőt, az is rajzolt egy mosolygós arcot a szalagra."
+    },
+    "323": {
+      "name": "Ipari Festékesdoboz",
+      "flavor": "Fedél felfeszítve, ecset beragadva, fedél már nem zár."
+    },
+    "324": {
+      "name": "Izzadtságfoltos Stetson",
+      "flavor": "A hajtás azt mondja a viselő keményen lovagolt, magasan ült."
+    },
+    "325": {
+      "name": "Bank Hall Udvariassági Telefon",
+      "flavor": "Kagyló meleg, valaki letette abban a másodpercben hogy beléptél."
+    },
+    "326": {
+      "name": "Ház Vodka Ötödik",
+      "flavor": "Olcsó címke, őszinte égés, fele eltűnt dél előtt."
+    },
+    "327": {
+      "name": "Öntöttvas Súlyzó",
+      "flavor": "Recézett markolat ezer ismétléstől sötétülve."
+    },
+    "328": {
+      "name": "Kérgezett Kincsesláda",
+      "flavor": "Sárgaréz csat sóval összeolvasztva, a retesz sziszeg amikor felemeled."
+    },
+    "329": {
+      "name": "Redwood Karton",
+      "flavor": "Egy lapított Redwoods csomag a kassza üvege mögé bedugva."
+    },
+    "330": {
+      "name": "Referencia Könyv Halom",
+      "flavor": "Három keménytáblás halmozva valaki által aki soha nem ment vissza befejezni őket."
+    },
+    "331": {
+      "name": "Pult Cukor Szelet",
+      "flavor": "Egy snackbár csomagolás ami nagyon próbálja gourmetnek látszani."
+    },
+    "332": {
+      "name": "DJ Booth EQ Rack",
+      "flavor": "Patch kábelek halványan világítanak a strobe alatt."
+    },
+    "333": {
+      "name": "Pantheon Vászon Nyomat",
+      "flavor": "Egy vászon várva egy falra amit soha nem teljesen érdemel."
+    },
+    "334": {
+      "name": "Háromlyukú Sícsuklya",
+      "flavor": "Még mindig ideges izzadtság szagú."
+    },
+    "335": {
+      "name": "House Edge Maquette",
+      "flavor": "Egy apró tisztelgés egy épület előtt ami soha nem ad vissza semmit."
+    },
+    "336": {
+      "name": "Zúzott Roma Paradicsom",
+      "flavor": "Kettő-egyért és valószínűleg ok miatt."
+    },
+    "337": {
+      "name": "Főtt Pyrex Pohár",
+      "flavor": "Maradék az alján azt mondja valaki rövidítést használt."
+    },
+    "338": {
+      "name": "Úriember Fényesnyomatos",
+      "flavor": "Sarok behajtva ugyanazon az oldalon 2013 óta."
+    },
+    "339": {
+      "name": "Munkahelyi Figyelmeztető Jelzőfény",
+      "flavor": "Narancssárgán villog mintha lenne hova mennie."
+    },
+    "340": {
+      "name": "Kirakat Sportcipő Jobb",
+      "flavor": "Kiállítási modell, soha nem párosítva, soha nem eladva."
+    },
+    "341": {
+      "name": "Iroda Kávés Bögre",
+      "flavor": "Langyos, rúzs a peremen, tulajdonos ismeretlen."
+    },
+    "342": {
+      "name": "Kirakat Gyep Négyzet",
+      "flavor": "Egy szép kis négyzet ami rétnek tetteti magát."
+    },
+    "343": {
+      "name": "Rongykanócos Molotov",
+      "flavor": "Olcsó gin és rosszabb döntések szaga."
+    },
+    "344": {
+      "name": "MC Chapter Fedél",
+      "flavor": "Pin még meleg a parkoló patch ceremóniából."
+    },
+    "345": {
+      "name": "Lezárt Csempész Készlet",
+      "flavor": "Üveg még gyári friss, címke kifeszített."
+    },
+    "346": {
+      "name": "Hélium Buli Lufi",
+      "flavor": "Madzag egy összecsukható szék lába köré gabalyodva."
+    },
+    "347": {
+      "name": "Kirakat Sportcipő Bal",
+      "flavor": "Talp érintetlen, fűzők túl szorosra fűzve hogy valaha viselhetők legyenek."
+    },
+    "348": {
+      "name": "Lakkozott Művészeti Coupé",
+      "flavor": "Olyan által festve aki soha nem birtokolta a valódit."
+    },
+    "349": {
+      "name": "Kartell Gyanta Büszt",
+      "flavor": "Egy arc amit senki nem kért emlékezni."
+    },
+    "350": {
+      "name": "Keménytáblás Szóló",
+      "flavor": "Gerinc egyszer, kétszer megrepedt, aztán visszatéve."
+    },
+    "351": {
+      "name": "Kinyitott Pezsgő II",
+      "flavor": "Fél állott, teljes ár."
+    },
+    "352": {
+      "name": "Hiúsági Üveg Tükör",
+      "flavor": "Elkenve olyan által aki tényleg biztos akart lenni."
+    },
+    "353": {
+      "name": "Fél-csomag Hamutartó",
+      "flavor": "Három filter, egy gyufa, nulla megbánás."
+    },
+    "354": {
+      "name": "Boutique Teszter Üveg",
+      "flavor": "Idegenek által félig befújva, soha nem megvásárolva."
+    },
+    "355": {
+      "name": "Dokk Rakomány Kampó",
+      "flavor": "A kötél bütyke megkopott ahol valaki türelmetlen lett."
+    },
+    "356": {
+      "name": "Crate-Dive Vinyl Tok",
+      "flavor": "B-oldal markerrel firkálva az eredeti tulajdonos által."
+    },
+    "357": {
+      "name": "Diner Szalvéta Halom",
+      "flavor": "Rúzs folt még a felső szalvétán."
+    },
+    "358": {
+      "name": "Körzet Pajzs Plakett",
+      "flavor": "Egy plakett gyakrabban polírozva mint amennyit megérdemelt."
+    },
+    "359": {
+      "name": "Pacific Rúd Aranyrúd",
+      "flavor": "Egyetlen rúd préselt napfény, nehezebb mint a csendje."
+    },
+    "360": {
+      "name": "Arcade Robot Csecsebecse",
+      "flavor": "Bádog mosoly, plasztik szív, nyolc bit elhelyezett lojalitás."
+    },
+    "361": {
+      "name": "Adományozó Kabala Csecsebecse",
+      "flavor": "Egy souvenir egy vacsoráról ami valaki hallgatásáért fizetett."
+    },
+    "362": {
+      "name": "Késő Esti Kölcsön DVD",
+      "flavor": "Az a fajta műanyag tok ami soha nem ment vissza az üzletbe."
+    },
+    "363": {
+      "name": "Akciós Snapback Sapka",
+      "flavor": "Karima még a polctól meghajlítva, soha nem a fejtől."
+    },
+    "364": {
+      "name": "Antik Tárcsás Telefon",
+      "flavor": "Egy csengetés ami még hiszi hogy valaki van a másik oldalon."
+    },
+    "365": {
+      "name": "Hét Pálya Árva Golyó",
+      "flavor": "Három ujj elvétette; a csatorna fogta el helyette."
+    },
+    "366": {
+      "name": "Aláhúzott Margón Könyv",
+      "flavor": "Kétszer aláhúzva, sarkok behajtva, soha nem fejezve be a negyedik fejezet után."
+    },
+    "367": {
+      "name": "Kettő-egyért Konzerv",
+      "flavor": "Polc-háborúból horpadt, még hideg a hűtőtől."
+    },
+    "368": {
+      "name": "Halott Forgalmi Jelzőlámpa",
+      "flavor": "Egy vörös szem ami végre bezáródhatott."
+    },
+    "369": {
+      "name": "Elveszett Pilot Beta Kazetta",
+      "flavor": "Egy soha nem adott show mágneses emléke."
+    },
+    "370": {
+      "name": "Kassza Csokoládé Szelet",
+      "flavor": "Az impulzív vásárlás ami száz pénztárcát látott kinyílni."
+    },
+    "371": {
+      "name": "Parázs Megérdemelt Trófea",
+      "flavor": "Adva annak aki a tűzet életben tartotta a hidegen át."
+    },
+    "372": {
+      "name": "Pálya Veterán Röplabda",
+      "flavor": "Halvány panelek, homokzsebek, még egy szett benne."
+    },
+    "373": {
+      "name": "Negyedéves Előrejelzés Mappa",
+      "flavor": "Számok melyek többet ígértek mint amennyit szállítottak."
+    },
+    "374": {
+      "name": "Olajos Majom Bögre",
+      "flavor": "Polírozva ahol a kezek fogják, sebezve mindenhol máshol."
+    },
+    "375": {
+      "name": "B-film Sugárfegyver",
+      "flavor": "Vákuumcsövek, króm uszonyok, fenyegetések amiket nem tarthat."
+    },
+    "376": {
+      "name": "Megmentett Porcelán Tál",
+      "flavor": "Porcelán ami hallott dolgokat amiket egyetlen porcelán sem kellene."
+    },
+    "377": {
+      "name": "Repedt Nyitott-Fülek Laptop",
+      "flavor": "Akku halott a legrosszabb mentési pontnál."
+    },
+    "378": {
+      "name": "Rejtett Beacon Scanner",
+      "flavor": "Csiripel dolgokra amiket a város megpróbált eltemetni."
+    },
+    "379": {
+      "name": "Igazgatótanács Eredeti Festmény",
+      "flavor": "Bekeretezett ízlés, aláírva valaki által aki megengedhette magának."
+    },
+    "380": {
+      "name": "Kassza Csali Csomagolt Cukorka",
+      "flavor": "Fóliába csomagolva, épp karnyújtásnyira tartva."
+    },
+    "381": {
+      "name": "Barna-Hüvelyes DVD",
+      "flavor": "Egy cím ami egyszerű barna hüvelyben jött."
+    },
+    "382": {
+      "name": "Kő Fejsze Örökség",
+      "flavor": "Türelmesen és csendben pattintva olyan kezek által amik ismerték az erdőket."
+    },
+    "383": {
+      "name": "Negyvenhetes Felvétel Csapó",
+      "flavor": "Jelölve, ütemezve, soha nem használva a végső vágásban."
+    },
+    "384": {
+      "name": "Tűz Diszpécser Kézi",
+      "flavor": "Statikus és egy hívójel amit senki nem válaszolt."
+    },
+    "385": {
+      "name": "Galéria Központi Autó",
+      "flavor": "Egy autó ami kicserélte a motorját egy véleményért."
+    },
+    "386": {
+      "name": "Pier Finálé Tűzijáték",
+      "flavor": "Egy gyufa, egy virágzás, egy zársebesség."
+    },
+    "387": {
+      "name": "Járda Talált Pénztárca",
+      "flavor": "Kártyák még bent, remény még a pénztárba hajtva."
+    },
+    "388": {
+      "name": "Megfakult Gyógyszeres Üveg",
+      "flavor": "Címke tisztára hámozva, kupak laza, tartalom rég eltűnt."
+    },
+    "389": {
+      "name": "Gyűrött eCola Doboz",
+      "flavor": "Még ragadós egy nyártól amire senki nem emlékszik."
+    },
+    "390": {
+      "name": "Elhasznált Boutique Gyertyák",
+      "flavor": "Viasz egy alakba gyűlt ami majdnem egy archoz hasonlít."
+    },
+    "391": {
+      "name": "Block Party Boombox",
+      "flavor": "Kazetta deck dal közepén beragadva, akkumulátorok savat szivárognak."
+    },
+    "392": {
+      "name": "Ipari Húzóheveder Készlet",
+      "flavor": "Foszlott szíjak, kampó sebzett egy túl sok emeléstől."
+    },
+    "393": {
+      "name": "Elfeledett Édesség Üveg",
+      "flavor": "Üveg karcolt, cukorkák egy rágós tömegbe olvasztva."
+    },
+    "394": {
+      "name": "Kartell Likőr Üveg",
+      "flavor": "Külföldi címke, a pecsét fele még érintetlen."
+    },
+    "395": {
+      "name": "Hegesztő Égő",
+      "flavor": "Hegy feketére égett, gyújtó még halványan kattan."
+    },
+    "396": {
+      "name": "Labor-minőségű Aceton",
+      "flavor": "Gőzök még tekerednek a kupakról amikor kinyitod."
+    },
+    "397": {
+      "name": "Széf Belépési Billentyűzet",
+      "flavor": "Öt és hét simára kopott, nyolc pirosan villog."
+    },
+    "398": {
+      "name": "Cayo Kristály Karaffa",
+      "flavor": "Borostyán egy gyűrűbe száradva az alján, címke rég eltűnt."
+    },
+    "399": {
+      "name": "Malom Fonal Orsó",
+      "flavor": "Ipari pirosra festve, még meleg a szövőszéktől."
+    },
+    "400": {
+      "name": "Bank Biztonsági Billentyűzet",
+      "flavor": "Mágnescsík nyílás egy tört kártya széllel beragadva."
+    },
+    "401": {
+      "name": "Tört WC Alap",
+      "flavor": "Porcelán repedt, halványan fertőtlenítőszer szagú."
+    },
+    "402": {
+      "name": "Casino Fegyver Szobor",
+      "flavor": "Plattírozott acél, valet állvány csorba a torkolatnál."
+    },
+    "403": {
+      "name": "Régi Konzol Egység",
+      "flavor": "Tápellátás LED még villog amikor megkopogod a házat."
+    },
+    "404": {
+      "name": "Kirakat Sportcipő",
+      "flavor": "Egyetlen cipő, fűzők még gyári friss."
+    },
+    "405": {
+      "name": "Hajógyár Hegesztő Maszk",
+      "flavor": "Vizír belülről bepárásodva, szíj sóval kérgezve."
+    },
+    "406": {
+      "name": "Zseb Hack Eszköz",
+      "flavor": "Képernyő semmivé karcolva, antenna még kinyújtva."
+    },
+    "407": {
+      "name": "Horpadt Alumínium Ütő",
+      "flavor": "Alumínium kráteres ott ahol valami szilárddal találkozott."
+    },
+    "408": {
+      "name": "Vágó-Szóda Doboz",
+      "flavor": "Félig üres, kanál még a porba temetve."
+    },
+    "409": {
+      "name": "Pier Mozsárgránát",
+      "flavor": "Gyutacs rövidre vágva, perzselési gyűrű az alap körül."
+    },
+    "410": {
+      "name": "Taktikai Hack Eszköz",
+      "flavor": "Gumi páncél szakadva, egyedi firmware csendesen fut."
+    },
+    "411": {
+      "name": "Foltos Felnőtt Magazin",
+      "flavor": "Oldalak ragadva, középfold rég kiszakítva."
+    },
+    "412": {
+      "name": "Sarki Bolt Háromszög Tábla",
+      "flavor": "Plasztik elhalványulva, egy tartó egy gondatlan teherautótól elhajlítva."
+    },
+    "413": {
+      "name": "Aranyozott Karabély Tár",
+      "flavor": "Vésett vonaldísz, lőszerek még a helyükön."
+    },
+    "414": {
+      "name": "Dísztárgy Kijelző Kocka",
+      "flavor": "Üvegkocka, tartalom bármilyen szögből megfogja a fényt."
+    },
+    "415": {
+      "name": "Külső Merevlemez",
+      "flavor": "Ház meleg, kijelző borostyánnál ragadva."
+    },
+    "416": {
+      "name": "Félig-Ivott Koktél",
+      "flavor": "Jég lével olvadt, lime héja gömbölyödik."
+    },
+    "417": {
+      "name": "Szövőszék Cérna Köteg",
+      "flavor": "Indigó festék még szivárog az orsó magjába."
+    },
+    "418": {
+      "name": "Patriot Spirit Trófea",
+      "flavor": "A magas pontszámot szerzőnek adva aki nem tudta abbahagyni a sas kabinetbe való tokenmesterezést."
+    },
+    "419": {
+      "name": "Színpadi Stack Hangszóró",
+      "flavor": "Még zúg egy reggel négyes Boris Brejcha settől amit senki nem akart befejezni."
+    },
+    "420": {
+      "name": "QUB3D Bajnok Trófea",
+      "flavor": "Faragott habplastik és tiszta pixelizált dicsőség — ranglista iniciálék még láthatók."
+    },
+    "421": {
+      "name": "Diner Desszert Tálca",
+      "flavor": "Egy palacsinta torony amit valaki elhagyott abban a pillanatban hogy a rendelése felforrósodott."
+    },
+    "422": {
+      "name": "Csiszolt Zafír Kő",
+      "flavor": "Épp eléggé fazettázva hogy valódinak tűnjön — a kerítésnek nagyítóra és egy hazugságra lesz szüksége."
+    },
+    "423": {
+      "name": "Hentes Fehér Sapka",
+      "flavor": "Halványan sósvíz és tegnapi műszak szagú, karima bütykös ujjak által hajlítva."
+    },
+    "424": {
+      "name": "Producer Jegyzetfüzet",
+      "flavor": "Margók költségvetési vágásokkal és egy négyszer bekarikázott telefonszámmal túlzsúfolva."
+    },
+    "425": {
+      "name": "Tizenkettedik Felvétel Csapó",
+      "flavor": "Jelenet jelölés száraz-törlővel firkálva: INT. RAKTÁR — NAPPAL. ÚJRA."
+    },
+    "426": {
+      "name": "Vállalati Lucite Díj",
+      "flavor": "Lucite szilánk egy névvel vésve amire senki sem emlékszik már a cégnél."
+    },
+    "427": {
+      "name": "Elhasznált Sárgaréz Hüvely",
+      "flavor": "Még meleg a beltéri lőtérről — gyutacskupa egy kopott ütőszeg által horpasztva."
+    },
+    "428": {
+      "name": "Inert Repesz Gránát",
+      "flavor": "Pin egyenes, kanál szalagozva — valaki tényleg azt akarta hogy ez eladható legyen."
+    },
+    "429": {
+      "name": "Bíróság Sárgaréz Névtábla",
+      "flavor": "Sárgaréz plakett tisztára feszítve egy bíró ajtajáról — iniciálék sietősen lekaparva."
+    },
+    "430": {
+      "name": "Módosított Harci Pisztoly",
+      "flavor": "Menetes cső, kézzel sakkozott markolat — sorozatszám Dremel-lel és szégyennel csiszolva."
+    },
+    "431": {
+      "name": "Casino Rakéta Szobor",
+      "flavor": "Csiszolt króm és vörös lakk — megígérte hogy valamilyen szerencsés valetet a holdra visz."
+    },
+    "432": {
+      "name": "Biliárd Rack Háromszög",
+      "flavor": "Olcsó fa simára kopott — a filc alatta tízezer break lövést látott."
+    },
+    "433": {
+      "name": "Repedt Bábú Replika",
+      "flavor": "Textúrafájl glitched a készítés napján — render hiba relikviaként megőrizve."
+    },
+    "434": {
+      "name": "24/7 Zöldségleves Konzerv",
+      "flavor": "Szavatossági dátum rég lejárt — címke tizenkét kerti zöldséget és nulla ízt ígér."
+    },
+    "435": {
+      "name": "Érlelt Brandy Üveg",
+      "flavor": "Dugó évek óta kiszáradt — a hátsó címke a sarokban hámlik."
+    },
+    "436": {
+      "name": "VHS Megfigyelő Kazetta",
+      "flavor": "Címke azt mondja OPS 04/12 — az írás többi része le van kaparva."
+    },
+    "437": {
+      "name": "Megafon",
+      "flavor": "Ravasz félúton megakad — valaki rekedtre kiabálta magát és a járdaszegélyre dobta."
+    },
+    "438": {
+      "name": "Égett ID Sablon Lemez",
+      "flavor": "CD-R oldószer szagú — névlista a tokra ragasztva, felük kihúzva."
+    },
+    "439": {
+      "name": "Penthouse Bronz Szobor",
+      "flavor": "Az árverező származékosnak nevezné — a tulajdonos felbecsülhetetlennek és komolyan gondolta."
+    },
+    "440": {
+      "name": "Színpadi Lámpa Rig",
+      "flavor": "Gél szűrő egyik sarokban feketévé válva — a tartó nyikorog amikor a basszus üt."
+    },
+    "441": {
+      "name": "Fehéraranyú Medál Gyémánt",
+      "flavor": "Kerek csiszolás, kétkarátos, fehéraranyba foglalva — egy láncról csúszott amely nem az övé volt."
+    },
+    "442": {
+      "name": "Stúdió Felvevő Mikrofon",
+      "flavor": "Membrán enyhén meghajlítva — minden ének rajta keresztül kísérteties csendet kap a tetején."
+    },
+    "443": {
+      "name": "Lopott Szappanadagoló",
+      "flavor": "Szerelőkar elhajlítva — félig tele rózsaszín kórházi szappannal ami semmilyen szagú."
+    },
+    "444": {
+      "name": "Vegyész Stash Tasak",
+      "flavor": "Vinyl kívül, ólommal bélelt belül — nehezebb mint amennyihez joga van."
+    },
+    "445": {
+      "name": "Boutique Hangszórótartó",
+      "flavor": "Bluetooth még párosítja egy telefonhoz aaron's iphone nevével ami nem jött vissza."
+    },
+    "446": {
+      "name": "Narancs Kanna",
+      "flavor": "Negyedig tele középkategóriával — kiöntő még csepeg amikor megdöntöd negyvenöt után."
+    },
+    "447": {
+      "name": "Napon Szárított Peyote",
+      "flavor": "Repedt földből húzva ahol a sivatag déli órán önmagának zümmög."
+    },
+    "448": {
+      "name": "Rendező Terep Kamera",
+      "flavor": "Még meleg az utolsó felvételtől, lencse párás díszletfényektől és hamis esőtől."
+    },
+    "449": {
+      "name": "Magas Tét Hívógomb",
+      "flavor": "Egy nyomás pezsgőt hívott; kettő keményebben tette próbára a szerencsédet."
+    },
+    "450": {
+      "name": "Egyetlen Velúr Sportcipő",
+      "flavor": "Csak bal láb, az orrnál karcos mintha próbálna lépést tartani a forgalommal."
+    },
+    "451": {
+      "name": "Csiszolt-Kristály Karaffa",
+      "flavor": "Az a fajta üveg ami a kis beszélgetést bevallássá változtatja."
+    },
+    "452": {
+      "name": "Vésett Közéleti Plakett",
+      "flavor": "Egy név sárgarézben, félig polírozva, félig elfelejtve az emberek által akik elhaladnak."
+    },
+    "453": {
+      "name": "Műhely-teszt EMP Tekercs",
+      "flavor": "Vezetékelve valaki türelmével akinek csak egyszer kellett igaza lennie."
+    },
+    "454": {
+      "name": "Arcade Bajnok Trófea",
+      "flavor": "Tokenekben kiérdemelve, ujjakkal polírozva, karcolt műanyagban aláírva."
+    },
+    "455": {
+      "name": "Pénztáros Sárgaréz Trófea",
+      "flavor": "Negyven évért adva mások jó szerencséjét számolni."
+    },
+    "456": {
+      "name": "Párnázott Sport Sisak",
+      "flavor": "Halványan öltöző és péntek esti rossz döntések szagú."
+    },
+    "457": {
+      "name": "Hamis Útlevelek Kötege",
+      "flavor": "Minden fotó ugyanúgy hunyorít, mintha a kamera őket egy hazugság közepén kapta volna el."
+    },
+    "458": {
+      "name": "Félig-Ivott Pina Colada",
+      "flavor": "Az esernyő megdőlt, a rum leülepedett, az éjszaka nem akart véget érni."
+    },
+    "459": {
+      "name": "Csomagolt Pénz Köteg",
+      "flavor": "Még a széf szagát árasztja amit elhagyott, kötözve olyan kezek által akik nem számoltak kétszer."
+    },
+    "460": {
+      "name": "Karmos Játék Plüss",
+      "flavor": "Két érme, három próba, egy remegő kéz a joysticken."
+    },
+    "461": {
+      "name": "Labor Üveg Állvány",
+      "flavor": "Címkék félig lehámozva, tartalmak címkézetlenek, ambíciók kifejezetten kémiaiak."
+    },
+    "462": {
+      "name": "Gyűrött Tabloid",
+      "flavor": "Tegnapi botrány, fele áron, kétszer annyi elgépeléssel."
+    },
+    "463": {
+      "name": "Tűsarkú Csempén",
+      "flavor": "Sietve lerúgva olyan által aki próbálta emlékezni a nevére."
+    },
+    "464": {
+      "name": "Olajozott Nehéz Pisztoly",
+      "flavor": "Markolat simára kopott egy kéz által amely tudta hol volt a biztonsági kapcsoló."
+    },
+    "465": {
+      "name": "Laza Lőszerek Doboza",
+      "flavor": "Egy sorozattal bélyegezve amit ezúttal senki nem zavart letiltani."
+    },
+    "466": {
+      "name": "Karcos Munkavédelmi Sisak",
+      "flavor": "Sárga festék lehámlik ahol a betonvas tovább kérdezett."
+    },
+    "467": {
+      "name": "Sarkos Fényesnyomat",
+      "flavor": "Felső polc, alsó árak, állítólag főleg a cikkek miatt olvasva."
+    },
+    "468": {
+      "name": "Trezor Gyémánt Tok",
+      "flavor": "Bársony belül, ujjlenyomatok kívül, történet el nem mesélve egyikben sem."
+    },
+    "469": {
+      "name": "Onyx Koponya Büszt",
+      "flavor": "Egy szobrász faragta aki ragaszkodott hogy a memento mori egy craps asztalra való."
+    },
+    "470": {
+      "name": "Gyógyszertár Átvevő Doboz",
+      "flavor": "Utántöltés, lezárás, ismétlés, plusz egy köhögésszálkás csepp az útra."
+    },
+    "471": {
+      "name": "Dísztárgy Üveg Befőttesüveg",
+      "flavor": "Viasszal lezárva, szándékkal címkézve, abszolút senki által kinyitva."
+    },
+    "472": {
+      "name": "Bambusz Gőz Kosár",
+      "flavor": "Tető kétszer megemelve, ujjak egyszer megégetve, gombócok minden megérnek."
+    },
+    "473": {
+      "name": "Celofánba Csomagolt Cukorka",
+      "flavor": "Csomagolás kétszer megcsavarva, cukor még hangosabb mint bármilyen beszélgetés."
+    },
+    "474": {
+      "name": "Hímzett Díszpárna",
+      "flavor": "Bojtos sarkok, enyhe horpadás ahol valaki majdnem mondott valami őszintét."
+    },
+    "475": {
+      "name": "Kopott Bársony Párna",
+      "flavor": "Halvány arany cérna, két különböző macskaszőr, egy folt amit megtagad megbeszélni."
+    },
+    "476": {
+      "name": "Lezárt Cayo Lőszer Láda",
+      "flavor": "Sablon még nedves, láda még önelégült, tartalom még zümmögő."
+    },
+    "477": {
+      "name": "Forum Drive Pálya Labda",
+      "flavor": "Ezer pickup játéktól laposra pattogtatva a déli oldalon."
+    },
+    "478": {
+      "name": "Mirror Park Veranda Lámpa",
+      "flavor": "Izzó kiégett azon az éjszakán amikor a háztömb végleg elvesztette az áramot."
+    },
+    "479": {
+      "name": "Sandy Trailer Sícsuklya",
+      "flavor": "Gyapjú úgy viszket mint a bűn és meth és Pisswasser szagú."
+    },
+    "480": {
+      "name": "Kabin PC Hangszóró",
+      "flavor": "Várakozási zenét játszott elemzőknek akik soha nem lettek előléptetve."
+    },
+    "481": {
+      "name": "LS River Tag Doboz",
+      "flavor": "Krylon Apple Red, addig rázva amíg a golyóscsapágy kikopott."
+    },
+    "482": {
+      "name": "Little Seoul Dísztárgy Doboz",
+      "flavor": "Cédrus berakás halványan kámfor és valaki nagymamája illatú."
+    },
+    "483": {
+      "name": "Sandy Ammu-Nation Céltávcső",
+      "flavor": "Szálkereszt egy hajszállal eltolva de az üveg még tiszta."
+    },
+    "484": {
+      "name": "Maze Bank Arena Trófea",
+      "flavor": "Örökké forog ha pont jól pöccinted."
+    },
+    "485": {
+      "name": "Vespucci Headshop Bong",
+      "flavor": "A víz még csobog. Ne kérdezd milyen színű."
+    },
+    "486": {
+      "name": "Strawberry 24/7 Karton",
+      "flavor": "Fél hatos meleg energiaitalból, alja ragadós."
+    },
+    "487": {
+      "name": "Del Perro Vape Pen",
+      "flavor": "A tekercs kék málna és megbánás ízű."
+    },
+    "488": {
+      "name": "Vinewood Casino Gyanta Koponya",
+      "flavor": "Gyanta nem csont, de elég nehéz hogy becsapja a galériát."
+    },
+    "489": {
+      "name": "Cypress Flats Lőszer Láda",
+      "flavor": "Sablonozott tételszám még olvasható a zsír alatt."
+    },
+    "490": {
+      "name": "Hill Valley Temető Rózsa",
+      "flavor": "Szirmok már barnulnak a széleken."
+    },
+    "491": {
+      "name": "LS Liquor Mart Ötödik",
+      "flavor": "Címke lehámozva egy papírzacskó aljától."
+    },
+    "492": {
+      "name": "Galaxy Club DJ Fejhallgató",
+      "flavor": "Bal kupa ragadós. A jobb még dobog mint egy lábdob."
+    },
+    "493": {
+      "name": "Rockford Okos Szemüveg",
+      "flavor": "Lencsék még villognak amikor a fény felé döntöd őket."
+    },
+    "494": {
+      "name": "Nyitott Vogue Magazin",
+      "flavor": "Egy Ponsonbys hirdetésre kiterítve, három évadnyi régi."
+    },
+    "495": {
+      "name": "Újságosbódé Fényesnyomatos",
+      "flavor": "A borító modelljének homlokán kávégyűrű van."
+    },
+    "496": {
+      "name": "Pitchers Patio Üveg",
+      "flavor": "Utolsó híváskor szárazra ivva, ujjlenyomatok még a nyakon."
+    },
+    "497": {
+      "name": "Zancudo Kerítés Rakéta",
+      "flavor": "Inert. Valószínűleg. A szárnyak meghajlítva de a jelölések tiszták."
+    },
+    "498": {
+      "name": "Vinewood Hills Fali Lámpa",
+      "flavor": "Izzószál zümmög amikor megkopogtatod az alapot, üveg meleg érintésre."
+    },
+    "499": {
+      "name": "Vinewood Bowl Pin Art",
+      "flavor": "Lakkozott pin egy pácolt fenyő deszkára szerelve."
+    },
+    "500": {
+      "name": "Richman Glen Karaffa",
+      "flavor": "Kristály olyan mélyen csiszolva hogy szivárványokat vet a szőnyegre."
+    },
+    "501": {
+      "name": "Mission Row Bilincs Trófea",
+      "flavor": "Gravírozás simára kopva ahol a kapitány a hüvelykujját dörzsölte."
+    },
+    "502": {
+      "name": "Pinkcage Motel Óra",
+      "flavor": "3:17-nél ragadt, porhullámokkal villog a számjegyek között."
+    },
+    "503": {
+      "name": "Pillbox Orvosi Nyakpárna",
+      "flavor": "Vinyl ragadós régi fertőtlenítőszertől, hab laposra összenyomva."
+    },
+    "504": {
+      "name": "Vanilla Unicorn Házi Adag",
+      "flavor": "Rúzs a nyakon, három különböző árnyalat."
+    },
+    "505": {
+      "name": "Gyógyszertár Fül Modell",
+      "flavor": "Anatómiai, latex, egy porc piercing már átkopva."
+    },
+    "506": {
+      "name": "Murrieta Heights Hack Tégla",
+      "flavor": "LED még egy handshake-en megy át amit senki nem válaszol már."
+    },
+    "507": {
+      "name": "Sárgaréz Bankár Lámpa",
+      "flavor": "Zöldernyős fény ami ezer rossz hitelt látott jóváhagyni."
+    },
+    "508": {
+      "name": "Felszerelt Szerencse Báb",
+      "flavor": "A hetes pálya szerencse bábja, lakkozva az 1987-es tökéletes játék után."
+    },
+    "509": {
+      "name": "Boutique Bronz Figura",
+      "flavor": "Négyjegyű árú, alkatrészenként eladva egy strawberry-i kerítőnek."
+    },
+    "510": {
+      "name": "Shunt Cup Replika",
+      "flavor": "Az eredeti az Arénában van. Ez nehezebb mint amilyennek látszik."
+    },
+    "511": {
+      "name": "Csillagnéző Trófea",
+      "flavor": "Annak adva aki először találta meg az üstököst. A plakett üres."
+    },
+    "512": {
+      "name": "Nádszálas Diffúzor Készlet",
+      "flavor": "Szantálfa, vetiver, és egy hitelkártya elutasítás halvány emléke."
+    },
+    "513": {
+      "name": "Bizalmas Manila Mappa",
+      "flavor": "Tizenegy oldal cenzúrázás és egy passzív-agresszív jegyzetlap."
+    },
+    "514": {
+      "name": "Flip Jam Szekrény Token",
+      "flavor": "A magas pontszám LIL-é, akit 1996 óta nem láttak."
+    },
+    "515": {
+      "name": "Galéria Gipszbüszt",
+      "flavor": "A művész ragaszkodik hogy gyászt képvisel. A vásárló ragaszkodik hogy illik a kanapéhoz."
+    },
+    "516": {
+      "name": "Gyógyszertár Pult Kijelző",
+      "flavor": "D-vitamin tabletták és három lejárt kupon alá ragasztva."
+    },
+    "517": {
+      "name": "Csorba Diner Bögre",
+      "flavor": "A Világ Legjobb Apája. Kávégyűrű állandóan a peremhez olvadva."
+    },
+    "518": {
+      "name": "Elhasznált Termit Töltet",
+      "flavor": "Átégett a páncélszekrényen és az alatta lévő padlón. Még meleg érintésre."
+    },
+    "519": {
+      "name": "Padron Szivar Doboz",
+      "flavor": "Három pálca maradt. A negyediket egy alibiért cserélték."
+    },
+    "520": {
+      "name": "Tattle Weekly Szám",
+      "flavor": "Címlapsztori: melyik Vinewood pár titokban ugyanaz a személy."
+    },
+    "521": {
+      "name": "Égett Kávés Kanna",
+      "flavor": "Az alja annyira megpörkölődött hogy a pincérnő csak ízesítésnek hívja."
+    },
+    "522": {
+      "name": "Félig Megevett Bleeder Burger",
+      "flavor": "Két harapás után a gyanúsított elszaladt. A savanyúság hűséges maradt."
+    },
+    "523": {
+      "name": "Lezárt Készpénz Letét Zsák",
+      "flavor": "Lezárva a Fleeca által 15:47-kor. Valaki más kinyitotta 15:51-kor."
+    },
+    "524": {
+      "name": "Krylon Sundowner Doboz",
+      "flavor": "Sapka megrágva, doboz horpadva, üzenet félbehagyva egy láncszemes kerítésen."
+    },
+    "525": {
+      "name": "Koktél Keverő Üveg",
+      "flavor": "Műanyag flamingók egy maszatos pohárban. Senki nem emlékszik hogy újratöltötte."
+    },
+    "526": {
+      "name": "Félig-Lemerített Kókusz Pohár",
+      "flavor": "Két papírernyő, egy olvadó jégkocka, semmi napvédő sehol."
+    },
+    "527": {
+      "name": "Lefegyverzett AP Akna",
+      "flavor": "Pin kihúzva, nyomólap egy negyeddollárossal beragasztva. Mérnökség vagy őrület."
+    },
+    "528": {
+      "name": "Repedt Pisswasser Üveg",
+      "flavor": "Nyak tisztán letört. Egy kuka mögött találva egy ujjlenyomattal."
+    },
+    "529": {
+      "name": "Megviselt CDJ Deck",
+      "flavor": "Jog wheel csorba, kettes csatorna halott, még játszik egy meghallgatásra érdemes szettet."
+    },
+    "530": {
+      "name": "SPF 4 Üveg",
+      "flavor": "Sapka hiányzik, piña colada és nagyon rossz döntések szagú."
+    },
+    "531": {
+      "name": "Márvány Védőszent Büszt",
+      "flavor": "Szemek kivájva, kifejezés semleges, ajkak arra utalnak hogy látott dolgokat."
+    },
+    "532": {
+      "name": "Logger Lager Doboz",
+      "flavor": "Üres, összenyomva, valaki visszatette a hűtőbe remélve hogy senki nem veszi észre."
+    },
+    "533": {
+      "name": "Katalogizált Műtárgy M-31",
+      "flavor": "Címke M-31-et mond. Származás megszerzettet mond. Eredet nem a tied-et mond."
+    },
+    "534": {
+      "name": "After Hours Táncos Trófea",
+      "flavor": "Egy olyan hangos szettért adva hogy a zajpanasz rajongói levél lett."
+    },
+    "535": {
+      "name": "Orbitális Célzó Konzol",
+      "flavor": "Koordináták lezárva, jelszó jegyzetlap még az oldalra ragasztva."
+    },
+    "536": {
+      "name": "Valet Fény Pálca",
+      "flavor": "Vörös műanyag, halott akku, három Addert rossz helyre irányított."
+    },
+    "537": {
+      "name": "Onyx Márvány Büszt",
+      "flavor": "Egy polírozott obszidián fej, szemek faragva hogy kövessék a dealer kezeit."
+    },
+    "538": {
+      "name": "Lakkozott Dísztárgy Doboz",
+      "flavor": "Sárgaréz csatok és egy bársony bélés ami még cédrusfüst illatú."
+    },
+    "539": {
+      "name": "Laza Párna Gyémánt",
+      "flavor": "Elkapja a utcalámpát mintha pontosan ehhez a sarokhoz lett volna csiszolva."
+    },
+    "540": {
+      "name": "Kihúzott Szerver Lemez",
+      "flavor": "Caddy írás közepén kidobva, stabil borostyán impulzussal villog."
+    },
+    "542": {
+      "name": "Galéria Karika Tanulmány",
+      "flavor": "Egy kopott bőr labda lakkba öntve, markerrel aláírva a markolat alatt."
+    },
+    "543": {
+      "name": "Elfeledett Merevlemez",
+      "flavor": "Címke félig elszakítva, utolsó írás dátuma ceruzával."
+    },
+    "544": {
+      "name": "Kihúzott AV Vevő",
+      "flavor": "Elülső gombok eltűnve, RCA aljzatok elhajlítva, zümmög amikor földelve van."
+    },
+    "545": {
+      "name": "Öntöttvas Kapu Szelep",
+      "flavor": "Menettel zárva, festék hosszú gyűrűkben hámlik."
+    },
+    "546": {
+      "name": "Teszter Kölni Flakon",
+      "flavor": "Permetező kérgesen zárva, címke nedves gyűrűkben hámlik."
+    },
+    "547": {
+      "name": "Márvány Caesar Fej",
+      "flavor": "Csorba a homlokban ami megfogja a casino bejárati fényét."
+    },
+    "548": {
+      "name": "Elfeledett Chip Tálca",
+      "flavor": "Néhány fekete százas még csörög az alsó sarokban."
+    },
+    "549": {
+      "name": "Öntött Pad Lemez",
+      "flavor": "Rozsda gyűrű egyik oldalon, kréta kéznyom a másikon."
+    },
+    "550": {
+      "name": "Sebes Keményfa Ütő",
+      "flavor": "Szalag markolat, három karc a fattyúba égetve."
+    },
+    "551": {
+      "name": "Félüres Csörgő",
+      "flavor": "Sapka hiányzik, fúvóka száraz magenta-val tömődve."
+    },
+    "552": {
+      "name": "Lost Chapter Sisak",
+      "flavor": "Bélés motorzsírtól nedves, egy matrica a halántéknál hámlik."
+    },
+    "553": {
+      "name": "Sárgaréz Jacht Miniatűr",
+      "flavor": "Hajótest egy már nem létező csúszószámmal vésve."
+    },
+    "554": {
+      "name": "Retró Arcade Trófea",
+      "flavor": "Plakett egy érmével kikaparva, egy új iniciálé bekaparva."
+    },
+    "555": {
+      "name": "Fehér Márvány Atléta",
+      "flavor": "Hűvös érintésre, halvány csorba a bal fül mögött."
+    },
+    "556": {
+      "name": "Párnázott Lemez Tok",
+      "flavor": "Habbélés egy lemezhez vágva ami már nincs ott."
+    },
+    "557": {
+      "name": "Félig-Használt Krém Pumpa",
+      "flavor": "Pumpa még előkészítve, címke gőztől megpuhulva."
+    },
+    "558": {
+      "name": "CamHedz Bajnok Kupa",
+      "flavor": "Előző szezon legmagasabb pontszámával és egy elmaszatolt hüvelykujjlenyomattal vésve."
+    },
+    "559": {
+      "name": "Casino Diorama Csempe",
+      "flavor": "Egy léptékű cégér apró vendégsorral lépés közepén megfagyva."
+    },
+    "560": {
+      "name": "Szalagozott Slugger Ütő",
+      "flavor": "Atlétikai szalag kétszer újraburkolva, vég sapka hiányzik."
+    },
+    "561": {
+      "name": "Porcelán Figurin Trió",
+      "flavor": "Három mázas táncos forgás közben elkapva, érintetlenek mióta a casino kinyitotta kapuit."
+    },
+    "562": {
+      "name": "Megfakult Zálogházi Tőr",
+      "flavor": "Valaki bérleti pénzért zálogba adta és soha nem ment vissza érte."
+    },
+    "563": {
+      "name": "Hibás RPG Rakéta Hüvely",
+      "flavor": "MERRYWEATHER bélyegezve, leszerelve, és határozottan nem souvenir."
+    },
+    "564": {
+      "name": "Vinewood Boutique Figurin",
+      "flavor": "Egy kirakat darab egy ablak-dekoratőrtől aki soha nem vette észre hogy hiányzott."
+    },
+    "565": {
+      "name": "Megnevezhetetlen Souvenir",
+      "flavor": "A felnőtt bolt mögötti sikátorban hagyva zárás után — senki nem vallja magáénak."
+    },
+    "566": {
+      "name": "Kerámia Fürdő Edény",
+      "flavor": "Boutique dekoráció amit senki nem vesz meg de senki nem is távolít el."
+    },
+    "567": {
+      "name": "Útszéli Diner Bögre",
+      "flavor": "Langyos utántöltés amit a pincérnő elfelejtett leszedni a hetes bokszról."
+    },
+    "568": {
+      "name": "Marina Kapitány Sapka",
+      "flavor": "Sóval foltozva és enyhén meghajlítva — a skipper nyugdíjba ment nélküle."
+    },
+    "569": {
+      "name": "Elfeledett Zsebkönyv",
+      "flavor": "Sarok behajtva a negyedik fejezetnél, valaki bevásárló listája könyvjelzőként."
+    },
+    "570": {
+      "name": "Marabunta Slugger",
+      "flavor": "Zöld festékspray-vel tagolva és nagyon nyilvánvalóan nem egy sportcikk ütő."
+    },
+    "571": {
+      "name": "Ballas Ütő",
+      "flavor": "Lila markolat szalag, gyanús horpadások, egy láncszemes kerítésnek támasztva."
+    },
+    "572": {
+      "name": "Brawler Torna Trófea",
+      "flavor": "Maibatsu Arena Champion vésve — a győztes soha nem ment vissza érte."
+    },
+    "573": {
+      "name": "Borbély Hajvágó",
+      "flavor": "Még halványan zümmög — a borbély egy órája kiment cigarettázni."
+    },
+    "574": {
+      "name": "Dekoráció Gyertya Klaszter",
+      "flavor": "Három viaszoszlop épp úgy elrendezve — egy boutique kijelző el nem adva."
+    },
+    "575": {
+      "name": "Elveszett MC Ütő",
+      "flavor": "Koponya matricák és egy lánc a markolat köré tekerve — klubház tulajdon."
+    },
+    "576": {
+      "name": "Aranyozott Gránát Szobor",
+      "flavor": "Pop-art darab egy magán szvithez rendelve — valahogy a járdaszegélyre került."
+    },
+    "577": {
+      "name": "Vezetői Boutique Váza",
+      "flavor": "Importált kerámia ami a legtöbb ember bérleti díjánál többért került eladásra."
+    },
+    "578": {
+      "name": "Magányos Bowling Báb",
+      "flavor": "Utolsó báb állva, aztán elfelejtve a csatornában amikor a liga este véget ért."
+    },
+    "579": {
+      "name": "Arcade Karmos Plüss",
+      "flavor": "Húsz dollár negyeddollárosok után kirántva a gépből — minden centet megért."
+    },
+    "580": {
+      "name": "After Hours DJ Fejhallgató",
+      "flavor": "Párnázott kupák még melegek a booth-ból — valaki korai kijáratot szedett."
+    },
+    "581": {
+      "name": "Eldobott Járda Pénztárca",
+      "flavor": "Vezetői engedély bent, nincs készpénz — valaki előtted ért ide."
+    },
+    "582": {
+      "name": "Repedt Építési Sapka",
+      "flavor": "Hajszálrepedés a koronán le — a művezető leírta veszteségként és otthagyta."
+    },
+    "583": {
+      "name": "Boutique Display Óra",
+      "flavor": "Svájci mechanizmus, még ketyeg, nincs árcímke ahol valaha volt."
+    },
+    "584": {
+      "name": "Tech Bolt Demó Laptop",
+      "flavor": "Képernyővédő még görget — a kirakat modell amit senki nem zavart lezárni."
+    },
+    "585": {
+      "name": "Aranyozott Figurinok Pár",
+      "flavor": "Egy pár arany szobor amit egykor a casino lobby vitrinében mutattak."
+    },
+    "586": {
+      "name": "Sav Csepegtető Fiola",
+      "flavor": "Egy kis csepegtető üveg oldószertől és rossz döntésektől büdös."
+    },
+    "587": {
+      "name": "House Chip Halom",
+      "flavor": "Egy szépen rendezett casino chip torony amit valaki elfelejtett beváltani."
+    },
+    "588": {
+      "name": "Kérgezett Autóakkumulátor",
+      "flavor": "Terminálok korróziótól bundásak, még halvány töltést tartanak."
+    },
+    "589": {
+      "name": "Zseb Galaxy Jacht",
+      "flavor": "A Galaxy szuperjacht léptékű modellje, egy eladási padlóról elcsenve."
+    },
+    "590": {
+      "name": "Nyomható Ketchup Üveg",
+      "flavor": "Egy majdnem üres üveg vörös pép, a sapka állandóan ragadós."
+    },
+    "591": {
+      "name": "Beluga Kaviár Konzerv",
+      "flavor": "Egy hideg kaviár konzerv, fedél félig felfeszítve, gyöngyház kanál hiányzik."
+    },
+    "592": {
+      "name": "Lemetszett Marihuána Bimbó",
+      "flavor": "Egy vastag metszett bimbó, elég ragadós hogy bezárjon egy pénztárcát."
+    },
+    "593": {
+      "name": "Pitkin Motel Hamutartó",
+      "flavor": "Egy motel hamutartó rúzs-foltos filterekkel zsúfolva."
+    },
+    "594": {
+      "name": "Vinewood Boutique Kristály",
+      "flavor": "Egy fazettázott kristály ami prizmás fényt vet a bársonyra."
+    },
+    "595": {
+      "name": "Klaszter Geóda",
+      "flavor": "Egy szögletes klaszter geóda egy divat szerkesztőségi forgatásról kölcsönvéve."
+    },
+    "596": {
+      "name": "Félig-Ivott Cava Üveg",
+      "flavor": "Egy cava üveg laposra menve két üres pohár között."
+    },
+    "597": {
+      "name": "Madzaggal Kötött Keménytáblás Halom",
+      "flavor": "Három keménytáblás zsineggel összekötve, gerincek sok visszaviteltől megrepedve."
+    },
+    "598": {
+      "name": "Mező Impulzus Oszcillátor",
+      "flavor": "Egy impulzus oszcillátor egy gyógyszertári diagnosztikai szekérről húzva."
+    },
+    "599": {
+      "name": "Ón Pub PINTS Tábla",
+      "flavor": "Egy horpadt ón pub tábla ami még PINTS-et olvas hámló festékkel."
+    },
+    "600": {
+      "name": "Tervező Cipődoboz",
+      "flavor": "Egy boutique cipődoboz egy tűsarkúval benne és a nyugta még bedugva."
+    },
+    "601": {
+      "name": "Színpad Kondenzátor Mikrofon",
+      "flavor": "Egy kondenzátor mikrofon még meleg egy ének felvételtől."
+    },
+    "602": {
+      "name": "Bambusz Kés Blokk",
+      "flavor": "Egy megrakott kés blokk egy Vinewood konyhapulttól emelve."
+    },
+    "603": {
+      "name": "CS Gáz Konténer",
+      "flavor": "Egy CS gáz konténer a pin még szalagozva, ujjak a kanáltól."
+    },
+    "604": {
+      "name": "Burkolt Alumínium Slugger",
+      "flavor": "Egy alumínium ütő markolat szalaggal és rossz szándékokkal burkolva."
+    },
+    "605": {
+      "name": "Börtönőr Vas Kulcskarika",
+      "flavor": "Egy nehéz vas kulcskarika ami úgy zörög mint egy alibi."
+    },
+    "606": {
+      "name": "Húzógyűrűs Füst Gránát",
+      "flavor": "Egy húzógyűrűs füst doboz ami halványan foszfor szagú."
+    },
+    "607": {
+      "name": "Pit Boss Számológép",
+      "flavor": "Egy casino asztali számológép a szalagtekercs tisztán letörve."
+    },
+    "608": {
+      "name": "Trezor Diorama Miniatűr",
+      "flavor": "Egy miniatűr trezor diorama a casino marketing falról emelve."
+    },
+    "609": {
+      "name": "Bélyegzett Acél Rakomány Láda",
+      "flavor": "Egy karcos acél láda elhalványult tételszámmal bélyegezve."
+    },
+    "610": {
+      "name": "Modern Vászon Fragmentum",
+      "flavor": "Egy szakadt darab galéria vászon még friss akril és állott pezsgő szagú."
+    },
+    "611": {
+      "name": "Zálogba Adott Trezor Gyémánt",
+      "flavor": "Egy casino trezor számára csiszolva, egy átadásban elveszve, a porban találva."
+    },
+    "612": {
+      "name": "Eldugott Sörös Csomag Doboz",
+      "flavor": "Motorolaj és olcsó sör szagú, pontosan mint az ember aki elrejtette."
+    },
+    "613": {
+      "name": "Bajnoki Zászló Trófea",
+      "flavor": "Stadion fények alatt nyerve, elhagyva abban a pillanatban hogy nagyobb díj jelent meg."
+    },
+    "614": {
+      "name": "Battle Club Kézi Legyező",
+      "flavor": "Vicsorgó arccal festve, még tegnap esti basszustól zümmög."
+    },
+    "615": {
+      "name": "Sikátor-Nedves Fényesnyomat",
+      "flavor": "Oldalak esőtől összeragadva, nem az ok amit a legtöbben gondolnának."
+    },
+    "616": {
+      "name": "Hobbista RC Távirányító",
+      "flavor": "Antenna meghajlítva egy túl sok alacsony-pálya leszállástól egy parkoló autóra."
+    },
+    "617": {
+      "name": "Felesleg C4 Tégla Halom",
+      "flavor": "A címke lehámozva, a vezetékek elvágva, a veszély még odaértve."
+    },
+    "618": {
+      "name": "Pálya-Repedt Fa Ütő",
+      "flavor": "Fa három helyen szilánkozva, minden repedésnek más története."
+    },
+    "619": {
+      "name": "Elveszett Arcade Sapka",
+      "flavor": "Karima izzadtságtól meggörbülve, magas-pontszámú cseresznye kólával foltozva."
+    },
+    "620": {
+      "name": "Szerelő Szerszámtartó III",
+      "flavor": "Három dugókulccsal kevesebb, de a zsír azt mondja minden horpadást megérdemelt."
+    },
+    "621": {
+      "name": "Naptól Kifehéredett Röplabda",
+      "flavor": "Homok még belül csörög egy túl hosszú szervától."
+    },
+    "622": {
+      "name": "Boutique Sapka Szobor",
+      "flavor": "Hordható művészetként eladva, bérleti díjként árazva, főleg fényképezve."
+    },
+    "623": {
+      "name": "Felesleg Mozsárágyú Cső",
+      "flavor": "Sablonozva és lopva, a sorozat egy gondos hüvelykujjal lekaparva."
+    },
+    "624": {
+      "name": "Ipari Csavar Vágó",
+      "flavor": "Pofák használattól polírozva, fogantyúk valaki más szalagjával burkolva."
+    },
+    "625": {
+      "name": "Arcade Harcos Trófea",
+      "flavor": "Műanyag arany műanyagon, de a gyerek aki megnyerte úgyis hazafutott."
+    },
+    "626": {
+      "name": "Repedt Kijelző Váza",
+      "flavor": "Egy hajszálrepedés elkapja a fényt, megduplázva a kérőárat."
+    },
+    "627": {
+      "name": "Edzőterem 10kg Súly",
+      "flavor": "Gumi szél évek rossz formájától és rosszabb leeséstől megrágva."
+    },
+    "628": {
+      "name": "Arena Bajnok Díj",
+      "flavor": "Egy győztessel vésve aki soha nem igényelte, polírozva valaki által aki igen."
+    },
+    "629": {
+      "name": "Pince Koka Mérleg",
+      "flavor": "Egy tized gramra és egy egész élet paranoiára kalibrálva."
+    },
+    "630": {
+      "name": "Bársony Nyaklánc Büszt",
+      "flavor": "A lánc rég elment, a bársony még tartja a formáját."
+    },
+    "631": {
+      "name": "Vésett Nehéz Pisztoly",
+      "flavor": "Vésetek a szánra, friss csorba a markolaton, történet el nem mesélve."
+    },
+    "632": {
+      "name": "Kilőtetlen Pier Tűzijáték",
+      "flavor": "Gyutacs érintetlen, címke víztől görbülve, a fesztivál neve elhalványulva."
+    },
+    "633": {
+      "name": "Spa Levendula Szappan",
+      "flavor": "Levendula és klór, félig olvadva, egy névvel monogrammozva amit senki nem ismer fel."
+    },
+    "634": {
+      "name": "Visszaküldött Felnőtt Fényesnyomatos",
+      "flavor": "Borító szakadt, vonalkód érintetlen, csak kopás okán visszaküldve."
+    },
+    "635": {
+      "name": "Aprított Maxwell Trófea",
+      "flavor": "Plakett tisztán átszakítva a torzón, súlyzó még emelve."
+    },
+    "636": {
+      "name": "OG Mixtape Újrakiadás",
+      "flavor": "Kazetta gerince megrepedt, kézzel ezüst Sharpie-val címkézve."
+    },
+    "637": {
+      "name": "DJ Booth CD Rack",
+      "flavor": "A helyek fele üres, a többi mentésen túl karcolva."
+    },
+    "638": {
+      "name": "After Hours No.1 Trófea",
+      "flavor": "Arany fólia még érintetlen, alap egy elfeledett gamertaggal vésve."
+    },
+    "639": {
+      "name": "Motor Rajongó Magazin",
+      "flavor": "Hajtás a középfoldnél a túl sok garázs-lapozgatástól."
+    },
+    "640": {
+      "name": "Aknamező Bajnok Trófea",
+      "flavor": "Ón öntésű, alap azt mondja Túlélte a Hatos Kört apró pecsétbetűkben."
+    },
+    "641": {
+      "name": "Pörkölt Slugger Ütő",
+      "flavor": "Markolat súrlódási szalaggal burkolva, fattyú félig olvadt a hegyén."
+    },
+    "642": {
+      "name": "Trükk-Vezetékes Asztali Telefon",
+      "flavor": "Kagyló leragasztva, vezetékek kígyóznak ott ahol a zsinórnak lennie kéne."
+    },
+    "643": {
+      "name": "Leszerelt Önvezérelt Lőszer",
+      "flavor": "Inert és KIÁLLÍTÁSRA sablonozva, szárnyak megtekerve egy ládából amit túl kellett volna élnie."
+    },
+    "644": {
+      "name": "Séf Késblokk",
+      "flavor": "Bükkfa tömb simára kopva húsz év húzott fogantyúktól."
+    },
+    "645": {
+      "name": "Műanyagba Csomagolt Középfold",
+      "flavor": "Műanyagba csomagolva és kétszer árcímkézve, mindkét szám áthúzva."
+    },
+    "646": {
+      "name": "Mágneses Kés Csík",
+      "flavor": "Mágneses csík kortól sárgulva, három hely feltűnően üres."
+    },
+    "647": {
+      "name": "Aranyozott Revolver",
+      "flavor": "Vésetek kígyóznak a henger körül, arany lehámolva a ravaszvédőről."
+    },
+    "648": {
+      "name": "Falra Szerelt Elsősegély Doboz",
+      "flavor": "Pattanó retesz törve, a zöld kereszt szürkére halványulva."
+    },
+    "649": {
+      "name": "Sav-Foltos Autóakkumulátor",
+      "flavor": "Sav folt félholdba száradva az egyik oldalán, terminálok zöldre korrodálva."
+    },
+    "650": {
+      "name": "Megmentett Pad Köszörűs",
+      "flavor": "Tárcsa csorba acélnál keményebb dolog vágásától, motorház pörkölve."
+    },
+    "651": {
+      "name": "Bluetooth Hangszórótartó",
+      "flavor": "Aux kábel még semmibe csatlakoztatva, por kérgezve a rácsban."
+    },
+    "652": {
+      "name": "Poliészter Cérna Orsó",
+      "flavor": "Poliészter egy karton magra tekercselve, vég egyszer leszögezve."
+    },
+    "653": {
+      "name": "Luxus Harci Pisztoly",
+      "flavor": "Gyöngyház markolat, szán egy szőlőminta-mintával vésve amit senki nem kért."
+    },
+    "654": {
+      "name": "Wade Levágott Fej Prop",
+      "flavor": "Latex maszk egy hab koponyára formálva, szemek enyhén kancsalra festve."
+    },
+    "655": {
+      "name": "Karcos Gyakorló Baseball",
+      "flavor": "Vörös öltések lazák, aláírás olvashatatlan maszattá halványulva."
+    },
+    "656": {
+      "name": "Borotva-Burkolt Ütő",
+      "flavor": "Szögesdrót rozsdával kérgezve, bütyök-burkolat sötétre áztatva a markolatnál."
+    },
+    "657": {
+      "name": "Kirakat Foci Szobor",
+      "flavor": "Gyantaöntés arany levéllel a fűzők mentén, alap senki híres által aláírva."
+    }
+  }
+}

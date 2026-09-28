@@ -1,0 +1,2606 @@
+{
+  "rarity": {
+    "common": "Gewöhnlich",
+    "strange": "Seltsam",
+    "rare": "Selten",
+    "mint": "Legendär"
+  },
+  "items": {
+    "1": {
+      "name": "Madrazos Goldener Götze",
+      "flavor": "Das goldene Gesicht der Caida-Libre-Legende — ein Glücksbringer der Familie Madrazo."
+    },
+    "2": {
+      "name": "Impotent-Rage-Figur",
+      "flavor": "Original-Sammlerausgabe des Vinewood Superhero — der Sockel glänzt noch."
+    },
+    "3": {
+      "name": "Alien-Figur",
+      "flavor": "Ein seltener Guss, gejagt von Geheimsammlern."
+    },
+    "5": {
+      "name": "Beast-Figur",
+      "flavor": "Halb-Monster-Antagonist der Vinewood-Superhero-Reihe — pelzige Edition."
+    },
+    "6": {
+      "name": "Sasquatch-Figur",
+      "flavor": "Der heilige Gral der \"Bigfoot\"-Easter-Egg-Jäger."
+    },
+    "7": {
+      "name": "Rockstar-Klassik-Logo",
+      "flavor": "Limitiertes Studio-Memorabilia — aus einer Vitrine gefallen."
+    },
+    "8": {
+      "name": "Rockstar-Community-Auszeichnung",
+      "flavor": "Eine Plakette für Rockstar-Community-Mitglieder — die einzige ihrer Art in Pillbox Hill."
+    },
+    "12": {
+      "name": "Pop-Art-Skulptur #1",
+      "flavor": "Retro-Pop-Art-Stück aus der Diamond Casino Heritage Hall."
+    },
+    "13": {
+      "name": "Pop-Art-Skulptur #2",
+      "flavor": "Die zweite Auflage desselben Künstlers — weniger Exemplare gepresst."
+    },
+    "15": {
+      "name": "Pantherstatue",
+      "flavor": "Dunkler Bronze-Panther — seine Augen folgen dir immer noch."
+    },
+    "16": {
+      "name": "Pferdestatue",
+      "flavor": "Vintage-Pferde-Skulptur — vor Jahren von einem Sammler verloren."
+    },
+    "17": {
+      "name": "Abstrakte Skulptur",
+      "flavor": "Bedeutung unklar, Preis steil — sie nennen es echte Kunst."
+    },
+    "19": {
+      "name": "Vintage-Helden-Figur",
+      "flavor": "Sammlerstück der 80er-Vinewood-Kinder — wie aus der Originalverpackung."
+    },
+    "21": {
+      "name": "Plüschhund",
+      "flavor": "Ein verlorenes Feiertagsgeschenk — hat seinen Besitzer nie erreicht."
+    },
+    "22": {
+      "name": "Sunny — Sommerfest-Maskottchen",
+      "flavor": "Das Wahrzeichen-Maskottchen des Vespucci-Sommerfests — Augen noch pazifikblau."
+    },
+    "23": {
+      "name": "Bruno der Vinewood-Bär",
+      "flavor": "Pixel-Petes Greifautomaten-Hauptpreis — \"Bruno\"-Etikett ins Fell genäht."
+    },
+    "24": {
+      "name": "Po der Davis-Panda",
+      "flavor": "Legende des Davis-Viertels-Greifautomaten — noch immer mit süßem Blick."
+    },
+    "25": {
+      "name": "Kobi der süße Koala",
+      "flavor": "Top-Regal-Plüsch mit \"Ich bin süß\"-Etikett am Ohr."
+    },
+    "26": {
+      "name": "Lily der Hase",
+      "flavor": "Ein Liebesandenken — am Eingang eines Clubs zurückgelassen, rote Schleife am Ohr."
+    },
+    "27": {
+      "name": "Foxxy der kleine Fuchs",
+      "flavor": "Maskottchen der Burger-Shot-Spielecke — geflickter Schwanz."
+    },
+    "28": {
+      "name": "Zara die Giraffe",
+      "flavor": "Der Wunder-Moralbooster des Pillbox-Hospital-Wartezimmers — langer Hals und so."
+    },
+    "29": {
+      "name": "Toto der Tiger",
+      "flavor": "Stiller Zeuge der Vanilla-Unicorn-Bühne — VIP-Abzeichen am Hals."
+    },
+    "30": {
+      "name": "Lucky der Hund",
+      "flavor": "Pixel Petes Finalsaisonpreis — ein Glücksbringer für die, die die Sammlung vervollständigen."
+    },
+    "31": {
+      "name": "Vinewood-Gartenzwerg",
+      "flavor": "Überlebendes Mitglied des Vinewood-Hills-Zwergenkults — Rockstars ältester Hinterhof-Streich."
+    },
+    "32": {
+      "name": "Sich aufbäumende Pferdefigur",
+      "flavor": "Eine Bronze-Rennpferd-Schmuckfigur — die Art Ding, die ein Vinewood-Agent behält, um klassiger zu wirken als er ist."
+    },
+    "33": {
+      "name": "Moderne Skulptur #4",
+      "flavor": "Modernes Stück der Penthouse-Rotation — Tao Cheng unterschrieb das Zertifikat persönlich."
+    },
+    "34": {
+      "name": "Kartell-Büro-Skulptur",
+      "flavor": "Stand auf dem Schreibtisch des Kartell-Vorarbeiters im Cluckin'-Bell-Verarbeitungsbetrieb — leicht hühnerfettfleckig."
+    },
+    "35": {
+      "name": "Flipper-Champion-Trophäe",
+      "flavor": "Top-Silber der Arena War — gewonnen vom einzigen Fahrer, der Flipper auf den Rädern beendete."
+    },
+    "36": {
+      "name": "Rons Glücksmütze",
+      "flavor": "Ron Jakowski trug sie bei jedem Sandy-Shores-Verschwörungsstream — Strahlungswert: grenzwertig."
+    },
+    "37": {
+      "name": "Jeroboam Blêuter'd",
+      "flavor": "Eine 3-Liter-Jeroboam Blêuter'd '08 — in der VIP-Loge zurückgelassen, unangetastet."
+    },
+    "38": {
+      "name": "Vintage-Gamepad",
+      "flavor": "Der Controller von Jimmy De Santas Durchmach-Nacht — klebrige Sticks inklusive."
+    },
+    "39": {
+      "name": "Pop-Art-Auto #10",
+      "flavor": "Diamond Heritage Gallery — Pop-Art-Hommage an die Muscle Cars von Los Santos' goldenem Jahrzehnt."
+    },
+    "40": {
+      "name": "Pop-Art-Auto #12",
+      "flavor": "Die zweite Hälfte des Diamond-Muscle-Car-Diptychons — das, was Avi Schwartzman zu klauen versuchte."
+    },
+    "41": {
+      "name": "Pop-Art-Auto #9",
+      "flavor": "Eröffnungsstück des Pop-Art-Auto-Triptychons — nie versteigert, nie versichert."
+    },
+    "42": {
+      "name": "Götzen-Trophäe — Kleiner Azteke",
+      "flavor": "Vitrinen-Zwilling des wertvollen Götzen vom Casino Heist — das Kartell behielt ihn als Prahltrophäe."
+    },
+    "43": {
+      "name": "Götzen-Trophäe — Großer Azteke",
+      "flavor": "Eine Cluckin'-Bell-Hinterbüro-Trophäe — die Hommage des Kartell-Bosses an den Casino Heist, der alles begann."
+    },
+    "44": {
+      "name": "Sonnen-Stein-Planeten-Trophäe",
+      "flavor": "Das Planetenstück des Azteken-Brettsets — eine der vier Trophäen, die der Cluckin'-Bell-Boss im Büro hielt."
+    },
+    "45": {
+      "name": "Scarab-Tank-Trophäe",
+      "flavor": "Bronze-Scarab-Tank gegossen für den Arena-War-Champion, der die Demolition-Derby-Finals überlebte — der Sockel riecht noch nach verbranntem Gummi."
+    },
+    "46": {
+      "name": "Aztekenschatz-Hort",
+      "flavor": "Ein Bündel Aztekenmünzen und Kettenglieder — die \"Steuer\" des Kartells aus dem ursprünglichen Casino Heist."
+    },
+    "47": {
+      "name": "Roher Aztekengötze",
+      "flavor": "Aus seiner Vitrine gelöst — mitten im Heist herausgezogen, nie wieder montiert."
+    },
+    "48": {
+      "name": "Zwillings-Aztekengötze",
+      "flavor": "Jüngerer Zwilling des Madrazo-Götzen — gleiche Form, anderer Schmelzer."
+    },
+    "49": {
+      "name": "Aztekische Sonnen-Ei-Trophäe",
+      "flavor": "Das aztekische Sonnenei — vervollständigt das Vier-Stück-Trophäenregal neben Götze, Scarab und Planet."
+    },
+    "50": {
+      "name": "Goldene Pogo-Trophäe",
+      "flavor": "Lucky-Wheel-Hauptpreis-Sammlerstück — angeblich wurden nur zwölf geprägt."
+    },
+    "51": {
+      "name": "Retro-Konsolen-Kunstwerk",
+      "flavor": "Vintage-Konsole, behandelt wie Galeriekunst — Pixel Pete weint bei jedem Verkauf."
+    },
+    "52": {
+      "name": "\"For the Love of Cash\" Diamantschädel",
+      "flavor": "Ein Penthouse-Eitelkeitsstück, gestohlen beim ursprünglichen Casino Heist — die Pavé-Diamanten sind echt, und Lester hat die Schätzung noch."
+    },
+    "53": {
+      "name": "Tataryn-Imperialei",
+      "flavor": "Ein Tataryn-Familienerbstück, das über Nacht verschwand — am Morgen nach Avi Schwartzmans Abreise."
+    },
+    "54": {
+      "name": "El Rubio Reserva Añejo",
+      "flavor": "In einer Sporttasche von Cayo Perico geschmuggelt — das Siegel ist intakt, der Wachsstempel noch El Rubios."
+    },
+    "55": {
+      "name": "Declasse Sabre GT Maquette",
+      "flavor": "Bestellt von Tao Chengs Vater nach einer Gewinnnacht am Highlimit-Blackjack-Tisch."
+    },
+    "56": {
+      "name": "\"OG1\" South Central Plakette",
+      "flavor": "Von einer Davis-Garagenwand geholt — alte Köpfe sagen, sie gehörte Stretch, als Grove Street noch etwas bedeutete."
+    },
+    "57": {
+      "name": "LS-Panic-Spielball",
+      "flavor": "In verblasstem Sharpie signiert von der gesamten Verteidigung der Los Santos Panic nach ihrem '08er Divisionssieg."
+    },
+    "58": {
+      "name": "Vespucci-Streetball-Turnierball",
+      "flavor": "Auf den Vespucci-Plätzen bis zum Gummi abgenutzt — der \"Lamar 23\"-Marker ist noch lesbar."
+    },
+    "59": {
+      "name": "Pogo der Affenplüsch",
+      "flavor": "Greifautomat-Hauptpreis aus der Hinterzimmer-Arcade vom Up-n-Atom-Diner — Etikett sagt \"Eigentum von Tracey.\""
+    },
+    "60": {
+      "name": "El Rubios Scharfschützen-Trophäe",
+      "flavor": "Vergeben von El Rubio persönlich an seinen besten Anlagen-Scharfschützen — graviert \"Para mi mejor tirador, 2020.\""
+    },
+    "61": {
+      "name": "Vergoldeter Bowling-Pin (Lebowski-Edition)",
+      "flavor": "Eine ironiefreie sechsstellige Hommage an den großen amerikanischen Zeitvertreib — Tao Cheng hat drei."
+    },
+    "62": {
+      "name": "Macbeth 30 Jahre Kristallkaraffe",
+      "flavor": "Aus der Privatbar eines Maze-Bank-Managers entwendet — das gravierte Monogramm liest \"AB\", dieselben Initialen wie Avon Hertz' Buchhalter."
+    },
+    "63": {
+      "name": "Festive Surprise Dreifach-Punkte-Trophäe",
+      "flavor": "Vergeben an Arena-Teilnehmer, die beim Festive Surprise einen Hattrick erzielten — die Schleifen sind noch gekräuselt."
+    },
+    "64": {
+      "name": "Master-Bandito-Piloten-Trophäe",
+      "flavor": "Verdient für zehn Kinetik-Mine-Kills im RC Bandito — Arena-Fans nennen das immer noch die \"Garagenboden-Trophäe.\""
+    },
+    "65": {
+      "name": "Arena Karriere Aufsteigender Turm",
+      "flavor": "Vergeben fürs Überleben von 100 aufeinanderfolgenden Arena-Runden — Benny schweißte den Sockel persönlich."
+    },
+    "66": {
+      "name": "Arena Großmeister Pokal",
+      "flavor": "Der Hauptpreis, den Mr. Bossman bei den ersten Arena-Finals vergab — nur drei wurden je gegossen, zwei sind verschwunden."
+    },
+    "67": {
+      "name": "Pegassi Toreador Chrom-Maquette",
+      "flavor": "Ein Maßstabsstück, bestellt anlässlich des Toreador-Debüts auf dem Vinewood Boulevard."
+    },
+    "68": {
+      "name": "LS Caesars Schlagmann Wackelkopf",
+      "flavor": "Ein 90er-Souvenir aus dem alten LS-Caesars-Dugout — Franklin hat einen auf dem Schreibtisch zum Glück."
+    },
+    "69": {
+      "name": "San Andreas Stallions Rookie Wackelkopf",
+      "flavor": "Vinewood-Bowl-Werbegeschenk vom '04er Heimspielauftakt — der Federkopf wackelt nach zwanzig Jahren immer noch."
+    },
+    "70": {
+      "name": "Arena Werkstatt Pit-Boss Tasse",
+      "flavor": "\"Weltweit #1 Boss\"-Tasse von Mr. Bossman persönlich — Kaffeering noch am Rand."
+    },
+    "71": {
+      "name": "Benefactor Krieger Display-Maquette",
+      "flavor": "Ein Million-Chip-Schaustück aus der Penthouse-Galerie — Yung Ancestor erwähnte genau diese Skulptur in einer Zeile."
+    },
+    "72": {
+      "name": "Vergoldete \"Freiwurf\"-Skulptur",
+      "flavor": "Ein sechsstelliges Gesprächsstück — die Signatur des Künstlers, \"Jeff K.\", ist auf der Unterseite eingraviert."
+    },
+    "73": {
+      "name": "Porzellanmädchen-Figur",
+      "flavor": "Ein angeschlagenes kleines Porzellanmädchen, das einst auf einem Vinewood-Kaminsims lebte — hübsch, naiv und mehr wert als sie aussieht."
+    },
+    "74": {
+      "name": "Harlekin-Clown-Figur",
+      "flavor": "Eine Pierrot-Puppe mit rissigem Email und einem Lächeln, das immer einen Frame versetzt aussieht."
+    },
+    "75": {
+      "name": "Cypress Abstrakte Skulptur",
+      "flavor": "Hipster-Galeriestück, das auf einer Cypress-Flats-Laderampe stehengelassen wurde — beschriftet \"unbenannt #4\" und so bepreist, als wäre es wichtig."
+    },
+    "76": {
+      "name": "Bronze-Hengst-Figur",
+      "flavor": "Ein Miniatur-Hengst, der einst auf Michael De Santas Kaminsims lebte — jemand schnappte ihn während des Madrazo-Falls."
+    },
+    "77": {
+      "name": "Tintenfass-Schädel-Trophäe",
+      "flavor": "Ein Flash-Art-Schädel, direkt vom Tresen eines Harmony-Tattoo-Salons geholt — riecht noch nach grüner Seife."
+    },
+    "78": {
+      "name": "OG Mixtape — Variante 2",
+      "flavor": "Versiegeltes Promo-Tape einer Bootleg-West-Coast-Pressung — Franklin würde das Doppelte zahlen."
+    },
+    "79": {
+      "name": "Chrom-Gladiator-Schädel",
+      "flavor": "Kühlerhauben-großer Schädel in Show-Chrom plattiert — Nachttischstück eines Arena-War-Champions."
+    },
+    "80": {
+      "name": "Lowrider-Kunstmaquette",
+      "flavor": "Eine Galeriemaquette eines beschnittenen Lowriders — Pinstripes noch frisch beim Anfassen."
+    },
+    "81": {
+      "name": "El Rubios Rennfahrer-Trophäe",
+      "flavor": "Eine vergoldete Rennfahrer-Trophäe, aus einem Privatinsel-Tresor gehoben — die Gravur wurde abgekratzt."
+    },
+    "82": {
+      "name": "Downtown Cab Co. Goldtrophäe",
+      "flavor": "Eine Auszeichnung für ein Jahrhundert Dienst der Downtown Cab Co. — zuletzt auf einem Dispatcher-Regal gesehen, bevor der Laden ausgeraubt wurde."
+    },
+    "83": {
+      "name": "Kristall-Pyramiden-Briefbeschwerer",
+      "flavor": "Eine schwere Kristallpyramide, die einst die Verträge eines Produzenten beschwerte — soll angeblich schlechte Energie vertreiben."
+    },
+    "84": {
+      "name": "Champion-Boxhandschuh",
+      "flavor": "Ein einzelner roter Handschuh, in der Ecke eines lange geschlossenen Fitnessstudios zurückgelassen — Knöchelstaub noch auf dem Leder."
+    },
+    "85": {
+      "name": "Galaxy-Yacht-Miniatur",
+      "flavor": "Ein Juwelier-Maßstabsmodell der Galaxy — Goldplattierung, funktionierender Anker, bepreist wie das echte Ding."
+    },
+    "86": {
+      "name": "Up-n-Atomizer Strahlenkanone",
+      "flavor": "Ein Retro-Chrom-Todesstrahl direkt aus dem Schild des Up-n-Atom-Diners — und überraschend schwer beim Aufheben."
+    },
+    "87": {
+      "name": "Brutalistischer Betonblock",
+      "flavor": "Ein gegossener Betonkunstblock, von dem die Galerie behauptet, er sei \"post-Vinewood-brutalistisch\" — auch wenn er wie ein Bordstein aussieht."
+    },
+    "88": {
+      "name": "Maze Bank Tower Maquette",
+      "flavor": "Ein perfektes Maßstabsmodell des Maze Bank Tower — das Puppenhaus, das ein CEO in der Ecke seines echten Büros aufbewahrt."
+    },
+    "89": {
+      "name": "Perico Compliance Elektroschocker",
+      "flavor": "Ein Schwarzmarkt-Elektroschocker, einem Inselwächter abgenommen — hat noch halbe Ladung in der Zelle."
+    },
+    "90": {
+      "name": "Aztekischer Steingötze",
+      "flavor": "Ein vulkanischer Steingötze älter als die Stadt selbst — Franklin schwor, ihn nie gekauft zu haben, aber er tauchte immer wieder auf."
+    },
+    "91": {
+      "name": "Arena Wars Champion-Trophäe",
+      "flavor": "Die große — eine massive Solo-Survivor-Goldtrophäe, einmal pro Arena-Wars-Saison vergeben und nie zweimal."
+    },
+    "92": {
+      "name": "Pinker Streusel-Donut",
+      "flavor": "Ein halb verzehrter pinker Ring mit Regenbogenstreuseln, auf einer Serviette bei einer langen Stakeout-Operation zurückgelassen."
+    },
+    "93": {
+      "name": "Kristall-Champagnerflöte",
+      "flavor": "Lippenstift noch am Rand von einer Vinewood-Afterparty, an deren Ende sich niemand erinnert."
+    },
+    "94": {
+      "name": "Cayo Perico Tänzer-Trophäe",
+      "flavor": "Eine vergoldete Tänzerfigur, gewonnen in einer Heist-Crew-Wette und für einen Regentag versteckt."
+    },
+    "95": {
+      "name": "Cayo Perico Kämpfer-Trophäe",
+      "flavor": "Zwilling der Tänzerin, dieser wurde vom Muskel der Crew beansprucht, bevor sie verschwanden."
+    },
+    "96": {
+      "name": "Penthouse Dekorative Skulptur",
+      "flavor": "Modernistisches Kunstwerk, von einem pleitegegangenen Arcadebesitzer verpfändet; die Reichen wussten nie, dass es fehlte."
+    },
+    "97": {
+      "name": "Meteoriten-Schokoriegel",
+      "flavor": "Bingo-Themen-Süßigkeitsriegel mit Verpackung, die behauptet, er sei im tiefen Weltraum geschmiedet."
+    },
+    "98": {
+      "name": "P's & Q's Süßigkeitenkiste",
+      "flavor": "Eine klebrige Schachtel Buchstabensüßigkeiten, zurückgelassen nachdem der Kindergeburtstag schiefging."
+    },
+    "99": {
+      "name": "Wandmontierter Konzertlautsprecher",
+      "flavor": "Ein zerkratzter PA-Lautsprecher, befreit von einer Vespucci-Blockparty, die das LSPD um 2 Uhr beendete."
+    },
+    "100": {
+      "name": "Bean Machine Take-Away-Kaffee",
+      "flavor": "Lauwarmer Latte mit lockerem Deckel — auf dem Weg zu einem bereits begonnenen Meeting verlassen."
+    },
+    "101": {
+      "name": "Taggers Pinsel",
+      "flavor": "Borsten verkrustet mit fluoreszierendem Grün — fallengelassen mitten im Tag, als die Sirenen in die Gasse kamen."
+    },
+    "102": {
+      "name": "Nummerierte Billardkugel — 8",
+      "flavor": "Die schwarze Kugel, abgenutzt von tausend Streitspielen um Fünf-Dollar-Wetten."
+    },
+    "103": {
+      "name": "Nummerierte Billardkugel — 7",
+      "flavor": "Maroon-Streifen rollte vom Tisch und schaffte es nie zurück ins Rack."
+    },
+    "104": {
+      "name": "Nummerierte Billardkugel — 9",
+      "flavor": "Gelber Streifen, an einer Seite zerkratzt, wo jemand sie als Briefbeschwerer in der Hand hielt."
+    },
+    "105": {
+      "name": "Nummerierte Billardkugel — 13",
+      "flavor": "Orangefarbener Streifen mit abgesplitterter Lackecke von einem schiefgegangenen harten Banden-Schuss."
+    },
+    "106": {
+      "name": "Nummerierte Billardkugel — 11",
+      "flavor": "Bordeauxfarbener Streifen verfleckt mit Zigarettenasche — einst Stammgast bei einem Del-Perro-Turnier."
+    },
+    "107": {
+      "name": "Nummerierte Billardkugel — 5",
+      "flavor": "Einfarbig Orange, glatt wie neu — eindeutig in der ersten Nacht aus der Schachtel gestohlen."
+    },
+    "108": {
+      "name": "Nummerierte Billardkugel — 15",
+      "flavor": "Maroon-Streifen mit einem Haarriss, der pfeift, wenn man richtig trifft."
+    },
+    "109": {
+      "name": "Nummerierte Billardkugel — 12",
+      "flavor": "Lila Streifen, gefunden in der Tasche einer geliehenen Jacke, die niemand zurückgab."
+    },
+    "110": {
+      "name": "Nummerierte Billardkugel — 4",
+      "flavor": "Einfarbig Violett, fast spiegelblank poliert — der Liebling eines längst pensionierten Hustlers."
+    },
+    "111": {
+      "name": "Weiße Spielkugel",
+      "flavor": "Die Spielkugel, die tausend Racks zerbrach — Kreidespur noch an der Vorderkante."
+    },
+    "112": {
+      "name": "Nummerierte Billardkugel — 6",
+      "flavor": "Einfarbig Grün mit einer Delle aus der Zeit, als sie als Briefbeschwerer in einem Inkassobüro diente."
+    },
+    "113": {
+      "name": "Nummerierte Billardkugel — 1",
+      "flavor": "Einfarbig Gelb, die Glückliche — von einem Stammgast vor jedem Anstoß in der Hand gehalten."
+    },
+    "114": {
+      "name": "Nummerierte Billardkugel — 2",
+      "flavor": "Einfarbig Blau mit verblasster Stift-Initiale — vor langer Zeit beansprucht, nie zurückgefordert."
+    },
+    "115": {
+      "name": "Nummerierte Billardkugel — 3",
+      "flavor": "Einfarbig Rot — soll von einem Tisch stammen, wo ein berühmter One-Pocket-Hustle stattfand."
+    },
+    "116": {
+      "name": "Nummerierte Billardkugel — 10",
+      "flavor": "Blauer Streifen mit Filzkratzern von einem der Tische, die niemand reparieren darf."
+    },
+    "117": {
+      "name": "Nummerierte Billardkugel — 14",
+      "flavor": "Grüner Streifen, der von einem Cypress-Flats-Garagentisch fehlt; niemand fragte zweimal."
+    },
+    "118": {
+      "name": "Glasierter Keramikkrug",
+      "flavor": "Ein schwerer Keramikkrug von einem Grand-Senora-Straßenstand — angeschlagene Lippe, hält noch Wasser."
+    },
+    "119": {
+      "name": "Gerollte Architekturzeichnung",
+      "flavor": "Baupläne fest gerollt und mit Bindfaden gebunden — bei einem hastigen Aufbruch fallen gelassen."
+    },
+    "120": {
+      "name": "Maßgefertigte MP Mk II",
+      "flavor": "Eine modifizierte MP mit sauber gefeilter Serie — nach einem lauten Paleto-Bay-Job zurückgelassen."
+    },
+    "121": {
+      "name": "Industrieller Klauenhammer",
+      "flavor": "Ein schwerer Klauenhammer, von einem Vorarbeiter geliehen und nie an den Werkzeuggurt zurückgegeben."
+    },
+    "122": {
+      "name": "Friseur-Schaumbecher",
+      "flavor": "Halb benutzter Friseurschaum, Sandelholzduft eingebrannt."
+    },
+    "123": {
+      "name": "Pneumatischer Schlagschrauber",
+      "flavor": "Auslöser klebrig von Bremsstaub und altem Fett."
+    },
+    "124": {
+      "name": "Sender-Hopper Fernbedienung",
+      "flavor": "Batteriefach mit einem Stück Klebeband befestigt."
+    },
+    "125": {
+      "name": "Wäschekorb aus Rattan",
+      "flavor": "Riecht nach Weichspüler und einer vermissten Socke."
+    },
+    "126": {
+      "name": "Gesperrtes Wegwerf-Handy",
+      "flavor": "Gesperrter Bildschirm mit zweiundzwanzig verpassten Anrufen."
+    },
+    "127": {
+      "name": "Chrom-Cocktailshaker",
+      "flavor": "Immer noch kalt, Eis klimpert gegen poliertes Stahl."
+    },
+    "128": {
+      "name": "Zwei-Finger Whisky",
+      "flavor": "Rauchig, torfig, zwei Finger Reue."
+    },
+    "129": {
+      "name": "Marmor-Kuriositätenskulptur",
+      "flavor": "Kalt beim Anfassen, am Sockel mit Bleistift signiert."
+    },
+    "130": {
+      "name": "Stapel gefälschter Lizenzen",
+      "flavor": "Zwölf Identitäten, gleicher Haarschnitt, andere Namen."
+    },
+    "131": {
+      "name": "Weißgold-Saphir-Tropfen",
+      "flavor": "Gefasst in Weißgold, Gewicht absichtlich ungleichmäßig."
+    },
+    "132": {
+      "name": "Trommel-Mag Street Sweeper",
+      "flavor": "Trommelmagazin warm, Seriennummer abgekratzt."
+    },
+    "133": {
+      "name": "Verkrusteter Trockenfutternapf",
+      "flavor": "Verkrustet mit getrocknetem Saft, Ameisen halten Meeting."
+    },
+    "134": {
+      "name": "Verschossene Patronenhülse",
+      "flavor": "Zünder mittig getroffen, Lack vom Gehäuse abgeblättert."
+    },
+    "135": {
+      "name": "Staubbedecktes Hardcover",
+      "flavor": "Rücken im vierten Kapitel gebrochen, Eselsohren und endgültig."
+    },
+    "136": {
+      "name": "Kabelgebundene Computermaus",
+      "flavor": "Scrollrad klebrig, linke Taste blank gewetzt."
+    },
+    "137": {
+      "name": "Nachttisch-Wecker",
+      "flavor": "Anzeige bei 12:00 stehen geblieben, Snooze-Knopf eingedrückt."
+    },
+    "138": {
+      "name": "Gefaltete Akte",
+      "flavor": "Namen mit Marker geschwärzt, Ränder von Feuchtigkeit gewellt."
+    },
+    "139": {
+      "name": "Zwei-Scheiben-Toaster",
+      "flavor": "Krümel in der Schublade, Hebel locker."
+    },
+    "140": {
+      "name": "Angeschlagener roter Apfel",
+      "flavor": "Ein Biss genommen, abgelegt und vergessen."
+    },
+    "141": {
+      "name": "Schlanker DVD-Player",
+      "flavor": "Disc-Schublade verklemmt, RCA-Kabel verknotet."
+    },
+    "142": {
+      "name": "C4-Brikett",
+      "flavor": "Detonator abgeschraubt, Knetmasse weich und warm."
+    },
+    "143": {
+      "name": "Pride Lager Dose",
+      "flavor": "Kaltschwitzend, halber Daumenabdruck am Ring."
+    },
+    "144": {
+      "name": "Paparazzi-Kameragehäuse",
+      "flavor": "Langes Objektiv zerkratzt, letzter Frame noch im Puffer."
+    },
+    "145": {
+      "name": "Kristall-Manager-Aschenbecher",
+      "flavor": "Schwerer Boden, heute Abend drei Zigarren registriert."
+    },
+    "146": {
+      "name": "Montierter Taxameter",
+      "flavor": "Bei $14.20 eingefroren, Kabel hängt von der Halterung."
+    },
+    "147": {
+      "name": "Prinzessinnen-Schliff Diamant Solitaire",
+      "flavor": "Prinzessinnenschliff, zertifiziert auf einen Namen, den es nicht mehr gibt."
+    },
+    "148": {
+      "name": "Air-Hockey-Schläger",
+      "flavor": "Filzboden glattgewetzt, Griff schweißfleckig."
+    },
+    "149": {
+      "name": "Schwarze Obelisk-Figur",
+      "flavor": "Polierter Stein, Sockel mit einem einzigen Symbol graviert."
+    },
+    "150": {
+      "name": "Verbeulte eCola-Dose",
+      "flavor": "Am Rand verbeult, Kondensation sammelt sich am Boden."
+    },
+    "151": {
+      "name": "Casino Glanz-Quartalsheft",
+      "flavor": "Knackige Glanzseiten, prahlend mit Jackpots, die niemand, den du kennst, je gewonnen hat."
+    },
+    "152": {
+      "name": "Clubhaus-Wegwerf-Laptop",
+      "flavor": "Mit Aufklebern überzogener Laptop mit einem Akku, heiß genug um darauf ein Ei zu braten."
+    },
+    "153": {
+      "name": "Fettverkrustete Werkzeugkiste",
+      "flavor": "Jede Schublade klappert mit unpassenden Nüssen und einem einzelnen fettigen Glückskeks."
+    },
+    "154": {
+      "name": "Importierter Zigarrenvorrat",
+      "flavor": "Fest in Folie gewickelt und riecht wie das Wohnzimmer eines reicheren Mannes."
+    },
+    "155": {
+      "name": "Kristall-Whiskykaraffe",
+      "flavor": "Handgeschliffener Kristall, der noch den Geist eines dreißig Jahre alten Single Malts hält."
+    },
+    "156": {
+      "name": "Flaschenservice-Eiskübel",
+      "flavor": "Halb geschmolzenes Eis, Lippenstiftrand und ein Nachgeschmack von jemandes guter Nacht."
+    },
+    "157": {
+      "name": "Unbeschriftete DVD-Hülle",
+      "flavor": "Kein Titel, keine Bewertung und ein klebriger Rückstand, den du nicht identifizieren willst."
+    },
+    "158": {
+      "name": "Schwerer Stahl-Schraubenschlüssel",
+      "flavor": "Die Art Schraubenschlüssel, die mehr Kiefer als Schrauben festgezogen hat."
+    },
+    "159": {
+      "name": "Ein einsamer Stiefel",
+      "flavor": "Sohle durchgewetzt, Geschichte unerzählt, der zweite Stiefel wahrscheinlich in einer Mülltonne."
+    },
+    "160": {
+      "name": "Geleerte Hausflasche",
+      "flavor": "Klebriges Etikett abgezogen, Inhalt längst weg, eine winzige Bühne für Fruchtfliegen."
+    },
+    "161": {
+      "name": "Penthouse Messing-Skulptur",
+      "flavor": "Gegossenes Messing mit einer Kurve so überheblich, sie muss eine Viertelmillion gekostet haben."
+    },
+    "162": {
+      "name": "Geschliffener Saphir-Anhänger",
+      "flavor": "Kalt beim Anfassen und irgendwie schwerer als ein so kleiner Stein sein sollte."
+    },
+    "163": {
+      "name": "Gartenmarkt-Farn",
+      "flavor": "Leicht übergossen, leicht ungeliebt, bereit in einem neuen Zuhause zu sterben."
+    },
+    "164": {
+      "name": "Bandgriff-Snubnose-Revolver",
+      "flavor": "Sechs Kammern, zwei abgefeuert, Griff in Friktionsband gewickelt, das nach Schweiß riecht."
+    },
+    "165": {
+      "name": "Zerkratzte Lautsprecherstation",
+      "flavor": "Akku tot, Bass kaputt, aber die Antenne leuchtet noch hoffnungsvoll blau."
+    },
+    "166": {
+      "name": "Halb leere Sprühdose",
+      "flavor": "Klappert beim Schütteln, zischt beim Drücken, singt beim Zielen."
+    },
+    "167": {
+      "name": "Zerknüllter Limonadenbecher",
+      "flavor": "Strohhalm verbogen, Deckel angebissen, gerade genug Sirup übrig, um ihn an den Bordstein zu kleben."
+    },
+    "168": {
+      "name": "Surplus-Gasmaske",
+      "flavor": "Filterkartusche verkrustet, Augengläser beschlagen mit der Panik eines anderen."
+    },
+    "169": {
+      "name": "Manager-Smartphone",
+      "flavor": "Gesperrter Bildschirm, zwei verpasste Anrufe, Sperrbildschirmfoto einer Yacht, die du dir nicht leisten kannst."
+    },
+    "170": {
+      "name": "Warme Patronenhülse",
+      "flavor": "Messing noch warm genug, um sich an den Abzug zu erinnern."
+    },
+    "171": {
+      "name": "Geöffnete Magnum Champagner",
+      "flavor": "Folie zerrissen, Korken verloren, die Nacht schon auf dem Weg legendär zu werden."
+    },
+    "172": {
+      "name": "Eiserne Streitaxt",
+      "flavor": "Kante angeschlagen, Schaft glatt gewetzt, die Art Ding, die über einen Kamin gehört."
+    },
+    "173": {
+      "name": "Versiegelter Schmugglerwhisky",
+      "flavor": "Bernsteinfarben innen, unangetastet, Etikett mit einem Namen geprägt, den niemand richtig ausspricht."
+    },
+    "174": {
+      "name": "Perl-Griff Vintage-Pistole",
+      "flavor": "Gravierter Lauf, Perlmuttergriff, riecht leicht nach Waffenöl und Reue."
+    },
+    "175": {
+      "name": "Halb volles Weinglas",
+      "flavor": "Lippenstift am Rand, Sediment am Boden, Gespräch längst aufgegeben."
+    },
+    "176": {
+      "name": "Schwere .50 Pistole",
+      "flavor": "Rückstoß-Bluterguss-Material, mit einer Seriennummer bis aufs Silber sauber gefeilt."
+    },
+    "177": {
+      "name": "Hohe Glas-Wasserpfeife",
+      "flavor": "Trübe Kammer, gerissener Downstem, riecht wie ein Vinewood-Musikvideo-Set."
+    },
+    "178": {
+      "name": "Gequetschte Senfflasche",
+      "flavor": "Verkrustete Düse, verbeulte Seiten, Deckel im Einsatz vermisst."
+    },
+    "179": {
+      "name": "Zerquetschte Limonadendose",
+      "flavor": "Ring noch dran, Seite eingedrückt von einem Stiefel, der es eilig hatte."
+    },
+    "180": {
+      "name": "Schablonierte Munitionskiste",
+      "flavor": "Mit einer Einheitsnummer gestempelt, mit Klebeband und einem Gebet versiegelt."
+    },
+    "181": {
+      "name": "Zerbrochene DVD-Hülle",
+      "flavor": "Eine zerkratzte Plastikhülle mit fehlender Disc und einem verblassten Verleihaufkleber."
+    },
+    "182": {
+      "name": "Notfall-Leuchtraketenbox",
+      "flavor": "Eine verbrannte Kartonschachtel, schabloniert mit roten Gefahrenwarnungen."
+    },
+    "183": {
+      "name": "Vergoldete Schädelbüste II",
+      "flavor": "Ein verchromtes Memento Mori, das jemand vor der Enthüllung mitnahm."
+    },
+    "184": {
+      "name": "Küchen-Glastopf",
+      "flavor": "Ein hitzefleckiger Pyrex-Topf, der noch leicht nach Marinara riecht."
+    },
+    "185": {
+      "name": "Vorstandsbüro-Aktenkoffer",
+      "flavor": "Ein zerkratzter Aluminiumkoffer, verriegelt mit einem italienischen Gepäckanhänger."
+    },
+    "186": {
+      "name": "Schreibtischordner-Aufräumer",
+      "flavor": "Ein voller Stiftbecher, der eindeutig nie organisiert wurde."
+    },
+    "187": {
+      "name": "Aztekischer Götzen-Vorrat",
+      "flavor": "Eine präkolumbianische Kuriosität, verkrustet im Dschungelmoos; jemand sollte ihn wirklich nicht verlegt haben."
+    },
+    "188": {
+      "name": "Bürgersteig-Müllhaufen",
+      "flavor": "Zerquetschte Becher, ein Lottoschein und ein Flyer für einen Club, der 2014 schloss."
+    },
+    "189": {
+      "name": "MC-Kurier-Koffer",
+      "flavor": "Ein verschlossener Roadcase, mit Aufklebern von drei verschiedenen Chaptern überklebt."
+    },
+    "190": {
+      "name": "Resident-DJ-Laptop",
+      "flavor": "Kampfnarbiger Deck noch auf einen Track gecued, von dem niemand zugibt, ihn geschrieben zu haben."
+    },
+    "191": {
+      "name": "Boutique-Display-Vase",
+      "flavor": "Eine handgeformte Keramik mit einem Preisschild im Wert einer Monatsmiete."
+    },
+    "192": {
+      "name": "Fallengelassene 9mm Pistole",
+      "flavor": "Schlitten verriegelt, Serien sauber gefeilt, drei Schuss vom Magazin entfernt."
+    },
+    "193": {
+      "name": "Vergoldete Schädelbüste III",
+      "flavor": "Ein passendes Stück aus dem unvollendeten Casino-Installations-Triptychon."
+    },
+    "194": {
+      "name": "LSPD Maglite",
+      "flavor": "Schweres Aluminium, eine verbeulte Blende und ein Bodycam-Clip noch angebracht."
+    },
+    "195": {
+      "name": "Mama-und-Papa GESCHLOSSEN Schild",
+      "flavor": "Tausendmal von Hand umgedreht; Ecken eingerollt, Stunden zweimal durchgestrichen."
+    },
+    "196": {
+      "name": "Verirrter Designer-Turnschuh",
+      "flavor": "Nur rechter Fuß, zerkratzte Spitze, Schnürsenkel noch gebunden — jemand rannte."
+    },
+    "197": {
+      "name": "Tiefland-Peyote-Blüte",
+      "flavor": "Ein wachsiger Wüstenknopf, der leise summt, wenn du dich daneben hockst."
+    },
+    "198": {
+      "name": "Industrielles Ölfass",
+      "flavor": "Geschwollene Nähte und ein frisches Leck, das den Kies darunter schmiert."
+    },
+    "199": {
+      "name": "Surplus-Munitionskiste",
+      "flavor": "Militärisch gestempelt, halb geöffnet, Zählung eindeutig aus den Büchern."
+    },
+    "200": {
+      "name": "Manager-Rolodex",
+      "flavor": "Ein Flipper voller mit Bleistift geschriebener Namen; jeder dritte Eintrag ist durchgestrichen."
+    },
+    "201": {
+      "name": "Casino Art-Car-Skulptur",
+      "flavor": "Eine verchromte Muscle-Car-Silhouette, montiert wie eine wild gewordene Kühlerfigur."
+    },
+    "202": {
+      "name": "Vintage-Transistorradio",
+      "flavor": "Geknackter Sender-Knopf, fängt noch Los Santos Rock auf, wenn man richtig tippt."
+    },
+    "203": {
+      "name": "Vergoldete Schädelbüste I",
+      "flavor": "Die erste des Triptychons — die, die der Künstler nicht betiteln wollte."
+    },
+    "204": {
+      "name": "Geschmuggelte Whiskyflasche",
+      "flavor": "Ausländisches Etikett, gebrochenes Siegel, der Importstempel ungeschickt abgekratzt."
+    },
+    "205": {
+      "name": "Weggeworfenes Neuheitsspielzeug",
+      "flavor": "Hinter der Mülltonne gefunden; niemand gibt zu, wessen es war."
+    },
+    "206": {
+      "name": "Headshop-Mittelstück",
+      "flavor": "Handgeblasenes Borosilikat, rauchüberzogene Kammer, Aufkleberpreis bereits diskutiert."
+    },
+    "207": {
+      "name": "Chrom-Salon-Haartrockner",
+      "flavor": "Schwerer Chromgriff, Motor noch warm beim Anfassen."
+    },
+    "208": {
+      "name": "Tomatencremesuppe Dose",
+      "flavor": "Verbeultes Etikett, Ablaufdatum mit Marker abgekratzt."
+    },
+    "209": {
+      "name": "Werkstatt-Werkzeugkiste",
+      "flavor": "Obere Schublade hängt offen; Nüsse metrisch, Ratschen imperial."
+    },
+    "210": {
+      "name": "Casino-Court-Trophäenball",
+      "flavor": "Eine vergoldete Basketball-Skulptur, mit Marker von einem halb verwischten Namen signiert."
+    },
+    "211": {
+      "name": "Schablonierte Munitionskiste II",
+      "flavor": "Messinghülsen klappern drinnen wie lose Zähne in einer Kaffeedose."
+    },
+    "212": {
+      "name": "Samt-Erbstück-Kiste",
+      "flavor": "Winzige Messingscharniere riechen noch nach jemandes Großmutter."
+    },
+    "213": {
+      "name": "Vergoldete Haubenmaquette",
+      "flavor": "Lack dick genug, um eine kleine Studio-Wohnung zu hypothekarisch belasten."
+    },
+    "214": {
+      "name": "Manager-Büsten-Skulptur",
+      "flavor": "Ein VP wählte es; die Assistentin verdrehte die Augen."
+    },
+    "215": {
+      "name": "Springender CD-Stapel",
+      "flavor": "Die Hälfte der Hüllen ist leer; der Rest ist zur Hölle zerkratzt."
+    },
+    "216": {
+      "name": "Theken-Munitionsbox",
+      "flavor": "Aufkleber sagt SALE; die Box hat sich nie bewegt."
+    },
+    "217": {
+      "name": "Bar-Zitrusglas",
+      "flavor": "Eine einsame Scheibe schwimmt, als wartete sie auf ein Trinkgeld."
+    },
+    "218": {
+      "name": "Imitations-Bombenattrappe",
+      "flavor": "Drähte in der Farbe billiger Süßigkeiten und ein Timer, der nicht tickt."
+    },
+    "219": {
+      "name": "Schaufenster-Spielzeug",
+      "flavor": "Sogar die Gassenkatzen gehen weit drumherum."
+    },
+    "220": {
+      "name": "Harz-Turm-Bong",
+      "flavor": "Das Wasser wurde seit dem vorherigen Mieter nicht gewechselt."
+    },
+    "221": {
+      "name": "Kristall-Zigarrentablett",
+      "flavor": "Drei Zigarrenenden, alle Kubaner, alle mitten im Deal ausgedrückt."
+    },
+    "222": {
+      "name": "Theken-Toaster",
+      "flavor": "Der Regler ist bei fünf festgeklemmt und niemand hat sich beschwert."
+    },
+    "223": {
+      "name": "Blutverschmierter Gartenspaten",
+      "flavor": "Erde auf dem Blatt sieht röter aus als Mutterboden sein sollte."
+    },
+    "224": {
+      "name": "Anonymes braunes Paket",
+      "flavor": "Keine Rücksendeadresse, drei verschiedene Porto-Aufkleber."
+    },
+    "225": {
+      "name": "No.1 Arcade-Trophäe",
+      "flavor": "Gravur sagt NUMMER EINS in einer Schriftart aus 1983."
+    },
+    "226": {
+      "name": "Apothekengang-Flasche",
+      "flavor": "No-Name-Etikett, Discounter-Geruch, Vollpreis-Etikett."
+    },
+    "227": {
+      "name": "Geschnittener Mischrohr",
+      "flavor": "Rückstandsringe innen wie ein schlechtes Jahr für Bäume."
+    },
+    "228": {
+      "name": "Taktische Plattenmaske",
+      "flavor": "Band riecht noch nach dem Adrenalin des letzten Typen."
+    },
+    "229": {
+      "name": "Schwarze unbenannte Skulptur",
+      "flavor": "Katalog nennt es Unbenannt; der Buchhalter nennt es eine Abschreibung."
+    },
+    "230": {
+      "name": "Versiegelte Champion-Flasche",
+      "flavor": "Plaketten-Datum älter als die meisten Stammgäste der Arcade."
+    },
+    "231": {
+      "name": "Hartschaum-Waffenkoffer",
+      "flavor": "Schaumeinsatz noch für etwas Ernstes geformt."
+    },
+    "232": {
+      "name": "Cayo Salzrand-Glas",
+      "flavor": "Salzrand am Deckel sagt, dieses war auf den Inseln."
+    },
+    "233": {
+      "name": "Dreisäulen-Boutique-Kerzen",
+      "flavor": "Drei Dochte, drei verschiedene Brennraten, eine Stimmung."
+    },
+    "234": {
+      "name": "Einsatz-Gasmaske",
+      "flavor": "Filter ist frisch; die Linsen sind zu Spitze zerkratzt."
+    },
+    "235": {
+      "name": "Chrom-Haubenmaquette",
+      "flavor": "Auf eine Politur poliert, in der man sich rasieren könnte."
+    },
+    "236": {
+      "name": "Halb gegessene Donut-Schachtel",
+      "flavor": "Drei übrig; einer ist definitiv abgeleckt worden."
+    },
+    "237": {
+      "name": "Tongarten-Pflanztopf",
+      "flavor": "Erde trocken, Sukkulente stur, Etikett hängt noch am Rand."
+    },
+    "238": {
+      "name": "Roter Kanister",
+      "flavor": "Halb voll und der Deckel riecht nach einem schlechten Wochenende."
+    },
+    "239": {
+      "name": "Druckplattenmine",
+      "flavor": "Die Feder am Auslöser ist straff genug, um zu pfeifen."
+    },
+    "240": {
+      "name": "RC-Hobby-Sender",
+      "flavor": "Antenne verbogen, linker Stick klebrig, Batterien irgendwie noch gut."
+    },
+    "241": {
+      "name": "Magnetische Fahrzeugmine",
+      "flavor": "Eine scharf aussehende Magnetmine, die jemand in Eile zurückließ."
+    },
+    "242": {
+      "name": "Rosa Neuheitsspielzeug B",
+      "flavor": "In eine Papiertüte gewickelt, die den Wind nicht überlebt hat."
+    },
+    "243": {
+      "name": "Staubiger VHS-Player",
+      "flavor": "Kassette drinnen verklemmt, Etikett liest 'NICHT ANSCHAUEN'."
+    },
+    "244": {
+      "name": "Samt-Halsketten-Display",
+      "flavor": "Das Juwel ist weg, aber der Samt riecht noch nach Politur."
+    },
+    "245": {
+      "name": "Cayo Kristallkaraffe",
+      "flavor": "Geschliffener Kristall, der von gestohlenem Rum und Salzgischt flüstert."
+    },
+    "246": {
+      "name": "Rechter Turnschuh",
+      "flavor": "Schnürsenkel noch gebunden, Besitzer hüpft offensichtlich auf einem Fuß nach Hause."
+    },
+    "247": {
+      "name": "Klippen-Geständnis",
+      "flavor": "Wettergebleichtes Geständnis unter einem Stein festgepinnt."
+    },
+    "248": {
+      "name": "24/7 Pot-Noodle-Becher",
+      "flavor": "Noch warm, Gabel steht aufrecht in der Niederlage."
+    },
+    "249": {
+      "name": "Vintage iPod Dock",
+      "flavor": "Statisches Brummen kommt noch heraus, wenn man es richtig kippt."
+    },
+    "250": {
+      "name": "Geschwärzter Missionsordner",
+      "flavor": "Manilahaut, geschwärzte Tinte, riecht leicht nach Schießpulver."
+    },
+    "251": {
+      "name": "Zerquetschte Aluminiumdose",
+      "flavor": "Jemandes Parkuhr-Wut, in Aluminium festgehalten."
+    },
+    "252": {
+      "name": "Lesters Laptop",
+      "flavor": "Zwölf Fenster offen, keines davon legal."
+    },
+    "253": {
+      "name": "Rosa Neuheitsspielzeug D",
+      "flavor": "Glitzerfinish, Batterien optimistisch."
+    },
+    "254": {
+      "name": "Dienst-Disposhing-Funk",
+      "flavor": "Auf eine Frequenz eingestellt, die nicht mehr existiert."
+    },
+    "255": {
+      "name": "Vierzig-Unzen-Flasche",
+      "flavor": "Boden noch klebrig von einem langen Davis-Abend."
+    },
+    "256": {
+      "name": "Spec-Ops-Sturmhaube",
+      "flavor": "Riecht nach Cordite und schlechten Entscheidungen."
+    },
+    "257": {
+      "name": "Kompaktes Munitionspaket",
+      "flavor": "Messing klingelt, wenn der Wind sich dreht."
+    },
+    "258": {
+      "name": "Zwei-Scheiben-Theken-Toaster",
+      "flavor": "Krümelschublade wurde seit 2013 nicht geleert."
+    },
+    "259": {
+      "name": "Pisswasser Tall Boy",
+      "flavor": "Halb leer, vollständig bereut."
+    },
+    "260": {
+      "name": "Rosé-Plonk-Flasche",
+      "flavor": "Korken bei einem Jahrestag aufgemacht, der nie kam."
+    },
+    "261": {
+      "name": "Perlen-Halsketten-Ständer",
+      "flavor": "Eine einzelne Perle fängt noch Vinewood-Neon."
+    },
+    "262": {
+      "name": "SNS Pistole Mk II",
+      "flavor": "Verbergbar, abstreitbar, sehr real."
+    },
+    "263": {
+      "name": "Keramik-Bürokachel",
+      "flavor": "Leer bis auf eine sture Büroklammer."
+    },
+    "264": {
+      "name": "Einzelschuss-Pistole",
+      "flavor": "Ein Schuss, eine Chance, ein schlechter Tag für jemanden."
+    },
+    "265": {
+      "name": "Zerbrochener Kampfhelm",
+      "flavor": "Band aufgeraut, Visier gerissen, Geschichte unerzählt."
+    },
+    "266": {
+      "name": "Casino-Skulptur-Auto #6",
+      "flavor": "Ein Maßstabsmodell eines Autos, das mehr wert ist als das Casino dafür zahlte."
+    },
+    "267": {
+      "name": "Rote Plonk-Flasche",
+      "flavor": "Etikett verblasst, Jahrgang irgendwie schlimmer als das Preisschild."
+    },
+    "268": {
+      "name": "Cluckin'-Bell-Sprengstoff",
+      "flavor": "In Hühnerprint-Klebeband gewickelt, was es irgendwie schlimmer macht."
+    },
+    "269": {
+      "name": "Betonkunst-Block I",
+      "flavor": "Brutalistisch absichtlich, taggiert versehentlich."
+    },
+    "270": {
+      "name": "Rosa Neuheitsspielzeug F",
+      "flavor": "Auf dem Nachttisch eines Vinewood-Walk-up nach einem sehr lauten Dienstag zurückgelassen."
+    },
+    "271": {
+      "name": "Metzgerhackmesser",
+      "flavor": "Riecht noch leicht nach Schweineschulter und schlechten Entscheidungen."
+    },
+    "272": {
+      "name": "Mechaniker-Ratsche",
+      "flavor": "Jeder Schraubenschlüssel hat sein eigenes Gebet in den Kopf gekratzt."
+    },
+    "273": {
+      "name": "High-Roller-Hotline-Telefon",
+      "flavor": "Hörer noch warm von einem Anruf, von dem niemand zugibt ihn gemacht zu haben."
+    },
+    "274": {
+      "name": "Schmuggler-Rausch-Box",
+      "flavor": "Der Knopf empfängt nur einen Kanal und der flüstert auf Spanisch."
+    },
+    "275": {
+      "name": "Samt-Halskettenständer",
+      "flavor": "Die Kette, die sie einst hielt, wurde vor Mittag dreimal verpfändet."
+    },
+    "276": {
+      "name": "Bar-Strohhalm-Becher",
+      "flavor": "Die Hälfte der Strohhalme ist in dieselbe Richtung gebogen, wie Schilf in einer Flut."
+    },
+    "277": {
+      "name": "Pacific Standard Kiste",
+      "flavor": "Acht Verschlüsse, vier Schlösser, ein Versprechen, das die Träger nie hielten."
+    },
+    "278": {
+      "name": "Speedway-Bronze-Guss",
+      "flavor": "Eine Trophäe von einem Rennen, an das sich nur die Händler erinnern."
+    },
+    "279": {
+      "name": "Natrium-Nudel-Brikett",
+      "flavor": "Abgelaufen 2008. In Blaine County immer noch legal essbar."
+    },
+    "280": {
+      "name": "Gentleman-Cognac",
+      "flavor": "Drei Finger weg und der Korken im Wind verloren."
+    },
+    "281": {
+      "name": "Funkengesprühte Schweißermaske",
+      "flavor": "Funken haben Sternbilder über das Glas geschrieben."
+    },
+    "282": {
+      "name": "Unmarkierte Champion-Tasse",
+      "flavor": "Kein Name graviert. Wer das gewann, wollte keine Anerkennung."
+    },
+    "283": {
+      "name": "Verchromter Daten-Götze",
+      "flavor": "In Chrom plattiert und gefüllt mit den Geheimnissen der Lifeinvader-Praktikanten."
+    },
+    "284": {
+      "name": "Kalte Pisswasser-Flasche",
+      "flavor": "Eine Flasche so kalt, dass sie einem Mann das Vergeben beibrachte."
+    },
+    "285": {
+      "name": "Rotes Boden-Stroboskop",
+      "flavor": "Noch warm. Noch rot. Noch denselben Beat summend."
+    },
+    "286": {
+      "name": "Kokain-Götze Versandkiste",
+      "flavor": "Das Zoll-Etikett wurde mit dem Blut eines anderen unterzeichnet."
+    },
+    "287": {
+      "name": "Ehrliche Whiskyflasche",
+      "flavor": "Wer daraus trank, vergab nichts."
+    },
+    "288": {
+      "name": "Gezeitenbecken-Peyote",
+      "flavor": "Salzwasser bewahrte, was die Wüste zu leugnen versuchte."
+    },
+    "289": {
+      "name": "Badezimmer-Wattestäbchen",
+      "flavor": "Benutzt. Jedes anders. Frag nicht."
+    },
+    "290": {
+      "name": "Sugar Loop Cerealien-Schachtel",
+      "flavor": "Maskottchen-Augen vom vorherigen Besitzer ausgekratzt."
+    },
+    "291": {
+      "name": "Beton-Coupé-Maquette",
+      "flavor": "Eine Miniatur, bemalt mit dem Staub des Originals."
+    },
+    "292": {
+      "name": "Vergessene Lagerbox",
+      "flavor": "Was auch immer drin war, war ausverkauft, bevor die Sonne aufging."
+    },
+    "293": {
+      "name": "Goldenes Ei",
+      "flavor": "Aus einem Fleeca-Tresor in einem Geigenkasten getragen."
+    },
+    "294": {
+      "name": "Diplomaten-Aktenkoffer",
+      "flavor": "Kombination gesperrt auf einen Geburtstag, zu dem sich niemand bekennt."
+    },
+    "295": {
+      "name": "Jäger-Trophäen-Schädel",
+      "flavor": "Ein Bock mit einem Preis auf seinen Geweihen."
+    },
+    "296": {
+      "name": "Annotierter Randschreiber",
+      "flavor": "Jede Seite unterstrichen. Keine stimmen überein."
+    },
+    "297": {
+      "name": "Tropischer Ananas-Schmuck",
+      "flavor": "Falsche Frucht, falsche Insel, richtige Absicht."
+    },
+    "298": {
+      "name": "Müllhalden-Stoffpuppe",
+      "flavor": "Wer auch immer es wieder zusammennähte, hatte es eilig."
+    },
+    "299": {
+      "name": "Abgetragener Sneaker",
+      "flavor": "Ein einzelner Sneaker, im Trubel des gestrigen Verkaufs zurückgelassen."
+    },
+    "300": {
+      "name": "Space Ranger Blaster",
+      "flavor": "Eine Replika-Strahlenkanone aus einem lange eingestellten Vinewood-Franchise."
+    },
+    "301": {
+      "name": "Pride Lager Sixpack",
+      "flavor": "Gestern aufgestockt, schon halb vergessen im unteren Regal."
+    },
+    "302": {
+      "name": "Kampf-Whiskykaraffe",
+      "flavor": "Ein Milchglas-Hausguss aus einer lange geschlossenen Cantina."
+    },
+    "303": {
+      "name": "Porzellan-Katzenfigur",
+      "flavor": "Sein Keramikauge ist angeschlagen, aber beobachtet noch den Raum."
+    },
+    "304": {
+      "name": "Manager-Stiftehalter",
+      "flavor": "Sechs Kugelschreiber, zwei trocken, einer über Reparatur hinaus zerbissen."
+    },
+    "305": {
+      "name": "Weggeworfener Arbeitsstiefel",
+      "flavor": "Schlamm klebt noch an der Sohle von einem Job, den niemand beendete."
+    },
+    "306": {
+      "name": "Alte Battle Reserve",
+      "flavor": "Etikett abgezogen, Inhalt bernsteinfarben, Jahrgang unmöglich zu überprüfen."
+    },
+    "307": {
+      "name": "Ledergebundene Anthologie",
+      "flavor": "Randnotizen in drei verschiedenen Händen und einer fremden Schrift."
+    },
+    "308": {
+      "name": "Benutzte Sprühdose",
+      "flavor": "Deckel fehlt, Düse verstopft mit dem elektrischen Blau der letzten Nacht."
+    },
+    "309": {
+      "name": "Karmesinrotes Spray",
+      "flavor": "Ein Lieblings-Farbton der lokalen Crews, immer knapp."
+    },
+    "310": {
+      "name": "Mitternacht-Spray",
+      "flavor": "Schwerere Dose als ihr Zwilling, geschüttelt bis die Kugel nachgab."
+    },
+    "311": {
+      "name": "Zerbeulter Gaskanister",
+      "flavor": "Halb voll, meist Dämpfe, eine Warnung lange verblasst."
+    },
+    "312": {
+      "name": "Imperator-Arena-Pokal",
+      "flavor": "Ein Arena-Preis, den ein Champion nie abzuholen kam."
+    },
+    "313": {
+      "name": "Versiegelte Akte",
+      "flavor": "Seiten gestempelt, Daten geschwärzt, Büroklammer rostzerfressen."
+    },
+    "314": {
+      "name": "Tequila Reposado",
+      "flavor": "Wurm längst zur Legende aufgelöst."
+    },
+    "315": {
+      "name": "Stoffrücken-Band",
+      "flavor": "Eines Lesers Daumenabdruck dauerhaft ins vierte Kapitel gedrückt."
+    },
+    "316": {
+      "name": "Geworfener Sneaker",
+      "flavor": "Schnürsenkel zusammengebunden, jemand wollte ihn über ein Kabel werfen."
+    },
+    "317": {
+      "name": "Vintage-Champagnerflasche",
+      "flavor": "Folie intakt, Korken schwitzt leise im kühlen Dunkel."
+    },
+    "318": {
+      "name": "Diner-Kaffeebecher",
+      "flavor": "Lippenstift-Halbmond am Rand, Nachfüllen kam nie."
+    },
+    "319": {
+      "name": "Zerknülltes Erotikheft",
+      "flavor": "Seiten verklebt, wo der Kaugummi landete."
+    },
+    "320": {
+      "name": "Marmormörser & Stößel",
+      "flavor": "Weißer Rückstand in der Maserung, nicht ganz Zucker."
+    },
+    "321": {
+      "name": "Beschlagene Tauchermaske",
+      "flavor": "Band salzversteift, Linse von einem Riff zu viel zerkratzt."
+    },
+    "322": {
+      "name": "Verkabeltes Sprengpaket",
+      "flavor": "Wer auch immer den Timer stellte, malte auch ein Smiley aufs Band."
+    },
+    "323": {
+      "name": "Industrielle Farbdose",
+      "flavor": "Deckel aufgehebelt, Pinsel klemmt, Deckel schließt nicht mehr."
+    },
+    "324": {
+      "name": "Schweißfleckiger Stetson",
+      "flavor": "Die Falte sagt dir, der Träger ritt hart, saß aufrecht."
+    },
+    "325": {
+      "name": "Banklobby-Telefon",
+      "flavor": "Hörer warm, jemand hängte auf, sobald du eintratst."
+    },
+    "326": {
+      "name": "Haus-Wodka Fünftel",
+      "flavor": "Billiges Etikett, ehrlicher Brand, halb weg vor Mittag."
+    },
+    "327": {
+      "name": "Gusseiserne Hantel",
+      "flavor": "Geriffelter Griff verdunkelt von tausend Wiederholungen."
+    },
+    "328": {
+      "name": "Verkrustete Schatztruhe",
+      "flavor": "Messing-Verschluss salz-verschmolzen, der Riegel zischt beim Anheben."
+    },
+    "329": {
+      "name": "Redwood-Karton",
+      "flavor": "Eine flachgedrückte Redwoods-Packung hinter dem Kassenglas."
+    },
+    "330": {
+      "name": "Referenzbuch-Stapel",
+      "flavor": "Drei Hardcover gestapelt von jemandem, der nie zurückkam, um sie zu beenden."
+    },
+    "331": {
+      "name": "Theken-Zuckerriegel",
+      "flavor": "Ein Snackriegel-Wrapper, der sich sehr bemüht, gourmet auszusehen."
+    },
+    "332": {
+      "name": "DJ-Booth EQ-Rack",
+      "flavor": "Patch-Kabel leuchten leicht unter dem Stroboskop."
+    },
+    "333": {
+      "name": "Pantheon-Leinwanddruck",
+      "flavor": "Eine Leinwand, die auf eine Wand wartet, die sie nie wirklich verdient."
+    },
+    "334": {
+      "name": "Drei-Loch-Skimaske",
+      "flavor": "Sie riecht noch nach nervösem Schweiß."
+    },
+    "335": {
+      "name": "House-Edge-Maquette",
+      "flavor": "Eine winzige Hommage an ein Gebäude, das nie etwas zurückgibt."
+    },
+    "336": {
+      "name": "Verbeulte Roma-Tomate",
+      "flavor": "Zwei-für-eins und wahrscheinlich aus einem Grund."
+    },
+    "337": {
+      "name": "Gekochtes Pyrex-Becherglas",
+      "flavor": "Rückstand am Boden sagt, jemand nahm eine Abkürzung."
+    },
+    "338": {
+      "name": "Gentleman-Glanz",
+      "flavor": "Eselsohren auf derselben Seite seit 2013."
+    },
+    "339": {
+      "name": "Baustellen-Warnleuchte",
+      "flavor": "Blinkt orange, als hätte sie irgendwo hin zu sein."
+    },
+    "340": {
+      "name": "Display-Turnschuh rechts",
+      "flavor": "Vitrinen-Modell, nie gepaart, nie verkauft."
+    },
+    "341": {
+      "name": "Bürokaffeebecher",
+      "flavor": "Lauwarm, Lippenstift am Rand, Besitzer unbekannt."
+    },
+    "342": {
+      "name": "Display-Rasenquadrat",
+      "flavor": "Ein hübsches kleines Quadrat, das vorgibt, eine Wiese zu sein."
+    },
+    "343": {
+      "name": "Lumpendocht-Molotow",
+      "flavor": "Riecht nach billigem Gin und schlechteren Entscheidungen."
+    },
+    "344": {
+      "name": "MC-Chapter-Westenstück",
+      "flavor": "Pin noch warm von der Parkplatz-Patch-Zeremonie."
+    },
+    "345": {
+      "name": "Versiegelter Schmugglerbestand",
+      "flavor": "Flasche noch fabrikfrisch, Etikett knackig."
+    },
+    "346": {
+      "name": "Helium-Partyballon",
+      "flavor": "Schnur um ein Klappstuhlbein gewickelt."
+    },
+    "347": {
+      "name": "Display-Turnschuh links",
+      "flavor": "Sohle unberührt, Schnürsenkel zu eng gefädelt, um je getragen zu werden."
+    },
+    "348": {
+      "name": "Lackiertes Kunst-Coupé",
+      "flavor": "Gemalt von jemandem, der das Original nie besaß."
+    },
+    "349": {
+      "name": "Kartell-Harzbüste",
+      "flavor": "Ein Gesicht, an das niemand erinnert werden wollte."
+    },
+    "350": {
+      "name": "Hardcover-Einzelband",
+      "flavor": "Rücken einmal, zweimal gebrochen, dann zurückgestellt."
+    },
+    "351": {
+      "name": "Geöffneter Champagner II",
+      "flavor": "Halb schal, voller Preis."
+    },
+    "352": {
+      "name": "Schminkspiegel",
+      "flavor": "Verschmiert von jemandem, der wirklich sicher sein wollte."
+    },
+    "353": {
+      "name": "Halbpack-Aschenbecher",
+      "flavor": "Drei Filter, ein Streichholz, null Reue."
+    },
+    "354": {
+      "name": "Boutique-Testerflasche",
+      "flavor": "Halb von Fremden gespritzt, nie gekauft."
+    },
+    "355": {
+      "name": "Hafen-Lasthaken",
+      "flavor": "Knoten des Seils aufgeraut, wo jemand ungeduldig wurde."
+    },
+    "356": {
+      "name": "Kisten-Tauch-Vinyl-Hülle",
+      "flavor": "B-Seite vom ursprünglichen Besitzer mit Marker gekritzelt."
+    },
+    "357": {
+      "name": "Diner-Servietten-Stapel",
+      "flavor": "Lippenstiftfleck noch auf der obersten Serviette."
+    },
+    "358": {
+      "name": "Reviers-Schildplakette",
+      "flavor": "Eine Plakette öfter poliert als verdient."
+    },
+    "359": {
+      "name": "Pacific-Goldbarren",
+      "flavor": "Ein einzelner Barren gepresstes Sonnenlicht, schwerer als seine Stille."
+    },
+    "360": {
+      "name": "Arcade-Roboter-Anhänger",
+      "flavor": "Blechgrinsen, Plastikherz, acht Bits fehlgeleiteter Loyalität."
+    },
+    "361": {
+      "name": "Spender-Maskottchen-Anhänger",
+      "flavor": "Ein Souvenir von einem Abendessen, das jemandes Schweigen bezahlte."
+    },
+    "362": {
+      "name": "Spätnacht-Leih-DVD",
+      "flavor": "Die Art Plastikhülle, die nie zum Laden zurückkam."
+    },
+    "363": {
+      "name": "Discount-Snapback-Cap",
+      "flavor": "Schirm noch vom Regal gefaltet, nie vom Kopf."
+    },
+    "364": {
+      "name": "Antikes Wählscheibentelefon",
+      "flavor": "Ein Klingeln, das noch glaubt, jemand sei am anderen Ende."
+    },
+    "365": {
+      "name": "Bahn-Sieben Waisenkugel",
+      "flavor": "Drei Finger verfehlten sie; die Rinne fing sie auf."
+    },
+    "366": {
+      "name": "Unterstrichenes Randbuch",
+      "flavor": "Zweimal unterstrichen, Eselsohren, nie über Kapitel vier hinaus beendet."
+    },
+    "367": {
+      "name": "Zwei-Für-Eins Konserve",
+      "flavor": "Verbeult vom Regalkrieg, noch kalt vom Kühler."
+    },
+    "368": {
+      "name": "Totes Verkehrssignal",
+      "flavor": "Ein rotes Auge, das endlich schließen durfte."
+    },
+    "369": {
+      "name": "Verlorene Pilot-Beta-Kassette",
+      "flavor": "Magnetisches Gedächtnis einer Show, die nie ausgestrahlt wurde."
+    },
+    "370": {
+      "name": "Kassen-Schokoriegel",
+      "flavor": "Der Impulskauf, der hundert Brieftaschen sich öffnen sah."
+    },
+    "371": {
+      "name": "Glut-Verdiente-Trophäe",
+      "flavor": "Verliehen an den, der das Feuer durch die Kälte am Atmen hielt."
+    },
+    "372": {
+      "name": "Platz-Veteran-Volleyball",
+      "flavor": "Verblasste Felder, Sandtaschen, ein Satz noch drin."
+    },
+    "373": {
+      "name": "Quartalsprognose-Ordner",
+      "flavor": "Zahlen, die mehr versprachen als sie hielten."
+    },
+    "374": {
+      "name": "Schmieröl-Tasse",
+      "flavor": "Poliert, wo die Hände sie halten, vernarbt überall sonst."
+    },
+    "375": {
+      "name": "B-Movie-Strahlenkanone",
+      "flavor": "Vakuumröhren, Chromflossen, Drohungen, die sie nicht halten kann."
+    },
+    "376": {
+      "name": "Geborgene Porzellanschüssel",
+      "flavor": "Porzellan, das Dinge gehört hat, die kein Porzellan sollte."
+    },
+    "377": {
+      "name": "Zerbrochener Laptop mit Tabs",
+      "flavor": "Akku tot am schlechtesten Speicherpunkt."
+    },
+    "378": {
+      "name": "Versteckter Sender-Scanner",
+      "flavor": "Er zirpt bei Dingen, die die Stadt zu vergraben versuchte."
+    },
+    "379": {
+      "name": "Vorstandsraum-Originalgemälde",
+      "flavor": "Eingerahmter Geschmack, signiert von jemandem, der es sich leisten konnte."
+    },
+    "380": {
+      "name": "Kassen-Köder Gewickelte Süßigkeit",
+      "flavor": "In Folie gewickelt, in Greifweite gehalten."
+    },
+    "381": {
+      "name": "Brauner-Umschlag DVD",
+      "flavor": "Ein Titel, der in einem schlichten braunen Umschlag kam."
+    },
+    "382": {
+      "name": "Steinbeil-Erbstück",
+      "flavor": "Geduldig und ruhig geknappt, von Händen, die die Wälder kannten."
+    },
+    "383": {
+      "name": "Take-Siebenundvierzig Klappe",
+      "flavor": "Markiert, einplant, nie im Endschnitt verwendet."
+    },
+    "384": {
+      "name": "Feuer-Funk-Handgerät",
+      "flavor": "Statik und ein Rufzeichen, das niemand beantwortete."
+    },
+    "385": {
+      "name": "Galerie-Mittelstück-Auto",
+      "flavor": "Ein Auto, das seinen Motor gegen eine Meinung tauschte."
+    },
+    "386": {
+      "name": "Pier-Finale-Feuerwerk",
+      "flavor": "Eine Zündschnur, eine Blüte, eine Belichtungszeit."
+    },
+    "387": {
+      "name": "Gefundene Brieftasche",
+      "flavor": "Karten noch drin, Hoffnung noch im Geldscheinfach gefaltet."
+    },
+    "388": {
+      "name": "Angelaufene Pillendose",
+      "flavor": "Etikett sauber abgezogen, Deckel locker, Inhalt längst weg."
+    },
+    "389": {
+      "name": "Zerknüllte eCola-Dose",
+      "flavor": "Noch klebrig von einem Sommer, an den sich niemand erinnert."
+    },
+    "390": {
+      "name": "Abgebrannte Boutique-Kerzen",
+      "flavor": "Wachs zu einer Form geschmolzen, die fast einem Gesicht ähnelt."
+    },
+    "391": {
+      "name": "Block-Party-Boombox",
+      "flavor": "Kassettendeck mitten im Lied verklemmt, Batterien lecken Säure."
+    },
+    "392": {
+      "name": "Industrielles Spann-Set",
+      "flavor": "Aufgeraute Gurte, Haken vernarbt von einer Hebung zu viel."
+    },
+    "393": {
+      "name": "Vergessenes Süßigkeitenglas",
+      "flavor": "Glas zerkratzt, Süßigkeiten zu einer kauwürdigen Masse verschmolzen."
+    },
+    "394": {
+      "name": "Kartell-Likör-Flasche",
+      "flavor": "Ausländisches Etikett, halbes Siegel noch intakt."
+    },
+    "395": {
+      "name": "Schweißerbrenner",
+      "flavor": "Spitze geschwärzt, Zünder klickt noch leise."
+    },
+    "396": {
+      "name": "Laborgrade Aceton",
+      "flavor": "Dämpfe kringeln noch vom Deckel, wenn du ihn knackst."
+    },
+    "397": {
+      "name": "Tresoreingangs-Tastatur",
+      "flavor": "Fünf und sieben glatt gewetzt, acht blinkt rot."
+    },
+    "398": {
+      "name": "Cayo-Kristallkaraffe",
+      "flavor": "Bernstein zu einem Ring am Boden getrocknet, Etikett längst weg."
+    },
+    "399": {
+      "name": "Spule Mühlen-Garn",
+      "flavor": "Industriell rot gefärbt, noch warm vom Webstuhl."
+    },
+    "400": {
+      "name": "Bank-Sicherheits-Tastatur",
+      "flavor": "Magnetstreifenschlitz mit einer zerrissenen Kartenkante verklemmt."
+    },
+    "401": {
+      "name": "Zerbrochene Toilettenschüssel",
+      "flavor": "Porzellan gerissen, riecht leicht nach Desinfektionsmittel."
+    },
+    "402": {
+      "name": "Casino-Pistolen-Skulptur",
+      "flavor": "Plattierter Stahl, Parkständer an der Mündung angeschlagen."
+    },
+    "403": {
+      "name": "Alte Konsoleneinheit",
+      "flavor": "Power-LED flackert noch, wenn man auf das Gehäuse klopft."
+    },
+    "404": {
+      "name": "Display-Sneaker",
+      "flavor": "Ein Schuh, Schnürsenkel noch fabrikfrisch."
+    },
+    "405": {
+      "name": "Werft-Schweißmaske",
+      "flavor": "Visier von innen beschlagen, Band salzverkrustet."
+    },
+    "406": {
+      "name": "Taschen-Hack-Gerät",
+      "flavor": "Bildschirm zerkratzt zu nichts, Antenne noch ausgefahren."
+    },
+    "407": {
+      "name": "Verbeulter Aluminium-Schläger",
+      "flavor": "Aluminium gekratert, wo es etwas Solides traf."
+    },
+    "408": {
+      "name": "Streckmittel-Soda-Box",
+      "flavor": "Halb leer, Löffel noch im Pulver vergraben."
+    },
+    "409": {
+      "name": "Pier-Mörsergranate",
+      "flavor": "Zündschnur kurz getrimmt, Sengring um den Sockel."
+    },
+    "410": {
+      "name": "Taktisches Hack-Gerät",
+      "flavor": "Gummi-Panzerung gerissen, Custom-Firmware läuft leise."
+    },
+    "411": {
+      "name": "Beflecktes Erotikheft",
+      "flavor": "Seiten verklebt, Centerfold längst rausgerissen."
+    },
+    "412": {
+      "name": "Eckladen-Dreieck-Schild",
+      "flavor": "Plastik verblasst, eine Halterung von einem unachtsamen LKW verbogen."
+    },
+    "413": {
+      "name": "Vergoldetes Karabiner-Magazin",
+      "flavor": "Gravierte Schnörkel, Patronen noch eingesetzt."
+    },
+    "414": {
+      "name": "Kuriositäten-Vitrinenwürfel",
+      "flavor": "Glaswürfel, Inhalt fängt Licht aus jedem Winkel."
+    },
+    "415": {
+      "name": "Externe Festplatte",
+      "flavor": "Gehäuse warm, Anzeige in Bernstein steckengeblieben."
+    },
+    "416": {
+      "name": "Halb getrunkener Cocktail",
+      "flavor": "Eis zu Matsch geschmolzen, Limettenschale kringelt sich."
+    },
+    "417": {
+      "name": "Webstuhl-Fadenbündel",
+      "flavor": "Indigofarbe blutet noch in den Spulenkern."
+    },
+    "418": {
+      "name": "Patriot-Spirit-Trophäe",
+      "flavor": "Verliehen an den Highscorer, der nicht aufhören konnte, Tokens in den Adler-Automaten zu werfen."
+    },
+    "419": {
+      "name": "Bühnen-Stack-Lautsprecher",
+      "flavor": "Klingt noch von einem Vier-Uhr-Boris-Brejcha-Set, das niemand enden lassen wollte."
+    },
+    "420": {
+      "name": "QUB3D Champion-Trophäe",
+      "flavor": "Geschnitzter Schaumstoff und reiner pixeliger Ruhm — Leaderboard-Initialen noch sichtbar."
+    },
+    "421": {
+      "name": "Diner-Dessert-Tablett",
+      "flavor": "Ein Turm Pfannkuchen, den jemand in dem Moment verließ, als die Bestellung heiß wurde."
+    },
+    "422": {
+      "name": "Geschliffener Saphirstein",
+      "flavor": "Gerade genug facettiert, um echt auszusehen — der Hehler braucht eine Lupe und eine Lüge."
+    },
+    "423": {
+      "name": "Weiße Metzgermütze",
+      "flavor": "Riecht leicht nach Salzlake und gestriger Schicht, Schirm von schwieligen Fingern gefaltet."
+    },
+    "424": {
+      "name": "Produzenten-Notizbuch",
+      "flavor": "Ränder voller Budgetkürzungen und einer Telefonnummer viermal eingekreist."
+    },
+    "425": {
+      "name": "Take-Zwölf Klappe",
+      "flavor": "Szenenmarke mit Whiteboard-Marker gekritzelt: INT. LAGERHAUS — TAG. NOCHMAL."
+    },
+    "426": {
+      "name": "Firmen-Lucite-Auszeichnung",
+      "flavor": "Lucite-Splitter graviert mit einem Namen, an den sich niemand in der Firma mehr erinnert."
+    },
+    "427": {
+      "name": "Verschossene Patronenhülse",
+      "flavor": "Noch warm vom Hallenschießstand — Zündhütchen von einem abgenutzten Schlagbolzen verbeult."
+    },
+    "428": {
+      "name": "Inerte Splittergranate",
+      "flavor": "Stift gerade, Hebel verklebt — jemand wollte wirklich, dass diese verkäuflich ist."
+    },
+    "429": {
+      "name": "Gerichts-Messing-Namensschild",
+      "flavor": "Messing-Plakette sauber von einer Richtertür gehebelt — Initialen in Eile abgekratzt."
+    },
+    "430": {
+      "name": "Modifizierte Combat-Pistole",
+      "flavor": "Gewindelauf, handgekarierter Griff — Serie mit einem Dremel und Scham geschliffen."
+    },
+    "431": {
+      "name": "Casino-Raketenskulptur",
+      "flavor": "Gebürstetes Chrom und roter Lack — versprach, einen glücklichen Parkdiener zum Mond zu bringen."
+    },
+    "432": {
+      "name": "Billard-Aufstell-Dreieck",
+      "flavor": "Billiges Holz glatt gewetzt — der Filz darunter hat zehntausend Anstöße gesehen."
+    },
+    "433": {
+      "name": "Zerbrochene Bildnis-Replik",
+      "flavor": "Texturdatei am Tag der Erstellung verglitched — Rendering-Fehler wie eine Reliquie bewahrt."
+    },
+    "434": {
+      "name": "24/7 Gemüsesuppe Dose",
+      "flavor": "Mindesthaltbarkeitsdatum längst überschritten — Etikett verspricht zwölf Gartengemüse und null Geschmack."
+    },
+    "435": {
+      "name": "Gereifte Brandyflasche",
+      "flavor": "Korken vor Jahren ausgetrocknet — der hintere Etikettaufkleber blättert an der Ecke ab."
+    },
+    "436": {
+      "name": "VHS-Überwachungsband",
+      "flavor": "Etikett sagt OPS 04/12 — der Rest der Schrift wurde abgekratzt."
+    },
+    "437": {
+      "name": "Bullhorn-Megaphon",
+      "flavor": "Auslöser klemmt halbwegs — jemand schrie sich heiser und ließ es am Bordstein fallen."
+    },
+    "438": {
+      "name": "Gebrannte ID-Vorlagen-Disc",
+      "flavor": "CD-R riecht nach Lösungsmittel — Namensliste auf die Hülle geklebt, die Hälfte durchgestrichen."
+    },
+    "439": {
+      "name": "Penthouse-Bronze-Skulptur",
+      "flavor": "Auktionator würde es derivativ nennen — Besitzer nannte es unbezahlbar und meinte es ernst."
+    },
+    "440": {
+      "name": "Bühnenbeleuchtung",
+      "flavor": "Gel-Filter in einer Ecke geschwärzt — Halterung knarrt, wenn der Bass trifft."
+    },
+    "441": {
+      "name": "Weißgold-Anhänger Diamant",
+      "flavor": "Rundschliff, zwei Karat, in Weißgold gefasst — von einer Kette gerutscht, die nicht ihr gehörte."
+    },
+    "442": {
+      "name": "Studio-Aufnahmemikrofon",
+      "flavor": "Membran leicht verbogen — jeder Vokal dadurch bekommt am Top ein gespenstisches Säuseln."
+    },
+    "443": {
+      "name": "Geklauter Seifenspender",
+      "flavor": "Montagehalterung verbogen — halb voll mit rosa Krankenhausseife, die nach nichts riecht."
+    },
+    "444": {
+      "name": "Chemiker-Versteck-Beutel",
+      "flavor": "Vinyl außen, bleigefüttert innen — schwerer als er sein Recht hätte zu sein."
+    },
+    "445": {
+      "name": "Boutique-Lautsprecherstation",
+      "flavor": "Bluetooth verbindet noch zu einem Telefon namens aaron's iphone, das nicht zurückgekommen ist."
+    },
+    "446": {
+      "name": "Oranger Kanister",
+      "flavor": "Viertel voll mit Mittelklasse — Tülle tropft noch, wenn du ihn über fünfundvierzig kippst."
+    },
+    "447": {
+      "name": "Sonnengetrockneter Peyote",
+      "flavor": "Aus rissiger Erde gezogen, wo die Wüste mittags zu sich selbst summt."
+    },
+    "448": {
+      "name": "Regisseurs-Feldkamera",
+      "flavor": "Noch warm vom letzten Take, Objektiv beschlagen von Setlichtern und falschem Regen."
+    },
+    "449": {
+      "name": "High-Roller-Rufknopf",
+      "flavor": "Ein Druck rief Champagner; zwei drückten dein Glück etwas härter."
+    },
+    "450": {
+      "name": "Einzelner Wildleder-Turnschuh",
+      "flavor": "Nur linker Fuß, an der Spitze zerkratzt, als ob er mit dem Verkehr mithalten wollte."
+    },
+    "451": {
+      "name": "Kristall-Karaffe",
+      "flavor": "Die Art Glas, die Smalltalk in ein Geständnis verwandelt."
+    },
+    "452": {
+      "name": "Gravierte Bürgerplakette",
+      "flavor": "Ein Name in Messing, halb poliert, halb vergessen von denen, die vorbeigehen."
+    },
+    "453": {
+      "name": "Werkbank-Test EMP-Spule",
+      "flavor": "Verkabelt mit der Geduld von jemandem, der nur einmal Recht haben musste."
+    },
+    "454": {
+      "name": "Arcade-Champion-Trophäe",
+      "flavor": "In Tokens verdient, von Ärmeln poliert, in zerkratztem Plastik signiert."
+    },
+    "455": {
+      "name": "Schalter-Messingtrophäe",
+      "flavor": "Vergeben für vierzig Jahre des Zählens fremden Glücks."
+    },
+    "456": {
+      "name": "Gepolsterter Sporthelm",
+      "flavor": "Riecht leicht nach Umkleideräumen und schlechten Entscheidungen am Freitagabend."
+    },
+    "457": {
+      "name": "Bündel gefälschter Pässe",
+      "flavor": "Jedes Foto kneift gleich die Augen zusammen, als ob die Kamera sie mitten in einer Lüge erwischte."
+    },
+    "458": {
+      "name": "Halb getrunkene Piña Colada",
+      "flavor": "Der Schirm geneigt, der Rum gesetzt, die Nacht weigerte sich zu enden."
+    },
+    "459": {
+      "name": "Verpackter Geldstapel",
+      "flavor": "Riecht noch nach dem Tresor, den er verließ, gebündelt von Händen, die nicht zweimal zählten."
+    },
+    "460": {
+      "name": "Greifautomat-Plüsch",
+      "flavor": "Zwei Münzen, drei Versuche, eine zittrige Hand am Joystick."
+    },
+    "461": {
+      "name": "Labor-Phiolen-Rack",
+      "flavor": "Etiketten halb abgezogen, Inhalte unbeschriftet, Ambitionen ausgesprochen chemisch."
+    },
+    "462": {
+      "name": "Zerknülltes Boulevardblatt",
+      "flavor": "Gestriger Skandal, halber Preis, doppelte Tippfehler."
+    },
+    "463": {
+      "name": "Stiletto auf Fliesen",
+      "flavor": "In Eile abgestreift von jemandem, der versuchte, ihren Namen zu erinnern."
+    },
+    "464": {
+      "name": "Geölte schwere Pistole",
+      "flavor": "Griff glattgewetzt von einer Hand, die wusste, wo die Sicherung früher war."
+    },
+    "465": {
+      "name": "Kiste loser Patronen",
+      "flavor": "Mit einer Serie gestempelt, die diesmal niemand abfeilen wollte."
+    },
+    "466": {
+      "name": "Zerkratzter Schutzhelm",
+      "flavor": "Gelbe Farbe blättert ab, wo der Bewehrungsstahl Fragen stellte."
+    },
+    "467": {
+      "name": "Eselsohren-Glanz",
+      "flavor": "Top-Regal, Tiefstpreise, meist wegen der Artikel gelesen, angeblich."
+    },
+    "468": {
+      "name": "Tresor-Diamantkoffer",
+      "flavor": "Samt innen, Fingerabdrücke außen, Geschichte in beidem unerzählt."
+    },
+    "469": {
+      "name": "Onyx-Schädelbüste",
+      "flavor": "Geschnitzt von einem Bildhauer, der darauf bestand, dass memento mori auf einen Craps-Tisch gehört."
+    },
+    "470": {
+      "name": "Apotheken-Abholbox",
+      "flavor": "Nachfüllen, verschließen, wiederholen, plus ein Hustenbonbon für unterwegs."
+    },
+    "471": {
+      "name": "Kuriositäten-Glasbehälter",
+      "flavor": "Mit Wachs versiegelt, mit Absicht beschriftet, von absolut niemandem geöffnet."
+    },
+    "472": {
+      "name": "Bambus-Dampfkorb",
+      "flavor": "Deckel zweimal gehoben, Finger einmal verbrannt, Teigtaschen wert es alles."
+    },
+    "473": {
+      "name": "Cellophan-verpackte Süßigkeit",
+      "flavor": "Wrapper zweimal verdreht, Zucker noch lauter als jedes Gespräch."
+    },
+    "474": {
+      "name": "Besticktes Wurfkissen",
+      "flavor": "Quastenecken, leichte Delle, wo jemand fast etwas Ehrliches sagte."
+    },
+    "475": {
+      "name": "Abgenutztes Samtkissen",
+      "flavor": "Verblasste Goldfäden, zwei verschiedene Katzenhaare, ein Fleck, den es zu diskutieren verweigert."
+    },
+    "476": {
+      "name": "Versiegelte Cayo-Munitionskiste",
+      "flavor": "Schablone noch feucht, Kiste noch überheblich, Inhalt summt noch."
+    },
+    "477": {
+      "name": "Forum Drive Court-Ball",
+      "flavor": "Von tausend Pickup-Spielen an der Südseite plattgedribbelt."
+    },
+    "478": {
+      "name": "Mirror Park Veranda-Lampe",
+      "flavor": "Glühbirne durchgebrannt in der Nacht, als der Block endgültig den Strom verlor."
+    },
+    "479": {
+      "name": "Sandy Trailer Skimaske",
+      "flavor": "Wolle kratzt wie Sünde und riecht nach Meth und Pisswasser."
+    },
+    "480": {
+      "name": "Kabinen-PC-Lautsprecher",
+      "flavor": "Spielte Wartemusik für Analysten, die nie befördert wurden."
+    },
+    "481": {
+      "name": "LS-Fluss-Tag-Dose",
+      "flavor": "Krylon Apple Red, geschüttelt bis das Kugellager durchgewetzt war."
+    },
+    "482": {
+      "name": "Little Seoul Kuriositätenkiste",
+      "flavor": "Zedernholzeinlage riecht leicht nach Kampfer und jemandes Großmutter."
+    },
+    "483": {
+      "name": "Sandy Ammu-Nation Visier",
+      "flavor": "Fadenkreuze sind um ein Haar daneben, aber das Glas ist noch sauber."
+    },
+    "484": {
+      "name": "Maze Bank Arena Trophäe",
+      "flavor": "Dreht sich ewig, wenn du sie richtig schnipst."
+    },
+    "485": {
+      "name": "Vespucci Headshop Bong",
+      "flavor": "Wasser schwappt noch. Frag nicht welche Farbe."
+    },
+    "486": {
+      "name": "Strawberry 24/7 Karton",
+      "flavor": "Halbes Sechserpack warmes Energiegetränk, am Boden klebrig."
+    },
+    "487": {
+      "name": "Del Perro Vape Pen",
+      "flavor": "Spule schmeckt nach blauer Himbeere und Reue."
+    },
+    "488": {
+      "name": "Vinewood Casino Harzschädel",
+      "flavor": "Harz, kein Knochen, aber schwer genug die Galerie zu täuschen."
+    },
+    "489": {
+      "name": "Cypress Flats Munitionskiste",
+      "flavor": "Schablonierte Losnummer noch unter dem Fett lesbar."
+    },
+    "490": {
+      "name": "Hill Valley Friedhofsrose",
+      "flavor": "Blütenblätter werden schon an den Rändern braun."
+    },
+    "491": {
+      "name": "LS Liquor Mart Fünftel",
+      "flavor": "Etikett vom Boden einer Papiertüte abgezogen."
+    },
+    "492": {
+      "name": "Galaxy Club DJ-Kopfhörer",
+      "flavor": "Linker Becher ist klebrig. Rechter pumpt noch wie eine Bassdrum."
+    },
+    "493": {
+      "name": "Rockford Smart-Brille",
+      "flavor": "Linsen flackern noch, wenn du sie zum Licht kippst."
+    },
+    "494": {
+      "name": "Aufgeschlagenes Vogue-Magazin",
+      "flavor": "Aufgeschlagen auf einer Ponsonbys-Anzeige, drei Saisons alt."
+    },
+    "495": {
+      "name": "Zeitungsstand-Hochglanz",
+      "flavor": "Cover-Model hat einen Kaffeering auf der Stirn."
+    },
+    "496": {
+      "name": "Pitchers Patio Flasche",
+      "flavor": "Beim letzten Aufruf leergetrunken, Fingerabdrücke noch am Hals."
+    },
+    "497": {
+      "name": "Zancudo Zaun-Rakete",
+      "flavor": "Inert. Vermutlich. Die Flossen sind verbogen, aber die Markierungen sind makellos."
+    },
+    "498": {
+      "name": "Vinewood Hills Wandleuchte",
+      "flavor": "Glühfaden summt, wenn du auf den Sockel tippst, Glas warm beim Anfassen."
+    },
+    "499": {
+      "name": "Vinewood Bowl Pin-Art",
+      "flavor": "Lackierter Pin auf einer Platte aus gebeiztem Kiefer montiert."
+    },
+    "500": {
+      "name": "Richman Glen Karaffe",
+      "flavor": "Kristall so tief geschnitten, dass es Regenbögen über den Teppich wirft."
+    },
+    "501": {
+      "name": "Mission Row Handschellen-Trophäe",
+      "flavor": "Gravur glattgewetzt, wo der Captain seinen Daumen rieb."
+    },
+    "502": {
+      "name": "Pinkcage Motel Uhr",
+      "flavor": "Bei 3:17 stehen geblieben, blinkt Staub durch die Ziffern."
+    },
+    "503": {
+      "name": "Pillbox Medizinische Nackenstütze",
+      "flavor": "Vinyl klebrig mit altem Antiseptikum, Schaumstoff flach komprimiert."
+    },
+    "504": {
+      "name": "Vanilla Unicorn Hausguss",
+      "flavor": "Lippenstift am Hals, drei verschiedene Schattierungen."
+    },
+    "505": {
+      "name": "Apotheken-Ohrmodell",
+      "flavor": "Anatomisch, Latex, mit einem Knorpel-Piercing bereits durchgetragen."
+    },
+    "506": {
+      "name": "Murrieta Heights Hack-Brikett",
+      "flavor": "LED durchläuft noch einen Handshake, den niemand mehr beantwortet."
+    },
+    "507": {
+      "name": "Messing-Bankerslampe",
+      "flavor": "Grüner Schirm-Schimmer, der zusah, wie tausend schlechte Kredite genehmigt wurden."
+    },
+    "508": {
+      "name": "Montierter Glücks-Pin",
+      "flavor": "Bahn siebens Glücks-Pin, nach dem perfekten Spiel von 1987 lackiert."
+    },
+    "509": {
+      "name": "Boutique-Bronze-Figur",
+      "flavor": "Vierstellig bepreist, in Strawberry an einen Hehler für Teile verkauft."
+    },
+    "510": {
+      "name": "Shunt-Cup-Replik",
+      "flavor": "Das Original ist in der Arena. Dieses ist schwerer als es aussieht."
+    },
+    "511": {
+      "name": "Sterngucker-Trophäe",
+      "flavor": "Verliehen an den, der den Kometen zuerst fand. Die Plakette ist leer."
+    },
+    "512": {
+      "name": "Schilfdiffusor-Set",
+      "flavor": "Sandelholz, Vetiver und die schwache Erinnerung an eine Kreditkarten-Ablehnung."
+    },
+    "513": {
+      "name": "Geheime Manila-Akte",
+      "flavor": "Elf Seiten Schwärzungen und ein passiv-aggressiver Klebezettel."
+    },
+    "514": {
+      "name": "Flip Jam Cabinet Token",
+      "flavor": "Highscore gehört LIL, der seit 1996 nicht mehr gesehen wurde."
+    },
+    "515": {
+      "name": "Galerie-Gipsbüste",
+      "flavor": "Der Künstler besteht darauf, sie repräsentiere Trauer. Der Käufer besteht darauf, sie passe zum Sofa."
+    },
+    "516": {
+      "name": "Apothekentheke-Display",
+      "flavor": "Vitamin-D-Tabletten und drei abgelaufene Coupons darunter geklebt."
+    },
+    "517": {
+      "name": "Angeschlagene Diner-Tasse",
+      "flavor": "Welt-OK-Papa. Kaffeering dauerhaft an den Rand geschmolzen."
+    },
+    "518": {
+      "name": "Verbrauchte Thermit-Ladung",
+      "flavor": "Durch den Safe und den Boden darunter durchgebrannt. Noch warm beim Anfassen."
+    },
+    "519": {
+      "name": "Padron-Zigarrenkiste",
+      "flavor": "Drei Stäbe übrig. Die vierte wurde für ein Alibi getauscht."
+    },
+    "520": {
+      "name": "Tattle Weekly Ausgabe",
+      "flavor": "Titelgeschichte: welches Vinewood-Paar ist heimlich dieselbe Person."
+    },
+    "521": {
+      "name": "Verbrannte Kaffeekaraffe",
+      "flavor": "Boden ist so verkohlt, dass die Kellnerin es einfach Würze nennt."
+    },
+    "522": {
+      "name": "Halb gegessener Bleeder Burger",
+      "flavor": "Zwei Bisse, dann floh der Verdächtige. Die Essiggurke blieb loyal."
+    },
+    "523": {
+      "name": "Versiegelte Geld-Einzahlungstüte",
+      "flavor": "Versiegelt von Fleeca um 15:47. Von jemand anderem um 15:51 geöffnet."
+    },
+    "524": {
+      "name": "Krylon Sundowner Dose",
+      "flavor": "Deckel zerkaut, Dose verbeult, Nachricht halb fertig an einem Maschendrahtzaun."
+    },
+    "525": {
+      "name": "Cocktail-Rührer-Glas",
+      "flavor": "Plastikflamingos in einem verschmierten Glas. Niemand erinnert sich, es nachgefüllt zu haben."
+    },
+    "526": {
+      "name": "Halb leerer Kokosbecher",
+      "flavor": "Zwei Papierschirme, ein schmelzender Eiswürfel, kein Sonnenschutz in Sicht."
+    },
+    "527": {
+      "name": "Entschärfte AP-Mine",
+      "flavor": "Stift gezogen, Druckplatte mit einem Vierteldollar blockiert. Technik oder Wahnsinn."
+    },
+    "528": {
+      "name": "Zerbrochene Pisswasser-Flasche",
+      "flavor": "Hals sauber abgebrochen. Hinter einer Mülltonne mit einem Fingerabdruck gefunden."
+    },
+    "529": {
+      "name": "Zerbeultes CDJ-Deck",
+      "flavor": "Jog Wheel angeschlagen, Kanal zwei tot, spielt noch ein Set, das es zu hören wert ist."
+    },
+    "530": {
+      "name": "SPF 4 Flasche",
+      "flavor": "Deckel fehlt, riecht nach Piña Colada und sehr schlechten Entscheidungen."
+    },
+    "531": {
+      "name": "Marmor-Patron-Büste",
+      "flavor": "Augen ausgehöhlt, Ausdruck neutral, Lippen deuten an, dass sie Dinge gesehen hat."
+    },
+    "532": {
+      "name": "Logger Lager Dose",
+      "flavor": "Leer, zerquetscht, von jemandem in den Kühler zurückgestellt, der hoffte, niemand bemerke es."
+    },
+    "533": {
+      "name": "Katalogisiertes Artefakt M-31",
+      "flavor": "Etikett sagt M-31. Provenienz sagt erworben. Ursprung sagt nicht deins."
+    },
+    "534": {
+      "name": "After Hours Tänzer-Trophäe",
+      "flavor": "Verliehen für ein Set so laut, dass die Lärmbeschwerde zu einem Fanbrief wurde."
+    },
+    "535": {
+      "name": "Orbital-Zielkonsole",
+      "flavor": "Koordinaten gesperrt, Passwort-Klebezettel noch an die Seite geklebt."
+    },
+    "536": {
+      "name": "Valet-Lichtstab",
+      "flavor": "Roter Kunststoff, tote Batterie, signalisierte drei Adders an den falschen Ort."
+    },
+    "537": {
+      "name": "Onyx-Marmorbüste",
+      "flavor": "Ein polierter Obsidiankopf, Augen geschnitzt, um den Händen des Dealers zu folgen."
+    },
+    "538": {
+      "name": "Lackierte Kuriositäten-Kiste",
+      "flavor": "Messing-Verschlüsse und eine Samtfütterung, die noch nach Zedernrauch riecht."
+    },
+    "539": {
+      "name": "Loser Cushion-Diamant",
+      "flavor": "Fängt das Straßenlaternenlicht, als wäre er für genau diese Ecke geschliffen."
+    },
+    "540": {
+      "name": "Entkernte Server-Festplatte",
+      "flavor": "Caddy mitten beim Schreiben ausgeworfen, blinkt mit einem stetigen Bernsteinpuls."
+    },
+    "542": {
+      "name": "Galerie-Korb-Studie",
+      "flavor": "Ein abgenutzter Lederball in Lack gegossen, unter dem Griff mit Marker signiert."
+    },
+    "543": {
+      "name": "Vergessene Festplatte",
+      "flavor": "Aufkleberetikett halb gerissen, letztes Schreibdatum mit Bleistift."
+    },
+    "544": {
+      "name": "Entkernter AV-Receiver",
+      "flavor": "Vordere Knöpfe weg, RCA-Buchsen verbogen, summt wenn geerdet."
+    },
+    "545": {
+      "name": "Gusseisernes Torventil",
+      "flavor": "Gewinde geschlossen, Farbe blättert in langen Kringeln ab."
+    },
+    "546": {
+      "name": "Tester-Kölnischwasser-Flasche",
+      "flavor": "Atomizer verkrustet geschlossen, Etikett löst sich in feuchten Kringeln."
+    },
+    "547": {
+      "name": "Marmor-Cäsar-Kopf",
+      "flavor": "Splitter in der Stirn, der den Glanz der Casinotafel einfängt."
+    },
+    "548": {
+      "name": "Vergessenes Chip-Tablett",
+      "flavor": "Ein paar schwarze Hunderter klappern noch in der unteren Ecke."
+    },
+    "549": {
+      "name": "Gussbank-Platte",
+      "flavor": "Rostring auf einer Seite, Kreide-Handabdruck auf der anderen."
+    },
+    "550": {
+      "name": "Vernarbter Hartholz-Schläger",
+      "flavor": "Band-Griff, drei Kerben in den Lauf gebrannt."
+    },
+    "551": {
+      "name": "Halb leerer Rattler",
+      "flavor": "Deckel fehlt, Düse verstopft mit getrocknetem Magenta."
+    },
+    "552": {
+      "name": "Lost-Chapter-Helm",
+      "flavor": "Innenfutter feucht von Motoröl, ein Aufkleber löst sich an der Schläfe."
+    },
+    "553": {
+      "name": "Messing-Yacht-Miniatur",
+      "flavor": "Rumpf graviert mit einer Liegeplatznummer, die nicht mehr existiert."
+    },
+    "554": {
+      "name": "Retro-Arcade-Trophäe",
+      "flavor": "Plakette von einer Münze ausgekratzt, eine neue Initiale eingekratzt."
+    },
+    "555": {
+      "name": "Weißer Marmor-Athlet",
+      "flavor": "Kühl beim Anfassen, ein schwacher Splitter hinter dem linken Ohr."
+    },
+    "556": {
+      "name": "Gepolsterte Festplatten-Box",
+      "flavor": "Schaumstoff-Einsatz für eine Festplatte geschnitten, die nicht mehr da ist."
+    },
+    "557": {
+      "name": "Halb gebrauchte Lotionspumpe",
+      "flavor": "Pumpe noch vorgespannt, Etikett vom Dampf weich."
+    },
+    "558": {
+      "name": "CamHedz Champion Pokal",
+      "flavor": "Graviert mit der Bestpunktzahl der letzten Saison und einem verschmierten Daumenabdruck."
+    },
+    "559": {
+      "name": "Casino-Diorama-Kachel",
+      "flavor": "Ein skaliertes Schild mit einer winzigen Linie von Gästen mitten im Schritt eingefroren."
+    },
+    "560": {
+      "name": "Bandage Slugger Schläger",
+      "flavor": "Athletisches Tape zweimal neu gewickelt, Endkappe fehlt."
+    },
+    "561": {
+      "name": "Porzellanfiguren-Trio",
+      "flavor": "Drei glasierte Tänzer mitten in der Drehung gefangen, unberührt seit das Casino seine Türen öffnete."
+    },
+    "562": {
+      "name": "Angelaufener Pfandhaus-Dolch",
+      "flavor": "Jemand verpfändete ihn für Mietgeld und kam nie zurück, um ihn einzulösen."
+    },
+    "563": {
+      "name": "Blindgänger RPG-Raketenhülse",
+      "flavor": "Mit MERRYWEATHER gestempelt, ausgemustert und ganz und gar kein Souvenir."
+    },
+    "564": {
+      "name": "Vinewood-Boutique-Figur",
+      "flavor": "Ein Schaustück von einem Schaufensterdekorateur, dem nie auffiel, dass es fehlte."
+    },
+    "565": {
+      "name": "Unaussprechliches Souvenir",
+      "flavor": "In der Gasse hinter dem Adult-Shop nach Ladenschluss zurückgelassen — niemand beansprucht es."
+    },
+    "566": {
+      "name": "Keramik-Badegefäß",
+      "flavor": "Boutique-Dekor, das niemand kauft, aber auch niemand entfernt."
+    },
+    "567": {
+      "name": "Straßendiner-Tasse",
+      "flavor": "Lauwarme Nachfüllung, die die Kellnerin vergaß, von Tisch sieben zu räumen."
+    },
+    "568": {
+      "name": "Marina-Kapitänsmütze",
+      "flavor": "Salzfleckig und leicht verbogen — der Skipper ging ohne sie in Rente."
+    },
+    "569": {
+      "name": "Vergessenes Taschenbuch",
+      "flavor": "Eselsohren in Kapitel vier, mit jemandes Einkaufsliste als Lesezeichen."
+    },
+    "570": {
+      "name": "Marabunta Schläger",
+      "flavor": "In grüner Sprühfarbe taggiert und ganz offensichtlich kein Sportartikel-Schläger."
+    },
+    "571": {
+      "name": "Ballas-Schläger",
+      "flavor": "Lila Grip-Tape, verdächtige Dellen, lehnt an einem Maschendrahtzaun."
+    },
+    "572": {
+      "name": "Brawler Turnier-Trophäe",
+      "flavor": "Graviert Maibatsu Arena Champion — Gewinner kam nie zurück, um sie abzuholen."
+    },
+    "573": {
+      "name": "Friseur-Haarschneidemaschine",
+      "flavor": "Summt noch leise — der Friseur ging vor einer Stunde für eine Zigarette raus."
+    },
+    "574": {
+      "name": "Dekor-Kerzen-Cluster",
+      "flavor": "Drei Wachssäulen genau so arrangiert — ein unverkauftes Boutique-Display."
+    },
+    "575": {
+      "name": "Lost MC Schläger",
+      "flavor": "Schädelaufkleber und eine Kette um den Griff gewickelt — Clubhauseigentum."
+    },
+    "576": {
+      "name": "Vergoldete Granaten-Skulptur",
+      "flavor": "Pop-Art-Stück, bestellt für eine Privatsuite — landete irgendwie am Bordstein."
+    },
+    "577": {
+      "name": "Manager-Boutique-Vase",
+      "flavor": "Importierte Keramik, die für mehr als die meisten Mieten verkauft wurde."
+    },
+    "578": {
+      "name": "Einsamer Bowling-Pin",
+      "flavor": "Letzter stehender Pin, dann in der Rinne vergessen, als der Liga-Abend endete."
+    },
+    "579": {
+      "name": "Arcade-Greif-Plüsch",
+      "flavor": "Nach zwanzig Dollar in Vierteldollar aus der Maschine gezogen — jeden Cent wert."
+    },
+    "580": {
+      "name": "After Hours DJ-Kopfhörer",
+      "flavor": "Gepolsterte Becher noch warm vom Booth — jemand machte einen frühen Ausstieg."
+    },
+    "581": {
+      "name": "Fallengelassene Bürgersteig-Brieftasche",
+      "flavor": "Führerschein drin, kein Bargeld — jemand war zuerst hier."
+    },
+    "582": {
+      "name": "Geknackter Bauhelm",
+      "flavor": "Haarriss die Krone hinunter — der Vorarbeiter schrieb es ab und ließ es liegen."
+    },
+    "583": {
+      "name": "Boutique-Display-Uhr",
+      "flavor": "Schweizer Werk, tickt noch, kein Preisschild, wo früher eines war."
+    },
+    "584": {
+      "name": "Technik-Laden Demo-Laptop",
+      "flavor": "Bildschirmschoner läuft noch — das Bodenmodell, das niemand wegschloss."
+    },
+    "585": {
+      "name": "Vergoldete Figurinen Paar",
+      "flavor": "Ein Paar goldener Statuetten, einst in der Casino-Lobby-Vitrine ausgestellt."
+    },
+    "586": {
+      "name": "Säure-Tropfflasche",
+      "flavor": "Eine kleine Tropfflasche, die nach Lösungsmittel und schlechten Entscheidungen stinkt."
+    },
+    "587": {
+      "name": "House-Chip-Stapel",
+      "flavor": "Ein ordentlicher Turm Casino-Chips, den jemand zu kassieren vergaß."
+    },
+    "588": {
+      "name": "Verkrustete Autobatterie",
+      "flavor": "Terminals von Korrosion pelzig, hält noch eine schwache Ladung."
+    },
+    "589": {
+      "name": "Taschen-Galaxy-Yacht",
+      "flavor": "Ein Maßstabsmodell der Galaxy-Superyacht, von einer Verkaufsfläche geklaut."
+    },
+    "590": {
+      "name": "Squeeze-Ketchupflasche",
+      "flavor": "Eine fast leere Flasche roter Pampe, der Deckel dauerhaft klebrig."
+    },
+    "591": {
+      "name": "Beluga-Kaviar-Dose",
+      "flavor": "Eine kalte Dose Kaviar, Deckel halb aufgehebelt, Perlmutterlöffel fehlt."
+    },
+    "592": {
+      "name": "Beschnittene Gras-Knospe",
+      "flavor": "Eine fette getrimmte Knospe, klebrig genug, eine Brieftasche zuzukleben."
+    },
+    "593": {
+      "name": "Pitkin Motel Aschenbecher",
+      "flavor": "Ein Motel-Aschenbecher voller lippenstiftgefärbter Filter."
+    },
+    "594": {
+      "name": "Vinewood-Boutique-Kristall",
+      "flavor": "Ein facettierter Kristall, der prismatisches Licht über Samt wirft."
+    },
+    "595": {
+      "name": "Cluster-Geode",
+      "flavor": "Eine gezackte Cluster-Geode, ausgeliehen von einem Mode-Editorial-Set."
+    },
+    "596": {
+      "name": "Halb getrunkene Cava-Flasche",
+      "flavor": "Eine Flasche Cava, schal geworden zwischen zwei leeren Gläsern."
+    },
+    "597": {
+      "name": "Verschnürter Hardcover-Stapel",
+      "flavor": "Drei Hardcover mit Bindfaden gebunden, Rücken gerissen von zu vielen Rückgaben."
+    },
+    "598": {
+      "name": "Feld-Puls-Oszillator",
+      "flavor": "Ein Puls-Oszillator aus einem Med-Bay-Diagnosewagen gezogen."
+    },
+    "599": {
+      "name": "Zinn-Pub-PINTS-Schild",
+      "flavor": "Ein verbeultes Zinnpubschild, das noch PINTS in abblätternder Farbe liest."
+    },
+    "600": {
+      "name": "Designer-Schuhkarton",
+      "flavor": "Ein Boutique-Schuhkarton mit einem Stiletto darin und der Quittung noch eingesteckt."
+    },
+    "601": {
+      "name": "Bühnen-Kondensator-Mikrofon",
+      "flavor": "Ein Kondensatormikrofon noch warm von einem Gesangs-Take."
+    },
+    "602": {
+      "name": "Bambus-Messerblock",
+      "flavor": "Ein voller Messerblock, von einer Vinewood-Küchentheke entwendet."
+    },
+    "603": {
+      "name": "CS-Gaskanister",
+      "flavor": "Ein CS-Gaskanister mit dem Stift noch verklebt, Finger vom Hebel."
+    },
+    "604": {
+      "name": "Bandagierter Aluminium-Schläger",
+      "flavor": "Ein Aluminiumschläger in Grip-Tape und schlechte Absichten gewickelt."
+    },
+    "605": {
+      "name": "Wärter-Eisen-Schlüsselbund",
+      "flavor": "Ein schwerer Eisen-Schlüsselbund, der wie ein Alibi klimpert."
+    },
+    "606": {
+      "name": "Zugring-Rauchgranate",
+      "flavor": "Eine Zugring-Rauchdose, die leicht nach Phosphor riecht."
+    },
+    "607": {
+      "name": "Pit-Boss-Rechner",
+      "flavor": "Ein Casino-Tischrechner mit der Papierrolle sauber abgerissen."
+    },
+    "608": {
+      "name": "Tresor-Diorama-Miniatur",
+      "flavor": "Eine Miniatur-Tresor-Diorama, von der Casino-Marketingwand entwendet."
+    },
+    "609": {
+      "name": "Gestempelte Stahl-Frachtkiste",
+      "flavor": "Eine zerkratzte Stahlkiste, gestempelt mit einer verblassten Losnummer."
+    },
+    "610": {
+      "name": "Modernes Leinwandfragment",
+      "flavor": "Ein zerrissenes Stück Galerieleinwand riecht noch nach frischem Acryl und schalem Champagner."
+    },
+    "611": {
+      "name": "Verpfändeter Tresor-Diamant",
+      "flavor": "Für einen Casino-Tresor geschliffen, bei einer Übergabe verloren, im Staub gefunden."
+    },
+    "612": {
+      "name": "Versteckte Bier-Sechserdose",
+      "flavor": "Riecht nach Motoröl und billigem Bier, genau wie der Mann, der sie versteckte."
+    },
+    "613": {
+      "name": "Champions-Flaggen-Trophäe",
+      "flavor": "Unter Stadionlichtern gewonnen, in dem Moment verlassen, als ein größerer Preis auftauchte."
+    },
+    "614": {
+      "name": "Battle Club Handfächer",
+      "flavor": "Bemalt mit einem knurrenden Gesicht, summt noch mit dem Bass der letzten Nacht."
+    },
+    "615": {
+      "name": "Gassen-feuchtes Glanz-Magazin",
+      "flavor": "Seiten zusammengeklebt vom Regen, nicht der Grund, den die meisten erraten würden."
+    },
+    "616": {
+      "name": "Hobbyisten-RC-Fernbedienung",
+      "flavor": "Antenne verbogen von einer Niedrigflug-Landung auf einem geparkten Auto zu viel."
+    },
+    "617": {
+      "name": "Surplus C4-Brikett-Stapel",
+      "flavor": "Das Etikett abgezogen, die Drähte abgezwickt, die Gefahr noch impliziert."
+    },
+    "618": {
+      "name": "Rasen-zerbrochener Holzschläger",
+      "flavor": "Holz an drei Stellen gesplittert, jeder Riss mit einer anderen Geschichte."
+    },
+    "619": {
+      "name": "Verlorene Arcade-Kappe",
+      "flavor": "Schirm von Schweiß gewellt, mit Highscore-Kirschcola befleckt."
+    },
+    "620": {
+      "name": "Mechaniker-Werkzeugkasten III",
+      "flavor": "Drei Nüsse zu wenig, aber das Fett sagt dir, es hat jede Delle verdient."
+    },
+    "621": {
+      "name": "Sonnen-gebleichter Volleyball",
+      "flavor": "Sand klappert noch drinnen von einem zu langen Aufschlag."
+    },
+    "622": {
+      "name": "Boutique-Kappen-Skulptur",
+      "flavor": "Als tragbare Kunst verkauft, wie Miete bepreist, meist fotografiert."
+    },
+    "623": {
+      "name": "Surplus-Mörserrohr",
+      "flavor": "Schabloniert und gestohlen, die Serie von einem sorgfältigen Daumen abgekratzt."
+    },
+    "624": {
+      "name": "Industrielle Bolzenschneider",
+      "flavor": "Backen von Gebrauch poliert, die Griffe in jemandes anderen Band gewickelt."
+    },
+    "625": {
+      "name": "Arcade-Kämpfer-Trophäe",
+      "flavor": "Plastik-Gold über Plastik, aber das Kind, das es gewann, lief trotzdem nach Hause."
+    },
+    "626": {
+      "name": "Zerbrochene Display-Vase",
+      "flavor": "Ein Haarriss fängt das Licht und verdoppelt den Ankaufspreis."
+    },
+    "627": {
+      "name": "Fitness 10kg-Scheibe",
+      "flavor": "Gummikante zerkaut von Jahren schlechter Form und schlechterer Würfe."
+    },
+    "628": {
+      "name": "Arena Champion-Auszeichnung",
+      "flavor": "Graviert mit einem Gewinner, der sie nie beanspruchte, poliert von jemandem, der es tat."
+    },
+    "629": {
+      "name": "Keller-Koks-Waage",
+      "flavor": "Kalibriert auf ein Zehntelgramm und ein Leben voller Paranoia."
+    },
+    "630": {
+      "name": "Samt-Halskettenbüste",
+      "flavor": "Die Kette ist längst weg, der Samt hält noch seine Form."
+    },
+    "631": {
+      "name": "Gravierte schwere Pistole",
+      "flavor": "Filigran auf dem Schlitten, ein frischer Splitter am Griff, Geschichte unerzählt."
+    },
+    "632": {
+      "name": "Unbefeuertes Pier-Feuerwerk",
+      "flavor": "Zündschnur intakt, Etikett wasserverzerrt, Name des Festivals verblasst."
+    },
+    "633": {
+      "name": "Spa-Lavendel-Seifenstück",
+      "flavor": "Lavendel und Chlor, halb geschmolzen, monogrammiert mit einem Namen, den niemand erkennt."
+    },
+    "634": {
+      "name": "Zurückgegebenes Erotikheft",
+      "flavor": "Cover gerissen, Barcode intakt, zurückgegeben aus einem Grund, der nur als Verschleiß aufgeführt ist."
+    },
+    "635": {
+      "name": "Geschredderte Maxwell-Trophäe",
+      "flavor": "Plakette sauber durch den Torso gerissen, Hantel noch erhoben."
+    },
+    "636": {
+      "name": "OG Mixtape Neuauflage",
+      "flavor": "Kassettenrücken gerissen, handbeschriftet in silbernem Sharpie."
+    },
+    "637": {
+      "name": "DJ-Booth-CD-Rack",
+      "flavor": "Die Hälfte der Slots leer, der Rest unrettbar zerkratzt."
+    },
+    "638": {
+      "name": "After Hours No.1 Trophäe",
+      "flavor": "Goldfolie noch unberührt, Sockel graviert mit einem vergessenen Gamertag."
+    },
+    "639": {
+      "name": "Motor-Enthusiast-Magazin",
+      "flavor": "Falte über die Doppelseite von zu vielen Garagen-Durchblätterungen."
+    },
+    "640": {
+      "name": "Minenfeld-Champion-Trophäe",
+      "flavor": "In Zinn gegossen, Sockel sagt Sechste Runde Überlebt in winzigen gestanzten Buchstaben."
+    },
+    "641": {
+      "name": "Versengter Schläger",
+      "flavor": "Griff in Friktionsband gewickelt, der Lauf an der Spitze halb geschmolzen."
+    },
+    "642": {
+      "name": "Trickverdrahtetes Tischtelefon",
+      "flavor": "Hörer zugeklebt, Drähte schlängeln sich, wo das Kabel sein sollte."
+    },
+    "643": {
+      "name": "Ausgemusterte Lenkrakete",
+      "flavor": "Inert und schabloniert FÜR AUSSTELLUNG, Flossen verbogen von einer Kiste, die sie überleben hätte sollen."
+    },
+    "644": {
+      "name": "Koch-Messerblock",
+      "flavor": "Buchenholzblock glattgewetzt von zwanzig Jahren gezogener Griffe."
+    },
+    "645": {
+      "name": "Plastik-verpackte Doppelseite",
+      "flavor": "Plastik-verpackt und zweimal preisetikettiert, beide Zahlen durchgestrichen."
+    },
+    "646": {
+      "name": "Magnetische Messerleiste",
+      "flavor": "Magnetstreifen vom Alter vergilbt, drei Slots auffällig leer."
+    },
+    "647": {
+      "name": "Vergoldeter Revolver",
+      "flavor": "Gravur schlängelt sich um den Zylinder, Gold vom Abzugsbügel abgeblättert."
+    },
+    "648": {
+      "name": "Wandmontierter Verbandskasten",
+      "flavor": "Schnappverschluss kaputt, das grüne Kreuz zu grau verblasst."
+    },
+    "649": {
+      "name": "Säure-fleckige Autobatterie",
+      "flavor": "Säurefleck in einer Sichel an einer Seite getrocknet, Terminals grün korrodiert."
+    },
+    "650": {
+      "name": "Geborgene Bankschleifmaschine",
+      "flavor": "Rad angeschlagen vom Schneiden von etwas Härterem als Stahl, Motorgehäuse versengt."
+    },
+    "651": {
+      "name": "Bluetooth-Lautsprecherstation",
+      "flavor": "Aux-Kabel noch in nichts eingesteckt, Staub im Gitter verkrustet."
+    },
+    "652": {
+      "name": "Polyester-Garnspule",
+      "flavor": "Polyester auf einen Kartonkern gewickelt, Ende einmal getackert."
+    },
+    "653": {
+      "name": "Luxus-Combat-Pistole",
+      "flavor": "Perlmuttergriff, Schlitten geätzt mit einem Rankenmuster, das niemand wollte."
+    },
+    "654": {
+      "name": "Wades abgeschnittenes Kopf-Requisit",
+      "flavor": "Latexmaske über einen Schaumkopf geformt, Augen leicht schielend gemalt."
+    },
+    "655": {
+      "name": "Zerkratzter Trainings-Baseball",
+      "flavor": "Rote Nähte locker, Autogramm zu einem unleserlichen Fleck verblasst."
+    },
+    "656": {
+      "name": "Rasiermesser-umwickelter Schläger",
+      "flavor": "Stacheldraht mit Rost verkrustet, Knöchelumhüllung am Griff dunkel durchtränkt."
+    },
+    "657": {
+      "name": "Display-Fußball-Skulptur",
+      "flavor": "Harzguss mit Goldblatt entlang der Schnürsenkel, Sockel von keinem Berühmten signiert."
+    }
+  }
+}

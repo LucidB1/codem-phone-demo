@@ -1,0 +1,2606 @@
+{
+  "rarity": {
+    "common": "Sıradan",
+    "strange": "Tuhaf",
+    "rare": "Nadir",
+    "mint": "Efsanevi"
+  },
+  "items": {
+    "1": {
+      "name": "Madrazo'nun Altın İdolü",
+      "flavor": "Caida Libre efsanesinin altın yüzü — Madrazo ailesinin uğur tılsımı."
+    },
+    "2": {
+      "name": "Impotent Rage Figürü",
+      "flavor": "Vinewood Süperkahramanı'nın orijinal koleksiyon baskısı — kaidesi hâlâ parlıyor."
+    },
+    "3": {
+      "name": "Uzaylı Figürü",
+      "flavor": "Gizli koleksiyoncuların peşinde olduğu nadir bir döküm."
+    },
+    "5": {
+      "name": "Canavar Figürü",
+      "flavor": "Vinewood Süperkahramanı serisinin yarı-canavar antagonisti — tüylü edisyon."
+    },
+    "6": {
+      "name": "Sasquatch Figürü",
+      "flavor": "\"Koca Ayak\" Easter egg avcılarının kutsal kâsesi."
+    },
+    "7": {
+      "name": "Rockstar Klasik Logo",
+      "flavor": "Sınırlı sayıda basılmış stüdyo hatıra eşyası — bir vitrinden düşmüş."
+    },
+    "8": {
+      "name": "Rockstar Topluluk Ödülü",
+      "flavor": "Rockstar topluluk üyeleri için basılmış plaket — Pillbox Hill'de tek bir örneği var."
+    },
+    "12": {
+      "name": "Pop Sanat Heykeli #1",
+      "flavor": "Diamond Casino Miras Salonu'ndan retro pop-sanat parçası."
+    },
+    "13": {
+      "name": "Pop Sanat Heykeli #2",
+      "flavor": "Aynı sanatçının ikinci serisi — daha az basıldı."
+    },
+    "15": {
+      "name": "Panter Heykeli",
+      "flavor": "Koyu bronz panter — gözleri seni hâlâ takip ediyor."
+    },
+    "16": {
+      "name": "At Heykeli",
+      "flavor": "Antika at heykeli — yıllar önce bir koleksiyoncu kaybetmişti."
+    },
+    "17": {
+      "name": "Soyut Heykel",
+      "flavor": "Anlamı belirsiz, fiyatı dik — buna gerçek sanat diyorlar."
+    },
+    "19": {
+      "name": "Antika Kahraman Figürü",
+      "flavor": "80'lerin Vinewood çocuk koleksiyon ürünü — orijinal kutusundan çıkmış gibi."
+    },
+    "21": {
+      "name": "Peluş Köpek",
+      "flavor": "Kayıp bir tatil hediyesi — sahibine hiç ulaşmadı."
+    },
+    "22": {
+      "name": "Sunny — Yaz Festivali Maskotu",
+      "flavor": "Vespucci yaz festivalinin imza maskotu — gözleri hâlâ Pasifik mavisi."
+    },
+    "23": {
+      "name": "Vinewood'lu Ayı Bruno",
+      "flavor": "Pixel Pete vinçli oyun makinesinin imza ödülü — tüylerinde \"Bruno\" yazılı bir etiket dikili."
+    },
+    "24": {
+      "name": "Davis Pandası Po",
+      "flavor": "Davis mahallesinin vinçli oyun efsanesi — hâlâ tatlı bakışlı."
+    },
+    "25": {
+      "name": "Sevimli Koala Kobi",
+      "flavor": "Kulağında \"Tatlıyım\" etiketiyle üst raf peluş."
+    },
+    "26": {
+      "name": "Tavşan Lily",
+      "flavor": "Bir aşk hatırası — kulağında kırmızı kurdele, kulüp kapısında bırakılmış."
+    },
+    "27": {
+      "name": "Küçük Tilki Foxxy",
+      "flavor": "Burger Shot oyun köşesi maskotu — kuyruğu yamalı."
+    },
+    "28": {
+      "name": "Zürafa Zara",
+      "flavor": "Pillbox Hastanesi bekleme salonunun moral mucizesi — upuzun boynuyla birlikte."
+    },
+    "29": {
+      "name": "Kaplan Toto",
+      "flavor": "Vanilla Unicorn sahnesinin sessiz tanığı — boynunda VIP rozeti."
+    },
+    "30": {
+      "name": "Şanslı Köpek Lucky",
+      "flavor": "Pixel Pete'in son sezon ödülü — koleksiyonu tamamlayanlar için uğur tılsımı."
+    },
+    "31": {
+      "name": "Vinewood Bahçe Cücesi",
+      "flavor": "Vinewood Hills cüce tarikatının sağ kalan bir üyesi — Rockstar'ın en eski arka bahçe şakası."
+    },
+    "32": {
+      "name": "Şahlanmış At Figürini",
+      "flavor": "Bronz dökme yarış atı bibelosu — bir Vinewood ajanının olduğundan daha sınıflı görünmek için bulundurduğu şey."
+    },
+    "33": {
+      "name": "Modern Heykel #4",
+      "flavor": "Penthouse rotasyonunun modern parçası — sertifikayı bizzat Tao Cheng imzaladı."
+    },
+    "34": {
+      "name": "Kartel Ofisi Heykeli",
+      "flavor": "Cluckin' Bell işleme tesisindeki kartel ustabaşının masasında dururdu — hafifçe tavuk yağı lekeli."
+    },
+    "35": {
+      "name": "Flipper Şampiyon Kupası",
+      "flavor": "Üst sınıf Arena War gümüşü — Flipper'ı tekerlekleri üstünde bitiren tek sürücünün kazandığı."
+    },
+    "36": {
+      "name": "Ron'un Uğurlu Şapkası",
+      "flavor": "Ron Jakowski bunu her Sandy Shores komplo yayınında giydi — radyasyon değeri: sınırda."
+    },
+    "37": {
+      "name": "Jeroboam Blêuter'd",
+      "flavor": "3 litrelik bir Jeroboam Blêuter'd '08 — VIP loca'da unutulmuş, dokunulmamış."
+    },
+    "38": {
+      "name": "Antika Oyun Kolu",
+      "flavor": "Jimmy De Santa'nın sabahlamasından kalma kumanda — yapışkan thumbstick'ler dahil."
+    },
+    "39": {
+      "name": "Pop Sanat Arabası #10",
+      "flavor": "Diamond Miras Galerisi — Los Santos'un altın on yılının kas arabalarına pop-sanat övgüsü."
+    },
+    "40": {
+      "name": "Pop Sanat Arabası #12",
+      "flavor": "Diamond kas-araba ikilisinin ikinci yarısı — Avi Schwartzman'ın aşırmaya çalıştığı."
+    },
+    "41": {
+      "name": "Pop Sanat Arabası #9",
+      "flavor": "Pop-Sanat Araba üçlemesinin açılış parçası — hiç müzayedeye çıkarılmadı, hiç sigortalanmadı."
+    },
+    "42": {
+      "name": "İdol Kupası — Küçük Aztek",
+      "flavor": "Casino Soygunu'nun değerli idolünün vitrin ikizi — kartel bunu övünme kupası olarak tuttu."
+    },
+    "43": {
+      "name": "İdol Kupası — Büyük Aztek",
+      "flavor": "Cluckin' Bell arka ofis kupası — kartel patronunun her şeyi başlatan Casino Soygunu'na saygı duruşu."
+    },
+    "44": {
+      "name": "Güneş-Taşı Gezegen Kupası",
+      "flavor": "Aztek tahta-seti'nin gezegen parçası — Cluckin' Bell patronunun ofis rafında tuttuğu dört kupadan biri."
+    },
+    "45": {
+      "name": "Scarab Tank Kupası",
+      "flavor": "Yıkım yarışı finallerinde hayatta kalan Arena War şampiyonu için dökülen bronz Scarab tank — kaidesi hâlâ yanık lastik kokuyor."
+    },
+    "46": {
+      "name": "Aztek Hazine Yığını",
+      "flavor": "Bir grup Aztek sikkesi ve zincir halkası — orijinal Casino Soygunu'ndan sıyrılan kartel \"vergisi\"."
+    },
+    "47": {
+      "name": "Ham Aztek İdolü",
+      "flavor": "Vitrininden kopmuş — soygun ortasında çıkarılmış, asla yeniden monte edilmemiş."
+    },
+    "48": {
+      "name": "İkiz Aztek İdolü",
+      "flavor": "Madrazo idolünün küçük ikizi — aynı kalıp, farklı dökümhane."
+    },
+    "49": {
+      "name": "Aztek Güneş-Yumurtası Kupası",
+      "flavor": "Aztek güneş yumurtası — idol, scarab ve gezegen yanında dört parçalı kupa rafını tamamlar."
+    },
+    "50": {
+      "name": "Altın Pogo Kupası",
+      "flavor": "Lucky Wheel büyük ödül koleksiyon ürünü — söylentiye göre sadece on iki tane basıldı."
+    },
+    "51": {
+      "name": "Retro Konsol Sanat Parçası",
+      "flavor": "Galeri sanatı muamelesi gören antika konsol — her satışında Pixel Pete ağlar."
+    },
+    "52": {
+      "name": "\"Paraya Aşk\" Elmas Kafatası",
+      "flavor": "Orijinal Casino Soygunu'nda çalınan bir penthouse gösteriş parçası — pavé elmasları gerçek ve değerlendirme hâlâ Lester'da."
+    },
+    "53": {
+      "name": "Tataryn İmparatorluk Yumurtası",
+      "flavor": "Bir gecede kaybolan Tataryn aile yadigarı — Avi Schwartzman'ın şehirden ayrıldığı sabah."
+    },
+    "54": {
+      "name": "El Rubio Reserva Añejo",
+      "flavor": "Cayo Perico'dan bir spor çantasıyla kaçırılmış — mührü sağlam ve balmumu damgası hâlâ El Rubio'nun."
+    },
+    "55": {
+      "name": "Declasse Sabre GT Maketi",
+      "flavor": "Tao Cheng'in babası yüksek limitli blackjack masasındaki bir kazanç gecesinin ardından sipariş etmişti."
+    },
+    "56": {
+      "name": "\"OG1\" South Central Plaketi",
+      "flavor": "Bir Davis garaj duvarından söküldü — eski kafalar bunun Grove Street'in hâlâ bir şey ifade ettiği günlerde Stretch'e ait olduğunu söylüyor."
+    },
+    "57": {
+      "name": "LS Panic Maç Topu",
+      "flavor": "'08 sezon zaferi sonrası tüm Los Santos Panic savunma hattınca solmuş Sharpie ile imzalanmış."
+    },
+    "58": {
+      "name": "Vespucci Streetball Turnuva Topu",
+      "flavor": "Vespucci sahalarında kauçuğuna kadar yıpranmış — \"Lamar 23\" işareti hâlâ okunuyor."
+    },
+    "59": {
+      "name": "Maymun Pogo Peluş",
+      "flavor": "Up-n-Atom diner'ın arka oda atari salonundaki vinçli oyun büyük ödülü — etikette \"Tracey'e Aittir\" yazıyor."
+    },
+    "60": {
+      "name": "El Rubio'nun Nişancı Kupası",
+      "flavor": "En iyi yerleşke nişancısına bizzat El Rubio tarafından verildi — \"Para mi mejor tirador, 2020.\" diye kazınmış."
+    },
+    "61": {
+      "name": "Yaldızlı Bowling Lobutu (Lebowski Edisyonu)",
+      "flavor": "Büyük Amerikan eğlencesine altı haneli içten bir saygı duruşu — Tao Cheng'in üç tane var."
+    },
+    "62": {
+      "name": "Macbeth 30 Yıl Kristal Sürahi",
+      "flavor": "Bir Maze Bank yöneticisinin özel barından aşırıldı — kazınmış monogram \"AB\" yazıyor, Avon Hertz'in muhasebecisinin baş harfleriyle aynı."
+    },
+    "63": {
+      "name": "Festive Surprise Üçlü Skor Kupası",
+      "flavor": "Festive Surprise etkinliğinde hat-trick yapan Arena yarışmacılarına verildi — fiyonkları hâlâ kıvrımlı."
+    },
+    "64": {
+      "name": "Usta Bandito Pilot Kupası",
+      "flavor": "RC Bandito ile on kinetik mayın öldürmesi için kazanıldı — Arena fanları buna hâlâ \"garaj zemini kupası\" der."
+    },
+    "65": {
+      "name": "Arena Kariyer Yükselen Kule",
+      "flavor": "Üst üste 100 Arena turunu tamamlamak için verildi — taban plakasını Benny bizzat kaynak yaptı."
+    },
+    "66": {
+      "name": "Arena Büyük Şampiyon Kupası",
+      "flavor": "Bay Bossman'ın açılış Arena finallerinde dağıttığı büyük ödül — sadece üç tane dökülmüştü, ikisi kayıp."
+    },
+    "67": {
+      "name": "Pegassi Toreador Krom Maketi",
+      "flavor": "Toreador'un Vinewood Bulvarı'ndaki çıkışını işaretlemek için sipariş edilen ölçekli parça."
+    },
+    "68": {
+      "name": "LS Caesars Vurucu Sallanır Kafa",
+      "flavor": "Eski LS Caesars çukurundan 90'lardan kalma bir hatıra — Franklin uğur için masasında bir tane tutuyor."
+    },
+    "69": {
+      "name": "San Andreas Stallions Çaylak Sallanır Kafa",
+      "flavor": "'04 ev sezonu açılışından Vinewood Bowl hediyesi — sallanan kafa yirmi yıl sonra hâlâ titriyor."
+    },
+    "70": {
+      "name": "Arena Atölye Pit-Bos Kupası",
+      "flavor": "Bay Bossman'dan bizzat \"Dünyanın #1 Patronu\" kupası — kahve halkası hâlâ kenarda."
+    },
+    "71": {
+      "name": "Benefactor Krieger Sergi Maketi",
+      "flavor": "Penthouse galerisinden milyon-fişlik bir gösteriş parçası — Yung Ancestor bir mısrada tam bu heykelin adını verdi."
+    },
+    "72": {
+      "name": "Yaldızlı \"Serbest Atış\" Heykeli",
+      "flavor": "Altı haneli bir muhabbet açma parçası — sanatçının imzası \"Jeff K.\", alt tarafına kazınmış."
+    },
+    "73": {
+      "name": "Porselen Kız Figürini",
+      "flavor": "Bir zamanlar Vinewood şöminesinde duran çentikli küçük bir porselen kız — güzel, saf ve göründüğünden değerli."
+    },
+    "74": {
+      "name": "Harlequin Palyaço Figürini",
+      "flavor": "Çatlak mineli pierrot bebek ve hep bir kare gecikmiş görünen bir gülümseme."
+    },
+    "75": {
+      "name": "Cypress Soyut Heykel",
+      "flavor": "Cypress Flats yükleme platformunda bırakılmış hipster galeri parçası — \"isimsiz #4\" etiketli ve önemliymiş gibi fiyatlandırılmış."
+    },
+    "76": {
+      "name": "Bronz Aygır Figürini",
+      "flavor": "Bir zamanlar Michael De Santa'nın şöminesinde yaşayan minyatür bir aygır — Madrazo olaylarında biri kapmış."
+    },
+    "77": {
+      "name": "Mürekkep-Hokkası Kafatası Kupası",
+      "flavor": "Bir Harmony dövme salonu tezgâhından doğrudan kaldırılan flash-sanat kafatası — hâlâ yeşil sabun kokuyor."
+    },
+    "78": {
+      "name": "OG Mixtape — Varyant 2",
+      "flavor": "Korsan West Coast basımından mühürlü promo kaset — Franklin buna iki katı verir."
+    },
+    "79": {
+      "name": "Krom Gladyatör Kafatası",
+      "flavor": "Şov-kromu ile kaplanmış kaput-süsü boyutunda kafatası — bir Arena War şampiyonunun komodin parçası."
+    },
+    "80": {
+      "name": "Lowrider Sanat Maketi",
+      "flavor": "Kesilmiş bir lowrider'ın galeri maketi — pinstripe'lar dokununca hâlâ yaş."
+    },
+    "81": {
+      "name": "El Rubio'nun Yarışçı Kupası",
+      "flavor": "Özel ada kasasından kaldırılmış yaldızlı yarışçı kupası — yazısı kazınarak silinmiş."
+    },
+    "82": {
+      "name": "Downtown Cab Co. Altın Kupa",
+      "flavor": "Downtown Cab Co.'dan yüzyıllık hizmet ödülü — mekân soyulmadan önce son olarak bir telsiz operatörünün rafında görüldü."
+    },
+    "83": {
+      "name": "Kristal Piramit Kâğıt Tutucu",
+      "flavor": "Bir yapımcının sözleşmelerini bastıran ağır kristal piramit — sözde kötü enerjiyi temizler."
+    },
+    "84": {
+      "name": "Şampiyon Boks Eldiveni",
+      "flavor": "Uzun süredir kapalı bir salonun köşesinde bırakılmış tek bir kırmızı eldiven — derisinde hâlâ yumruk tozu var."
+    },
+    "85": {
+      "name": "Galaxy Yat Minyatürü",
+      "flavor": "Galaxy'nin kuyumcu ölçekli modeli — altın kaplama, çalışan çapa, gerçeği gibi fiyatlandırılmış."
+    },
+    "86": {
+      "name": "Up-n-Atomizer Işın Tabancası",
+      "flavor": "Up-n-Atom diner tabelasından doğrudan çıkmış retro krom ölüm-ışını — ele alınca şaşırtıcı derecede ağır."
+    },
+    "87": {
+      "name": "Brütalist Beton Blok",
+      "flavor": "Galerinin \"post-Vinewood brütalist\" diye ısrar ettiği dökme beton sanat bloğu — kaldırıma benziyor olmasına rağmen."
+    },
+    "88": {
+      "name": "Maze Bank Kulesi Maketi",
+      "flavor": "Maze Bank Kulesi'nin mükemmel ölçekli modeli — bir CEO'nun gerçek ofisinin köşesinde tuttuğu oyuncak ev."
+    },
+    "89": {
+      "name": "Perico Uyumluluk Şok Tabancası",
+      "flavor": "Bir ada nöbetçisinden alınan karaborsa şok tabancası — pilinde hâlâ yarım şarj var."
+    },
+    "90": {
+      "name": "Aztek Taş İdolü",
+      "flavor": "Şehrin kendisinden bile eski volkanik taş idolü — Franklin asla almadığına yemin etti ama hep geri geliyordu."
+    },
+    "91": {
+      "name": "Arena Wars Şampiyon Kupası",
+      "flavor": "Büyük olan — som altın tek-hayatta kalan kupası, her Arena Wars sezonunda bir kez verilir, asla iki kez verilmez."
+    },
+    "92": {
+      "name": "Pembe Şekerli Süslü Donut",
+      "flavor": "Uzun bir gözetleme sırasında peçete üstünde bırakılmış, üstünde gökkuşağı süs olan yarısı yenmiş pembe halka."
+    },
+    "93": {
+      "name": "Kristal Şampanya Kadehi",
+      "flavor": "Kimsenin ayrıldığını hatırlamadığı bir Vinewood afterparty'sinden kenarında hâlâ ruj olan kadeh."
+    },
+    "94": {
+      "name": "Cayo Perico Dansçı Kupası",
+      "flavor": "Yaldızlı dansçı figürini, bir soygun ekibi bahsinde kazanıldı ve yağmurlu gün için saklandı."
+    },
+    "95": {
+      "name": "Cayo Perico Savaşçı Kupası",
+      "flavor": "Dansçının ikizi, bu ekibin kas adamı tarafından kaybolmadan önce sahiplenildi."
+    },
+    "96": {
+      "name": "Penthouse Dekoratif Heykel",
+      "flavor": "Beş parasız bir atari salonu sahibi tarafından rehne verilen modernist sanat parçası; zenginler eksildiğini hiç bilmedi."
+    },
+    "97": {
+      "name": "Meteorit Çikolata Bar",
+      "flavor": "Bingo temalı şekerleme barı, ambalajında derin uzayda dövüldüğü iddia ediliyor."
+    },
+    "98": {
+      "name": "P's & Q's Şeker Kutusu",
+      "flavor": "Bir çocuk doğum günü ters döndükten sonra geride bırakılan yapışkan alfabe şekeri kartonu."
+    },
+    "99": {
+      "name": "Duvara Monte Konser Hoparlörü",
+      "flavor": "LSPD'nin 02:00'de kapattığı bir Vespucci sokak partisinden kurtarılan çizik PA hoparlörü."
+    },
+    "100": {
+      "name": "Bean Machine Paket Kahve",
+      "flavor": "Kapağı gevşek ılık latte — zaten başlamış bir toplantıya giderken bırakılmış."
+    },
+    "101": {
+      "name": "Etiketçinin Boya Fırçası",
+      "flavor": "Fluoresan yeşili kabuk bağlamış kıllar — sirenler sokağa girince tag ortasında düşürüldü."
+    },
+    "102": {
+      "name": "Numaralı Bilardo Topu — 8",
+      "flavor": "Siyah top, beş dolarlık bahisler için bin tane kin maçında çizilmiş."
+    },
+    "103": {
+      "name": "Numaralı Bilardo Topu — 7",
+      "flavor": "Bordo şerit masadan yuvarlanıp gitmiş, rafa hiç geri dönmemiş."
+    },
+    "104": {
+      "name": "Numaralı Bilardo Topu — 9",
+      "flavor": "Sarı şerit, biri kâğıt tutucu olarak kullandığında bir yanı çizilmiş."
+    },
+    "105": {
+      "name": "Numaralı Bilardo Topu — 13",
+      "flavor": "Turuncu şerit, kötü bir bank atışından dolayı bir köşesinde lake parçalanmış."
+    },
+    "106": {
+      "name": "Numaralı Bilardo Topu — 11",
+      "flavor": "Bordo şerit sigara külüyle lekelenmiş — bir zamanlar bir Del Perro turnuvasının değişmezi."
+    },
+    "107": {
+      "name": "Numaralı Bilardo Topu — 5",
+      "flavor": "Tek parça turuncu, yeni kadar pürüzsüz — kutusundan ilk gecesinde çalınmış belli ki."
+    },
+    "108": {
+      "name": "Numaralı Bilardo Topu — 15",
+      "flavor": "Tam doğru vurulduğunda ıslık çalan kıl çatlağıyla bordo şerit."
+    },
+    "109": {
+      "name": "Numaralı Bilardo Topu — 12",
+      "flavor": "Kimsenin geri vermediği ödünç bir ceketin cebinde bulundu — mor şerit."
+    },
+    "110": {
+      "name": "Numaralı Bilardo Topu — 4",
+      "flavor": "Tek parça menekşe, ayna gibi parlatılmış — uzun süredir emekli bir hustler'ın gözdesi."
+    },
+    "111": {
+      "name": "Beyaz Istaka Topu",
+      "flavor": "Bin tane rafı kıran ıstaka topu — ön kenarında hâlâ tebeşir izi var."
+    },
+    "112": {
+      "name": "Numaralı Bilardo Topu — 6",
+      "flavor": "Tek parça yeşil, bir borç tahsildarı ofisinde kâğıt tutucu olarak görev yaparken yamulmuş."
+    },
+    "113": {
+      "name": "Numaralı Bilardo Topu — 1",
+      "flavor": "Tek parça sarı, şanslı olanı — bardaki bir müdavim her açılıştan önce avucunda saklardı."
+    },
+    "114": {
+      "name": "Numaralı Bilardo Topu — 2",
+      "flavor": "Tek parça mavi solmuş bir kalem baş harfiyle — uzun zaman önce sahiplenildi, asla geri alınmadı."
+    },
+    "115": {
+      "name": "Numaralı Bilardo Topu — 3",
+      "flavor": "Tek parça kırmızı — meşhur bir one-pocket hustle'ın yaşandığı masadan olduğu söylenir."
+    },
+    "116": {
+      "name": "Numaralı Bilardo Topu — 10",
+      "flavor": "Kimsenin tamir etmesine izin verilmeyen masalardan birinin keçe izleriyle mavi şerit."
+    },
+    "117": {
+      "name": "Numaralı Bilardo Topu — 14",
+      "flavor": "Bir Cypress Flats garaj masasından eksilen yeşil şerit; kimse iki kere sormadı."
+    },
+    "118": {
+      "name": "Sırlanmış Seramik Sürahi",
+      "flavor": "Bir Grand Senora yol kenarı tezgâhından ağır seramik sürahi — çentikli dudak, hâlâ su tutar."
+    },
+    "119": {
+      "name": "Rulo Mimari Kâğıt",
+      "flavor": "Sıkıca rulo yapılmış ve sicimle bağlanmış bina planları — aceleci bir çıkışta düşmüş."
+    },
+    "120": {
+      "name": "Özelleştirilmiş SMG Mk II",
+      "flavor": "Seri numarası temiz törpülenmiş modlu SMG — Paleto Bay işi sesli bittikten sonra geride bırakıldı."
+    },
+    "121": {
+      "name": "Endüstriyel Tırnaklı Çekiç",
+      "flavor": "Bir ustabaşından ödünç alınan ve alet kemerine asla geri verilmeyen ağır tırnaklı çekiç."
+    },
+    "122": {
+      "name": "Berber Köpük Bardağı",
+      "flavor": "Yarısı kullanılmış berber köpüğü, içine sızmış sandal ağacı kokusu."
+    },
+    "123": {
+      "name": "Pnömatik Darbeli Tornavida",
+      "flavor": "Tetiği fren tozu ve eski yağla yapışmış."
+    },
+    "124": {
+      "name": "Kanal Gezgini Kumandası",
+      "flavor": "Pil kapağı bir parça koli bandıyla yapıştırılmış."
+    },
+    "125": {
+      "name": "Hasır Çamaşır Sepeti",
+      "flavor": "Çamaşır yumuşatıcı ve kayıp bir çorap gibi kokuyor."
+    },
+    "126": {
+      "name": "Kilitli Burner Telefon",
+      "flavor": "Kilitli ekran yirmi iki cevapsız aramayla yanıyor."
+    },
+    "127": {
+      "name": "Krom Kokteyl Shaker",
+      "flavor": "Hâlâ soğuk, buz parlatılmış çeliğe vuruyor."
+    },
+    "128": {
+      "name": "İki Parmak Viski",
+      "flavor": "Dumanlı, turbalı, iki parmaklık pişmanlık."
+    },
+    "129": {
+      "name": "Mermer Süs Heykeli",
+      "flavor": "Dokununca soğuk, kaidesi kurşun kalemle imzalanmış."
+    },
+    "130": {
+      "name": "Sahte Lisans Yığını",
+      "flavor": "On iki kimlik, aynı saç kesimi, farklı isimler."
+    },
+    "131": {
+      "name": "Beyaz Altın Safir Damlası",
+      "flavor": "Beyaz altına işlenmiş, ağırlığı kasıtlı olarak dengesiz."
+    },
+    "132": {
+      "name": "Tambur-Mag Sokak Süpürgesi",
+      "flavor": "Tambur mag sıcak, seri numarası kazınmış."
+    },
+    "133": {
+      "name": "Kabuk Bağlamış Mama Kabı",
+      "flavor": "Kurumuş etle kabuk bağlamış, karıncalar toplantıda."
+    },
+    "134": {
+      "name": "Boş Pirinç Kovan",
+      "flavor": "Kapsül tam merkeze çarpmış, lake kovan üstünden pul pul dökülmüş."
+    },
+    "135": {
+      "name": "Toz Kaplı Ciltli Kitap",
+      "flavor": "Sırtı dördüncü bölümde çatlamış, köşeleri kıvrılmış ve nihai."
+    },
+    "136": {
+      "name": "Kablolu Bilgisayar Faresi",
+      "flavor": "Tekerleği yapışkan, sol tuşu parlayana kadar aşınmış."
+    },
+    "137": {
+      "name": "Komodin Çalar Saati",
+      "flavor": "Ekran 12:00'de takılmış, snooze tuşu içine çökmüş."
+    },
+    "138": {
+      "name": "Katlanmış Dosya",
+      "flavor": "İsimler kalemle silinmiş, kenarları nemden kıvrılmış."
+    },
+    "139": {
+      "name": "İki Dilim Ekmek Kızartıcısı",
+      "flavor": "Tepside kırıntılar, kolu gevşek atmış."
+    },
+    "140": {
+      "name": "Berelenmiş Kırmızı Elma",
+      "flavor": "Bir ısırık alınmış, bırakılmış ve unutulmuş."
+    },
+    "141": {
+      "name": "İnce DVD Oynatıcı",
+      "flavor": "Disk tepsisi sıkışmış, RCA kabloları düğüm olmuş."
+    },
+    "142": {
+      "name": "C4 Briketi",
+      "flavor": "Detonatör sökülmüş, hamuru yumuşak ve sıcak."
+    },
+    "143": {
+      "name": "Pride Lager Kutusu",
+      "flavor": "Soğukla terliyor, halkasında yarım bir parmak izi."
+    },
+    "144": {
+      "name": "Paparazzi Kamera Gövdesi",
+      "flavor": "Uzun lensi çizilmiş, son kare hâlâ tamponda."
+    },
+    "145": {
+      "name": "Kesme Cam Yönetici Küllüğü",
+      "flavor": "Ağır taban, bu geceye üç puro yazılı."
+    },
+    "146": {
+      "name": "Monte Taksi Saati",
+      "flavor": "$14.20'de donmuş, kablo gösterge braketinden sarkıyor."
+    },
+    "147": {
+      "name": "Prenses Kesim Elmas Solitaire",
+      "flavor": "Prenses kesim, artık var olmayan bir isme sertifikalı."
+    },
+    "148": {
+      "name": "Hava Hokeyi Tokmağı",
+      "flavor": "Keçe altı pürüzsüzce aşınmış, sapı ter lekeli."
+    },
+    "149": {
+      "name": "Siyah Obelisk Figürini",
+      "flavor": "Cilalı taş, kaidesinde tek bir sembol kazınmış."
+    },
+    "150": {
+      "name": "Yamulmuş eCola Kutusu",
+      "flavor": "Halkasında bere, tabanında yoğuşma birikiyor."
+    },
+    "151": {
+      "name": "Casino Parlak Üç Aylık Dergi",
+      "flavor": "Çıtır parlak sayfalar tanıdığın kimsenin kazanmadığı jackpot'larla övünüyor."
+    },
+    "152": {
+      "name": "Kulüp Burner Dizüstü",
+      "flavor": "Üstüne çıkartmalar yapıştırılmış, piliyle yumurta kızartabilecek kadar sıcak dizüstü."
+    },
+    "153": {
+      "name": "Yağ-Kabuğu Tutmuş Alet Çantası",
+      "flavor": "Her çekmece uyumsuz lokmalar ve tek yağlı bir Çin falı kurabiyesiyle tıkırdıyor."
+    },
+    "154": {
+      "name": "İthal Puro Stoğu",
+      "flavor": "Folyoya sıkıca sarılmış ve daha zengin birinin oturma odası gibi kokuyor."
+    },
+    "155": {
+      "name": "Kristal Viski Sürahisi",
+      "flavor": "Otuz yıllık bir single malt'ın hayaletini hâlâ tutan el kesimi kristal."
+    },
+    "156": {
+      "name": "Şişe Servisi Buz Kovası",
+      "flavor": "Yarı erimiş buz, ruj izli kenar ve başka birinin iyi bir gecesinin ağız tadı."
+    },
+    "157": {
+      "name": "Etiketsiz DVD Kutusu",
+      "flavor": "Ne başlık, ne derecelendirme ve tanımlamak istemediğin yapışkan bir kalıntı."
+    },
+    "158": {
+      "name": "Ağır Çelik İngiliz Anahtarı",
+      "flavor": "Cıvatadan çok çene sıkmış türden bir anahtar."
+    },
+    "159": {
+      "name": "Yalnız Bir Bot",
+      "flavor": "Tabanı aşınmış, hikâyesi anlatılmamış, ikinci botu büyük ihtimalle bir çöpte."
+    },
+    "160": {
+      "name": "Boşaltılmış Ev Şişesi",
+      "flavor": "Yapışkan etiketi soyulmuş, içeriği çoktan tükenmiş, meyve sinekleri için minik bir sahne."
+    },
+    "161": {
+      "name": "Penthouse Pirinç Heykeli",
+      "flavor": "Bir kıvrımı o kadar kibirli ki çeyrek milyona mal olmuş olmalı."
+    },
+    "162": {
+      "name": "Kesilmiş Safir Kolye",
+      "flavor": "Dokununca soğuk ve o büyüklükteki bir taşın olması gerekenden bir şekilde daha ağır."
+    },
+    "163": {
+      "name": "Bahçe Merkezi Eğreltiotu",
+      "flavor": "Biraz fazla sulanmış, biraz az sevilmiş, yeni bir evde ölmeye hazır."
+    },
+    "164": {
+      "name": "Bantlı Tutamak Snubnose Revolver",
+      "flavor": "Altı haznesi, ikisi boşalmış, tutamağı ter kokan friction bantla sarılı."
+    },
+    "165": {
+      "name": "Çizik Hoparlör İstasyonu",
+      "flavor": "Pili ölmüş, basları patlamış ama anteni hâlâ umutla mavi yanıyor."
+    },
+    "166": {
+      "name": "Yarı Boş Sprey Kutusu",
+      "flavor": "Salladığında çıngırdar, bastığında ıslık çalar, doğrulttuğunda şarkı söyler."
+    },
+    "167": {
+      "name": "Buruşmuş Gazoz Bardağı",
+      "flavor": "Pipet bükülmüş, kapak ısırılmış, kaldırıma yapışmasına yetecek kadar şurup kalmış."
+    },
+    "168": {
+      "name": "Stok Gaz Maskesi",
+      "flavor": "Filtre kartuşu kabuk bağlamış, göz lensleri başkasının paniğiyle buğulanmış."
+    },
+    "169": {
+      "name": "Yönetici Akıllı Telefonu",
+      "flavor": "Kilitli ekran, iki cevapsız arama, kilit ekranında alamayacağın bir yatın fotoğrafı."
+    },
+    "170": {
+      "name": "Sıcak Kovan",
+      "flavor": "Pirinç hâlâ tetik çekimini hatırlayacak kadar sıcak."
+    },
+    "171": {
+      "name": "Açılmış Magnum Şampanya",
+      "flavor": "Folyo yırtık, mantar kayıp, gece zaten efsane olmaya gidiyor."
+    },
+    "172": {
+      "name": "Demir Savaş Baltası",
+      "flavor": "Ağzı çentik, sapı pürüzsüzce aşınmış, bir şöminenin üstüne ait bir şey."
+    },
+    "173": {
+      "name": "Mühürlü Kaçakçı Viskisi",
+      "flavor": "İçinde kehribar, dokunulmamış, etiketinde kimsenin doğru telaffuz etmediği bir isim kabartmalı."
+    },
+    "174": {
+      "name": "İnci-Kabzalı Vintage Tabanca",
+      "flavor": "Kazınmış namlu, sedef kabza, hafifçe silah yağı ve pişmanlık kokuyor."
+    },
+    "175": {
+      "name": "Yarı Dolu Şarap Kadehi",
+      "flavor": "Kenarda ruj, dipte tortu, sohbet uzun zaman önce terk edilmiş."
+    },
+    "176": {
+      "name": "Ağır .50 Tabanca",
+      "flavor": "Geri tepme bere malzemesi, seri numarası gümüşe kadar temiz törpülenmiş."
+    },
+    "177": {
+      "name": "Uzun Cam Su Borusu",
+      "flavor": "Bulutlu hazne, çatlak inişli, bir Vinewood müzik videosu seti gibi kokuyor."
+    },
+    "178": {
+      "name": "Sıkılmış Hardal Şişesi",
+      "flavor": "Ucunda kabuk, kenarları yamulmuş, kapağı kayıp."
+    },
+    "179": {
+      "name": "Ezilmiş Gazoz Kutusu",
+      "flavor": "Halkası hâlâ takılı, yanı acelesi olan bir bot tarafından çökertilmiş."
+    },
+    "180": {
+      "name": "Şablonlu Mermi Sandığı",
+      "flavor": "Birim numarasıyla damgalı, paketleme bandı ve bir duayla mühürlenmiş."
+    },
+    "181": {
+      "name": "Çatlak DVD Kutusu",
+      "flavor": "Diski kayıp ve solmuş kiralık çıkartmalı çizik plastik kutu."
+    },
+    "182": {
+      "name": "Acil Durum Fişek Kutusu",
+      "flavor": "Kırmızı tehlike uyarılarıyla şablon basılmış yanık karton kutu."
+    },
+    "183": {
+      "name": "Yaldızlı Kafatası Büstü II",
+      "flavor": "Açılıştan önce biri tarafından alıp götürülmüş krom kaplama memento-mori."
+    },
+    "184": {
+      "name": "Mutfak Cam Tencere",
+      "flavor": "Hâlâ hafifçe marinara kokan ısı lekeli Pyrex tencere."
+    },
+    "185": {
+      "name": "Ön Ofis Evrak Çantası",
+      "flavor": "İtalyanca bagaj etiketiyle kilitlenmiş çizik alüminyum kasa."
+    },
+    "186": {
+      "name": "Kabin Masa Düzenleyici",
+      "flavor": "Açıkça hiç düzenlenmemiş dolu bir kalemlik."
+    },
+    "187": {
+      "name": "Aztek İdol Zulası",
+      "flavor": "Orman yosunuyla kabuk bağlamış Kolomb-öncesi merak parçası; birinin gerçekten yerinden oynatmaması gerekirdi."
+    },
+    "188": {
+      "name": "Kaldırım Çöp Yığını",
+      "flavor": "Ezilmiş bardaklar, bir piyango bileti ve 2014'te kapanmış bir kulübün el ilanı."
+    },
+    "189": {
+      "name": "MC Kurye Kasası",
+      "flavor": "Üç farklı şubece çıkartmalanmış kilitli yol kasası."
+    },
+    "190": {
+      "name": "Rezidans DJ Dizüstü",
+      "flavor": "Kimsenin yazdığını kabul etmediği bir parçaya kuyrukta savaş-yarası deck."
+    },
+    "191": {
+      "name": "Butik Sergi Vazo",
+      "flavor": "Bir aylık kira değerinde fiyat etiketiyle elde dökülmüş seramik."
+    },
+    "192": {
+      "name": "Düşürülmüş 9mm Tabanca",
+      "flavor": "Sürgüsü kilitli, seri numaraları temiz törpülenmiş, şarjörden üç mermi eksik."
+    },
+    "193": {
+      "name": "Yaldızlı Kafatası Büstü III",
+      "flavor": "Tamamlanmamış casino enstalasyon üçlemesinden eşleşen parça."
+    },
+    "194": {
+      "name": "LSPD Maglite",
+      "flavor": "Ağır alüminyum, çentikli bezel ve hâlâ takılı bir vücut kamerası klipsi."
+    },
+    "195": {
+      "name": "Aile İşletmesi KAPALI Tabelası",
+      "flavor": "Elle bin kere çevrilmiş; köşeleri kıvrılmış, saatler iki kez üzeri çizilmiş."
+    },
+    "196": {
+      "name": "Başıboş Tasarım Spor Ayakkabısı",
+      "flavor": "Sadece sağ ayak, burnu çizik, bağcıkları hâlâ bağlı — biri koştu."
+    },
+    "197": {
+      "name": "Ova Peyote Çiçeği",
+      "flavor": "Yanına çömeldiğinde hafifçe uğuldayan mumsu bir çöl tomurcuğu."
+    },
+    "198": {
+      "name": "Endüstriyel Yağ Varili",
+      "flavor": "Şişkin kaynaklar ve altındaki çakılı kayganlaştıran taze bir sızıntı."
+    },
+    "199": {
+      "name": "Stok Mermi Kutusu",
+      "flavor": "Askeri damgalı, yarı açık, sayım açıkça defterden düşmüş."
+    },
+    "200": {
+      "name": "Yönetici Rolodex",
+      "flavor": "Kalemle yazılmış isimlerle dolu bir flipper; her üçüncü kayıt üzeri çizilmiş."
+    },
+    "201": {
+      "name": "Casino Sanat Araba Heykeli",
+      "flavor": "Vahşileşmiş kaput süsü gibi monte edilmiş kromlu kas-araba silueti."
+    },
+    "202": {
+      "name": "Vintage Transistor Radyo",
+      "flavor": "Çatlak ayar düğmesi, doğru vurursan hâlâ Los Santos Rock'ı yakalar."
+    },
+    "203": {
+      "name": "Yaldızlı Kafatası Büstü I",
+      "flavor": "Üçlemenin ilki — sanatçının isim vermeyi reddettiği parça."
+    },
+    "204": {
+      "name": "Kaçırılmış Viski Şişesi",
+      "flavor": "Yabancı etiket, kırık mühür, ithalat damgası beceriksizce kazınarak silinmiş."
+    },
+    "205": {
+      "name": "Atılmış Yenilik Oyuncak",
+      "flavor": "Çöp konteynırının arkasında bulundu; kimin olduğunu kimse kabul etmiyor."
+    },
+    "206": {
+      "name": "Tütün Dükkânı Vitrin Parçası",
+      "flavor": "Elle üflenmiş borosilikat, isle kararmış hazne, satış fiyatı çoktan tartışılmış."
+    },
+    "207": {
+      "name": "Krom Salon Saç Kurutucu",
+      "flavor": "Ağır krom sap, motor dokununca hâlâ sıcak."
+    },
+    "208": {
+      "name": "Krema-Domates Kutusu",
+      "flavor": "Yamulmuş etiket, son kullanma tarihi keçeli kalemle silinmiş."
+    },
+    "209": {
+      "name": "Atölye Alet Sandığı",
+      "flavor": "Üst çekmece açık sarkıyor; lokmalar metrik, cırcırlar inç."
+    },
+    "210": {
+      "name": "Casino Saha Kupa Topu",
+      "flavor": "Yaldızlı bir basketbol heykeli, yarı silinmiş bir isimle keçeli kalemle imzalı."
+    },
+    "211": {
+      "name": "Şablonlu Mermi Sandığı II",
+      "flavor": "İçinde pirinç kovanlar bir teneke kutudaki gevşek dişler gibi tıngırdıyor."
+    },
+    "212": {
+      "name": "Kadife Aile Yadigarı Kutusu",
+      "flavor": "Minik pirinç menteşeler hâlâ birinin büyükannesi gibi kokuyor."
+    },
+    "213": {
+      "name": "Yaldızlı Kaput Maketi",
+      "flavor": "Vernik küçük bir stüdyo daireyi ipotek edecek kadar kalın."
+    },
+    "214": {
+      "name": "Yönetici Büst Heykeli",
+      "flavor": "Bir başkan yardımcısı seçti; asistan gözlerini devirdi."
+    },
+    "215": {
+      "name": "Atlayan CD Yığını",
+      "flavor": "Kutuların yarısı boş; geri kalanı paramparça çizilmiş."
+    },
+    "216": {
+      "name": "Tezgâh Mermi Kutusu",
+      "flavor": "Çıkartmada İNDİRİM yazıyor; kutu hiç hareket etmedi."
+    },
+    "217": {
+      "name": "Bar Narenciye Kavanozu",
+      "flavor": "Yalnız bir dilim bahşiş bekliyormuş gibi yüzüyor."
+    },
+    "218": {
+      "name": "Sahte Bomba Düzeneği",
+      "flavor": "Ucuz şeker renginde kablolar ve tıklamayan bir zamanlayıcı."
+    },
+    "219": {
+      "name": "Vitrin Oyuncak",
+      "flavor": "Sokak kedileri bile bunun etrafından geniş dolaşıyor."
+    },
+    "220": {
+      "name": "Reçine Kule Bong",
+      "flavor": "Suyu önceki kiracıdan beri değişmemiş."
+    },
+    "221": {
+      "name": "Kesme Kristal Puro Tepsisi",
+      "flavor": "Üç puro ucu, hepsi Küba, hepsi anlaşma ortasında söndürülmüş."
+    },
+    "222": {
+      "name": "Tezgâh Ekmek Kızartıcısı",
+      "flavor": "Düğmesi beşte sıkışmış ve henüz kimse şikâyet etmedi."
+    },
+    "223": {
+      "name": "Kanlı Bahçe Küreği",
+      "flavor": "Bıçağındaki toprak üst toprağın olması gerekenden daha kırmızı görünüyor."
+    },
+    "224": {
+      "name": "İsimsiz Kahverengi Paket",
+      "flavor": "Geri dönüş adresi yok, üç farklı posta çıkartması var."
+    },
+    "225": {
+      "name": "No.1 Atari Kupası",
+      "flavor": "Kazıma yazı 1983 fontunda NUMARA BİR diyor."
+    },
+    "226": {
+      "name": "Eczane Rafı Şişe",
+      "flavor": "Marka-altı etiket, market markası koku, tam fiyat etiketi."
+    },
+    "227": {
+      "name": "Kesilmiş Karıştırma Tüpü",
+      "flavor": "İçeride kalıntı halkaları kötü bir ağaç yılı gibi."
+    },
+    "228": {
+      "name": "Taktik Plaka Maske",
+      "flavor": "Bandı hâlâ son adamın adrenalini gibi kokuyor."
+    },
+    "229": {
+      "name": "Siyah İsimsiz Heykel",
+      "flavor": "Katalog buna İsimsiz diyor; muhasebeci zarar yazıyor."
+    },
+    "230": {
+      "name": "Mühürlü Şampiyon Şişe",
+      "flavor": "Plaket tarihi atari salonu müdavimlerinin çoğundan daha eski."
+    },
+    "231": {
+      "name": "Sert Köpük Silah Kutusu",
+      "flavor": "Köpük yatağı hâlâ ciddi bir şey için şekillendirilmiş."
+    },
+    "232": {
+      "name": "Cayo Tuz-Halkalı Kavanoz",
+      "flavor": "Kapağın etrafındaki tuz halkası bunun adalara gittiğini söylüyor."
+    },
+    "233": {
+      "name": "Üçlü Sütun Butik Mumları",
+      "flavor": "Üç fitil, üç farklı yanma hızı, tek ruh hâli."
+    },
+    "234": {
+      "name": "Saha-Standart Gaz Maskesi",
+      "flavor": "Filtre taze; lensler dantela gibi çizilmiş."
+    },
+    "235": {
+      "name": "Krom Kaput Maketi",
+      "flavor": "İçinde tıraş olabileceğin parlaklığa kadar cilalanmış."
+    },
+    "236": {
+      "name": "Yarı Yenmiş Donut Kutusu",
+      "flavor": "Üçü kalmış; biri kesinlikle yalanmış."
+    },
+    "237": {
+      "name": "Kil Bahçe Saksısı",
+      "flavor": "Toprak kuru, sukulent inatçı, etiket hâlâ kenardan sarkıyor."
+    },
+    "238": {
+      "name": "Kırmızı Bidon",
+      "flavor": "Yarı dolu ve kapağı kötü bir hafta sonu gibi kokuyor."
+    },
+    "239": {
+      "name": "Basınç Plakası Mayını",
+      "flavor": "Tetikteki yay ıslık çalacak kadar sıkı kurulmuş."
+    },
+    "240": {
+      "name": "RC Hobi Kumandası",
+      "flavor": "Anteni bükük, sol stick yapışkan, piller bir şekilde hâlâ çalışıyor."
+    },
+    "241": {
+      "name": "Manyetik Araç Mayını",
+      "flavor": "Birinin aceleyle terk ettiği canlı görünen manyetik mayın."
+    },
+    "242": {
+      "name": "Pembe Yenilik Oyuncak B",
+      "flavor": "Rüzgâra dayanamayan bir kâğıt torbaya sarılmış."
+    },
+    "243": {
+      "name": "Tozlu VHS Oynatıcı",
+      "flavor": "İçinde sıkışmış kaset, etiketinde 'İZLEME' yazıyor."
+    },
+    "244": {
+      "name": "Kadife Kolye Sergisi",
+      "flavor": "Mücevher gitmiş ama kadife hâlâ cila kokuyor."
+    },
+    "245": {
+      "name": "Cayo Kesme-Kristal Sürahi",
+      "flavor": "Çalıntı rom ve tuz spreyini fısıldayan kesme kristal."
+    },
+    "246": {
+      "name": "Sağ Spor Ayakkabı",
+      "flavor": "Bağcıklar hâlâ bağlı, sahibi açıkça tek ayak üstünde eve zıplıyor."
+    },
+    "247": {
+      "name": "Uçurum Kenarı İtirafı",
+      "flavor": "Bir taşın altına iliştirilmiş havayla soldurulmuş itiraf."
+    },
+    "248": {
+      "name": "7/24 Erişte Bardağı",
+      "flavor": "Hâlâ sıcak, çatal pes etmiş dimdik duruyor."
+    },
+    "249": {
+      "name": "Vintage iPod İstasyonu",
+      "flavor": "Doğru eğdiğinde hâlâ statik bir uğultu çıkıyor."
+    },
+    "250": {
+      "name": "Sansürlü Görev Klasörü",
+      "flavor": "Manila kapak, sansürlü mürekkep, hafifçe barut kokuyor."
+    },
+    "251": {
+      "name": "Ezilmiş Alüminyum Kutu",
+      "flavor": "Birinin parkmetre öfkesi, alüminyumda yakalandı."
+    },
+    "252": {
+      "name": "Lester'ın Dizüstüsü",
+      "flavor": "On iki pencere açık, hiçbiri yasal değil."
+    },
+    "253": {
+      "name": "Pembe Yenilik Oyuncak D",
+      "flavor": "Glitter kaplama, piller iyimser."
+    },
+    "254": {
+      "name": "Servis Telsizi",
+      "flavor": "Artık var olmayan bir telsiz frekansına ayarlanmış."
+    },
+    "255": {
+      "name": "Kırk Onsluk Şişe",
+      "flavor": "Uzun bir Davis akşamından kalma dibi hâlâ yapışkan."
+    },
+    "256": {
+      "name": "Özel Operasyon Kar Maskesi",
+      "flavor": "Kordit ve kötü kararlar kokuyor."
+    },
+    "257": {
+      "name": "Kompakt Mermi Paketi",
+      "flavor": "Rüzgâr değişince pirinç tıkırdıyor."
+    },
+    "258": {
+      "name": "İki Dilim Tezgâh Ekmek Kızartıcısı",
+      "flavor": "Kırıntı tepsisi 2013'ten beri boşaltılmadı."
+    },
+    "259": {
+      "name": "Pisswasser Tall Boy",
+      "flavor": "Yarı boş, tamamen pişman olunmuş."
+    },
+    "260": {
+      "name": "Rosé Plonk Şişesi",
+      "flavor": "Hiç gelmemiş bir yıl dönümünde mantarı patlatıldı."
+    },
+    "261": {
+      "name": "Boncuklu Kolye Standı",
+      "flavor": "Tek bir boncuk hâlâ Vinewood neonunu yakalıyor."
+    },
+    "262": {
+      "name": "SNS Tabanca Mk II",
+      "flavor": "Gizlenebilir, inkâr edilebilir, çok gerçek."
+    },
+    "263": {
+      "name": "Seramik Ofis Kâsesi",
+      "flavor": "İçinde tek bir inatçı ataç dışında boş."
+    },
+    "264": {
+      "name": "Tek Atımlık Tabanca",
+      "flavor": "Bir mermi, bir şans, biri için bir kötü gün."
+    },
+    "265": {
+      "name": "Çatlak Savaş Kaskı",
+      "flavor": "Bandı aşınmış, vizörü çatlak, hikâyesi anlatılmamış."
+    },
+    "266": {
+      "name": "Casino Heykel Arabası #6",
+      "flavor": "Casino'nun verdiğinden daha değerli bir arabanın ölçekli modeli."
+    },
+    "267": {
+      "name": "Kırmızı Plonk Şişesi",
+      "flavor": "Etiket solmuş, vintage bir şekilde fiyat etiketinden daha kötü."
+    },
+    "268": {
+      "name": "Cluckin' Bell Patlayıcı",
+      "flavor": "Tavuk desenli bantla sarılmış, bu da bir şekilde daha kötü yapıyor."
+    },
+    "269": {
+      "name": "Beton Sanat Blok I",
+      "flavor": "Kasıtla brütalist, kazara taglenmiş."
+    },
+    "270": {
+      "name": "Pembe Yenilik Oyuncak F",
+      "flavor": "Çok gürültülü bir Salı sonrası bir Vinewood walk-up komodininde bırakılmış."
+    },
+    "271": {
+      "name": "Kasap Satırı",
+      "flavor": "Hâlâ hafifçe domuz omuzu ve kötü kararlar kokuyor."
+    },
+    "272": {
+      "name": "Tamirci Cırcırı",
+      "flavor": "Her anahtar kendi duasını başına kazımış."
+    },
+    "273": {
+      "name": "Yüksek Bahisli Hat Telefonu",
+      "flavor": "Ahize hâlâ kimsenin yaptığını kabul etmeyeceği bir aramadan sıcak."
+    },
+    "274": {
+      "name": "Kaçakçı Parazit Kutusu",
+      "flavor": "Düğme sadece tek kanal alıyor ve İspanyolca fısıldıyor."
+    },
+    "275": {
+      "name": "Kadife Kolye Standı",
+      "flavor": "Bir zamanlar tuttuğu zincir öğleden önce üç kez rehne verildi."
+    },
+    "276": {
+      "name": "Bar İçecek-Pipet Bardağı",
+      "flavor": "Pipetlerin yarısı aynı yöne bükülmüş, sel sırasındaki kamışlar gibi."
+    },
+    "277": {
+      "name": "Pacific Standard Sandığı",
+      "flavor": "Sekiz mandal, dört kilit, kuryelerin asla tutmadığı bir söz."
+    },
+    "278": {
+      "name": "Pist Bronz Döküm",
+      "flavor": "Sadece satıcıların hatırladığı bir yarıştan kupa."
+    },
+    "279": {
+      "name": "Sodyum Erişte Briketi",
+      "flavor": "2008'de tarihi geçmiş. Hâlâ Blaine County'de yasal olarak yenilebilir."
+    },
+    "280": {
+      "name": "Beyefendi Konyak",
+      "flavor": "Üç parmak gitmiş ve mantar rüzgârda kaybolmuş."
+    },
+    "281": {
+      "name": "Kıvılcımlanmış Kaynakçı Maskesi",
+      "flavor": "Kıvılcımlar cama takım yıldızları yazmış."
+    },
+    "282": {
+      "name": "İşaretsiz Şampiyon Kupası",
+      "flavor": "İsim kazınmamış. Bunu kim kazandıysa ünvanı istemedi."
+    },
+    "283": {
+      "name": "Krom İdol Veri Tabletini",
+      "flavor": "Krom kaplanmış ve Lifeinvader stajyerlerinin sırlarıyla doldurulmuş."
+    },
+    "284": {
+      "name": "Soğuk Pisswasser Şişesi",
+      "flavor": "Bir adama affetmeyi öğretecek kadar soğuk şişe."
+    },
+    "285": {
+      "name": "Kırmızı Yer Stroboskopu",
+      "flavor": "Hâlâ sıcak. Hâlâ kırmızı. Hâlâ aynı ritmi uğulduyor."
+    },
+    "286": {
+      "name": "Kola İdol Nakliye Sandığı",
+      "flavor": "Gümrük etiketi başka birinin kanıyla imzalanmış."
+    },
+    "287": {
+      "name": "Dürüst Viski Şişesi",
+      "flavor": "Bundan kim içtiyse hiçbir şeyi affetmedi."
+    },
+    "288": {
+      "name": "Gelgit Havuzu Peyote Çiçeği",
+      "flavor": "Çölün inkâr etmeye çalıştığını tuzlu su korudu."
+    },
+    "289": {
+      "name": "Banyo Kulak Çubukları",
+      "flavor": "Kullanılmış. Her biri farklı. Sorma."
+    },
+    "290": {
+      "name": "Şeker Halka Mısır Gevreği Kutusu",
+      "flavor": "Maskotun gözleri önceki sahibi tarafından kazınmış."
+    },
+    "291": {
+      "name": "Beton Coupe Maketi",
+      "flavor": "Gerçeğinin tozuyla boyanmış bir minyatür."
+    },
+    "292": {
+      "name": "Unutulmuş Stok Kutusu",
+      "flavor": "İçinde ne varsa güneş doğmadan tükendi."
+    },
+    "293": {
+      "name": "Altın Yumurta",
+      "flavor": "Bir keman kutusunun içinde Fleeca kasasından çıkarıldı."
+    },
+    "294": {
+      "name": "Diplomat Evrak Çantası",
+      "flavor": "Kombinasyon kimsenin kabul etmeyeceği bir doğum gününe kilitli."
+    },
+    "295": {
+      "name": "Avcı Kupa Kafatası",
+      "flavor": "Boynuzlarında bedeli olan bir geyik."
+    },
+    "296": {
+      "name": "Notlanmış Kenar Yazıcısı",
+      "flavor": "Her sayfa altı çizili. Hiçbiri hemfikir değil."
+    },
+    "297": {
+      "name": "Tropik Ananas Süs",
+      "flavor": "Yanlış meyve, yanlış ada, doğru niyet."
+    },
+    "298": {
+      "name": "Çöp Alanı Bez Bebek",
+      "flavor": "Onu kim geri dikiyorsa acelesi vardı."
+    },
+    "299": {
+      "name": "Yıpranmış Spor Ayakkabı",
+      "flavor": "Dün geceki satışın telaşında geride bırakılan tek spor ayakkabı."
+    },
+    "300": {
+      "name": "Uzay Korucusu Blaster",
+      "flavor": "Uzun zaman önce iptal edilen bir Vinewood franchise'ından replika ışın tabancası."
+    },
+    "301": {
+      "name": "Pride Lager Altı'lı Paket",
+      "flavor": "Dün stoklandı, en alt rafta zaten yarı unutulmuş."
+    },
+    "302": {
+      "name": "Savaş Viski Sürahisi",
+      "flavor": "Uzun süredir kapalı bir cantina'dan buzlu cam ev içkisi."
+    },
+    "303": {
+      "name": "Porselen Kedi Figürini",
+      "flavor": "Seramik gözü çentikli ama hâlâ odayı izliyor."
+    },
+    "304": {
+      "name": "Yönetici Kalemlik",
+      "flavor": "Altı tükenmez, ikisi kuru, biri onarılamayacak kadar ısırılmış."
+    },
+    "305": {
+      "name": "Atılmış İş Botu",
+      "flavor": "Kimsenin bitirmediği bir işten tabanında hâlâ çamur kabuk bağlamış."
+    },
+    "306": {
+      "name": "Eski Savaş Reservı",
+      "flavor": "Etiketi soyulmuş, içeriği kehribar, vintage'ı doğrulanması imkânsız."
+    },
+    "307": {
+      "name": "Deri Ciltli Antoloji",
+      "flavor": "Üç farklı elde ve tek yabancı yazıyla kenar notları."
+    },
+    "308": {
+      "name": "Kullanılmış Sprey Kutusu",
+      "flavor": "Kapağı kayıp, ucu dün geceki elektrik mavisiyle tıkalı."
+    },
+    "309": {
+      "name": "Kızıl Sprey",
+      "flavor": "Yerel ekiplerin gözde tonu, hep azalır."
+    },
+    "310": {
+      "name": "Gece Yarısı Sprey",
+      "flavor": "İkizinden daha ağır bir kutu, top dağılana kadar sallanmış."
+    },
+    "311": {
+      "name": "Yıpranmış Gaz Bidonu",
+      "flavor": "Yarı dolu, çoğu duman, uyarı çıkartması uzun zaman önce solmuş."
+    },
+    "312": {
+      "name": "Imperator Arena Kupası",
+      "flavor": "Bir şampiyonun almaya geri dönmediği arena ödülü."
+    },
+    "313": {
+      "name": "Mühürlü Dosya",
+      "flavor": "Sayfalar damgalı, tarihler sansürlü, ataç paslanmış."
+    },
+    "314": {
+      "name": "Tequila Reposado",
+      "flavor": "Solucan uzun zaman önce efsaneye karıştı."
+    },
+    "315": {
+      "name": "Kumaş-Sırtlı Cilt",
+      "flavor": "Bir okurun parmak izi dördüncü bölüme kalıcı olarak basılmış."
+    },
+    "316": {
+      "name": "Fırlatılmış Spor Ayakkabı",
+      "flavor": "Bağcıkları birbirine bağlı, biri bunu bir kabloya atmak istemiş."
+    },
+    "317": {
+      "name": "Vintage Şampanya Şişesi",
+      "flavor": "Folyo sağlam, mantar serin karanlıkta sessizce terliyor."
+    },
+    "318": {
+      "name": "Diner Kahve Kupası",
+      "flavor": "Kenarda hilal ruj izi, dolum hiç gelmedi."
+    },
+    "319": {
+      "name": "Buruşturulmuş Yetişkin Dergisi",
+      "flavor": "Sakız sopasının düştüğü yerde sayfalar yapışmış."
+    },
+    "320": {
+      "name": "Mermer Havan & Tokmak",
+      "flavor": "Tahıllara yerleşmiş beyaz kalıntı, tam olarak şeker değil."
+    },
+    "321": {
+      "name": "Buğulu Dalgıç Maskesi",
+      "flavor": "Bandı tuzla sertleşmiş, lensi bir resif fazlasından çizilmiş."
+    },
+    "322": {
+      "name": "Telli Yıkım Paketi",
+      "flavor": "Zamanlayıcıyı kim kurduysa bantın üstüne bir surat çizmiş."
+    },
+    "323": {
+      "name": "Endüstriyel Boya Tenekesi",
+      "flavor": "Kapak zorla açılmış, fırça sıkışmış, kapak bir daha kapanmıyor."
+    },
+    "324": {
+      "name": "Ter Lekeli Stetson Şapka",
+      "flavor": "Kıvrımı sana giyenin sert sürdüğünü, dik oturduğunu söylüyor."
+    },
+    "325": {
+      "name": "Banka Lobi Nezaket Telefonu",
+      "flavor": "Ahize sıcak, biri sen içeri girdiğin anda kapattı."
+    },
+    "326": {
+      "name": "Ev Votkası Beşinci",
+      "flavor": "Ucuz etiket, dürüst yanma, öğleden önce yarısı gitmiş."
+    },
+    "327": {
+      "name": "Dökme Demir Dambıl",
+      "flavor": "Tırtıllı tutamak bin tekrarda kararmış."
+    },
+    "328": {
+      "name": "Kabuk Bağlamış Hazine Sandığı",
+      "flavor": "Pirinç mandalı tuzla kaynamış, mandalı kaldırınca tıslar."
+    },
+    "329": {
+      "name": "Redwood Karton",
+      "flavor": "Yazar kasanın cam arkasına sıkıştırılmış düzleştirilmiş bir Redwoods paketi."
+    },
+    "330": {
+      "name": "Referans Kitap Yığını",
+      "flavor": "Bitirmeye dönmeyen biri tarafından üst üste konmuş üç ciltli kitap."
+    },
+    "331": {
+      "name": "Tezgâh Şeker Barı",
+      "flavor": "Gurme görünmek için çok uğraşan bir atıştırmalık ambalajı."
+    },
+    "332": {
+      "name": "DJ Booth EQ Rafı",
+      "flavor": "Patch kabloları stroboskop altında hafifçe parlıyor."
+    },
+    "333": {
+      "name": "Pantheon Tuval Baskı",
+      "flavor": "Hiç hak etmeyeceği bir duvarı bekleyen tuval."
+    },
+    "334": {
+      "name": "Üç-Delikli Kayak Maskesi",
+      "flavor": "Hâlâ gergin ter gibi kokuyor."
+    },
+    "335": {
+      "name": "House Edge Maketi",
+      "flavor": "Asla hiçbir şeyi geri vermeyen bir binaya minik bir saygı duruşu."
+    },
+    "336": {
+      "name": "Berelenmiş Roma Domatesi",
+      "flavor": "İki-bir ve muhtemelen bir sebebi var."
+    },
+    "337": {
+      "name": "Pişirilmiş Pyrex Beher",
+      "flavor": "Tabandaki kalıntı birinin kestirme yola gittiğini söylüyor."
+    },
+    "338": {
+      "name": "Beyefendi Dergisi",
+      "flavor": "2013'ten beri aynı sayfada köşeleri kıvrılmış."
+    },
+    "339": {
+      "name": "Şantiye Uyarı Lambası",
+      "flavor": "Gidecek bir yeri varmış gibi turuncu yanıp sönüyor."
+    },
+    "340": {
+      "name": "Vitrin Spor Ayakkabı Sağ",
+      "flavor": "Vitrin modeli, hiç eşleştirilmemiş, hiç satılmamış."
+    },
+    "341": {
+      "name": "Ofis Kahve Kupası",
+      "flavor": "Ilık, kenarda ruj, sahibi bilinmiyor."
+    },
+    "342": {
+      "name": "Vitrin Çim Karesi",
+      "flavor": "Çayır gibi davranan düzgün küçük bir kare."
+    },
+    "343": {
+      "name": "Bez-Fitil Molotof",
+      "flavor": "Ucuz cin ve daha kötü kararlar gibi kokuyor."
+    },
+    "344": {
+      "name": "MC Şube Yeleği",
+      "flavor": "İğnesi otoparktaki yama töreninden hâlâ sıcak."
+    },
+    "345": {
+      "name": "Mühürlü Kaçakçı Stoğu",
+      "flavor": "Şişe hâlâ fabrika tazesi, etiketi gevrek."
+    },
+    "346": {
+      "name": "Helyum Parti Balonu",
+      "flavor": "İpi bir katlanır sandalye ayağına dolanmış."
+    },
+    "347": {
+      "name": "Vitrin Spor Ayakkabı Sol",
+      "flavor": "Tabanı el değmemiş, bağcıkları giyilemeyecek kadar sıkı geçirilmiş."
+    },
+    "348": {
+      "name": "Lake Sanat Coupe",
+      "flavor": "Gerçek olanına sahip olmayan biri tarafından boyanmış."
+    },
+    "349": {
+      "name": "Kartel Reçine Büst",
+      "flavor": "Kimsenin hatırlamak istemediği bir yüz."
+    },
+    "350": {
+      "name": "Ciltli Tek Cilt",
+      "flavor": "Sırtı bir, iki kez çatlamış, sonra geri konmuş."
+    },
+    "351": {
+      "name": "Açılmış Şampanya II",
+      "flavor": "Yarı yavan, tam fiyat."
+    },
+    "352": {
+      "name": "Makyaj Camı Aynası",
+      "flavor": "Gerçekten emin olmak isteyen biri tarafından lekelenmiş."
+    },
+    "353": {
+      "name": "Yarım Paket Küllük",
+      "flavor": "Üç filtre, bir kibrit, sıfır pişmanlık."
+    },
+    "354": {
+      "name": "Butik Tester Şişe",
+      "flavor": "Yabancılar tarafından yarı sıkılmış, hiç satın alınmamış."
+    },
+    "355": {
+      "name": "Rıhtım Kargo Çengeli",
+      "flavor": "Birinin sabırsızlandığı yerde halatın boğumu aşınmış."
+    },
+    "356": {
+      "name": "Sandık Dalış Vinil Kutusu",
+      "flavor": "B-yüzü orijinal sahibi tarafından kalemle karalanmış."
+    },
+    "357": {
+      "name": "Diner Peçete Yığını",
+      "flavor": "Üstteki peçetede hâlâ ruj lekesi var."
+    },
+    "358": {
+      "name": "Karakol Kalkan Plaketi",
+      "flavor": "Kazanılandan daha sık parlatılmış bir plaket."
+    },
+    "359": {
+      "name": "Pacific Külçe Bar",
+      "flavor": "Bir tek bar preslenmiş güneş ışığı, sessizliğinden daha ağır."
+    },
+    "360": {
+      "name": "Atari Robot Süs",
+      "flavor": "Teneke gülümseme, plastik kalp, yanlış yerleştirilmiş sekiz bitlik sadakat."
+    },
+    "361": {
+      "name": "Bağışçı Maskot Süs",
+      "flavor": "Birinin sessizliğini ödeyen bir yemekten hatıra."
+    },
+    "362": {
+      "name": "Geç Saat Kiralık DVD",
+      "flavor": "Mağazaya hiç geri dönmemiş türden bir plastik kutu."
+    },
+    "363": {
+      "name": "İndirim Snapback Şapka",
+      "flavor": "Siperliği hâlâ raftan kıvrımlı, hiç başa konmamış."
+    },
+    "364": {
+      "name": "Antika Çevirmeli Telefon",
+      "flavor": "Karşı tarafta birinin olduğuna hâlâ inanan bir zil."
+    },
+    "365": {
+      "name": "Yedinci Şerit Yetim Top",
+      "flavor": "Üç parmak ıskaladı; yerine oluk yakaladı."
+    },
+    "366": {
+      "name": "Altı Çizili Kenar Kitabı",
+      "flavor": "İki kez altı çizilmiş, köşesi kıvrılmış, dördüncü bölümün ötesi asla bitirilmemiş."
+    },
+    "367": {
+      "name": "İki-Bir Konserve",
+      "flavor": "Raf savaşından yamulmuş, soğutucudan hâlâ soğuk."
+    },
+    "368": {
+      "name": "Ölü Trafik Sinyali",
+      "flavor": "Sonunda kapanabilen bir kırmızı göz."
+    },
+    "369": {
+      "name": "Kayıp Pilot Beta Kaseti",
+      "flavor": "Hiç yayınlanmamış bir dizinin manyetik hafızası."
+    },
+    "370": {
+      "name": "Kasa Şeker Barı",
+      "flavor": "Yüz cüzdanın açılışını izleyen anlık alım."
+    },
+    "371": {
+      "name": "Kor Kazanılmış Kupa",
+      "flavor": "Soğukta ateşi nefes aldıran kim olursa olsun ona verildi."
+    },
+    "372": {
+      "name": "Saha Veteranı Voleybol",
+      "flavor": "Solmuş paneller, kum cepleri, içinde bir set daha var."
+    },
+    "373": {
+      "name": "Üç Aylık Tahmin Klasörü",
+      "flavor": "Teslim ettiğinden daha fazlasını vaat eden rakamlar."
+    },
+    "374": {
+      "name": "Yağ Kafası Kupa",
+      "flavor": "Eller tuttuğu yerden parlak, başka her yerde yara izli."
+    },
+    "375": {
+      "name": "B-Filmi Işın Tabancası",
+      "flavor": "Vakum tüpleri, krom kanatçıklar, tutamayacağı tehditler."
+    },
+    "376": {
+      "name": "Kurtarılmış Porselen Kâse",
+      "flavor": "Hiçbir porselenin duymaması gereken şeyleri duymuş porselen."
+    },
+    "377": {
+      "name": "Çatlak Açık-Sekme Dizüstü",
+      "flavor": "Pili en kötü kayıt noktasında ölmüş."
+    },
+    "378": {
+      "name": "Gizli Sinyal Tarayıcı",
+      "flavor": "Şehrin gömmeye çalıştığı şeylere ötüyor."
+    },
+    "379": {
+      "name": "Yönetim Kurulu Orijinal Tablo",
+      "flavor": "Çerçeveli zevk, ödeyebilecek biri tarafından imzalanmış."
+    },
+    "380": {
+      "name": "Kasa Yem Sarılı Şeker",
+      "flavor": "Folyoya sarılmış, kol mesafesi içinde tutulmuş."
+    },
+    "381": {
+      "name": "Kahverengi-Zarf DVD",
+      "flavor": "Düz kahverengi zarfla gelen bir başlık."
+    },
+    "382": {
+      "name": "Taş Balta Aile Yadigarı",
+      "flavor": "Ormanları bilen eller tarafından sabırlı ve sessiz yontulmuş."
+    },
+    "383": {
+      "name": "Çekim Kırk-Yedi Klaket",
+      "flavor": "İşaretli, kayıtlı, son kurguda asla kullanılmamış."
+    },
+    "384": {
+      "name": "Yangın Telsizi",
+      "flavor": "Parazit ve kimsenin cevap vermediği bir çağrı kodu."
+    },
+    "385": {
+      "name": "Galeri Merkez Arabası",
+      "flavor": "Motorunu bir görüş için takas etmiş bir araba."
+    },
+    "386": {
+      "name": "İskele Final Havai Fişeği",
+      "flavor": "Bir fitil, bir patlama, bir deklanşör hızı."
+    },
+    "387": {
+      "name": "Kaldırımda Bulunmuş Cüzdan",
+      "flavor": "Kartlar hâlâ içinde, umut hâlâ banknotluğa katlı."
+    },
+    "388": {
+      "name": "Lekelenmiş Hap Şişesi",
+      "flavor": "Etiket temiz soyulmuş, kapağı gevşek, içeriği çoktan tükenmiş."
+    },
+    "389": {
+      "name": "Buruşmuş eCola Kutusu",
+      "flavor": "Kimsenin hatırlamadığı bir yazdan hâlâ yapışkan."
+    },
+    "390": {
+      "name": "Bitmiş Butik Mumları",
+      "flavor": "Erimiş mum neredeyse bir yüze benzeyen bir şekle birikmiş."
+    },
+    "391": {
+      "name": "Sokak Partisi Boombox",
+      "flavor": "Kaset deki şarkı ortasında sıkışmış, piller asit sızdırıyor."
+    },
+    "392": {
+      "name": "Endüstriyel Sapan Seti",
+      "flavor": "Yıpranmış kayışlar, bir kaldırma fazlasından kanca yaralı."
+    },
+    "393": {
+      "name": "Unutulmuş Şekerleme Kavanozu",
+      "flavor": "Cam çizilmiş, şekerlemeler tek bir çiğnenebilir kütleye birleşmiş."
+    },
+    "394": {
+      "name": "Kartel Likör Şişesi",
+      "flavor": "Yabancı etiket, mührünün yarısı hâlâ sağlam."
+    },
+    "395": {
+      "name": "Kaynakçı Üfleci",
+      "flavor": "Ucu kararmış, ateşleyicisi hâlâ hafifçe tıklıyor."
+    },
+    "396": {
+      "name": "Laboratuvar-Sınıfı Aseton",
+      "flavor": "Kapağı kırdığında buharları hâlâ kıvrılıyor."
+    },
+    "397": {
+      "name": "Kasa Giriş Tuş Takımı",
+      "flavor": "Beş ve yedi pürüzsüzce aşınmış, sekiz kırmızı yanıp sönüyor."
+    },
+    "398": {
+      "name": "Cayo Kristal Sürahi",
+      "flavor": "Tabanında bir halkaya kurumuş kehribar, etiketi uzun zaman önce gitmiş."
+    },
+    "399": {
+      "name": "Fabrika İpi Makarası",
+      "flavor": "Endüstriyel kırmızıya boyanmış, tezgâhtan hâlâ sıcak."
+    },
+    "400": {
+      "name": "Banka Güvenlik Tuş Takımı",
+      "flavor": "Manyetik şerit yuvası yırtık bir kart kenarıyla sıkışmış."
+    },
+    "401": {
+      "name": "Kırık Tuvalet Tabanı",
+      "flavor": "Porselen çatlamış, hafifçe dezenfektan kokuyor."
+    },
+    "402": {
+      "name": "Casino Silah Heykeli",
+      "flavor": "Kaplama çelik, vale standı namlu ucunda çentikli."
+    },
+    "403": {
+      "name": "Eski Konsol Ünitesi",
+      "flavor": "Güç LED'i kasaya vurduğunda hâlâ titreşiyor."
+    },
+    "404": {
+      "name": "Vitrin Spor Ayakkabı",
+      "flavor": "Tek ayakkabı, bağcıkları hâlâ fabrika gevreği."
+    },
+    "405": {
+      "name": "Tersane Kaynak Maskesi",
+      "flavor": "Vizör içeriden buğulanmış, bandı tuzla kabuk bağlamış."
+    },
+    "406": {
+      "name": "Cep Hack Cihazı",
+      "flavor": "Ekran hiçliğe çizilmiş, anteni hâlâ uzatılmış."
+    },
+    "407": {
+      "name": "Yamulmuş Alüminyum Sopa",
+      "flavor": "Alüminyum sağlam bir şeyle karşılaştığı yerde çukurlu."
+    },
+    "408": {
+      "name": "Karıştırma Soda Kutusu",
+      "flavor": "Yarı boş, kepçe hâlâ tozun içinde gömülü."
+    },
+    "409": {
+      "name": "İskele Havan Mermisi",
+      "flavor": "Fitili kısa kesilmiş, taban etrafında yanık halkası."
+    },
+    "410": {
+      "name": "Taktik Hack Cihazı",
+      "flavor": "Lastik zırhı yırtık, özel firmware sessizce çalışıyor."
+    },
+    "411": {
+      "name": "Lekeli Yetişkin Dergisi",
+      "flavor": "Sayfalar yapışmış, ortadaki resim uzun zaman önce yırtılmış."
+    },
+    "412": {
+      "name": "Köşe Dükkânı Üçgen Tabela",
+      "flavor": "Plastik solmuş, bir braketi dikkatsiz bir kamyondan bükülmüş."
+    },
+    "413": {
+      "name": "Yaldızlı Karabina Şarjörü",
+      "flavor": "Kazınmış kıvrımlar, mermiler hâlâ yerinde."
+    },
+    "414": {
+      "name": "Süs Vitrin Küpü",
+      "flavor": "Cam küp, içeriği her açıdan ışığı yakalıyor."
+    },
+    "415": {
+      "name": "Harici Sabit Disk",
+      "flavor": "Kasası sıcak, gösterge kehribarda sıkışmış."
+    },
+    "416": {
+      "name": "Yarısı İçilmiş Kokteyl",
+      "flavor": "Buz sulu kara erimiş, limon kabuğu kıvrılıyor."
+    },
+    "417": {
+      "name": "Tezgâh İpi Bohçası",
+      "flavor": "İndigo boya hâlâ makara çekirdeğine sızıyor."
+    },
+    "418": {
+      "name": "Patriot Ruhu Kupası",
+      "flavor": "Kartal kabinine token vermeyi bırakamayan yüksek skorcuya verildi."
+    },
+    "419": {
+      "name": "Sahne Yığını Hoparlörü",
+      "flavor": "Kimsenin bitmesini istemediği saat dörtteki bir Boris Brejcha setinden hâlâ çınlıyor."
+    },
+    "420": {
+      "name": "QUB3D Şampiyon Kupası",
+      "flavor": "Oyma köpük plastik ve saf pikselli zafer — liderlik tablosu baş harfleri hâlâ görünür."
+    },
+    "421": {
+      "name": "Diner Tatlı Tepsisi",
+      "flavor": "Siparişi sıcaklayınca birinin terk ettiği bir pancake kulesi."
+    },
+    "422": {
+      "name": "Kesilmiş Safir Taşı",
+      "flavor": "Gerçek görünecek kadar fasetlenmiş — alıcının bir loup ve bir yalana ihtiyacı olacak."
+    },
+    "423": {
+      "name": "Kasap Beyaz Şapkası",
+      "flavor": "Hafifçe salamura ve dünkü vardiya kokuyor, siperliği nasırlı parmaklarla kıvrılmış."
+    },
+    "424": {
+      "name": "Yapımcı Defteri",
+      "flavor": "Kenarları bütçe kesintileri ve dört kez daire içine alınmış bir telefon numarasıyla dolu."
+    },
+    "425": {
+      "name": "Çekim On-İki Klaketi",
+      "flavor": "Sahne işareti silinebilir kalemle yazılmış: INT. DEPO — GÜNDÜZ. TEKRAR."
+    },
+    "426": {
+      "name": "Kurumsal Lucite Ödülü",
+      "flavor": "Şirkette kimsenin artık hatırlamadığı bir isimle kazınmış Lucite parçası."
+    },
+    "427": {
+      "name": "Boş Pirinç Kovan",
+      "flavor": "Kapalı atış poligonundan hâlâ sıcak — kapsül aşınmış bir iğneden bere almış."
+    },
+    "428": {
+      "name": "İnert Parçalanma El Bombası",
+      "flavor": "İğne düz, kaşık bantlı — biri gerçekten bunun satılabilir olmasını istedi."
+    },
+    "429": {
+      "name": "Mahkeme Pirinç İsim Plakası",
+      "flavor": "Bir hâkimin kapısından temizce sökülmüş pirinç plaket — baş harfleri aceleyle kazınarak silinmiş."
+    },
+    "430": {
+      "name": "Modifiyeli Combat Tabanca",
+      "flavor": "Yivli namlu, elle çekirdeklenmiş kabza — seri Dremel ve utançla zımparalanmış."
+    },
+    "431": {
+      "name": "Casino Roket Heykeli",
+      "flavor": "Fırçalanmış krom ve kırmızı vernik — şanslı bir valeyi aya götürmeye söz verdi."
+    },
+    "432": {
+      "name": "Bilardo Rafı Üçgeni",
+      "flavor": "Ucuz ahşap pürüzsüzce aşınmış — altındaki keçe on bin açılış atışı görmüş."
+    },
+    "433": {
+      "name": "Çatlak Effigy Replika",
+      "flavor": "Doku dosyası yapıldığı gün glitch olmuş — render hatası bir kalıntı gibi korunmuş."
+    },
+    "434": {
+      "name": "7/24 Sebze Çorbası Kutusu",
+      "flavor": "En iyi tüketim tarihi uzun zaman önce geçti — etiket on iki bahçe sebzesi ve sıfır tat vaat ediyor."
+    },
+    "435": {
+      "name": "Yıllandırılmış Brandy Şişesi",
+      "flavor": "Mantar yıllar önce kurudu — arka etiket köşeden soyuluyor."
+    },
+    "436": {
+      "name": "VHS Gözetim Kaseti",
+      "flavor": "Etiketinde OPS 04/12 yazıyor — yazının geri kalanı kazınarak silinmiş."
+    },
+    "437": {
+      "name": "Megafon",
+      "flavor": "Tetik yarıda sıkışıyor — biri sesini kısana kadar bağırmış ve kaldırıma bırakmış."
+    },
+    "438": {
+      "name": "Yakılmış ID Kalıbı Disk",
+      "flavor": "CD-R çözücü kokuyor — kasanın üstüne yapıştırılmış isim listesi, yarısı çizilmiş."
+    },
+    "439": {
+      "name": "Penthouse Bronz Heykeli",
+      "flavor": "Müzayedeci buna türev der — sahibi paha biçilmez der ve içtenlikle söylerdi."
+    },
+    "440": {
+      "name": "Sahne Işık Sistemi",
+      "flavor": "Jel filtre bir köşesinde kararmış — bas vurduğunda armatür gıcırdıyor."
+    },
+    "441": {
+      "name": "Beyaz Altın Kolye Elması",
+      "flavor": "Yuvarlak kesim, iki karat, beyaz altına işlenmiş — onun olmayan bir zincirden kaymış."
+    },
+    "442": {
+      "name": "Stüdyo Kayıt Mikrofonu",
+      "flavor": "Diyafram hafifçe bükülmüş — içinden geçen her vokal en üstte perili bir sessizlik alıyor."
+    },
+    "443": {
+      "name": "Çalınmış Sabunluk",
+      "flavor": "Montaj braketi bükülmüş — hiç koku vermeyen pembe hastane sabunuyla yarı dolu."
+    },
+    "444": {
+      "name": "Kimyager Zula Çantası",
+      "flavor": "Vinil dışta, kurşun astar içte — olması gerekenden daha ağır."
+    },
+    "445": {
+      "name": "Butik Hoparlör İstasyonu",
+      "flavor": "Bluetooth hâlâ geri dönmeyen aaron's iphone adlı telefona eşleşiyor."
+    },
+    "446": {
+      "name": "Turuncu Bidon",
+      "flavor": "Çeyrek dolu orta kalite — kırk beşten fazla eğdiğinde ucu hâlâ damlıyor."
+    },
+    "447": {
+      "name": "Güneşte Kurutulmuş Peyote",
+      "flavor": "Çölün öğlen kendi kendine uğuldadığı çatlak topraktan çıkarılmış."
+    },
+    "448": {
+      "name": "Yönetmen Saha Kamerası",
+      "flavor": "Son çekimden hâlâ sıcak, lensi set ışıkları ve yapay yağmurla buğulanmış."
+    },
+    "449": {
+      "name": "Yüksek Bahisli Çağırma Düğmesi",
+      "flavor": "Bir basış şampanya çağırdı; iki basış şansını biraz daha zorladı."
+    },
+    "450": {
+      "name": "Tek Süet Spor Ayakkabı",
+      "flavor": "Sadece sol ayak, trafiğe ayak uydurmaya çalışmış gibi burnu çizik."
+    },
+    "451": {
+      "name": "Kesme-Kristal Sürahi",
+      "flavor": "Küçük sohbeti itirafa çeviren türden bir cam."
+    },
+    "452": {
+      "name": "Kazınmış Belediye Plaketi",
+      "flavor": "Pirinçte bir isim, yarı cilalı, yarı önünden geçenler tarafından unutulmuş."
+    },
+    "453": {
+      "name": "Tezgâh Testi EMP Bobini",
+      "flavor": "Sadece bir kez haklı olması gereken birinin sabrıyla kablolanmış."
+    },
+    "454": {
+      "name": "Atari Şampiyon Kupası",
+      "flavor": "Tokenlarla kazanıldı, kolların aşındırdığı yerlerden parlak, çizik plastikte imzalı."
+    },
+    "455": {
+      "name": "Vezne Pirinç Kupası",
+      "flavor": "Başkalarının iyi şansını saymakta geçirilen kırk yıl için verildi."
+    },
+    "456": {
+      "name": "Yastıklı Spor Kaskı",
+      "flavor": "Hafifçe soyunma odaları ve Cuma akşamı verilmiş kötü kararlar gibi kokuyor."
+    },
+    "457": {
+      "name": "Sahte Pasaport Demeti",
+      "flavor": "Her fotoğraf aynı şekilde gözlerini kısıyor, sanki kamera onları yalan ortasında yakalamış gibi."
+    },
+    "458": {
+      "name": "Yarısı İçilmiş Pina Colada",
+      "flavor": "Şemsiye eğilmiş, rom dibe çökmüş, gece bitmeyi reddetmiş."
+    },
+    "459": {
+      "name": "Sarılmış Nakit Yığını",
+      "flavor": "Hâlâ ayrıldığı kasa gibi kokuyor, iki kez saymayan ellerle bantlanmış."
+    },
+    "460": {
+      "name": "Vinçli Oyun Peluş",
+      "flavor": "İki bozuk para, üç deneme, joystick'te bir titreyen el."
+    },
+    "461": {
+      "name": "Laboratuvar Şişe Rafı",
+      "flavor": "Etiketler yarı soyulmuş, içerikler etiketsiz, hırslar açıkça kimyasal."
+    },
+    "462": {
+      "name": "Buruşmuş Magazin",
+      "flavor": "Dünkü skandal, yarı fiyatına, iki kat yazım hatasıyla."
+    },
+    "463": {
+      "name": "Fayansta Stiletto",
+      "flavor": "Adını hatırlamaya çalışan biri tarafından aceleyle çıkarılmış."
+    },
+    "464": {
+      "name": "Yağlı Ağır Tabanca",
+      "flavor": "Eskiden güvenliğin nerede olduğunu bilen bir el tarafından kabzası pürüzsüzce aşınmış."
+    },
+    "465": {
+      "name": "Gevşek Mermi Sandığı",
+      "flavor": "Bu sefer kimsenin törpülemekle uğraşmadığı bir seriyle damgalı."
+    },
+    "466": {
+      "name": "Çizik Baret",
+      "flavor": "Demir donatının sorular sormaya devam ettiği yerlerde sarı boya pul pul dökülüyor."
+    },
+    "467": {
+      "name": "Köşesi Kıvrılmış Dergi",
+      "flavor": "Üst raf, alt fiyat, çoğunlukla makaleler için okunuyor, sözde."
+    },
+    "468": {
+      "name": "Kasa Elmas Kutusu",
+      "flavor": "İçeride kadife, dışarıda parmak izleri, ikisinde de hikâye anlatılmamış."
+    },
+    "469": {
+      "name": "Oniks Kafatası Büstü",
+      "flavor": "Memento mori'nin bir craps masasına ait olduğunda ısrar eden bir heykeltıraş tarafından oyulmuş."
+    },
+    "470": {
+      "name": "Eczane Teslim Kutusu",
+      "flavor": "Doldur, kapakla, tekrar et, artı yolda bir öksürük şekerleme."
+    },
+    "471": {
+      "name": "Süs Cam Kavanozu",
+      "flavor": "Mumla mühürlenmiş, niyetle etiketlenmiş, kesinlikle kimse tarafından açılmamış."
+    },
+    "472": {
+      "name": "Bambu Buhar Sepeti",
+      "flavor": "Kapak iki kez kaldırıldı, parmaklar bir kez yandı, mantılar her şeye değdi."
+    },
+    "473": {
+      "name": "Selofan-Sarılı Şeker",
+      "flavor": "Ambalaj iki kez bükülmüş, şeker hâlâ herhangi bir konuşmadan daha sesli."
+    },
+    "474": {
+      "name": "Nakışlı Dekoratif Yastık",
+      "flavor": "Püsküllü köşeler, birinin neredeyse dürüst bir şey söylediği yerde hafif bir çukur."
+    },
+    "475": {
+      "name": "Yıpranmış Kadife Yastık",
+      "flavor": "Solmuş altın iplik, iki farklı kedi tüyü, tartışmayı reddettiği tek bir leke."
+    },
+    "476": {
+      "name": "Mühürlü Cayo Mermi Sandığı",
+      "flavor": "Şablon hâlâ yaş, sandık hâlâ kibirli, içeriği hâlâ uğulduyor."
+    },
+    "477": {
+      "name": "Forum Drive Saha Topu",
+      "flavor": "Güney tarafında binlerce sokak maçında düz hale getirilmiş."
+    },
+    "478": {
+      "name": "Mirror Park Sundurma Lambası",
+      "flavor": "Mahallenin elektriği kalıcı olarak kesildiği gece ampul yanmış."
+    },
+    "479": {
+      "name": "Sandy Karavan Kayak Maskesi",
+      "flavor": "Yün günah gibi kaşındırıyor ve meth ile Pisswasser kokuyor."
+    },
+    "480": {
+      "name": "Kabin PC Hoparlörü",
+      "flavor": "Hiç terfi etmemiş analistler için bekleme müziği çaldı."
+    },
+    "481": {
+      "name": "LS Nehir Tag Kutusu",
+      "flavor": "Krylon Apple Red, bilye aşınana kadar sallanmış."
+    },
+    "482": {
+      "name": "Little Seoul Süs Kutusu",
+      "flavor": "Sedir kakma hafifçe kâfur ve birinin büyükannesi gibi kokuyor."
+    },
+    "483": {
+      "name": "Sandy Ammu-Nation Dürbünü",
+      "flavor": "Artıları bir kıl pay sapmış ama camı hâlâ temiz."
+    },
+    "484": {
+      "name": "Maze Bank Arena Kupası",
+      "flavor": "Doğru fiske vurursan sonsuza dek döner."
+    },
+    "485": {
+      "name": "Vespucci Tütün Dükkânı Bong",
+      "flavor": "Su hâlâ şapırdıyor. Ne renk olduğunu sorma."
+    },
+    "486": {
+      "name": "Strawberry 7/24 Karton",
+      "flavor": "Yarım altılı sıcak enerji içeceği, dibi yapışkan."
+    },
+    "487": {
+      "name": "Del Perro Vape Kalemi",
+      "flavor": "Bobin mavi ahududu ve pişmanlık gibi tadıyor."
+    },
+    "488": {
+      "name": "Vinewood Casino Reçine Kafatası",
+      "flavor": "Reçine, kemik değil ama galeriyi kandıracak kadar ağır."
+    },
+    "489": {
+      "name": "Cypress Flats Mermi Sandığı",
+      "flavor": "Şablon lot numarası yağın altında hâlâ okunur."
+    },
+    "490": {
+      "name": "Hill Valley Mezarlık Gülü",
+      "flavor": "Yaprakları zaten kenarlarda kahverengileşiyor."
+    },
+    "491": {
+      "name": "LS Liquor Mart Beşinci",
+      "flavor": "Kâğıt torbanın dibinden etiket soyulmuş."
+    },
+    "492": {
+      "name": "Galaxy Club DJ Kulaklığı",
+      "flavor": "Sol kupa yapışkan. Sağdaki hâlâ kick davul gibi vuruyor."
+    },
+    "493": {
+      "name": "Rockford Akıllı Gözlük",
+      "flavor": "Lensler ışığa eğince hâlâ titriyor."
+    },
+    "494": {
+      "name": "Açık Vogue Dergisi",
+      "flavor": "Üç sezonluk eski bir Ponsonbys reklamına açılmış."
+    },
+    "495": {
+      "name": "Gazete Bayisi Dergisi",
+      "flavor": "Kapak modelinin alnında bir kahve halkası var."
+    },
+    "496": {
+      "name": "Pitchers Patio Şişesi",
+      "flavor": "Son siparişte kuru tutulmuş, boyunda hâlâ parmak izleri var."
+    },
+    "497": {
+      "name": "Zancudo Çit Roketi",
+      "flavor": "İnert. Muhtemelen. Kanatçıkları bükülmüş ama işaretleri tertemiz."
+    },
+    "498": {
+      "name": "Vinewood Hills Aplik",
+      "flavor": "Tabana vurduğunda flaman uğulduyor, cam dokununca sıcak."
+    },
+    "499": {
+      "name": "Vinewood Bowl Bowling Lobutu Sanatı",
+      "flavor": "Lekeli çam levhasına monte edilmiş lake bowling lobutu."
+    },
+    "500": {
+      "name": "Richman Glen Sürahisi",
+      "flavor": "O kadar derin kesilmiş kristal ki halıya gökkuşağı düşürüyor."
+    },
+    "501": {
+      "name": "Mission Row Kelepçe Kupası",
+      "flavor": "Yüzbaşının başparmağını sürttüğü yerde kazıma pürüzsüzce aşınmış."
+    },
+    "502": {
+      "name": "Pinkcage Motel Saati",
+      "flavor": "3:17'de takılmış, rakamların arasından toz yanıp sönüyor."
+    },
+    "503": {
+      "name": "Pillbox Tıbbi Boyun Desteği",
+      "flavor": "Vinil eski antiseptikle yapışkan, köpük düz sıkışmış."
+    },
+    "504": {
+      "name": "Vanilla Unicorn Ev İçkisi",
+      "flavor": "Boyunda ruj, üç farklı ton."
+    },
+    "505": {
+      "name": "Eczane Kulak Modeli",
+      "flavor": "Anatomik, lateks, bir kıkırdak piercing zaten aşılmış."
+    },
+    "506": {
+      "name": "Murrieta Heights Hack Briketi",
+      "flavor": "LED hâlâ kimsenin artık cevap vermediği bir el sıkışmasında dönüyor."
+    },
+    "507": {
+      "name": "Pirinç Bankacı Lambası",
+      "flavor": "Bin kötü kredinin onaylanmasını izleyen yeşil gölge parıltısı."
+    },
+    "508": {
+      "name": "Monte Şanslı Lobut",
+      "flavor": "Yedinci şeritin uğurlu lobutu, 1987'nin mükemmel oyunundan sonra verniklendi."
+    },
+    "509": {
+      "name": "Butik Bronz Figür",
+      "flavor": "Dört haneli fiyatlandırılmış, Strawberry'deki bir alıcıya parça olarak satıldı."
+    },
+    "510": {
+      "name": "Shunt Kupası Replikası",
+      "flavor": "Gerçeği Arena'da. Bu olduğundan daha ağır."
+    },
+    "511": {
+      "name": "Yıldız Gözcüsü Kupası",
+      "flavor": "Kuyruklu yıldızı kim önce bulduysa ona verildi. Plaket boş."
+    },
+    "512": {
+      "name": "Kamış Difüzör Seti",
+      "flavor": "Sandal ağacı, vetiver ve hafifçe bir kredi kartı reddinin anısı."
+    },
+    "513": {
+      "name": "Gizli Manila Klasörü",
+      "flavor": "On bir sayfa sansür ve pasif-agresif tek bir yapışkan not."
+    },
+    "514": {
+      "name": "Flip Jam Kabini Jetonu",
+      "flavor": "Yüksek skor 1996'dan beri görülmemiş LIL'e ait."
+    },
+    "515": {
+      "name": "Galeri Alçı Büstü",
+      "flavor": "Sanatçı bunun kederi temsil ettiğinde ısrar ediyor. Alıcı kanepe ile uyduğunda ısrar ediyor."
+    },
+    "516": {
+      "name": "Eczane Tezgâh Sergisi",
+      "flavor": "D vitamini tabletleri ve altına yapıştırılmış süresi geçmiş üç kupon."
+    },
+    "517": {
+      "name": "Çentikli Diner Kupası",
+      "flavor": "Dünyanın En İdare Eder Babası. Kahve halkası kenara kalıcı olarak kaynaşmış."
+    },
+    "518": {
+      "name": "Boşalmış Termit Şarjı",
+      "flavor": "Kasanın ve altındaki katın içinden yandı. Dokununca hâlâ sıcak."
+    },
+    "519": {
+      "name": "Padron Puro Kutusu",
+      "flavor": "Üç çubuk kaldı. Dördüncüsü bir mazeret karşılığında takas edildi."
+    },
+    "520": {
+      "name": "Tattle Weekly Sayısı",
+      "flavor": "Kapak öyküsü: hangi Vinewood çifti gizlice aynı insan."
+    },
+    "521": {
+      "name": "Yanmış Kahve Sürahisi",
+      "flavor": "Dibi o kadar yanmış ki garson buna sadece çeşni diyor."
+    },
+    "522": {
+      "name": "Yarı Yenmiş Bleeder Burger",
+      "flavor": "İki ısırıkta şüpheli kaçtı. Turşu sadık kaldı."
+    },
+    "523": {
+      "name": "Mühürlü Nakit Mevduat Çantası",
+      "flavor": "15:47'de Fleeca tarafından mühürlendi. 15:51'de başkası tarafından açıldı."
+    },
+    "524": {
+      "name": "Krylon Sundowner Kutusu",
+      "flavor": "Kapağı çiğnenmiş, kutusu yamulmuş, mesaj bir telli çitin üstünde yarım kalmış."
+    },
+    "525": {
+      "name": "Kokteyl Karıştırıcı Kavanozu",
+      "flavor": "Lekeli bir camda plastik flamingolar. Kimse yeniden doldurmayı hatırlamıyor."
+    },
+    "526": {
+      "name": "Yarı Boşaltılmış Hindistan Cevizi Bardağı",
+      "flavor": "İki kâğıt şemsiye, bir eriyen buz küpü, görünürde güneş kremi yok."
+    },
+    "527": {
+      "name": "Etkisiz Hale Getirilmiş AP Mayını",
+      "flavor": "İğne çekilmiş, basınç plakası bir bozuk parayla sıkışmış. Mühendislik veya delilik."
+    },
+    "528": {
+      "name": "Çatlak Pisswasser Şişesi",
+      "flavor": "Boynu temiz kırılmış. Tek bir parmak iziyle bir çöpün arkasında bulundu."
+    },
+    "529": {
+      "name": "Yıpranmış CDJ Deki",
+      "flavor": "Jog tekerleği çentikli, ikinci kanal ölü, hâlâ duyulmaya değer bir set çalıyor."
+    },
+    "530": {
+      "name": "SPF 4 Şişesi",
+      "flavor": "Kapağı kayıp, piña colada ve çok kötü kararlar gibi kokuyor."
+    },
+    "531": {
+      "name": "Mermer Patron Büstü",
+      "flavor": "Gözleri oyulmuş, ifadesi nötr, dudakları şeyler gördüğünü ima ediyor."
+    },
+    "532": {
+      "name": "Logger Lager Kutusu",
+      "flavor": "Boş, ezilmiş, kimsenin fark etmediğini umarak biri tarafından soğutucuya geri konmuş."
+    },
+    "533": {
+      "name": "Kataloglu Eser M-31",
+      "flavor": "Etiket M-31 diyor. Köken edinilmiş diyor. Menşei senin değil diyor."
+    },
+    "534": {
+      "name": "After Hours Dansçı Kupası",
+      "flavor": "Gürültü şikâyetinin bir hayran mektubuna dönüştüğü kadar yüksek bir set için verildi."
+    },
+    "535": {
+      "name": "Yörünge Hedefleme Konsolu",
+      "flavor": "Koordinatlar kilitli, şifre yapışkanı hâlâ yanına yapıştırılmış."
+    },
+    "536": {
+      "name": "Vale Işık Çubuğu",
+      "flavor": "Kırmızı plastik, ölü pil, üç Adder'a yanlış yeri işaret etti."
+    },
+    "537": {
+      "name": "Oniks Mermer Büstü",
+      "flavor": "Cilalı obsidyen kafa, gözleri krupiyenin ellerini takip etmek için oyulmuş."
+    },
+    "538": {
+      "name": "Lake Süs Kutusu",
+      "flavor": "Pirinç mandallar ve hâlâ sedir dumanı kokan kadife astar."
+    },
+    "539": {
+      "name": "Gevşek Yastık Elması",
+      "flavor": "Sokak lambasını sanki bu köşe için kesilmiş gibi yakalıyor."
+    },
+    "540": {
+      "name": "Çıkarılmış Sunucu Diski",
+      "flavor": "Kabin yazma sırasında çıkarılmış, sabit bir kehribar nabızla yanıp sönüyor."
+    },
+    "542": {
+      "name": "Galeri Çember Çalışması",
+      "flavor": "Lake bir lake içine dökülmüş yıpranmış deri top, tutamak altında kalemle imzalanmış."
+    },
+    "543": {
+      "name": "Unutulmuş Sabit Disk",
+      "flavor": "Çıkartma etiketi yarı yırtık, son yazma tarihi kalemle."
+    },
+    "544": {
+      "name": "Sökülmüş AV Alıcısı",
+      "flavor": "Ön düğmeler gitmiş, RCA jakları bükülmüş, topraklandığında uğulduyor."
+    },
+    "545": {
+      "name": "Dökme Demir Kapı Vanası",
+      "flavor": "Dişli kapalı, boya uzun kıvrımlar halinde pul pul dökülüyor."
+    },
+    "546": {
+      "name": "Tester Kolonya Şişesi",
+      "flavor": "Atomizör kabuk bağlamış, etiket nemli kıvrımlar halinde soyuluyor."
+    },
+    "547": {
+      "name": "Mermer Sezar Kafası",
+      "flavor": "Casino tabelasının parıltısını yakalayan kaşta çentik."
+    },
+    "548": {
+      "name": "Unutulmuş Fiş Tepsisi",
+      "flavor": "Dipteki köşede hâlâ birkaç siyah yüzlük tıkırdıyor."
+    },
+    "549": {
+      "name": "Dökme Bench Plakası",
+      "flavor": "Bir yüzünde pas halkası, diğerinde tebeşir el izi."
+    },
+    "550": {
+      "name": "Yaralı Sert Ağaç Sopa",
+      "flavor": "Bant tutamak, namluya yakılmış üç çentik."
+    },
+    "551": {
+      "name": "Yarı Boş Rattler",
+      "flavor": "Kapağı kayıp, ucu kurumuş magenta ile tıkalı."
+    },
+    "552": {
+      "name": "Lost Chapter Kaskı",
+      "flavor": "Astarı motor yağıyla nemli, şakak üzerindeki çıkartma soyuluyor."
+    },
+    "553": {
+      "name": "Pirinç Yat Minyatürü",
+      "flavor": "Gövdesi artık var olmayan bir kayık yeri numarasıyla kazınmış."
+    },
+    "554": {
+      "name": "Retro Atari Kupası",
+      "flavor": "Plaket bir bozuk parayla kazınarak silinmiş, yeni bir baş harfi içeri kazınmış."
+    },
+    "555": {
+      "name": "Beyaz Mermer Atlet",
+      "flavor": "Dokununca serin, sol kulağın arkasında hafif bir çentik."
+    },
+    "556": {
+      "name": "Yastıklı Disk Kasası",
+      "flavor": "Köpük astarı artık orada olmayan bir disk için kesilmiş."
+    },
+    "557": {
+      "name": "Yarı Kullanılmış Losyon Pompası",
+      "flavor": "Pompa hâlâ hazır, etiket buhardan yumuşamış."
+    },
+    "558": {
+      "name": "CamHedz Şampiyon Kupası",
+      "flavor": "Geçen sezonun en yüksek skoru ve lekeli bir parmak iziyle kazınmış."
+    },
+    "559": {
+      "name": "Casino Diorama Karosu",
+      "flavor": "Adım ortasında donmuş minik bir misafir sırasıyla ölçekli bir tabela."
+    },
+    "560": {
+      "name": "Bantlı Sopa",
+      "flavor": "Atletik bant iki kez yeniden sarılmış, uç başlığı kayıp."
+    },
+    "561": {
+      "name": "Porselen Figürin Üçlüsü",
+      "flavor": "Casino kapılarını açtığından beri dokunulmamış, dönüş ortasında yakalanmış üç sırlı dansçı."
+    },
+    "562": {
+      "name": "Lekelenmiş Rehineci Hançeri",
+      "flavor": "Biri kira parası için bunu rehne verdi ve almaya geri dönmedi."
+    },
+    "563": {
+      "name": "Patlamamış RPG Roket Kovanı",
+      "flavor": "MERRYWEATHER damgalı, hizmetten alınmış ve kesinlikle hatıra değil."
+    },
+    "564": {
+      "name": "Vinewood Butik Figürini",
+      "flavor": "Eksildiğini hiç fark etmeyen bir vitrincinin sergi parçası."
+    },
+    "565": {
+      "name": "Söylenmez Hatıra",
+      "flavor": "Yetişkin dükkânının arka sokağında kapanıştan sonra bırakılmış — kimse sahiplenmiyor."
+    },
+    "566": {
+      "name": "Seramik Banyo Kabı",
+      "flavor": "Kimsenin almadığı ama kimsenin de kaldırmadığı butik dekoru."
+    },
+    "567": {
+      "name": "Yol Kenarı Diner Kupası",
+      "flavor": "Garsonun yedi numaralı locada temizlemeyi unuttuğu ılık dolum."
+    },
+    "568": {
+      "name": "Marina Kaptan Şapkası",
+      "flavor": "Tuz lekeli ve hafifçe bükülmüş — kaptan emekli oldu, şapka kaldı."
+    },
+    "569": {
+      "name": "Unutulmuş Cep Kitabı",
+      "flavor": "Dördüncü bölümde köşesi kıvrılmış, birinin market listesi yer imi olarak içinde."
+    },
+    "570": {
+      "name": "Marabunta Sopası",
+      "flavor": "Yeşil spreyle taglenmiş ve açıkça spor malzemesi sopası değil."
+    },
+    "571": {
+      "name": "Ballas Sopası",
+      "flavor": "Mor tutamak bandı, şüpheli çukurlar, telli bir çite yaslanmış."
+    },
+    "572": {
+      "name": "Brawler Turnuva Kupası",
+      "flavor": "Maibatsu Arena Şampiyonu olarak kazınmış — kazanan almaya geri dönmedi."
+    },
+    "573": {
+      "name": "Berber Saç Kesme Makinesi",
+      "flavor": "Hâlâ hafifçe uğulduyor — berber bir saat önce sigara için çıktı."
+    },
+    "574": {
+      "name": "Dekor Mum Kümesi",
+      "flavor": "Tam üç mum sütun, böylece düzenlenmiş — satılamamış bir butik vitrini."
+    },
+    "575": {
+      "name": "Kayıp MC Sopası",
+      "flavor": "Kafatası çıkartmaları ve tutamağa sarılı zincir — kulüp evi malı."
+    },
+    "576": {
+      "name": "Yaldızlı El Bombası Heykeli",
+      "flavor": "Özel bir suit için sipariş edilen pop-sanat parçası — bir şekilde kaldırım kenarına düşmüş."
+    },
+    "577": {
+      "name": "Yönetici Butik Vazo",
+      "flavor": "Çoğu insanın kirasından daha fazlaya satılan ithal seramik."
+    },
+    "578": {
+      "name": "Yalnız Bowling Lobutu",
+      "flavor": "Ayakta kalan son lobut, sonra lig akşamı bitince olukta unutuldu."
+    },
+    "579": {
+      "name": "Atari Vinç Peluş",
+      "flavor": "Yirmi dolarlık bozuk paradan sonra makineden çekildi — her kuruşa değdi."
+    },
+    "580": {
+      "name": "After Hours DJ Kulaklığı",
+      "flavor": "Yastıklı kupalar booth'tan hâlâ sıcak — biri erken çıkış yaptı."
+    },
+    "581": {
+      "name": "Düşmüş Kaldırım Cüzdanı",
+      "flavor": "İçinde sürücü belgesi, nakit yok — biri buraya önce geldi."
+    },
+    "582": {
+      "name": "Çatlak İnşaat Baretti",
+      "flavor": "Tepede kıl çatlağı — ustabaşı zarar yazıp bıraktı."
+    },
+    "583": {
+      "name": "Butik Sergi Saati",
+      "flavor": "İsviçre mekanizması, hâlâ tıklıyor, eskiden olduğu yerde fiyat etiketi yok."
+    },
+    "584": {
+      "name": "Teknoloji Mağazası Demo Dizüstü",
+      "flavor": "Ekran koruyucu hâlâ kayıyor — kimsenin kilitleme zahmetine girmediği zemin modeli."
+    },
+    "585": {
+      "name": "Yaldızlı Figürin Çifti",
+      "flavor": "Bir zamanlar casino lobi vitrininde sergilenen iki altın heykelcik."
+    },
+    "586": {
+      "name": "Asit Damlalık Şişesi",
+      "flavor": "Çözücü ve kötü kararlar gibi kokan küçük bir damlalık şişesi."
+    },
+    "587": {
+      "name": "House Fiş Yığını",
+      "flavor": "Birinin bozdurmayı unuttuğu casino fişlerinden düzgün bir kule."
+    },
+    "588": {
+      "name": "Kabuk Bağlamış Araba Aküsü",
+      "flavor": "Terminaller korozyondan tüylenmiş, hâlâ hafif bir şarj tutuyor."
+    },
+    "589": {
+      "name": "Cep Galaxy Yatı",
+      "flavor": "Galaxy süper yatının bir satış katından aşırılmış ölçekli modeli."
+    },
+    "590": {
+      "name": "Sıkılabilir Ketçap Şişesi",
+      "flavor": "Neredeyse boş bir kırmızı yapışkan şişesi, kapağı kalıcı olarak yapışkan."
+    },
+    "591": {
+      "name": "Beluga Havyar Tenekesi",
+      "flavor": "Soğuk bir havyar tenekesi, kapağı yarı açık, sedef kaşığı kayıp."
+    },
+    "592": {
+      "name": "Budanmış Ot Tomurcuğu",
+      "flavor": "Şişman kesilmiş tomurcuk, bir cüzdanı kapatacak kadar yapışkan."
+    },
+    "593": {
+      "name": "Pitkin Motel Küllüğü",
+      "flavor": "Ruj lekeli filtrelerle dolu bir motel küllüğü."
+    },
+    "594": {
+      "name": "Vinewood Butik Kristal",
+      "flavor": "Kadife üstüne prizmalı ışık fırlatan fasetli kristal."
+    },
+    "595": {
+      "name": "Küme Geode",
+      "flavor": "Bir moda editoryalı setinden ödünç alınmış pürüzlü küme geode."
+    },
+    "596": {
+      "name": "Yarısı İçilmiş Cava Şişesi",
+      "flavor": "İki boş bardağın arasında havası kaçmış bir cava şişesi."
+    },
+    "597": {
+      "name": "İple Bağlı Ciltli Yığını",
+      "flavor": "Sicimle bağlı üç ciltli kitap, sırtları çok fazla iadeden çatlamış."
+    },
+    "598": {
+      "name": "Saha Nabız Osilatörü",
+      "flavor": "Bir tıp odası teşhis arabasından çekilmiş nabız osilatörü."
+    },
+    "599": {
+      "name": "Teneke Pub PINTS Tabelası",
+      "flavor": "Pul pul boyalı PINTS yazısı hâlâ okunan yamulmuş bir teneke pub tabelası."
+    },
+    "600": {
+      "name": "Tasarımcı Ayakkabı Kutusu",
+      "flavor": "İçinde bir stiletto ve hâlâ sıkıştırılmış fişi olan butik ayakkabı kutusu."
+    },
+    "601": {
+      "name": "Sahne Kondansatör Mikrofon",
+      "flavor": "Bir vokal çekiminden hâlâ sıcak bir kondansatör mikrofon."
+    },
+    "602": {
+      "name": "Bambu Bıçak Bloğu",
+      "flavor": "Bir Vinewood mutfak tezgâhından kaldırılmış dolu bir bıçak bloğu."
+    },
+    "603": {
+      "name": "CS Gaz Kutusu",
+      "flavor": "İğnesi hâlâ bantlı, parmaklar kaşıkta olmadan bir CS gaz kutusu."
+    },
+    "604": {
+      "name": "Sarılı Alüminyum Sopa",
+      "flavor": "Tutamak bandı ve kötü niyetlerle sarılmış alüminyum sopa."
+    },
+    "605": {
+      "name": "Gardiyanın Demir Anahtarlığı",
+      "flavor": "Bir mazeret gibi tıkırdayan ağır bir demir anahtarlık."
+    },
+    "606": {
+      "name": "Çekme Halkalı Sis Bombası",
+      "flavor": "Hafifçe fosfor kokan çekme halkalı bir sis kutusu."
+    },
+    "607": {
+      "name": "Pit Boss Hesap Makinesi",
+      "flavor": "Kâğıt rulosu temiz kopmuş bir casino masa hesap makinesi."
+    },
+    "608": {
+      "name": "Kasa Diorama Minyatürü",
+      "flavor": "Casino pazarlama duvarından kaldırılmış minyatür bir kasa dioraması."
+    },
+    "609": {
+      "name": "Damgalı Çelik Kargo Sandığı",
+      "flavor": "Solmuş lot numarasıyla damgalanmış çizik çelik sandık."
+    },
+    "610": {
+      "name": "Modern Tuval Parçası",
+      "flavor": "Bir galeri tuvalinin yırtık parçası hâlâ taze akrilik ve bayat şampanya kokuyor."
+    },
+    "611": {
+      "name": "Rehne Verilmiş Kasa Elması",
+      "flavor": "Bir casino kasası için kesildi, bir teslimde kaybedildi, tozda bulundu."
+    },
+    "612": {
+      "name": "Saklı Bira Paketi Kutusu",
+      "flavor": "Motor yağı ve ucuz bira kokuyor, tıpkı saklayan adam gibi."
+    },
+    "613": {
+      "name": "Şampiyon Bayrak Kupası",
+      "flavor": "Stadyum ışıkları altında kazanıldı, daha büyük bir ödül belirir belirmez terk edildi."
+    },
+    "614": {
+      "name": "Battle Club El Yelpazesi",
+      "flavor": "Hırlayan bir yüzle boyanmış, dün geceki basla hâlâ uğulduyor."
+    },
+    "615": {
+      "name": "Sokak-Nemli Parlak Dergi",
+      "flavor": "Sayfalar yağmurdan yapışmış, çoğu kişinin tahmin edeceği sebepten değil."
+    },
+    "616": {
+      "name": "Hobici RC Kumandası",
+      "flavor": "Park halindeki arabaya bir alçak-yörünge inişi fazlasından anten bükülmüş."
+    },
+    "617": {
+      "name": "Stok C4 Briketi Yığını",
+      "flavor": "Etiket soyulmuş, kablolar kesilmiş, tehlike hâlâ ima ediliyor."
+    },
+    "618": {
+      "name": "Çim-Çatlaklı Ahşap Sopa",
+      "flavor": "Tahta üç yerde kıymıklanmış, her çatlağın farklı bir hikâyesi var."
+    },
+    "619": {
+      "name": "Kayıp Atari Şapkası",
+      "flavor": "Siperliği terden kıvrılmış, yüksek-skor vişne kolasıyla lekelenmiş."
+    },
+    "620": {
+      "name": "Tamirci Alet Çantası III",
+      "flavor": "Üç lokma eksik, ama yağ her berenin hak edildiğini söylüyor."
+    },
+    "621": {
+      "name": "Güneşte Solmuş Voleybol",
+      "flavor": "İçindeki kum hâlâ çok uzun süren bir servisten tıkırdıyor."
+    },
+    "622": {
+      "name": "Butik Şapka Heykeli",
+      "flavor": "Giyilebilir sanat olarak satıldı, kira gibi fiyatlandırıldı, çoğunlukla fotoğraflandı."
+    },
+    "623": {
+      "name": "Stok Havan Tüpü",
+      "flavor": "Şablonlu ve çalınmış, seri dikkatli bir başparmakla kazınarak silinmiş."
+    },
+    "624": {
+      "name": "Endüstriyel Cıvata Makası",
+      "flavor": "Çeneler kullanımla parlatılmış, sapları başkasının bandıyla sarılmış."
+    },
+    "625": {
+      "name": "Atari Savaşçı Kupası",
+      "flavor": "Plastik üstüne plastik altın, ama kazanan çocuk yine de eve koştu."
+    },
+    "626": {
+      "name": "Çatlak Sergi Vazo",
+      "flavor": "Bir kıl çatlağı ışığı yakalıyor, satış fiyatını ikiye katlıyor."
+    },
+    "627": {
+      "name": "Spor Salonu 10kg Plaka",
+      "flavor": "Lastik kenarı yıllarca kötü form ve daha kötü düşüşlerle çiğnenmiş."
+    },
+    "628": {
+      "name": "Arena Şampiyon Ödülü",
+      "flavor": "Hiç sahiplenmeyen bir kazananla kazınmış, sahiplenen biri tarafından parlatılmış."
+    },
+    "629": {
+      "name": "Bodrum Kola Tartısı",
+      "flavor": "Bir gramın onda birine ve bir ömür paranoyaya kalibre edilmiş."
+    },
+    "630": {
+      "name": "Kadife Kolye Büstü",
+      "flavor": "Zincir uzun zaman önce gitti, kadife hâlâ şeklini koruyor."
+    },
+    "631": {
+      "name": "Kazınmış Ağır Tabanca",
+      "flavor": "Sürgüsünde filigran, kabzasında taze çentik, hikâyesi anlatılmamış."
+    },
+    "632": {
+      "name": "Ateşlenmemiş İskele Havai Fişeği",
+      "flavor": "Fitil sağlam, etiket suyla kıvrılmış, festivalin adı solmuş."
+    },
+    "633": {
+      "name": "Spa Lavanta Sabunu",
+      "flavor": "Lavanta ve klor, yarı erimiş, kimsenin tanımadığı bir isimle monogramlı."
+    },
+    "634": {
+      "name": "İade Edilmiş Yetişkin Dergisi",
+      "flavor": "Kapağı yırtık, barkodu sağlam, sadece aşınma olarak listelenen bir sebeple iade edilmiş."
+    },
+    "635": {
+      "name": "Parçalanmış Maxwell Kupası",
+      "flavor": "Plaket gövdeden temiz yırtılmış, dambıl hâlâ havada."
+    },
+    "636": {
+      "name": "OG Mixtape Yeniden Basım",
+      "flavor": "Kaset sırtı çatlamış, gümüş Sharpie ile elle etiketlenmiş."
+    },
+    "637": {
+      "name": "DJ Booth CD Rafı",
+      "flavor": "Yuvaların yarısı boş, geri kalanı kurtarılamayacak kadar çizilmiş."
+    },
+    "638": {
+      "name": "After Hours No.1 Kupası",
+      "flavor": "Altın folyo hâlâ el değmemiş, taban unutulmuş bir gamertag'le kazınmış."
+    },
+    "639": {
+      "name": "Motor Tutkunları Dergisi",
+      "flavor": "Çok fazla garaj sayfa çevirmesinden ortaya doğru kıvrım."
+    },
+    "640": {
+      "name": "Mayın Tarlası Şampiyon Kupası",
+      "flavor": "Kalayda dökülmüş, tabanında minik damgalı harflerle Altıncı Tur'dan Sağ Çıktı yazıyor."
+    },
+    "641": {
+      "name": "Yanmış Sopa",
+      "flavor": "Sap friction bantla sarılmış, namlu uçta yarı erimiş."
+    },
+    "642": {
+      "name": "Hile-Kablolu Masa Telefonu",
+      "flavor": "Ahize yapıştırılmış, kordon olması gereken yerden kablolar dışarı kıvrılıyor."
+    },
+    "643": {
+      "name": "Hizmetten Çıkarılmış Hedef Mermisi",
+      "flavor": "İnert ve VİTRİN İÇİN şablonlu, ait olduğu sandıktan daha uzun yaşaması gereken kanatçıkları bükülmüş."
+    },
+    "644": {
+      "name": "Şef Bıçak Bloğu",
+      "flavor": "Yirmi yıl boyunca çekilen sapların pürüzsüz aşındırdığı kayın ağacı blok."
+    },
+    "645": {
+      "name": "Plastik-Sarılı Ortadaki Resim",
+      "flavor": "Plastik sarılı ve iki kez fiyat çıkartmalı, iki rakam da çizilmiş."
+    },
+    "646": {
+      "name": "Manyetik Bıçak Şeridi",
+      "flavor": "Manyetik şerit yaşla sararmış, üç yuva belirgin şekilde boş."
+    },
+    "647": {
+      "name": "Yaldızlı Revolver",
+      "flavor": "Silindirin etrafında kıvrım kıvrım kazıma, tetik korumasından altın pul pul dökülmüş."
+    },
+    "648": {
+      "name": "Duvara Monte İlk Yardım Çantası",
+      "flavor": "Mandalı kırık, yeşil haç griye solmuş."
+    },
+    "649": {
+      "name": "Asit Lekeli Araba Aküsü",
+      "flavor": "Asit lekesi bir yanında hilal şeklinde kurumuş, terminaller yeşile korozyona uğramış."
+    },
+    "650": {
+      "name": "Kurtarılmış Bench Taşlayıcı",
+      "flavor": "Tekerlek çelikten daha sert bir şeyi kesmekten çentiklenmiş, motor kasası yanmış."
+    },
+    "651": {
+      "name": "Bluetooth Hoparlör İstasyonu",
+      "flavor": "Aux kablosu hiçbir şeye takılı, ızgarada toz kabuk bağlamış."
+    },
+    "652": {
+      "name": "Polyester İplik Makarası",
+      "flavor": "Karton bir çekirdeğe sarılmış polyester, ucu bir kez zımbalanmış."
+    },
+    "653": {
+      "name": "Lüks Combat Tabanca",
+      "flavor": "Sedef kabza, sürgüsü kimsenin istemediği bir asma deseniyle kazınmış."
+    },
+    "654": {
+      "name": "Wade'in Kesik Kafa Aksesuarı",
+      "flavor": "Köpük kafatası üzerine kalıplanmış lateks maske, gözler hafifçe çapraz boyanmış."
+    },
+    "655": {
+      "name": "Çizik Antrenman Beyzbol Topu",
+      "flavor": "Kırmızı dikiş gevşek, imza okunamayan bir lekeye solmuş."
+    },
+    "656": {
+      "name": "Jiletle Sarılı Sopa",
+      "flavor": "Dikenli tel pasla kabuk bağlamış, tutamakta yumruk-sarımı koyuya batmış."
+    },
+    "657": {
+      "name": "Vitrin Futbol Heykeli",
+      "flavor": "Bağcıkları boyunca altın yapraklı reçine döküm, tabanı ünlü hiç kimse tarafından imzalanmamış."
+    }
+  }
+}

@@ -1,0 +1,2606 @@
+{
+  "rarity": {
+    "common": "Vanlig",
+    "strange": "Märklig",
+    "rare": "Sällsynt",
+    "mint": "Legendarisk"
+  },
+  "items": {
+    "1": {
+      "name": "Madrazos Gyllene Idol",
+      "flavor": "Det gyllene ansiktet av Caida Libre-legenden — en lyckoamulett från Madrazo-familjen."
+    },
+    "2": {
+      "name": "Impotent Rage-figur",
+      "flavor": "Originalsamlarutgåva av Vinewood-superhjälten — sockeln glänser fortfarande."
+    },
+    "3": {
+      "name": "Alien-figur",
+      "flavor": "En sällsynt gjutning jagad av hemliga samlare."
+    },
+    "5": {
+      "name": "Beast-figur",
+      "flavor": "Halvmonster-antagonist från Vinewood-superhjälteserien — pälsutgåva."
+    },
+    "6": {
+      "name": "Sasquatch-figur",
+      "flavor": "Den heliga graalen för \"Bigfoot\" Easter egg-jägare."
+    },
+    "7": {
+      "name": "Rockstar Klassisk Logo",
+      "flavor": "Studiominne i begränsad upplaga — fallit ur en utställningsmonter."
+    },
+    "8": {
+      "name": "Rockstar Community-pris",
+      "flavor": "Plakett präglad för Rockstar-communitymedlemmar — den enda i sitt slag i Pillbox Hill."
+    },
+    "12": {
+      "name": "Pop Art-skulptur #1",
+      "flavor": "Retro pop-art-pjäs från Diamond Casino Heritage Hall."
+    },
+    "13": {
+      "name": "Pop Art-skulptur #2",
+      "flavor": "Samma konstnärs andra upplaga — färre tryckta."
+    },
+    "15": {
+      "name": "Pantersstaty",
+      "flavor": "Mörk bronspanter — dess ögon följer dig fortfarande."
+    },
+    "16": {
+      "name": "Häststaty",
+      "flavor": "Vintage hästskulptur — förlorad av en samlare för år sedan."
+    },
+    "17": {
+      "name": "Abstrakt Skulptur",
+      "flavor": "Mening oklar, pris brant — de kallar det riktig konst."
+    },
+    "19": {
+      "name": "Vintage Hjälte-figur",
+      "flavor": "80-talets Vinewood-barns samlarobjekt — rakt ur originalförpackningen."
+    },
+    "21": {
+      "name": "Plyschhund",
+      "flavor": "En förlorad högtidsgåva — nådde aldrig sin ägare."
+    },
+    "22": {
+      "name": "Sunny — Sommarfestivalmaskot",
+      "flavor": "Signaturmaskot för Vespucci sommarfestival — ögonen fortfarande Stillahavsblå."
+    },
+    "23": {
+      "name": "Bruno Vinewood-björnen",
+      "flavor": "Pixel Petes klomaskin-signaturpris — \"Bruno\"-tagg sydd på pälsen."
+    },
+    "24": {
+      "name": "Po Davis-pandan",
+      "flavor": "Davis-kvarterets klomaskin-legend — fortfarande söt i blicken."
+    },
+    "25": {
+      "name": "Kobi Söta Koalan",
+      "flavor": "Toppylsch med en \"jag är söt\"-tagg på örat."
+    },
+    "26": {
+      "name": "Lily Kaninen",
+      "flavor": "En kärleksminnessak — lämnad vid klubbingången, rött band på örat."
+    },
+    "27": {
+      "name": "Foxxy Lilla Räven",
+      "flavor": "Burger Shots spelhörnemaskot — lappad svans."
+    },
+    "28": {
+      "name": "Zara Giraffen",
+      "flavor": "Mirakelmoraluppfriskare i Pillbox Hospitals väntrum — lång hals och allt."
+    },
+    "29": {
+      "name": "Toto Tigern",
+      "flavor": "Tyst vittne till Vanilla Unicorn-scenen — VIP-bricka på halsen."
+    },
+    "30": {
+      "name": "Lucky Hunden",
+      "flavor": "Pixel Petes finalsäsongpris — en lyckoamulett för dem som fullbordar samlingen."
+    },
+    "31": {
+      "name": "Vinewood Trädgårdstomte",
+      "flavor": "Överlevande medlem av Vinewood Hills tomtekult — Rockstars äldsta bakgårdsskämt."
+    },
+    "32": {
+      "name": "Stegrande Hästfigurin",
+      "flavor": "En bronsgjuten kapplöpningshäst-prydnad — den sortens sak en Vinewood-agent har för att verka mer klassig än han är."
+    },
+    "33": {
+      "name": "Modern Skulptur #4",
+      "flavor": "Penthouserotation-modern pjäs — Tao Cheng signerade certifikatet själv."
+    },
+    "34": {
+      "name": "Kartellens Kontorsskulptur",
+      "flavor": "Stod på kartellens förmans skrivbord vid Cluckin' Bell-fabriken — lätt kycklingfettfläckad."
+    },
+    "35": {
+      "name": "Flipper Mästertrofé",
+      "flavor": "Topp-Arena War-silver — vunnen av den enda föraren som klarade Flipper på hjulen."
+    },
+    "36": {
+      "name": "Rons Lyckokeps",
+      "flavor": "Ron Jakowski bar den genom varje Sandy Shores-konspirationsström — strålningsvärde: gränsöverskridande."
+    },
+    "37": {
+      "name": "Jeroboam av Blêuter'd",
+      "flavor": "En 3-liters Jeroboam av Blêuter'd '08 — lämnad i VIP-bås, orörd."
+    },
+    "38": {
+      "name": "Vintage Spelkontroll",
+      "flavor": "Kontrollen från Jimmy De Santas allnattare — klibbiga sticks inkluderade."
+    },
+    "39": {
+      "name": "Pop Art-bil #10",
+      "flavor": "Diamond Heritage Gallery — pop-art-hyllning till muskelbilarna under Los Santos gyllene decennium."
+    },
+    "40": {
+      "name": "Pop Art-bil #12",
+      "flavor": "Andra halvan av Diamonds muskelbils-diptyk — den Avi Schwartzman försökte lyfta."
+    },
+    "41": {
+      "name": "Pop Art-bil #9",
+      "flavor": "Öppningsstycket av Pop-Art-bil-triptyken — aldrig auktionerad, aldrig försäkrad."
+    },
+    "42": {
+      "name": "Idoltrofé — Mindre Aztek",
+      "flavor": "Vitrintvilling till Casino Heists värdefulla idol — kartellen behöll den som skryttrofé."
+    },
+    "43": {
+      "name": "Idoltrofé — Större Aztek",
+      "flavor": "En Cluckin' Bell-bakkontor-trofé — kartellchefens hyllning till Casino Heist som startade allt."
+    },
+    "44": {
+      "name": "Sten-Sol Planet-trofé",
+      "flavor": "Aztek-brädsetets planetpjäs — en av fyra troféer Cluckin' Bells chef hade på kontorshyllan."
+    },
+    "45": {
+      "name": "Scarab Tank-trofé",
+      "flavor": "Brons-Scarab-tank gjuten för Arena War-mästaren som överlevde demolition derby-finalerna — basen luktar fortfarande bränt gummi."
+    },
+    "46": {
+      "name": "Aztekisk Skattsamling",
+      "flavor": "Ett kluster av aztekmynt och kedjelänkar — kartellens \"skatt\" skummad från ursprungliga Casino Heist."
+    },
+    "47": {
+      "name": "Rå Aztekisk Idol",
+      "flavor": "Lös från sin vitrin — dragen mitt i heist, aldrig återmonterad."
+    },
+    "48": {
+      "name": "Tvilling-Aztekisk Idol",
+      "flavor": "Yngre tvilling till Madrazo-idolen — samma form, annan gjutare."
+    },
+    "49": {
+      "name": "Aztekisk Sol-Ägg-trofé",
+      "flavor": "Aztekens sol-ägg — fullbordar fyrpjäs-tröféhyllan vid sidan av idolen, scarab och planet."
+    },
+    "50": {
+      "name": "Gyllene Pogo-trofé",
+      "flavor": "Lucky Wheel-storprissamlarobjekt — endast tolv präglades, sägs det."
+    },
+    "51": {
+      "name": "Retro Konsol Konstpjäs",
+      "flavor": "Vintage konsol behandlad som galerikonst — Pixel Pete gråter varje gång den säljs."
+    },
+    "52": {
+      "name": "\"For the Love of Cash\" Diamantskalle",
+      "flavor": "En penthouse-fåfängspjäs stulen under ursprungliga Casino Heist — dess pavé-diamanter är äkta, och Lester har fortfarande värderingen."
+    },
+    "53": {
+      "name": "Tataryn Imperialägg",
+      "flavor": "En Tataryn-familjeärva som försvann över en natt — morgonen efter att Avi Schwartzman lämnade stan."
+    },
+    "54": {
+      "name": "El Rubio Reserva Añejo",
+      "flavor": "Smugglad från Cayo Perico i en sportbag — sigillet är intakt och vaxstämpeln är fortfarande El Rubios."
+    },
+    "55": {
+      "name": "Declasse Sabre GT Maquette",
+      "flavor": "Beställd av Tao Chengs far efter en vinstnatt vid högsta gränsens blackjackbord."
+    },
+    "56": {
+      "name": "\"OG1\" South Central Plakett",
+      "flavor": "Lyft av en Davis-garageväggar — gamla huvuden säger den tillhörde Stretch när Grove Street fortfarande betydde något."
+    },
+    "57": {
+      "name": "LS Panic Matchboll",
+      "flavor": "Signerad i bleknad Sharpie av hela Los Santos Panics försvar efter deras '08-divisionsseger."
+    },
+    "58": {
+      "name": "Vespucci Streetball-turneringsboll",
+      "flavor": "Nött ner till gummit på Vespucci-banorna — \"Lamar 23\"-märket är fortfarande läsbart."
+    },
+    "59": {
+      "name": "Pogo Apansplysch",
+      "flavor": "Klomaskin-storpris från Up-n-Atom-dinerns bakrumsarkad — taggen säger \"Property of Tracey.\""
+    },
+    "60": {
+      "name": "El Rubios Skarpskyttetrofé",
+      "flavor": "Tilldelad av El Rubio själv till hans bästa anläggnings-prickskytt — graverad \"Para mi mejor tirador, 2020.\""
+    },
+    "61": {
+      "name": "Förgylld Bowlingkägla (Lebowski-utgåva)",
+      "flavor": "En oironisk sexsiffrig hyllning till den stora amerikanska tidsfördrivet — Tao Cheng har tre."
+    },
+    "62": {
+      "name": "Macbeth 30-årig Kristallkaraff",
+      "flavor": "Lyft från en Maze Bank-chefs privata bar — det graverade monogrammet läses \"AB\", samma initialer som Avon Hertz revisor."
+    },
+    "63": {
+      "name": "Festive Surprise Trefaldigt-poäng-trofé",
+      "flavor": "Tilldelad till Arena-deltagare som gjorde hattrick under Festive Surprise-evenemanget — rosetterna är fortfarande krullade."
+    },
+    "64": {
+      "name": "Mästar-Bandito Pilot-trofé",
+      "flavor": "Förtjänad för tio kinetiska minkill i RC Bandito — Arena-fans kallar fortfarande detta \"garagegolv-trofén.\""
+    },
+    "65": {
+      "name": "Arena Karriär Uppstigande Torn",
+      "flavor": "Tilldelad för att överleva 100 sammanhängande Arena-rundor — Benny svetsade sockelplåten själv."
+    },
+    "66": {
+      "name": "Arena Stormästarbägare",
+      "flavor": "Storpriset Mr. Bossman delade ut vid invignings-Arena-finalerna — endast tre gjöts, och två saknas."
+    },
+    "67": {
+      "name": "Pegassi Toreador Krom-maquette",
+      "flavor": "En skalpjäs beställd för att markera Toreadors debut på Vinewood Boulevard."
+    },
+    "68": {
+      "name": "LS Caesars Slugger Wobblehead",
+      "flavor": "Ett 90-talssouvenir från den gamla LS Caesars-dugout — Franklin har en på skrivbordet för tur."
+    },
+    "69": {
+      "name": "San Andreas Stallions Rookie Wobblehead",
+      "flavor": "Vinewood Bowl-giveaway från '04-hemmaöppnaren — fjäderhuvudet vacklar fortfarande efter tjugo år."
+    },
+    "70": {
+      "name": "Arena Verkstad Pit-Boss-mugg",
+      "flavor": "\"World's #1 Boss\"-mugg från Mr. Bossman själv — kaffering fortfarande på kanten."
+    },
+    "71": {
+      "name": "Benefactor Krieger Display-maquette",
+      "flavor": "En miljon-chip-skådepjäs från Penthousegalleriet — Yung Ancestor namedroppade just denna skulptur i en vers."
+    },
+    "72": {
+      "name": "Förgylld \"Frikast\"-skulptur",
+      "flavor": "En sexsiffrig samtalspjäs — konstnärens signatur, \"Jeff K.\", är etsad på undersidan."
+    },
+    "73": {
+      "name": "Porslinsflicka-figurin",
+      "flavor": "En naggad liten porslinsflicka som en gång bodde på en Vinewood-kaminhylla — vacker, naiv och värd mer än hon ser ut."
+    },
+    "74": {
+      "name": "Harlekin Clown-figurin",
+      "flavor": "En pierrot-docka med spräckt emalj och ett leende som alltid ser ut att vara en bildruta fel."
+    },
+    "75": {
+      "name": "Cypress Abstrakt Skulptur",
+      "flavor": "Hipstergaleripjäs lämnad på en Cypress Flats-lastkaj — märkt \"otitulerad #4\" och prissatt som om det spelade roll."
+    },
+    "76": {
+      "name": "Bronshingst-figurin",
+      "flavor": "En miniatyrhingst som brukade bo på Michael De Santas kaminhylla — någon snodde den under Madrazo-efterspelet."
+    },
+    "77": {
+      "name": "Bläckhus-Skall-trofé",
+      "flavor": "En flash-art-skalle lyft direkt från disken i en Harmony-tatueringssalong — luktar fortfarande grön tvål."
+    },
+    "78": {
+      "name": "OG Mixtape — Variant 2",
+      "flavor": "Förseglad promo-kassett från en piratpressing från Västkusten — Franklin skulle betala dubbelt."
+    },
+    "79": {
+      "name": "Krom Gladiator-skalle",
+      "flavor": "Motorhuvsorment-stor skalle pläterad i show-krom — en Arena War-mästares nattduksbord-pjäs."
+    },
+    "80": {
+      "name": "Lowrider Konstmaquette",
+      "flavor": "En galerimaquette av en chopped lowrider — pinstripes fortfarande våta vid beröring."
+    },
+    "81": {
+      "name": "El Rubios Racer-trofé",
+      "flavor": "En förgylld racer-trofé lyft från ett privat öval — graveringen har skrapats av."
+    },
+    "82": {
+      "name": "Downtown Cab Co. Guldtrofé",
+      "flavor": "En sekel-av-tjänstutmärkelse från Downtown Cab Co. — senast sedd på en dispatchers hylla innan stället rånades."
+    },
+    "83": {
+      "name": "Kristall Pyramid-brevpress",
+      "flavor": "En tung kristallpyramid som brukade tynga ner en producents kontrakt — rensar enligt utsago dålig energi."
+    },
+    "84": {
+      "name": "Mästarens Boxhandske",
+      "flavor": "En enda röd handske lämnad i hörnet av en länge stängd gymsal — knogdamm fortfarande på lädret."
+    },
+    "85": {
+      "name": "Galaxy Yacht-miniatyr",
+      "flavor": "En juvelerares skalmodell av Galaxy — guldplätering, fungerande ankare, prissatt som det äkta."
+    },
+    "86": {
+      "name": "Up-n-Atomizer Strålpistol",
+      "flavor": "En retro krom dödsstråle direkt från Up-n-Atom-dinerns skylt — och förvånansvärt tung när du plockar upp den."
+    },
+    "87": {
+      "name": "Brutalist Betongblock",
+      "flavor": "Ett gjutet betongkonstblock som galleriet insisterar är \"post-Vinewood brutalist\" — även om det ser ut som en kantsten."
+    },
+    "88": {
+      "name": "Maze Bank Tower-maquette",
+      "flavor": "En perfekt skalmodell av Maze Bank Tower — dockhuset en VD har i hörnet av sitt riktiga kontor."
+    },
+    "89": {
+      "name": "Perico Compliance-elpistol",
+      "flavor": "En svartmarknads-elpistol tagen från en öval — har fortfarande halv laddning i cellen."
+    },
+    "90": {
+      "name": "Aztekisk Stenidol",
+      "flavor": "En vulkanisk stenidol äldre än staden själv — Franklin svor att han aldrig köpte den, men den dök ständigt upp."
+    },
+    "91": {
+      "name": "Arena Wars Mästartrofé",
+      "flavor": "Den stora — massiv guld ensam-överlevande-trofé, utdelad en gång per Arena Wars-säsong och aldrig två gånger."
+    },
+    "92": {
+      "name": "Rosaglacerad Strösselmunk",
+      "flavor": "En halvätren rosa-glacerad ring med regnbågsströssel, lämnad på en servett under en lång övervakning."
+    },
+    "93": {
+      "name": "Kristall Champagneflute",
+      "flavor": "Läppstift fortfarande på kanten från en Vinewood-afterparty ingen minns att de lämnade."
+    },
+    "94": {
+      "name": "Cayo Perico Dansartrofé",
+      "flavor": "En förgylld dansarfigurin, vunnen i ett heist-crew-bet och gömd för en regnig dag."
+    },
+    "95": {
+      "name": "Cayo Perico Krigartrofé",
+      "flavor": "Tvilling till dansaren, denna togs av crewets muskel innan de försvann."
+    },
+    "96": {
+      "name": "Penthouse Dekorativ Skulptur",
+      "flavor": "Modernistisk konstpjäs pantsatt av en pank arkadägare; de rika visste aldrig att den saknades."
+    },
+    "97": {
+      "name": "Meteorit Chokladkaka",
+      "flavor": "Bingo-temasötsaksbar med ett omslag som påstår att den smiddes i djupa rymden."
+    },
+    "98": {
+      "name": "P's & Q's Godislåda",
+      "flavor": "En klibbig kartong med alfabetsgodis lämnad efter ett barns födelsedag gick snett."
+    },
+    "99": {
+      "name": "Väggmonterad Konserthögtalare",
+      "flavor": "En skrapad PA-högtalare befriad från en Vespucci-blockfest som LSPD stängde av kl 02."
+    },
+    "100": {
+      "name": "Bean Machine Takeaway-kaffe",
+      "flavor": "Ljum latte med lockad lock — övergiven på väg till ett möte som redan börjat."
+    },
+    "101": {
+      "name": "Taggarens Pensel",
+      "flavor": "Borst täckta i fluorescerande grönt — tappad mitt i tag när sirener slog till i gränden."
+    },
+    "102": {
+      "name": "Numrerad Biljardboll — 8",
+      "flavor": "Den svarta bollen, skavd från tusen tvistematcher om femdollarsvad."
+    },
+    "103": {
+      "name": "Numrerad Biljardboll — 7",
+      "flavor": "Vinröd rand rullade av bordet och kom aldrig tillbaka till racket."
+    },
+    "104": {
+      "name": "Numrerad Biljardboll — 9",
+      "flavor": "Gul rand, skrapad på en sida där någon höll den i handen som brevpress."
+    },
+    "105": {
+      "name": "Numrerad Biljardboll — 13",
+      "flavor": "Orange rand med ett spräckt lackhörn från ett hårt bankskott som gick fel."
+    },
+    "106": {
+      "name": "Numrerad Biljardboll — 11",
+      "flavor": "Bordeauxrand fläckad av cigarettaska — en gång regelbunden gäst vid en Del Perro-turnering."
+    },
+    "107": {
+      "name": "Numrerad Biljardboll — 5",
+      "flavor": "Helt orange, slät som ny — uppenbarligen stulen första natten ur lådan."
+    },
+    "108": {
+      "name": "Numrerad Biljardboll — 15",
+      "flavor": "Vinröd rand med en hårspricka som visslar när man slår precis rätt."
+    },
+    "109": {
+      "name": "Numrerad Biljardboll — 12",
+      "flavor": "Lila rand hittad i fickan på en lånad jacka som ingen lämnade tillbaka."
+    },
+    "110": {
+      "name": "Numrerad Biljardboll — 4",
+      "flavor": "Helt violett, polerad nästan till en spegel — favoriten hos en länge pensionerad hustler."
+    },
+    "111": {
+      "name": "Vit Spelboll",
+      "flavor": "Spelbollen som bröt tusen rack — kritsmäcksspår fortfarande på framkanten."
+    },
+    "112": {
+      "name": "Numrerad Biljardboll — 6",
+      "flavor": "Helt grön med en buckla från när den fungerade som brevpress på en indrivares kontor."
+    },
+    "113": {
+      "name": "Numrerad Biljardboll — 1",
+      "flavor": "Helt gul, den turliga — hållen i handen före varje break av en stamgäst på baren."
+    },
+    "114": {
+      "name": "Numrerad Biljardboll — 2",
+      "flavor": "Helt blå med en blekt markörinitial — gjord anspråk på för länge sedan, aldrig återkrävd."
+    },
+    "115": {
+      "name": "Numrerad Biljardboll — 3",
+      "flavor": "Helt röd — sägs vara från ett bord där ett berömt one-pocket-hustle ägde rum."
+    },
+    "116": {
+      "name": "Numrerad Biljardboll — 10",
+      "flavor": "Blå rand med filtskav från ett av borden ingen får laga."
+    },
+    "117": {
+      "name": "Numrerad Biljardboll — 14",
+      "flavor": "Grön rand saknad från ett Cypress Flats-garagebord; ingen frågade två gånger."
+    },
+    "118": {
+      "name": "Glaserad Keramikkanna",
+      "flavor": "En tung keramikkanna från ett Grand Senora-vägstånd — naggad läpp, håller fortfarande vatten."
+    },
+    "119": {
+      "name": "Rullat Arkitekturpapper",
+      "flavor": "Byggritningar tätt rullade och bundna med snöre — tappade vid en hastig utgång."
+    },
+    "120": {
+      "name": "Anpassad SMG Mk II",
+      "flavor": "En moddad SMG med ett serienummer rensat fillat — lämnad efter ett Paleto Bay-jobb gick högt."
+    },
+    "121": {
+      "name": "Industriell Klovhammare",
+      "flavor": "En tung klovhammare lånad från en förman och aldrig återlämnad till verktygsbältet."
+    },
+    "122": {
+      "name": "Barberarens Lödderkopp",
+      "flavor": "Halvanvänd barberarskum, sandelträdoft inbakad."
+    },
+    "123": {
+      "name": "Pneumatisk Slagskruvdragare",
+      "flavor": "Avtryckare klibbig av bromsdamm och gammalt fett."
+    },
+    "124": {
+      "name": "Kanalsurfare-fjärrkontroll",
+      "flavor": "Batterilucka tejpad med en bit duct."
+    },
+    "125": {
+      "name": "Korgflätad Tvättkorg",
+      "flavor": "Luktar mjukmedel och en saknad strumpa."
+    },
+    "126": {
+      "name": "Låst Burner-telefon",
+      "flavor": "Låst skärm tänd med tjugotvå missade samtal."
+    },
+    "127": {
+      "name": "Krom Cocktailshaker",
+      "flavor": "Fortfarande kall, is skramlar mot polerat stål."
+    },
+    "128": {
+      "name": "Två-finger Whisky",
+      "flavor": "Rökig, torvad, två fingrar ånger."
+    },
+    "129": {
+      "name": "Marmor Kuriositetskulptur",
+      "flavor": "Kall vid beröring, signerad på basen med blyerts."
+    },
+    "130": {
+      "name": "Trave Förfalskade Licenser",
+      "flavor": "Tolv identiteter, samma frisyr, olika namn."
+    },
+    "131": {
+      "name": "Vitguld Safirdrope",
+      "flavor": "Infattad i vitguld, vikten ojämn med avsikt."
+    },
+    "132": {
+      "name": "Tromma-Mag Street Sweeper",
+      "flavor": "Trommamag varm, serienummer etsat bort."
+    },
+    "133": {
+      "name": "Krustad Hundmatsskål",
+      "flavor": "Krustad med torkad sås, myror har möte."
+    },
+    "134": {
+      "name": "Förbrukad Mässingspatron",
+      "flavor": "Tändaren träffad i centrum, lack flagnad från hylsan."
+    },
+    "135": {
+      "name": "Dammhöljd Inbunden",
+      "flavor": "Rygg knäckt vid kapitel fyra, ohörnad och slutgiltig."
+    },
+    "136": {
+      "name": "Trådad Datormus",
+      "flavor": "Hjul klibbigt, vänsterknapp blanknött."
+    },
+    "137": {
+      "name": "Sängbordsväckarklocka",
+      "flavor": "Display fastnat på 12:00, snooze-knapp intryckt."
+    },
+    "138": {
+      "name": "Vikt Dokumentmapp",
+      "flavor": "Namn maskerade med markör, kanter krullade av fukt."
+    },
+    "139": {
+      "name": "Två-skivors Brödrost",
+      "flavor": "Smulor i facket, spak lossnat."
+    },
+    "140": {
+      "name": "Skadat Rött Äpple",
+      "flavor": "Ett bett taget, lagt ner och glömt."
+    },
+    "141": {
+      "name": "Slim DVD-spelare",
+      "flavor": "Skivfack fast, RCA-kablar trasslade i en knut."
+    },
+    "142": {
+      "name": "C4-tegelsten",
+      "flavor": "Detonator avskruvad, kitt mjukt och varmt."
+    },
+    "143": {
+      "name": "Pride Lager-burk",
+      "flavor": "Svettar kall, halvt tumavtryck på fliken."
+    },
+    "144": {
+      "name": "Paparazzi Kamerahus",
+      "flavor": "Lång lins skavd, sista bilden fortfarande i bufferten."
+    },
+    "145": {
+      "name": "Slipad Glas Chefsaskkopp",
+      "flavor": "Tung botten, tre cigarrer loggade ikväll."
+    },
+    "146": {
+      "name": "Monterad Taxameter",
+      "flavor": "Frusen vid $14.20, kabel hänger från instrumentpanelen."
+    },
+    "147": {
+      "name": "Prinsesslipad Diamant Solitär",
+      "flavor": "Prinsesslip, certifierad till ett namn som inte längre existerar."
+    },
+    "148": {
+      "name": "Airhockey-klubba",
+      "flavor": "Filtbotten nött slät, handtag svettfläckat."
+    },
+    "149": {
+      "name": "Svart Obelisk-figurin",
+      "flavor": "Polerad sten, basen etsad med en enda symbol."
+    },
+    "150": {
+      "name": "Bucklad eCola-burk",
+      "flavor": "Bucklad vid kanten, kondens samlas vid basen."
+    },
+    "151": {
+      "name": "Casino Blank Kvartalstidskrift",
+      "flavor": "Friska blanka sidor som skryter med jackpottar som ingen du känner någonsin vunnit."
+    },
+    "152": {
+      "name": "Klubbhus Burner-laptop",
+      "flavor": "Klistermärkesbeklädd laptop med ett batteri varmt nog att steka ett ägg på."
+    },
+    "153": {
+      "name": "Fett-krustad Verktygscaddy",
+      "flavor": "Varje låda skramlar med omaka hylsor och en enda fettig lyckokaka."
+    },
+    "154": {
+      "name": "Importerade Cigarrer",
+      "flavor": "Tätt insvepta i folie och luktar som en rikare mans vardagsrum."
+    },
+    "155": {
+      "name": "Kristall Whiskykaraff",
+      "flavor": "Handskuren kristall som fortfarande håller spöket av en trettio år gammal single malt."
+    },
+    "156": {
+      "name": "Flaskservice Ishink",
+      "flavor": "Halvsmält is, läppstiftskant, och en eftersmak av någon annans goda natt."
+    },
+    "157": {
+      "name": "Omärkt DVD-fodral",
+      "flavor": "Ingen titel, ingen åldersgräns, och en klibbig rest du inte vill identifiera."
+    },
+    "158": {
+      "name": "Tung Stålskruvnyckel",
+      "flavor": "Den sortens skruvnyckel som dragit åt fler käkar än bultar."
+    },
+    "159": {
+      "name": "En Ensam Stövel",
+      "flavor": "Sula genomnött, historia oberättad, andra stöveln förmodligen i en container någonstans."
+    },
+    "160": {
+      "name": "Tömd Husflaska",
+      "flavor": "Klibbig etikett borttagen, innehållet borta för länge sedan, en liten scen för fruktflugor."
+    },
+    "161": {
+      "name": "Penthouse Mässing-skulptur",
+      "flavor": "Gjuten mässing med en kurva så självbelåten att den måste ha kostat en kvarts miljon."
+    },
+    "162": {
+      "name": "Slipad Safir-hängsmycke",
+      "flavor": "Kall vid beröring och på något sätt tyngre än en så liten sten borde vara."
+    },
+    "163": {
+      "name": "Trädgårdscenter-ormbunke",
+      "flavor": "Lite för mycket vattnad, lite för lite älskad, redo att dö i ett nytt hem."
+    },
+    "164": {
+      "name": "Tejpgrepp Snubnose Revolver",
+      "flavor": "Sex kammare, två förbrukade, grepp inlindat i friktionstejp som luktar svett."
+    },
+    "165": {
+      "name": "Skavd Högtalardockning",
+      "flavor": "Batteri dött, bas pajad, men antennen lyser fortfarande hoppfullt blå."
+    },
+    "166": {
+      "name": "Halvtom Sprejburk",
+      "flavor": "Skramlar när du skakar den, väser när du trycker, sjunger när du siktar."
+    },
+    "167": {
+      "name": "Skrynklig Läskmugg",
+      "flavor": "Sugrör böjt, lock bitet, precis nog sirap kvar för att klistra den vid kantstenen."
+    },
+    "168": {
+      "name": "Överskotts-gasmask",
+      "flavor": "Filterkassett krustad, ögonlinser dimmiga av någon annans panik."
+    },
+    "169": {
+      "name": "Chefs-smartphone",
+      "flavor": "Låst skärm, två missade samtal, låsskärmsbild av en yacht du inte har råd med."
+    },
+    "170": {
+      "name": "Varm Skalhylsa",
+      "flavor": "Mässing fortfarande varm nog att minnas avtryckardraget."
+    },
+    "171": {
+      "name": "Öppnad Magnum Champagne",
+      "flavor": "Folie riven, kork förlorad, natten redan på väg att bli legendarisk."
+    },
+    "172": {
+      "name": "Järn Stridsyxa",
+      "flavor": "Egg flisad, skaft nött, den sortens sak som hör hemma över en kamin."
+    },
+    "173": {
+      "name": "Förseglad Smugglarwhisky",
+      "flavor": "Bärnstensfärgad inuti, orörd, etikett präglad med ett namn ingen uttalar rätt."
+    },
+    "174": {
+      "name": "Pärlgrepp Vintage-pistol",
+      "flavor": "Graverat pipa, pärlgrepp, luktar svagt av vapenolja och ånger."
+    },
+    "175": {
+      "name": "Halvfullt Vinglas",
+      "flavor": "Läppstift på kanten, sediment i botten, samtal länge övergivet."
+    },
+    "176": {
+      "name": "Tung .50 Pistol",
+      "flavor": "Rekylsårsmaterial, med ett serienummer fillat rent till silver."
+    },
+    "177": {
+      "name": "Hög Glas-vattenpipa",
+      "flavor": "Grumlig kammare, sprucken downstem, doftar som ett Vinewood-musikvideoset."
+    },
+    "178": {
+      "name": "Klämd Senapsflaska",
+      "flavor": "Krustad munstycke, bucklade sidor, lock saknat i strid."
+    },
+    "179": {
+      "name": "Krossad Läskburk",
+      "flavor": "Fliken fortfarande fast, sidan intryckt av en bråttom stövel."
+    },
+    "180": {
+      "name": "Stencilerad Ammolåda",
+      "flavor": "Stämplad med ett enhetsnummer, förseglad med paketejp och en bön."
+    },
+    "181": {
+      "name": "Sprucken DVD-fodral",
+      "flavor": "Ett skavt plastfodral med skivan saknad och ett blekt uthyrningsklistermärke."
+    },
+    "182": {
+      "name": "Nödbloss-låda",
+      "flavor": "En förbränd kartong stencilerad med röda varningar."
+    },
+    "183": {
+      "name": "Förgylld Skall-byst II",
+      "flavor": "Ett kromat memento-mori som någon tog med sig innan invigningen."
+    },
+    "184": {
+      "name": "Kök Glasgryta",
+      "flavor": "En värmefärgad Pyrex-gryta som fortfarande luktar svagt av marinara."
+    },
+    "185": {
+      "name": "Frontkontor-portfölj",
+      "flavor": "En skavd aluminiumväska reglad med en bagageetikett på italienska."
+    },
+    "186": {
+      "name": "Kontorsbåss Skrivbordsorganisatör",
+      "flavor": "En laddad pennhållare som tydligt aldrig organiserats."
+    },
+    "187": {
+      "name": "Aztekisk Idol-cache",
+      "flavor": "En pre-colombiansk kuriositet krustad i djungelmossa; någon borde verkligen inte ha flyttat den."
+    },
+    "188": {
+      "name": "Trottoarsskräp-hög",
+      "flavor": "Krossade muggar, en lottsedel, och en flyer för en klubb som stängde 2014."
+    },
+    "189": {
+      "name": "MC Kurirfodral",
+      "flavor": "En låst vägväska överklistrad av tre olika chapters."
+    },
+    "190": {
+      "name": "Resident DJ-laptop",
+      "flavor": "Stridskärrat däck fortfarande köat på en låt ingen erkänner att de skrev."
+    },
+    "191": {
+      "name": "Boutique Display-vas",
+      "flavor": "En handkastad keramik med en prislapp värd en månadshyra."
+    },
+    "192": {
+      "name": "Tappad 9mm Sidovapen",
+      "flavor": "Slid låst tillbaka, serier fillade rent, tre skott från ett magasin."
+    },
+    "193": {
+      "name": "Förgylld Skall-byst III",
+      "flavor": "En matchande pjäs från den ofärdiga casinoinstallations-triptyken."
+    },
+    "194": {
+      "name": "LSPD Maglite",
+      "flavor": "Tungt aluminium, en bucklad lunett, och en kroppskameraklämma fortfarande fäst."
+    },
+    "195": {
+      "name": "Mamma-Pappa STÄNGT-skylt",
+      "flavor": "Handvänd tusen gånger; hörn krullade, timmar utskrapade två gånger."
+    },
+    "196": {
+      "name": "Förvirrad Designer-sneaker",
+      "flavor": "Bara höger fot, skavd tå, snören fortfarande knutna — någon sprang."
+    },
+    "197": {
+      "name": "Låglands Peyote-blomma",
+      "flavor": "En vaxig öknknapp som surrar svagt när du hukar bredvid den."
+    },
+    "198": {
+      "name": "Industriell Oljetunna",
+      "flavor": "Svällande sömmar och en färsk läcka som glider gruset under."
+    },
+    "199": {
+      "name": "Överskotts-ammolåda",
+      "flavor": "Militärstämplad, halvöppen, räkning klart utanför böckerna."
+    },
+    "200": {
+      "name": "Chefs-rolodex",
+      "flavor": "En flipper full av blyertsskrivna namn; var tredje post är överstruken."
+    },
+    "201": {
+      "name": "Casino Art Car-skulptur",
+      "flavor": "En kromad muskelbilssilhuett monterad som en motorhuvsorment som blivit vild."
+    },
+    "202": {
+      "name": "Vintage Transistorradio",
+      "flavor": "Sprucken tunerratt, plockar fortfarande upp Los Santos Rock om du knackar rätt."
+    },
+    "203": {
+      "name": "Förgylld Skall-byst I",
+      "flavor": "Den första i triptyken — den som konstnären vägrade titulera."
+    },
+    "204": {
+      "name": "Smugglad Whiskyflaska",
+      "flavor": "Utländsk etikett, brutet sigill, importstämpeln klumpigt avskrapad."
+    },
+    "205": {
+      "name": "Kasserad Nyhetsleksak",
+      "flavor": "Hittad bakom containern; ingen erkänner vems den var."
+    },
+    "206": {
+      "name": "Headshop Mittpunkt",
+      "flavor": "Handblåst borosilikat, röktäckt kammare, prislapp redan diskuterad."
+    },
+    "207": {
+      "name": "Krom Salong-hårtork",
+      "flavor": "Tungt kromhandtag, motor fortfarande varm vid beröring."
+    },
+    "208": {
+      "name": "Tomatkrämsburk",
+      "flavor": "Bucklad etikett, utgångsdatum skrubbat bort med markör."
+    },
+    "209": {
+      "name": "Verkstad Verktygskista",
+      "flavor": "Övre lådan hänger öppen; hylsor i metriskt, spärrar i imperial."
+    },
+    "210": {
+      "name": "Casino Court Tröféboll",
+      "flavor": "En förgylld basketskulptur, signerad med markör av ett namn halvt utsmetat."
+    },
+    "211": {
+      "name": "Stencilerad Ammolåda II",
+      "flavor": "Mässingshylsor skramlar inuti som lösa tänder i en kaffeburk."
+    },
+    "212": {
+      "name": "Sammet Arvegodslåda",
+      "flavor": "Små mässingsgångjärn luktar fortfarande någons mormor."
+    },
+    "213": {
+      "name": "Förgylld Huv-maquette",
+      "flavor": "Lack tjock nog att inteckna en liten studio."
+    },
+    "214": {
+      "name": "Chefs-bystskulptur",
+      "flavor": "Någon VP valde den; assistenten rullade ögonen."
+    },
+    "215": {
+      "name": "Hoppande CD-trave",
+      "flavor": "Hälften av fodralen är tomma; resten är repade till helvete."
+    },
+    "216": {
+      "name": "Disk Ammo-låda",
+      "flavor": "Klistermärke säger REA; lådan har aldrig flyttat."
+    },
+    "217": {
+      "name": "Bar Citrus-burk",
+      "flavor": "En ensam klyfta flyter som om den väntar på dricks."
+    },
+    "218": {
+      "name": "Bluff Bombenhet",
+      "flavor": "Kablar i färgen av billig godis och en timer som inte tickar."
+    },
+    "219": {
+      "name": "Skyltfönster-leksak",
+      "flavor": "Även gränd-kattarna går brett runt denna."
+    },
+    "220": {
+      "name": "Harts Torn-bong",
+      "flavor": "Vattnet har inte bytts sedan föregående hyresgäst."
+    },
+    "221": {
+      "name": "Slipad Kristall Cigarrbricka",
+      "flavor": "Tre cigarrändar, alla kubaner, alla släckta mitt i deal."
+    },
+    "222": {
+      "name": "Disk Brödrost",
+      "flavor": "Ratten sitter fast på fem och ingen har klagat än."
+    },
+    "223": {
+      "name": "Blodig Trädgårdsspade",
+      "flavor": "Jorden på bladet ser rödare ut än matjord borde."
+    },
+    "224": {
+      "name": "Anonymt Brunt Paket",
+      "flavor": "Ingen returadress, tre olika portoklistermärken."
+    },
+    "225": {
+      "name": "No.1 Arkadtrofé",
+      "flavor": "Gravyr läses NUMMER ETT i ett typsnitt från 1983."
+    },
+    "226": {
+      "name": "Apotek Hyllflaska",
+      "flavor": "Off-brand-etikett, butiksmärkesdoft, fullprisetikett."
+    },
+    "227": {
+      "name": "Skuren Blandnings-tub",
+      "flavor": "Restringar runt insidan som ett dåligt år för träd."
+    },
+    "228": {
+      "name": "Taktisk Platta Mask",
+      "flavor": "Rem luktar fortfarande den senaste killens adrenalin."
+    },
+    "229": {
+      "name": "Svart Otitulerad Skulptur",
+      "flavor": "Katalogen kallar den Otitulerad; revisorn kallar den en avskrivning."
+    },
+    "230": {
+      "name": "Förseglad Mästarflaska",
+      "flavor": "Plakettens datum är äldre än de flesta av arkadens stamgäster."
+    },
+    "231": {
+      "name": "Hård-skum Vapenfodral",
+      "flavor": "Skuminsats fortfarande formad för något seriöst."
+    },
+    "232": {
+      "name": "Cayo Salt-rand Burk",
+      "flavor": "Saltrand runt locket säger att denna varit på öarna."
+    },
+    "233": {
+      "name": "Trippel-pelare Boutique-ljus",
+      "flavor": "Tre vekar, tre olika brinntider, en stämning."
+    },
+    "234": {
+      "name": "Fält-utgiven Gasmask",
+      "flavor": "Filtret är färskt; linserna är skrapade till spets."
+    },
+    "235": {
+      "name": "Krom Huv-maquette",
+      "flavor": "Polerad till en finish du kan raka dig i."
+    },
+    "236": {
+      "name": "Halvätren Munk-låda",
+      "flavor": "Tre kvar; en är definitivt slickad."
+    },
+    "237": {
+      "name": "Ler Trädgårds-kruka",
+      "flavor": "Jord torr, suckulent envis, tagg hänger fortfarande från kanten."
+    },
+    "238": {
+      "name": "Röd Dunk",
+      "flavor": "Halvfull och korken luktar en dålig helg."
+    },
+    "239": {
+      "name": "Tryckplatte-mina",
+      "flavor": "Fjäder på avtryckaren är spänd tillräckligt för att vissla."
+    },
+    "240": {
+      "name": "RC Hobby-handenhet",
+      "flavor": "Antenn böjd, vänster stick klibbig, batterier på något sätt fortfarande bra."
+    },
+    "241": {
+      "name": "Magnetisk Fordonsmina",
+      "flavor": "En levande-utseende magnetisk mina som någon övergav i brådska."
+    },
+    "242": {
+      "name": "Rosa Nyhetsleksak B",
+      "flavor": "Inslagen i en papperspåse som inte överlevde vinden."
+    },
+    "243": {
+      "name": "Dammig VHS-spelare",
+      "flavor": "Kassett fast inuti, etikett säger 'TITTA INTE'."
+    },
+    "244": {
+      "name": "Sammet Halsband-display",
+      "flavor": "Juvelen är borta men sammeten luktar fortfarande polish."
+    },
+    "245": {
+      "name": "Cayo Slipad Kristallkaraff",
+      "flavor": "Slipad kristall som viskar om stulen rom och saltsprej."
+    },
+    "246": {
+      "name": "Höger Tränare",
+      "flavor": "Snören fortfarande knutna, ägare hoppar tydligt hem på en fot."
+    },
+    "247": {
+      "name": "Klippsidobekännelse",
+      "flavor": "Väderblekt bekännelse fäst under en sten."
+    },
+    "248": {
+      "name": "24/7 Pot-nudel-mugg",
+      "flavor": "Fortfarande varm, gaffel rakt upp i nederlag."
+    },
+    "249": {
+      "name": "Vintage iPod-dockning",
+      "flavor": "Statiskt brus utgår fortfarande om du lutar den rätt."
+    },
+    "250": {
+      "name": "Redacterad Uppdragsmapp",
+      "flavor": "Manilla-hud, redacterat bläck, luktar svagt av krut."
+    },
+    "251": {
+      "name": "Krossad Aluminiumburk",
+      "flavor": "Någons parkeringsmätare-raseri, fångad i aluminium."
+    },
+    "252": {
+      "name": "Lesters Laptop",
+      "flavor": "Tolv fönster öppna, inget av dem lagligt."
+    },
+    "253": {
+      "name": "Rosa Nyhetsleksak D",
+      "flavor": "Glitterfinish, batterier optimistiska."
+    },
+    "254": {
+      "name": "Service Dispatch-radio",
+      "flavor": "Inställd på en dispatch-frekvens som inte längre existerar."
+    },
+    "255": {
+      "name": "Fyrtio Uns-flaska",
+      "flavor": "Botten fortfarande klibbig från en lång Davis-kväll."
+    },
+    "256": {
+      "name": "Spec Ops Balaclava",
+      "flavor": "Luktar cordit och dåliga beslut."
+    },
+    "257": {
+      "name": "Kompakt Ammo-paket",
+      "flavor": "Mässing klinger när vinden skiftar."
+    },
+    "258": {
+      "name": "Två-skivors Disk Brödrost",
+      "flavor": "Smulbricka har inte tömts sedan 2013."
+    },
+    "259": {
+      "name": "Pisswasser Tall Boy",
+      "flavor": "Halvtom, helt ångrad."
+    },
+    "260": {
+      "name": "Rosé Plonk-flaska",
+      "flavor": "Kork dragen vid en årsdag som aldrig kom."
+    },
+    "261": {
+      "name": "Pärlat Halsband-stativ",
+      "flavor": "En enda pärla fångar fortfarande Vinewood-neon."
+    },
+    "262": {
+      "name": "SNS Pistol Mk II",
+      "flavor": "Dolda, förnekbara, mycket verkliga."
+    },
+    "263": {
+      "name": "Keramik Kontorsskål",
+      "flavor": "Tom utom en envis gem."
+    },
+    "264": {
+      "name": "Enkelskott-pistol",
+      "flavor": "En patron, en chans, en dålig dag för någon."
+    },
+    "265": {
+      "name": "Sprucken Stridshjälm",
+      "flavor": "Rem sliten, visir sprucket, historia oberättad."
+    },
+    "266": {
+      "name": "Casino Skulptur Bil #6",
+      "flavor": "En skalmodell av en bil värd mer än vad casinot betalade för den."
+    },
+    "267": {
+      "name": "Röd Plonk-flaska",
+      "flavor": "Etikett blekt, årgång på något sätt värre än prislappen."
+    },
+    "268": {
+      "name": "Cluckin' Bell Sprängämne",
+      "flavor": "Inslaget i kyckling-tryckt tejp, vilket på något sätt gör det värre."
+    },
+    "269": {
+      "name": "Betongkonstblock I",
+      "flavor": "Brutalist med flit, taggad av misstag."
+    },
+    "270": {
+      "name": "Rosa Nyhetsleksak F",
+      "flavor": "Lämnad på sängbordet i en Vinewood-walk-up efter en mycket hög tisdag."
+    },
+    "271": {
+      "name": "Slaktarens Kniv",
+      "flavor": "Luktar fortfarande svagt av fläskbog och dåliga beslut."
+    },
+    "272": {
+      "name": "Mekanikerns Spärr",
+      "flavor": "Varje skruvnyckel har skrapat sin egen bön i huvudet."
+    },
+    "273": {
+      "name": "High-Roller Hotline-telefon",
+      "flavor": "Lur fortfarande varm från ett samtal ingen erkänner att de ringde."
+    },
+    "274": {
+      "name": "Smugglarens Statisk-låda",
+      "flavor": "Ratten plockar bara upp en kanal och den viskar på spanska."
+    },
+    "275": {
+      "name": "Sammet Halsband-stativ",
+      "flavor": "Kedjan den en gång höll pantsattes tre gånger före middag."
+    },
+    "276": {
+      "name": "Bar Sugrör-tumblare",
+      "flavor": "Hälften av sugrören är böjda i samma riktning, som vass i en flod."
+    },
+    "277": {
+      "name": "Pacific Standard-kista",
+      "flavor": "Åtta klämmor, fyra lås, ett löfte transportörerna aldrig höll."
+    },
+    "278": {
+      "name": "Speedway Brons-gjutning",
+      "flavor": "En trofé från ett lopp endast dealers minns."
+    },
+    "279": {
+      "name": "Natrium Nudel-tegel",
+      "flavor": "Utgånget 2008. Fortfarande lagligt ätbart i Blaine County."
+    },
+    "280": {
+      "name": "Gentleman Cognac-glas",
+      "flavor": "Tre fingrar borta och korken förlorad till vinden."
+    },
+    "281": {
+      "name": "Gnistrande Svetsarvisir",
+      "flavor": "Gnistor har skrivit stjärnbilder över glaset."
+    },
+    "282": {
+      "name": "Omärkt Mästarbägare",
+      "flavor": "Inget namn graverat. Den som vann detta ville inte ha äran."
+    },
+    "283": {
+      "name": "Kromad Data-idol",
+      "flavor": "Pläterad i krom och fylld med Lifeinvader-praktikanters hemligheter."
+    },
+    "284": {
+      "name": "Kall Pisswasser-flaska",
+      "flavor": "En flaska så kall att den lärde en man att förlåta."
+    },
+    "285": {
+      "name": "Röd Golvstrobe",
+      "flavor": "Fortfarande varm. Fortfarande röd. Surrar fortfarande samma beat."
+    },
+    "286": {
+      "name": "Kokainsidols Fraktlåda",
+      "flavor": "Tullappen signerades med någon annans blod."
+    },
+    "287": {
+      "name": "Ärlig Whiskyflaska",
+      "flavor": "Den som drack från den förlät inget."
+    },
+    "288": {
+      "name": "Tidvattenpöl Peyote-blomma",
+      "flavor": "Saltvatten bevarade vad öknen försökte förneka."
+    },
+    "289": {
+      "name": "Badrum Bomullspinnar",
+      "flavor": "Använda. Varje en annorlunda. Fråga inte."
+    },
+    "290": {
+      "name": "Sugar Loop Flingpaket",
+      "flavor": "Maskotens ögon utskrapade av en tidigare ägare."
+    },
+    "291": {
+      "name": "Betongcoupé-maquette",
+      "flavor": "En miniatyr målad med dammet från den riktiga."
+    },
+    "292": {
+      "name": "Glömd Lagerlåda",
+      "flavor": "Vad som än fanns i den sålde slut innan solen gick upp."
+    },
+    "293": {
+      "name": "Gyllene Ägg",
+      "flavor": "Burdit ut från ett Fleeca-valv inuti en violinfodral."
+    },
+    "294": {
+      "name": "Diplomat-portfölj",
+      "flavor": "Kombination låst till en födelsedag ingen erkänner."
+    },
+    "295": {
+      "name": "Jägartrofé-skalle",
+      "flavor": "En bock med ett pris på sina horn."
+    },
+    "296": {
+      "name": "Annoterad Margin-skribent",
+      "flavor": "Varje sida understruken. Ingen håller med."
+    },
+    "297": {
+      "name": "Tropisk Ananasprydnad",
+      "flavor": "Fel frukt, fel ö, rätt avsikt."
+    },
+    "298": {
+      "name": "Soptippsplats Trasdocka",
+      "flavor": "Den som sydde ihop den igen hade bråttom."
+    },
+    "299": {
+      "name": "Nött Sneaker",
+      "flavor": "En enda sneaker lämnad i brådskan från gårdagens rea."
+    },
+    "300": {
+      "name": "Space Ranger Blaster",
+      "flavor": "En replika-strålpistol från en länge inställd Vinewood-franchise."
+    },
+    "301": {
+      "name": "Pride Lager Sexpack",
+      "flavor": "Stockat igår, redan halvt glömt på bottenhyllan."
+    },
+    "302": {
+      "name": "Strid Whisky-karaff",
+      "flavor": "En frostad glas-hus-utskänkning från en länge stängd cantina."
+    },
+    "303": {
+      "name": "Porslin Kattfigurin",
+      "flavor": "Dess keramiska öga är flisat men ser fortfarande på rummet."
+    },
+    "304": {
+      "name": "Chefs-pennhållare",
+      "flavor": "Sex kulspetsar, två torra, en tuggad bortom reparation."
+    },
+    "305": {
+      "name": "Kasserad Arbetsstövel",
+      "flavor": "Lera fortfarande klibbig vid sulan från ett jobb ingen avslutade."
+    },
+    "306": {
+      "name": "Gammal Stridsreserv",
+      "flavor": "Etikett borttagen, innehåll bärnstensfärgat, årgång omöjlig att verifiera."
+    },
+    "307": {
+      "name": "Läderbunden Antologi",
+      "flavor": "Marginalanteckningar i tre olika händer och en utländsk skrift."
+    },
+    "308": {
+      "name": "Använd Sprejburk",
+      "flavor": "Lock saknat, munstycke täppt av gårdagens elektriska blå."
+    },
+    "309": {
+      "name": "Karmin Aerosol",
+      "flavor": "En favoritnyans hos de lokala crewen, alltid nästan slut."
+    },
+    "310": {
+      "name": "Midnatt Aerosol",
+      "flavor": "Tyngre burk än sin tvilling, skakad tills kulan gav efter."
+    },
+    "311": {
+      "name": "Skadad Gasbehållare",
+      "flavor": "Halvfull, mest ångor, ett klistermärke länge urtvättat."
+    },
+    "312": {
+      "name": "Imperator Arena Bägare",
+      "flavor": "Ett arenapris en mästare aldrig kom tillbaka för att hämta."
+    },
+    "313": {
+      "name": "Förseglad Dossier",
+      "flavor": "Sidor stämplade, datum maskerade, gem rost-skadad."
+    },
+    "314": {
+      "name": "Tequila Reposado",
+      "flavor": "Mask för länge sedan upplöst i legend."
+    },
+    "315": {
+      "name": "Tygrygg-volym",
+      "flavor": "En läsares tumavtryck pressat permanent in i kapitel fyra."
+    },
+    "316": {
+      "name": "Kastad Sneaker",
+      "flavor": "Snören knutna ihop, någon menade att kasta detta över en kabel."
+    },
+    "317": {
+      "name": "Vintage Champagneflaska",
+      "flavor": "Folie intakt, kork svettas tyst i den svala mörkret."
+    },
+    "318": {
+      "name": "Diner Kaffemugg",
+      "flavor": "Läppstifts-halvmåne på kanten, påfyllning kom aldrig."
+    },
+    "319": {
+      "name": "Skrynklig Vuxenmagasin",
+      "flavor": "Sidor klibbade där tuggummi-pinnen landade."
+    },
+    "320": {
+      "name": "Marmor Mortel & Stöt",
+      "flavor": "Vit rest avsatt i ådringen, inte helt socker."
+    },
+    "321": {
+      "name": "Dimmig Dykmask",
+      "flavor": "Rem saltstyvad, lins repad från ett rev för många."
+    },
+    "322": {
+      "name": "Trådbaserat Rivnings-paket",
+      "flavor": "Den som ställde in timern ritade också en smiley på tejpen."
+    },
+    "323": {
+      "name": "Industriell Färgburk",
+      "flavor": "Lock bändat, pensel fast, lock stänger inte igen."
+    },
+    "324": {
+      "name": "Svettfläckad Stetson",
+      "flavor": "Vikningen säger att bäraren red hårt, satt högt."
+    },
+    "325": {
+      "name": "Banklobby Artighets-telefon",
+      "flavor": "Lur varm, någon lade på sekunden du gick in."
+    },
+    "326": {
+      "name": "Husvodka Femte",
+      "flavor": "Billig etikett, ärlig bränning, halv borta före middag."
+    },
+    "327": {
+      "name": "Gjutjärnshantel",
+      "flavor": "Räfflat grepp mörknat från tusen reps."
+    },
+    "328": {
+      "name": "Krustad Skattkista",
+      "flavor": "Mässingsklämmor saltfria, regeln väser när du lyfter den."
+    },
+    "329": {
+      "name": "Redwood Kartong",
+      "flavor": "Ett platt-packat Redwoods-paket inskjutet bakom kassaglaset."
+    },
+    "330": {
+      "name": "Referensbok-trave",
+      "flavor": "Tre inbundna staplade av någon som aldrig kom tillbaka för att avsluta dem."
+    },
+    "331": {
+      "name": "Disk Sockerbar",
+      "flavor": "Ett snackbar-omslag som försöker mycket hårt att se gourmet ut."
+    },
+    "332": {
+      "name": "DJ-bås EQ-rack",
+      "flavor": "Patchkablar lyser svagt under stroben."
+    },
+    "333": {
+      "name": "Pantheon Kanvas-tryck",
+      "flavor": "En kanvas som väntar på en vägg den aldrig riktigt förtjänar."
+    },
+    "334": {
+      "name": "Tre-hål Skidmask",
+      "flavor": "Den luktar fortfarande nervös svett."
+    },
+    "335": {
+      "name": "House Edge-maquette",
+      "flavor": "En liten hyllning till en byggnad som aldrig ger något tillbaka."
+    },
+    "336": {
+      "name": "Bucklad Roma-tomat",
+      "flavor": "Två-för-en och förmodligen av en anledning."
+    },
+    "337": {
+      "name": "Kokt Pyrex-bägare",
+      "flavor": "Rest i botten säger att någon tog en genväg."
+    },
+    "338": {
+      "name": "Gentleman's Glans",
+      "flavor": "Ohörnad på samma sida sedan 2013."
+    },
+    "339": {
+      "name": "Plats Varningsfyr",
+      "flavor": "Blinkar orange som om den har någonstans att vara."
+    },
+    "340": {
+      "name": "Display Tränare Höger",
+      "flavor": "Display-modell, aldrig parad, aldrig såld."
+    },
+    "341": {
+      "name": "Kontorkaffemugg",
+      "flavor": "Ljum, läppstift på kanten, ägare okänd."
+    },
+    "342": {
+      "name": "Display Gräskvadrat",
+      "flavor": "En prydlig liten kvadrat som låtsas vara en äng."
+    },
+    "343": {
+      "name": "Trasvelve Molotov",
+      "flavor": "Luktar billig gin och värre beslut."
+    },
+    "344": {
+      "name": "MC Chapter-lock",
+      "flavor": "Pin fortfarande varm från parkeringsplats-patch-ceremonin."
+    },
+    "345": {
+      "name": "Förseglad Smugglarstock",
+      "flavor": "Flaska fortfarande fabriksfärsk, etikett knapr."
+    },
+    "346": {
+      "name": "Helium Festballong",
+      "flavor": "Sträng trasslad runt benet på en fällstol."
+    },
+    "347": {
+      "name": "Display Tränare Vänster",
+      "flavor": "Sula orörd, snören trädda för hårt för att någonsin bäras."
+    },
+    "348": {
+      "name": "Lackerad Konst-coupé",
+      "flavor": "Målad av någon som aldrig ägde den riktiga."
+    },
+    "349": {
+      "name": "Kartell Harts-byst",
+      "flavor": "Ett ansikte ingen bad att minnas."
+    },
+    "350": {
+      "name": "Inbunden Singel",
+      "flavor": "Rygg knäckt en gång, två gånger, sedan tillbakaställd."
+    },
+    "351": {
+      "name": "Öppnad Champagne II",
+      "flavor": "Halvt platt, fullt pris."
+    },
+    "352": {
+      "name": "Fåfänga Glasspegel",
+      "flavor": "Smutsig av någon som verkligen ville vara säker."
+    },
+    "353": {
+      "name": "Halvpack Askkopp",
+      "flavor": "Tre filter, en tändsticka, noll ånger."
+    },
+    "354": {
+      "name": "Boutique Testflaska",
+      "flavor": "Halvt sprejad av främlingar, aldrig köpt."
+    },
+    "355": {
+      "name": "Dockside Cargokrok",
+      "flavor": "Repets knoge fransad där någon blev otålig."
+    },
+    "356": {
+      "name": "Crate-Dive Vinyl-fodral",
+      "flavor": "B-sida klottrad i markör av ursprungliga ägaren."
+    },
+    "357": {
+      "name": "Diner Servett-trave",
+      "flavor": "Läppstifts-fläck fortfarande på den översta servetten."
+    },
+    "358": {
+      "name": "Distrikt Sköld-plakett",
+      "flavor": "En plakett polerad oftare än den förtjänades."
+    },
+    "359": {
+      "name": "Pacific Tackeringsbar",
+      "flavor": "En enda bar pressat solljus, tyngre än dess tystnad."
+    },
+    "360": {
+      "name": "Arkad Robot-prydnad",
+      "flavor": "Tenn-leende, plasthjärta, åtta bitar av missplacerad lojalitet."
+    },
+    "361": {
+      "name": "Donator Maskot-prydnad",
+      "flavor": "En souvenir från en middag som betalade för någons tystnad."
+    },
+    "362": {
+      "name": "Sen-natt Uthyrningsdvd",
+      "flavor": "Den sortens plastfodral som aldrig kom tillbaka till butiken."
+    },
+    "363": {
+      "name": "Discount Snapback-keps",
+      "flavor": "Brätte fortfarande vikt från hyllan, aldrig huvudet."
+    },
+    "364": {
+      "name": "Antik Skivtelefon",
+      "flavor": "En rington som fortfarande tror att någon är på andra sidan."
+    },
+    "365": {
+      "name": "Bana Sju Föräldralös Boll",
+      "flavor": "Tre fingrar missade den; rännan fångade den istället."
+    },
+    "366": {
+      "name": "Understruken Margin-bok",
+      "flavor": "Understruken två gånger, ohörnad, aldrig avslutad förbi kapitel fyra."
+    },
+    "367": {
+      "name": "Två-För-En Konserv",
+      "flavor": "Bucklad från hyll-kriget, fortfarande kall från kylen."
+    },
+    "368": {
+      "name": "Död Trafiksignal",
+      "flavor": "Ett rött öga som äntligen fick stänga."
+    },
+    "369": {
+      "name": "Förlorad Pilot Beta-band",
+      "flavor": "Magnetiskt minne av en show som aldrig sändes."
+    },
+    "370": {
+      "name": "Kassa Chokladkaka",
+      "flavor": "Impulsköpet som såg hundra plånböcker öppnas."
+    },
+    "371": {
+      "name": "Glöd Förtjänad Trofé",
+      "flavor": "Tilldelad till den som höll elden andades genom kylan."
+    },
+    "372": {
+      "name": "Court Veteran Volleyboll",
+      "flavor": "Blekta paneler, sandfickor, ett set till i den."
+    },
+    "373": {
+      "name": "Kvartalsprognos-pärm",
+      "flavor": "Siffror som lovade mer än de levererade."
+    },
+    "374": {
+      "name": "Smörjapas Bägare",
+      "flavor": "Polerad där händerna håller den, ärrad överallt annars."
+    },
+    "375": {
+      "name": "B-film Strålpistol",
+      "flavor": "Vakuumrör, kromfenor, hot den inte kan hålla."
+    },
+    "376": {
+      "name": "Bärgad Porslinsskål",
+      "flavor": "Porslin som har hört saker inget porslin borde."
+    },
+    "377": {
+      "name": "Sprucken Open-Tabs Laptop",
+      "flavor": "Batteri dött vid värsta möjliga sparpunkt."
+    },
+    "378": {
+      "name": "Dold Baken-skanner",
+      "flavor": "Den kvittrar åt saker staden försökte begrava."
+    },
+    "379": {
+      "name": "Styrelserum Originalmålning",
+      "flavor": "Inramad smak, signerad av någon som hade råd."
+    },
+    "380": {
+      "name": "Kassa Lockmedel Inslagen Godis",
+      "flavor": "Inslagen i folie, hållen precis inom armlängds avstånd."
+    },
+    "381": {
+      "name": "Brun-ärm DVD",
+      "flavor": "En titel som kom i en vanlig brun ärm."
+    },
+    "382": {
+      "name": "Stenyxa Arvegods",
+      "flavor": "Knackad tålmodigt och tyst, av händer som kände skogarna."
+    },
+    "383": {
+      "name": "Tag Fyrtio-sju Klapper",
+      "flavor": "Markerad, planlagd, aldrig använd i slutklippet."
+    },
+    "384": {
+      "name": "Brand Dispatch-handhållen",
+      "flavor": "Statisk och en anropssignal ingen besvarade."
+    },
+    "385": {
+      "name": "Galleri Mittpunkt-bil",
+      "flavor": "En bil som bytte sin motor mot en åsikt."
+    },
+    "386": {
+      "name": "Pier Final-fyrverkeri",
+      "flavor": "En stubin, en blomning, en slutartid."
+    },
+    "387": {
+      "name": "Trottoarsfunnen Plånbok",
+      "flavor": "Kort fortfarande inuti, hopp fortfarande vikt i sedelfacket."
+    },
+    "388": {
+      "name": "Mattslipad Pillerflaska",
+      "flavor": "Etikett borttagen ren, lock löst, innehåll borta för länge sedan."
+    },
+    "389": {
+      "name": "Skrynklig eCola-burk",
+      "flavor": "Fortfarande klibbig från en sommar ingen minns."
+    },
+    "390": {
+      "name": "Förbrukade Boutique-ljus",
+      "flavor": "Vax samlat i en form som nästan ser ut som ett ansikte."
+    },
+    "391": {
+      "name": "Block Party-boombox",
+      "flavor": "Kassettdäck fast mitt i låt, batterier läcker syra."
+    },
+    "392": {
+      "name": "Industriell Spann-set",
+      "flavor": "Fransade remmar, krok ärrad från ett lyft för många."
+    },
+    "393": {
+      "name": "Glömd Sötsaksburk",
+      "flavor": "Glas repat, godis smält till en seg massa."
+    },
+    "394": {
+      "name": "Kartell Spritflaska",
+      "flavor": "Utländsk etikett, halva sigillet fortfarande intakt."
+    },
+    "395": {
+      "name": "Svetsarens Brännare",
+      "flavor": "Spets svartnad, tändare klickar fortfarande svagt."
+    },
+    "396": {
+      "name": "Lab-grad Aceton",
+      "flavor": "Ångor kringlar fortfarande från locket när du knäcker det."
+    },
+    "397": {
+      "name": "Valvinträde Knappsats",
+      "flavor": "Fem och sju nötta släta, åtta blinkar rött."
+    },
+    "398": {
+      "name": "Cayo Kristallkaraff",
+      "flavor": "Bärnsten torkad till en ring vid basen, etikett borta för länge sedan."
+    },
+    "399": {
+      "name": "Bobin Mill-tråd",
+      "flavor": "Färgad industriröd, fortfarande varm från vävstolen."
+    },
+    "400": {
+      "name": "Bank Säkerhets-knappsats",
+      "flavor": "Magnetremslucka fast med en sliten kortkant."
+    },
+    "401": {
+      "name": "Bruten Toalettbas",
+      "flavor": "Porslin sprucket, luktar svagt desinfektionsmedel."
+    },
+    "402": {
+      "name": "Casino Pistolskulptur",
+      "flavor": "Pläterat stål, valet-stativ flisat vid mynningen."
+    },
+    "403": {
+      "name": "Gammal Konsolenhet",
+      "flavor": "Power-LED fladdrar fortfarande när du knackar höljet."
+    },
+    "404": {
+      "name": "Display Sneaker",
+      "flavor": "Enkel sko, snören fortfarande fabriks-knapra."
+    },
+    "405": {
+      "name": "Skeppsvarv Svetsmask",
+      "flavor": "Visir dimmigt från insidan, rem saltkrustad."
+    },
+    "406": {
+      "name": "Ficka Hack-enhet",
+      "flavor": "Skärm skrapad till intet, antenn fortfarande utfälld."
+    },
+    "407": {
+      "name": "Bucklad Aluminiumbatt",
+      "flavor": "Aluminium kratrad där den mötte något solidt."
+    },
+    "408": {
+      "name": "Skär-Sodalåda",
+      "flavor": "Halvtom, skopa fortfarande begravd i pulvret."
+    },
+    "409": {
+      "name": "Pier Mörsergranat",
+      "flavor": "Stubin trimmad kort, sengring runt basen."
+    },
+    "410": {
+      "name": "Taktisk Hack-enhet",
+      "flavor": "Gummi-rustning riven, anpassad firmware kör tyst."
+    },
+    "411": {
+      "name": "Fläckad Vuxenmagasin",
+      "flavor": "Sidor fastnade, centerfold länge utriven."
+    },
+    "412": {
+      "name": "Hörnbutik Triangelskylt",
+      "flavor": "Plast blekt, ett fäste böjt av en oaktsam lastbil."
+    },
+    "413": {
+      "name": "Förgyllt Karbin-magasin",
+      "flavor": "Graverat ranke-mönster, patroner fortfarande på plats."
+    },
+    "414": {
+      "name": "Kuriositet Display-kub",
+      "flavor": "Glas-kub, innehåll fångar ljus från vilken vinkel som helst."
+    },
+    "415": {
+      "name": "Extern Hårddisk",
+      "flavor": "Hölje varmt, indikator fast på bärnsten."
+    },
+    "416": {
+      "name": "Halv-drucken Cocktail",
+      "flavor": "Is smält till slask, lime-skal kringlar."
+    },
+    "417": {
+      "name": "Vävstol Trådbunt",
+      "flavor": "Indigofärg blöder fortfarande in i spolkärnan."
+    },
+    "418": {
+      "name": "Patriot Spirit-trofé",
+      "flavor": "Tilldelad högsta poängen som inte kunde sluta mata polletter i örnkabinettet."
+    },
+    "419": {
+      "name": "Scen Stack-högtalare",
+      "flavor": "Ringer fortfarande från ett fyra-AM Boris Brejcha-set som ingen ville sluta."
+    },
+    "420": {
+      "name": "QUB3D Mästartrofé",
+      "flavor": "Skuren skumplast och ren pixelerad ära — toppjälist-initialer fortfarande synliga."
+    },
+    "421": {
+      "name": "Diner Dessertbricka",
+      "flavor": "Ett torn av pannkakor som någon övergav i stunden deras beställning blev varm."
+    },
+    "422": {
+      "name": "Slipad Safirsten",
+      "flavor": "Facetterad precis nog att se äkta ut — staketet behöver lupp och en lögn."
+    },
+    "423": {
+      "name": "Slaktarens Vita Mössa",
+      "flavor": "Luktar svagt saltlake och gårdagens skift, brätte vikat av valkiga fingrar."
+    },
+    "424": {
+      "name": "Producent-anteckningsbok",
+      "flavor": "Marginaler trångbodda med budgetkapningar och ett telefonnummer ringat fyra gånger."
+    },
+    "425": {
+      "name": "Tag-Tolv Klappbräda",
+      "flavor": "Scen-märke klottrat i torrtorka: INT. LAGER — DAG. IGEN."
+    },
+    "426": {
+      "name": "Företags Lucite-pris",
+      "flavor": "Lucite-flisa graverad med ett namn ingen på firman minns längre."
+    },
+    "427": {
+      "name": "Förbrukad Mässingspatron",
+      "flavor": "Fortfarande varm från inomhus-banan — tändarkopp bucklad av en sliten slagstift."
+    },
+    "428": {
+      "name": "Inert Fragmenteringsgranat",
+      "flavor": "Pin rak, sked tejpad — någon ville verkligen att denna skulle vara säljbar."
+    },
+    "429": {
+      "name": "Tingsrätt Mässings-namnskylt",
+      "flavor": "Mässingsplakett bändad ren från en domares dörr — initialer utskrapade i brådska."
+    },
+    "430": {
+      "name": "Modifierad Stridspistol",
+      "flavor": "Gängat pipa, handmönstrat grepp — serie slipad med Dremel och skam."
+    },
+    "431": {
+      "name": "Casino Raket-skulptur",
+      "flavor": "Borstad krom och röd lack — lovade att ta någon lycklig valet till månen."
+    },
+    "432": {
+      "name": "Biljard Rack-triangel",
+      "flavor": "Billigt trä nött slätt — filten under den har sett tiotusen break-skott."
+    },
+    "433": {
+      "name": "Sprucken Effigi-replik",
+      "flavor": "Texturfil glitchade dagen den gjordes — renderingsfel bevarat som en relik."
+    },
+    "434": {
+      "name": "24/7 Grönsakssoppa-burk",
+      "flavor": "Bäst-före-datum länge passerat — etikett lovar tolv trädgårdsgrönsaker och noll smak."
+    },
+    "435": {
+      "name": "Åldrad Brandyflaska",
+      "flavor": "Kork uttorkad för år sedan — bak-etiketten flagar i hörnet."
+    },
+    "436": {
+      "name": "VHS Övervakningsband",
+      "flavor": "Etikett säger OPS 04/12 — resten av skriften har skrapats ut."
+    },
+    "437": {
+      "name": "Megafon",
+      "flavor": "Avtryckare fastnar halvvägs — någon skrek sig hes och tappade den på trottoaren."
+    },
+    "438": {
+      "name": "Bränt ID Template-skiva",
+      "flavor": "CD-R luktar lösningsmedel — namnlista tejpad på fodralet, halva överstrukna."
+    },
+    "439": {
+      "name": "Penthouse Brons-skulptur",
+      "flavor": "Auktionsförrättaren skulle kalla den derivativ — ägaren kallade den ovärderlig och menade det."
+    },
+    "440": {
+      "name": "Scenlampa-rigg",
+      "flavor": "Gel-filter svärtat i ett hörn — armaturen knarrar när basen slår."
+    },
+    "441": {
+      "name": "Vitguld Hängdiamant",
+      "flavor": "Rundslipad, två karat, infattad i vitguld — gled av en kedja som inte var hennes."
+    },
+    "442": {
+      "name": "Studio Inspelnings-mic",
+      "flavor": "Membran lätt böjt — varje vokal genom det får en hemsökt viskning på toppen."
+    },
+    "443": {
+      "name": "Snattad Tvåldispenser",
+      "flavor": "Monteringsfäste böjt — halvfull av rosa sjukhustvål som luktar inget."
+    },
+    "444": {
+      "name": "Kemist Stash-påse",
+      "flavor": "Vinyl utanpå, blyfodrad insida — tyngre än den har rätt att vara."
+    },
+    "445": {
+      "name": "Boutique Högtalardockning",
+      "flavor": "Bluetooth parkopplar fortfarande till en telefon som heter aaron's iphone som inte kommit tillbaka."
+    },
+    "446": {
+      "name": "Orange Dunk",
+      "flavor": "Kvartsfull av mellanklass — pip droppar fortfarande när du lutar den förbi fyrtiofem."
+    },
+    "447": {
+      "name": "Soltorkad Peyote",
+      "flavor": "Dragen från sprucken jord där öknen surrar för sig själv vid lunchen."
+    },
+    "448": {
+      "name": "Regissörens Fältkamera",
+      "flavor": "Fortfarande varm från senaste taget, lins immig av set-lampor och falskt regn."
+    },
+    "449": {
+      "name": "High-Roller Anropsknapp",
+      "flavor": "Ett tryck kallade champagne; två tryckte din lycka lite hårdare."
+    },
+    "450": {
+      "name": "Ensam Mocka-tränare",
+      "flavor": "Bara vänster fot, skavd vid tån som om den försökte hänga med trafiken."
+    },
+    "451": {
+      "name": "Slipad Kristallkaraff",
+      "flavor": "Den sortens glas som förvandlar småprat till en bekännelse."
+    },
+    "452": {
+      "name": "Graverad Civic-plakett",
+      "flavor": "Ett namn i mässing, halvpolerat, halvglömt av de som går förbi."
+    },
+    "453": {
+      "name": "Bänk-test EMP-spole",
+      "flavor": "Trådbunden med tålamod av någon som bara behövde ha rätt en gång."
+    },
+    "454": {
+      "name": "Arkad Mästartrofé",
+      "flavor": "Förtjänad i polletter, polerad av ärmar, signerad i repad plast."
+    },
+    "455": {
+      "name": "Kassörens Mässingstrofé",
+      "flavor": "Given för fyrtio år av att räkna andras goda lycka."
+    },
+    "456": {
+      "name": "Vadderad Sporthjälm",
+      "flavor": "Luktar svagt omklädningsrum och dåliga beslut tagna en fredagskväll."
+    },
+    "457": {
+      "name": "Bunt Förfalskade Pass",
+      "flavor": "Varje foto kniper med ögonen på samma sätt, som om kameran fångade dem mitt i en lögn."
+    },
+    "458": {
+      "name": "Halv-drucken Piña Colada",
+      "flavor": "Parasollet lutade, romen lade sig, natten vägrade att sluta."
+    },
+    "459": {
+      "name": "Inslagen Kontantbunt",
+      "flavor": "Luktar fortfarande som kassaskåpet den lämnade, banderoll av händer som inte räknade två gånger."
+    },
+    "460": {
+      "name": "Klomaskin-plysch",
+      "flavor": "Två mynt, tre försök, en darrig hand på joysticken."
+    },
+    "461": {
+      "name": "Lab Provrörsställ",
+      "flavor": "Etiketter halvavskalade, innehåll omärkt, ambitioner tydligt kemiska."
+    },
+    "462": {
+      "name": "Skrynklig Skvallertidning",
+      "flavor": "Gårdagens skandal, halva priset, dubbla stavfelen."
+    },
+    "463": {
+      "name": "Stiletto på Kakel",
+      "flavor": "Sparkad av i brådska av någon som försökte minnas hennes namn."
+    },
+    "464": {
+      "name": "Oljad Tung Pistol",
+      "flavor": "Grepp slätt nött av en hand som visste var säkringen brukade vara."
+    },
+    "465": {
+      "name": "Låda Lösa Skott",
+      "flavor": "Stämplad med en serie ingen brydde sig om att fila bort denna gång."
+    },
+    "466": {
+      "name": "Skavd Bygghjälm",
+      "flavor": "Gul färg flagar av där armeringsjärnet fortsatte ställa frågor."
+    },
+    "467": {
+      "name": "Ohörnad Glans",
+      "flavor": "Topphylla, bottenpriser, läst mest för artiklarna, sägs det."
+    },
+    "468": {
+      "name": "Valv Diamantfodral",
+      "flavor": "Sammet inuti, fingeravtryck utanför, historia oberättad i båda."
+    },
+    "469": {
+      "name": "Onyx Skall-byst",
+      "flavor": "Skuren av en skulptör som insisterade att memento mori hör hemma på ett craps-bord."
+    },
+    "470": {
+      "name": "Apotek Upphämtningslåda",
+      "flavor": "Påfyllning, recap, upprepa, plus en hostkarameller för vägen."
+    },
+    "471": {
+      "name": "Kuriositet Glasburk",
+      "flavor": "Förseglad med vax, märkt med avsikt, öppnad av absolut ingen."
+    },
+    "472": {
+      "name": "Bambu Ångkorg",
+      "flavor": "Lock lyft två gånger, fingrar brända en gång, dumplings värda allt."
+    },
+    "473": {
+      "name": "Cellofan-inslagen Godis",
+      "flavor": "Omslag vridet två gånger, socker fortfarande högre än vilken konversation som helst."
+    },
+    "474": {
+      "name": "Broderat Kastkudde",
+      "flavor": "Tofsade hörn, lätt buckla där någon nästan sa något ärligt."
+    },
+    "475": {
+      "name": "Nött Sammet-kudde",
+      "flavor": "Blekt guldtråd, två distinkta katthår, en fläck den vägrar diskutera."
+    },
+    "476": {
+      "name": "Förseglad Cayo Ammolåda",
+      "flavor": "Stencil fortfarande blöt, låda fortfarande självsäker, innehåll fortfarande summande."
+    },
+    "477": {
+      "name": "Forum Drive Court-boll",
+      "flavor": "Dribblad platt av tusen pickup-spel på sydsidan."
+    },
+    "478": {
+      "name": "Mirror Park Veranda-lampa",
+      "flavor": "Lampa brände ut natten kvarteret tappade strömmen för gott."
+    },
+    "479": {
+      "name": "Sandy Trailer Skidmask",
+      "flavor": "Ull kliar som synd och luktar meth och Pisswasser."
+    },
+    "480": {
+      "name": "Kubikel PC-högtalare",
+      "flavor": "Spelade vänteljud för analytiker som aldrig befordrades."
+    },
+    "481": {
+      "name": "LS River Tag-burk",
+      "flavor": "Krylon Apple Red, skakad tills kullagret nöttes igenom."
+    },
+    "482": {
+      "name": "Little Seoul Kuriositets-låda",
+      "flavor": "Cederinlägg luktar svagt kamfer och någons mormor."
+    },
+    "483": {
+      "name": "Sandy Ammu-Nation Kikarsikte",
+      "flavor": "Hårkors avvikande ett hårstrå men glaset är fortfarande rent."
+    },
+    "484": {
+      "name": "Maze Bank Arena-trofé",
+      "flavor": "Snurrar för evigt om du knäpper den rätt."
+    },
+    "485": {
+      "name": "Vespucci Headshop Bong",
+      "flavor": "Vattnet skvalpar fortfarande. Fråga inte vilken färg."
+    },
+    "486": {
+      "name": "Strawberry 24/7 Kartong",
+      "flavor": "Hälften av en sexpack varm energidryck, klibbig på botten."
+    },
+    "487": {
+      "name": "Del Perro Vape Pen",
+      "flavor": "Spolen smakar blå hallon och ånger."
+    },
+    "488": {
+      "name": "Vinewood Casino Hartsskalle",
+      "flavor": "Harts inte ben, men tung nog att lura galleriet."
+    },
+    "489": {
+      "name": "Cypress Flats Ammolåda",
+      "flavor": "Stencilerat partinummer fortfarande läsbart under fettet."
+    },
+    "490": {
+      "name": "Hill Valley Begravningsplats-ros",
+      "flavor": "Kronblad redan brunande vid kanterna."
+    },
+    "491": {
+      "name": "LS Liquor Mart Femte",
+      "flavor": "Etikett borttagen av botten av en papperspåse."
+    },
+    "492": {
+      "name": "Galaxy Club DJ-hörlurar",
+      "flavor": "Vänster kopp är klibbig. Höger pumpar fortfarande som en kicktrumma."
+    },
+    "493": {
+      "name": "Rockford Smart-glasögon",
+      "flavor": "Linser fladdrar fortfarande när du lutar dem mot ljuset."
+    },
+    "494": {
+      "name": "Öppen Vogue-magasin",
+      "flavor": "Uppslagen på en Ponsonbys-annons, tre säsonger gammal."
+    },
+    "495": {
+      "name": "Tidningskiosk-glans",
+      "flavor": "Omslagsmodellen har en kaffering tvärs över pannan."
+    },
+    "496": {
+      "name": "Pitchers Patio-flaska",
+      "flavor": "Tömd vid sista anropet, fingeravtryck fortfarande på halsen."
+    },
+    "497": {
+      "name": "Zancudo Stängselraket",
+      "flavor": "Inert. Förmodligen. Fenorna är böjda men markeringarna är orörda."
+    },
+    "498": {
+      "name": "Vinewood Hills Vägglampa",
+      "flavor": "Glödtråd surrar när du knackar på basen, glas varmt vid beröring."
+    },
+    "499": {
+      "name": "Vinewood Bowl Pin-konst",
+      "flavor": "Lackerad pin monterad på en platta av betsad furu."
+    },
+    "500": {
+      "name": "Richman Glen Karaff",
+      "flavor": "Kristall skuren så djupt att den kastar regnbågar över mattan."
+    },
+    "501": {
+      "name": "Mission Row Handbojs-trofé",
+      "flavor": "Gravyr nött slät där kaptenen gnuggade sin tumme."
+    },
+    "502": {
+      "name": "Pinkcage Motel-klocka",
+      "flavor": "Fast på 3:17, blinkar damm genom siffrorna."
+    },
+    "503": {
+      "name": "Pillbox Medicinsk Nackstöd",
+      "flavor": "Vinyl klibbig av gammal antiseptika, skum komprimerat platt."
+    },
+    "504": {
+      "name": "Vanilla Unicorn Hus-utskänkning",
+      "flavor": "Läppstift på halsen, tre olika nyanser."
+    },
+    "505": {
+      "name": "Apotek Öronmodell",
+      "flavor": "Anatomisk, latex, med en brosk-piercing redan genomsliten."
+    },
+    "506": {
+      "name": "Murrieta Heights Hack-tegel",
+      "flavor": "LED växlar fortfarande genom en handshake ingen besvarar längre."
+    },
+    "507": {
+      "name": "Mässing Bankir-lampa",
+      "flavor": "Grönskuggas-sken som såg tusen dåliga lån godkännas."
+    },
+    "508": {
+      "name": "Monterad Lyckokägla",
+      "flavor": "Bana sjus lyckokägla, fernissad efter det perfekta spelet 1987."
+    },
+    "509": {
+      "name": "Boutique Bronsfigur",
+      "flavor": "Prissatt på fyra siffror, såld i delar till ett staket i Strawberry."
+    },
+    "510": {
+      "name": "Shunt Cup-replik",
+      "flavor": "Den riktiga är på Arena. Denna är tyngre än den ser ut."
+    },
+    "511": {
+      "name": "Stargazer-trofé",
+      "flavor": "Tilldelad till den som hittade kometen först. Plaketten är tom."
+    },
+    "512": {
+      "name": "Pinnediffusor-set",
+      "flavor": "Sandelträ, vetiver, och det svaga minnet av en kreditkortsavslag."
+    },
+    "513": {
+      "name": "Klassificerad Manilla-mapp",
+      "flavor": "Elva sidor maskeringar och en passivt-aggressiv klisterlapp."
+    },
+    "514": {
+      "name": "Flip Jam-skåp Pollett",
+      "flavor": "Toppoäng tillhör LIL, som inte synts sedan 1996."
+    },
+    "515": {
+      "name": "Galleri Gipsbyst",
+      "flavor": "Konstnären insisterar att den representerar sorg. Köparen insisterar att den matchar soffan."
+    },
+    "516": {
+      "name": "Apotek Disk-display",
+      "flavor": "D-vitamin-tabletter och tre utgångna kuponger tejpade undertill."
+    },
+    "517": {
+      "name": "Flisad Diner-mugg",
+      "flavor": "Världens OK:aste Pappa. Kaffering permanent smält till kanten."
+    },
+    "518": {
+      "name": "Förbrukad Termit-laddning",
+      "flavor": "Brände genom kassaskåpet och golvet under. Fortfarande varm vid beröring."
+    },
+    "519": {
+      "name": "Padron Cigarlåda",
+      "flavor": "Tre pinnar kvar. Den fjärde byttes mot ett alibi."
+    },
+    "520": {
+      "name": "Tattle Weekly-nummer",
+      "flavor": "Omslagsartikel: vilket Vinewood-par är hemligen samma person."
+    },
+    "521": {
+      "name": "Bränd Kaffekanna",
+      "flavor": "Botten är så svedd att servitrisen bara kallar det krydda."
+    },
+    "522": {
+      "name": "Halvätren Bleeder Burger",
+      "flavor": "Två bett in, den misstänkte stack. Picklet var lojalt."
+    },
+    "523": {
+      "name": "Förseglad Insättningspåse",
+      "flavor": "Förseglad av Fleeca 15:47. Öppnad av någon annan 15:51."
+    },
+    "524": {
+      "name": "Krylon Sundowner-burk",
+      "flavor": "Lock tuggat, burk bucklad, meddelande halvfärdigt mot ett trådstaket."
+    },
+    "525": {
+      "name": "Cocktail Stirrer-burk",
+      "flavor": "Plastflamingos i ett smutsigt glas. Ingen minns att de fyllde på den."
+    },
+    "526": {
+      "name": "Halv-tömd Kokosmugg",
+      "flavor": "Två pappersparasoller, ett smältande iskub, ingen solskyddsmedel i sikte."
+    },
+    "527": {
+      "name": "Avväpnad AP-mina",
+      "flavor": "Pin dragen, tryckplatta fast med en quarter. Ingenjörskonst eller galenskap."
+    },
+    "528": {
+      "name": "Sprucken Pisswasser-flaska",
+      "flavor": "Hals knäckt rent. Hittad bakom en container med ett fingeravtryck."
+    },
+    "529": {
+      "name": "Skadad CDJ Deck",
+      "flavor": "Jog wheel flisad, kanal två död, spelar fortfarande ett set värt att höra."
+    },
+    "530": {
+      "name": "SPF 4 Flaska",
+      "flavor": "Lock saknat, luktar piña colada och mycket dåliga beslut."
+    },
+    "531": {
+      "name": "Marmor Patron-byst",
+      "flavor": "Ögon urgröpta, uttryck neutralt, läppar antyder att den har sett saker."
+    },
+    "532": {
+      "name": "Logger Lager-burk",
+      "flavor": "Tom, krossad, returnerad till kylen av någon som hoppades att ingen lade märke till."
+    },
+    "533": {
+      "name": "Katalogiserad Artefakt M-31",
+      "flavor": "Etikett säger M-31. Härkomst säger förvärvad. Ursprung säger inte ditt."
+    },
+    "534": {
+      "name": "After Hours Dansartrofé",
+      "flavor": "Tilldelad för ett set så högt att bullerklagomålet blev ett fanbrev."
+    },
+    "535": {
+      "name": "Orbital Målkonsol",
+      "flavor": "Koordinater låsta, lösenord-klisterlapp fortfarande tejpad på sidan."
+    },
+    "536": {
+      "name": "Valet Ljusstav",
+      "flavor": "Röd plast, dött batteri, signalerade tre Adders till fel plats."
+    },
+    "537": {
+      "name": "Onyx Marmor-byst",
+      "flavor": "Ett polerat obsidian-huvud, ögon skurna för att följa dealerns händer."
+    },
+    "538": {
+      "name": "Lackerad Kuriositets-låda",
+      "flavor": "Mässingsklämmor och en sammetsfodring som fortfarande luktar cederrök."
+    },
+    "539": {
+      "name": "Lös Kudde-diamant",
+      "flavor": "Fångar gatlampan som om den var slipad för exakt detta hörn."
+    },
+    "540": {
+      "name": "Avskalad Server-disk",
+      "flavor": "Caddy utstött mitt i skrivning, blinkar en stadig bärnstenspuls."
+    },
+    "542": {
+      "name": "Galleri Korg-studie",
+      "flavor": "En nött läderboll gjuten i lack, signerad med markör under greppet."
+    },
+    "543": {
+      "name": "Glömd Hårddisk",
+      "flavor": "Klisteretikett halvt riven, sista skrivdatum med blyerts."
+    },
+    "544": {
+      "name": "Avskalad AV-mottagare",
+      "flavor": "Främre rattar borta, RCA-uttag böjda, surrar vid jord."
+    },
+    "545": {
+      "name": "Gjutjärn Portventil",
+      "flavor": "Gängad stängd, färg flagar i långa kringlor."
+    },
+    "546": {
+      "name": "Testare Cologne-flaska",
+      "flavor": "Atomizer krustad stängd, etikett skalar i fuktiga kringlor."
+    },
+    "547": {
+      "name": "Marmor Caesar-huvud",
+      "flavor": "Flisa i pannan som fångar casinotältets sken."
+    },
+    "548": {
+      "name": "Glömd Chipbricka",
+      "flavor": "Några svarta hundra fortfarande skramlar i bottenhörnet."
+    },
+    "549": {
+      "name": "Gjuten Bänkplatta",
+      "flavor": "Rostring på en sida, kritavtryck på den andra."
+    },
+    "550": {
+      "name": "Ärrad Hårtbatt",
+      "flavor": "Tejpgrepp, tre skåror brända i fattet."
+    },
+    "551": {
+      "name": "Halvtom Rattler",
+      "flavor": "Lock saknat, munstycke täppt av torkad magenta."
+    },
+    "552": {
+      "name": "Lost Chapter-hjälm",
+      "flavor": "Foder fuktigt av motorfett, ett klistermärke skalar vid tinningen."
+    },
+    "553": {
+      "name": "Mässing Yacht-miniatyr",
+      "flavor": "Skrov etsat med ett slip-nummer som inte existerar längre."
+    },
+    "554": {
+      "name": "Retro Arkad-trofé",
+      "flavor": "Plakett utskrapad av ett mynt, en ny initial inskrapad."
+    },
+    "555": {
+      "name": "Vit Marmor-atlet",
+      "flavor": "Sval vid beröring, en svag flisa bakom vänster öra."
+    },
+    "556": {
+      "name": "Vadderat Diskfodral",
+      "flavor": "Skumfodring skuren för en disk som inte är där längre."
+    },
+    "557": {
+      "name": "Halv-använd Lotionpump",
+      "flavor": "Pump fortfarande primad, etikett mjukad av ånga."
+    },
+    "558": {
+      "name": "CamHedz Mästarbägare",
+      "flavor": "Graverad med förra säsongens toppoäng och ett utsmetat tumavtryck."
+    },
+    "559": {
+      "name": "Casino Diorama-platta",
+      "flavor": "En skalad tält med en liten rad gäster frusna mitt i steget."
+    },
+    "560": {
+      "name": "Tejpad Slugger-batt",
+      "flavor": "Atletisk tejp omlindad två gånger, ändlock saknat."
+    },
+    "561": {
+      "name": "Porslin Figurin-trio",
+      "flavor": "Tre glaserade dansare fångade mitt i pirouett, orörda sedan casinot öppnade sina dörrar."
+    },
+    "562": {
+      "name": "Anlöpt Pantbankdolk",
+      "flavor": "Någon pantsatte den för hyrespengar och kom aldrig tillbaka för att hämta den."
+    },
+    "563": {
+      "name": "Dud RPG-rakethylsa",
+      "flavor": "Stämplad MERRYWEATHER, avvecklad, och mycket inte ett souvenir."
+    },
+    "564": {
+      "name": "Vinewood Boutique-figurin",
+      "flavor": "En displaypjäs från en skyltdekoratör som aldrig märkte att den saknades."
+    },
+    "565": {
+      "name": "Onämnbar Souvenir",
+      "flavor": "Lämnad i gränden bakom vuxenbutiken efter stängning — ingen gör anspråk på den."
+    },
+    "566": {
+      "name": "Keramik Badkärl",
+      "flavor": "Boutiquedekor som ingen köper men ingen tar bort heller."
+    },
+    "567": {
+      "name": "Vägkant Diner-mugg",
+      "flavor": "Ljum påfyllning servitrisen glömde att rensa från bås sju."
+    },
+    "568": {
+      "name": "Marina Kaptens-keps",
+      "flavor": "Saltfläckad och lätt böjd — skepparen pensionerades utan den."
+    },
+    "569": {
+      "name": "Glömd Pocketbok",
+      "flavor": "Ohörnad vid kapitel fyra, med någons inköpslista som bokmärke."
+    },
+    "570": {
+      "name": "Marabunta Slugger",
+      "flavor": "Taggad i grön sprayfärg och mycket uppenbart inte en sportvaror-batt."
+    },
+    "571": {
+      "name": "Ballas Batt",
+      "flavor": "Lila grepp-tejp, misstänkta bucklor, lutar mot ett trådstaket."
+    },
+    "572": {
+      "name": "Brawler Turnertrofé",
+      "flavor": "Graverad Maibatsu Arena Champion — vinnaren kom aldrig tillbaka för att hämta den."
+    },
+    "573": {
+      "name": "Barberarsax",
+      "flavor": "Surrar fortfarande svagt — barberaren gick ut för en cigarett för en timme sedan."
+    },
+    "574": {
+      "name": "Dekor Ljus-kluster",
+      "flavor": "Tre vaxpelare arrangerade precis så — en boutiquedisplay som blev osåld."
+    },
+    "575": {
+      "name": "Förlorad MC Batt",
+      "flavor": "Skall-dekaler och en kedja inlindad runt greppet — klubbhuset egendom."
+    },
+    "576": {
+      "name": "Förgylld Granat-skulptur",
+      "flavor": "Pop-art-pjäs beställd för en privat svit — hamnade på något sätt på trottoaren."
+    },
+    "577": {
+      "name": "Chefs-boutique Vas",
+      "flavor": "Importerad keramik som såldes för mer än de flesta människors hyra."
+    },
+    "578": {
+      "name": "Ensam Bowlingkägla",
+      "flavor": "Sista käglan stående, sedan glömd i rännan när ligakvällen slutade."
+    },
+    "579": {
+      "name": "Arkad Klo-plysch",
+      "flavor": "Slitande från maskinen efter tjugo dollar i quarters — värt varje cent."
+    },
+    "580": {
+      "name": "After Hours DJ-hörlurar",
+      "flavor": "Vadderade koppar fortfarande varma från båset — någon drog en tidig utgång."
+    },
+    "581": {
+      "name": "Tappad Trottoarsplånbok",
+      "flavor": "Körkort inuti, ingen kontant — någon kom hit först."
+    },
+    "582": {
+      "name": "Sprucken Bygghjälm",
+      "flavor": "Hårspricka ner till kronan — förmannen skrev av den och lämnade den."
+    },
+    "583": {
+      "name": "Boutique Display-klocka",
+      "flavor": "Schweizisk mekanism, tickar fortfarande, ingen prislapp där det brukade vara en."
+    },
+    "584": {
+      "name": "Tech Store Demo-laptop",
+      "flavor": "Skärmsläckare rullar fortfarande — golvmodellen ingen brydde sig om att låsa."
+    },
+    "585": {
+      "name": "Förgyllt Figurin-par",
+      "flavor": "Ett par gyllene statyetter en gång utställda i casino-lobbyns vitrin."
+    },
+    "586": {
+      "name": "Syra-droppflaska",
+      "flavor": "En liten droppflaska som stinker av lösningsmedel och dåliga beslut."
+    },
+    "587": {
+      "name": "House Chip-trave",
+      "flavor": "Ett prydligt torn casino-chip som någon glömde att lösa in."
+    },
+    "588": {
+      "name": "Krustad Bilbatteri",
+      "flavor": "Terminaler päls av korrosion, håller fortfarande en svag laddning."
+    },
+    "589": {
+      "name": "Ficka Galaxy-yacht",
+      "flavor": "En skalmodell av Galaxy-superyachten, snattad från en försäljningsgolv."
+    },
+    "590": {
+      "name": "Klämbar Ketchupflaska",
+      "flavor": "En nära-tom flaska röd goja, locket permanent klibbigt."
+    },
+    "591": {
+      "name": "Beluga Kaviar-burk",
+      "flavor": "En kall burk kaviar, lock bändat halvöppet, pärlemorked saknad."
+    },
+    "592": {
+      "name": "Beskuren Gräs-knopp",
+      "flavor": "En fet trimmad knopp, klibbig nog att klistra fast en plånbok."
+    },
+    "593": {
+      "name": "Pitkin Motel-askkopp",
+      "flavor": "En motel-askkopp trångbodd med läppstifts-fläckade filter."
+    },
+    "594": {
+      "name": "Vinewood Boutique-kristall",
+      "flavor": "En facetterad kristall som kastar prismat ljus över sammet."
+    },
+    "595": {
+      "name": "Kluster Geod",
+      "flavor": "En kantig kluster-geod lånad från en mode-redaktionell uppsättning."
+    },
+    "596": {
+      "name": "Halv-drucken Cava-flaska",
+      "flavor": "En flaska cava som blivit platt mellan två tomma glas."
+    },
+    "597": {
+      "name": "Vridad Inbunden-trave",
+      "flavor": "Tre inbundna bundna med snöre, ryggar knäckta från för många returer."
+    },
+    "598": {
+      "name": "Fält Puls-oscillator",
+      "flavor": "En pulsoscillator dragen från ett medicinskt-bås diagnostikkärra."
+    },
+    "599": {
+      "name": "Tenn Pub PINTS-skylt",
+      "flavor": "En bucklad tenn-pubskylt som fortfarande läser PINTS i flagande färg."
+    },
+    "600": {
+      "name": "Designer-skolåda",
+      "flavor": "En boutique-skolåda med en stiletto inuti och kvittot fortfarande instuckat."
+    },
+    "601": {
+      "name": "Scen Kondensator-mic",
+      "flavor": "En kondensator-mic fortfarande varm från ett vokaltag."
+    },
+    "602": {
+      "name": "Bambu Knivblock",
+      "flavor": "Ett laddat knivblock lyft från en Vinewood-köksbänk."
+    },
+    "603": {
+      "name": "CS Gas-behållare",
+      "flavor": "En CS gas-behållare med pinnen fortfarande tejpad, fingrar från skeden."
+    },
+    "604": {
+      "name": "Inslagen Aluminium-slugger",
+      "flavor": "En aluminiumbatt inslagen i grepp-tejp och dåliga avsikter."
+    },
+    "605": {
+      "name": "Fångvaktarens Järn-nyckelring",
+      "flavor": "En tung järn-nyckelring som klinger som ett alibi."
+    },
+    "606": {
+      "name": "Drag-ring Rökgranat",
+      "flavor": "En drag-ring rök-burk som luktar svagt fosfor."
+    },
+    "607": {
+      "name": "Pit Boss-kalkylator",
+      "flavor": "En casino-skrivbordskalkylator med tape-rullen knäckt ren."
+    },
+    "608": {
+      "name": "Valv Diorama-miniatyr",
+      "flavor": "En miniatyr valv-diorama lyft från casinots marknadsföringsvägg."
+    },
+    "609": {
+      "name": "Stämplad Stål-fraktlåda",
+      "flavor": "En repad stållåda stämplad med ett blekt partinummer."
+    },
+    "610": {
+      "name": "Modern Kanvas-fragment",
+      "flavor": "En riven bit gallerikanvas luktar fortfarande färsk akryl och unken champagne."
+    },
+    "611": {
+      "name": "Pantsatt Valv-diamant",
+      "flavor": "Skuren för ett casino-valv, förlorad i ett byte, hittad i dammet."
+    },
+    "612": {
+      "name": "Gömd Bierpack-burk",
+      "flavor": "Luktar motorolja och billig öl, exakt som mannen som gömde den."
+    },
+    "613": {
+      "name": "Mästarens Flaggtrofé",
+      "flavor": "Vunnen under stadionljus, övergiven i stunden ett större pris dök upp."
+    },
+    "614": {
+      "name": "Battle Club Handfläkt",
+      "flavor": "Målad med ett snörvlande ansikte, summar fortfarande med gårdagens bas."
+    },
+    "615": {
+      "name": "Gränd-fuktigt Glansmagasin",
+      "flavor": "Sidor klibbade av regn, inte anledningen de flesta skulle gissa."
+    },
+    "616": {
+      "name": "Hobbyistens RC-fjärrkontroll",
+      "flavor": "Antenn böjd av en lågflygnings-landning för många på en parkerad bil."
+    },
+    "617": {
+      "name": "Överskotts C4-tegelstapel",
+      "flavor": "Etiketten avskalad, trådar klippta, faran fortfarande underförstådd."
+    },
+    "618": {
+      "name": "Gräs-sprucken Trä-batt",
+      "flavor": "Trä splittrat på tre ställen, varje spricka med en annan historia."
+    },
+    "619": {
+      "name": "Förlorad Arkad-keps",
+      "flavor": "Bill krullad av svett, fläckad med toppoäng-körsbärscola."
+    },
+    "620": {
+      "name": "Mekanikerns Verktygscaddy III",
+      "flavor": "Tre hylsor kortare, men fettet säger dig att den förtjänat varje buckla."
+    },
+    "621": {
+      "name": "Solblekt Volleyboll",
+      "flavor": "Sand skramlar fortfarande inuti från en serve som gick för länge."
+    },
+    "622": {
+      "name": "Boutique Keps-skulptur",
+      "flavor": "Såld som bärbar konst, prissatt som hyra, mestadels fotograferad."
+    },
+    "623": {
+      "name": "Överskotts Mörserrör",
+      "flavor": "Stencilerat och stulet, serien skrapad bort av en försiktig tumme."
+    },
+    "624": {
+      "name": "Industriell Bultsax",
+      "flavor": "Käftar polerade av användning, handtagen inlindade i någon annans tejp."
+    },
+    "625": {
+      "name": "Arkad Battler-trofé",
+      "flavor": "Plastguld över plast, men ungen som vann den sprang hem ändå."
+    },
+    "626": {
+      "name": "Sprucken Display-vas",
+      "flavor": "En hårspricka fångar ljuset, fördubblar begärspriset."
+    },
+    "627": {
+      "name": "Gym 10kg Skiva",
+      "flavor": "Gummikant tuggad av år av dålig form och värre släpp."
+    },
+    "628": {
+      "name": "Arena Mästar-utmärkelse",
+      "flavor": "Graverad med en vinnare som aldrig gjorde anspråk på den, polerad av någon som gjorde det."
+    },
+    "629": {
+      "name": "Källare Koks-våg",
+      "flavor": "Kalibrerad till en tiondels gram och ett liv av paranoia."
+    },
+    "630": {
+      "name": "Sammet Halsbands-byst",
+      "flavor": "Kedjan är längesedan borta, sammeten håller fortfarande sin form."
+    },
+    "631": {
+      "name": "Graverad Tung Pistol",
+      "flavor": "Filigran på sliden, en färsk flisa på greppet, historia oberättad."
+    },
+    "632": {
+      "name": "Oavfyrat Pier-fyrverkeri",
+      "flavor": "Stubin intakt, etikett vatten-böjd, festivalens namn blekt."
+    },
+    "633": {
+      "name": "Spa Lavendel-tvål",
+      "flavor": "Lavendel och klor, halvsmält, monogrammerad med ett namn ingen känner igen."
+    },
+    "634": {
+      "name": "Återlämnad Vuxen-glans",
+      "flavor": "Omslag rivet, streckkod intakt, returnerad av en anledning listad endast som slitage."
+    },
+    "635": {
+      "name": "Strimlad Maxwell-trofé",
+      "flavor": "Plakett riven ren genom torsen, hantel fortfarande upplyft."
+    },
+    "636": {
+      "name": "OG Mixtape Nyutgåva",
+      "flavor": "Kassettrygg sprucken, handmärkt i silver-Sharpie."
+    },
+    "637": {
+      "name": "DJ-bås CD-rack",
+      "flavor": "Hälften av platserna tomma, resten repade bortom räddning."
+    },
+    "638": {
+      "name": "After Hours No.1 Trofé",
+      "flavor": "Guldfolie fortfarande orörd, basen graverad med en glömd gamertag."
+    },
+    "639": {
+      "name": "Motor-entusiastmagasin",
+      "flavor": "Veck ner centerfolden från för många garage-bläddringar."
+    },
+    "640": {
+      "name": "Minfält Mästar-trofé",
+      "flavor": "Gjuten i tenn, basen säger Överlevde Runda Sex i små stämplade bokstäver."
+    },
+    "641": {
+      "name": "Bränd Slugger-batt",
+      "flavor": "Handtag inlindat i friktionstejp, fattet halvsmält vid spetsen."
+    },
+    "642": {
+      "name": "Trick-trådbunden Skrivbordstelefon",
+      "flavor": "Lur ihop limmad, trådar krälar ut där sladden borde vara."
+    },
+    "643": {
+      "name": "Avvecklad Målsökande Patron",
+      "flavor": "Inert och stencilerad FÖR DISPLAY, fenor böjda från en låda den borde överlevt."
+    },
+    "644": {
+      "name": "Kockknivsblock",
+      "flavor": "Bokträblock nött slätt av tjugo år av dragna handtag."
+    },
+    "645": {
+      "name": "Plast-inslagen Centerfold",
+      "flavor": "Plast-inslagen och prismärkt två gånger, båda siffrorna överstrukna."
+    },
+    "646": {
+      "name": "Magnetisk Knivremsa",
+      "flavor": "Magnetremsa gulnad av ålder, tre platser tydligt tomma."
+    },
+    "647": {
+      "name": "Förgylld Revolver",
+      "flavor": "Gravyr ringlar runt cylindern, guld flagat från avtryckarbygeln."
+    },
+    "648": {
+      "name": "Väggmonterad Förstahjälpenkit",
+      "flavor": "Snäppspärr trasig, det gröna korset blekt till grått."
+    },
+    "649": {
+      "name": "Syra-fläckad Bilbatteri",
+      "flavor": "Syrafläck torkad i en halvmåne ner på ena sidan, terminaler korroderade gröna."
+    },
+    "650": {
+      "name": "Bärgad Bänksliperi",
+      "flavor": "Hjul flisat från att skära något hårdare än stål, motorhus svedd."
+    },
+    "651": {
+      "name": "Bluetooth Högtalardockning",
+      "flavor": "Aux-kabel fortfarande inpluggad i ingenting, damm krustat i gallret."
+    },
+    "652": {
+      "name": "Polyester Trådbobin",
+      "flavor": "Polyester lindad på en kartongkärna, ände häftad ner en gång."
+    },
+    "653": {
+      "name": "Lyx Stridspistol",
+      "flavor": "Pärlemorgrepp, slid etsad med ett rankemönster ingen bad om."
+    },
+    "654": {
+      "name": "Wades Avhuggna Huvud-prop",
+      "flavor": "Latexmask formad över en skumskalle, ögon målade lätt korsade."
+    },
+    "655": {
+      "name": "Skavd Träningsbaseball",
+      "flavor": "Röda sömmar lösa, autograf blekt till en oläslig smuts."
+    },
+    "656": {
+      "name": "Rakblad-inlindad Batt",
+      "flavor": "Taggtråd krustad med rost, knogeomslag dränkt mörkt vid greppet."
+    },
+    "657": {
+      "name": "Display Fotbollsskulptur",
+      "flavor": "Harts-gjutning med guldblad längs snörena, basen signerad av ingen berömd."
+    }
+  }
+}

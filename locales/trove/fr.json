@@ -1,0 +1,2606 @@
+{
+  "rarity": {
+    "common": "Commun",
+    "strange": "Étrange",
+    "rare": "Rare",
+    "mint": "Légendaire"
+  },
+  "items": {
+    "1": {
+      "name": "L'Idole d'Or de Madrazo",
+      "flavor": "Le visage doré de la légende Caida Libre — un porte-bonheur de la famille Madrazo."
+    },
+    "2": {
+      "name": "Figurine Impotent Rage",
+      "flavor": "Édition collector originale du super-héros de Vinewood — socle encore brillant."
+    },
+    "3": {
+      "name": "Figurine Alien",
+      "flavor": "Un moulage rare traqué par des collectionneurs secrets."
+    },
+    "5": {
+      "name": "Figurine Beast",
+      "flavor": "Antagoniste mi-monstre de la série du super-héros de Vinewood — édition poilue."
+    },
+    "6": {
+      "name": "Figurine Sasquatch",
+      "flavor": "Saint Graal des chasseurs d'Easter eggs de \"Bigfoot\"."
+    },
+    "7": {
+      "name": "Logo Classique Rockstar",
+      "flavor": "Souvenir de studio en édition limitée — tombé d'une vitrine."
+    },
+    "8": {
+      "name": "Trophée Communauté Rockstar",
+      "flavor": "Plaque pressée pour les membres de la communauté Rockstar — le seul exemplaire à Pillbox Hill."
+    },
+    "12": {
+      "name": "Sculpture Pop Art #1",
+      "flavor": "Pièce rétro pop-art de la Diamond Casino Heritage Hall."
+    },
+    "13": {
+      "name": "Sculpture Pop Art #2",
+      "flavor": "Deuxième série du même artiste — moins pressées."
+    },
+    "15": {
+      "name": "Statue de Panthère",
+      "flavor": "Panthère en bronze sombre — ses yeux te suivent encore."
+    },
+    "16": {
+      "name": "Statue de Cheval",
+      "flavor": "Sculpture vintage de cheval — perdue par un collectionneur il y a des années."
+    },
+    "17": {
+      "name": "Sculpture Abstraite",
+      "flavor": "Sens flou, prix élevé — ils appellent ça du vrai art."
+    },
+    "19": {
+      "name": "Figurine de Héros Vintage",
+      "flavor": "Objet de collection des enfants Vinewood des années 80 — sorti tout droit de sa boîte d'origine."
+    },
+    "21": {
+      "name": "Chien en Peluche",
+      "flavor": "Un cadeau de fête perdu — n'a jamais atteint son destinataire."
+    },
+    "22": {
+      "name": "Sunny — Mascotte du Festival d'Été",
+      "flavor": "Mascotte signature du festival d'été de Vespucci — yeux encore bleu Pacifique."
+    },
+    "23": {
+      "name": "Bruno l'Ours de Vinewood",
+      "flavor": "Prix signature de la pince à griffes Pixel Pete — étiquette \"Bruno\" cousue sur sa fourrure."
+    },
+    "24": {
+      "name": "Po le Panda de Davis",
+      "flavor": "Légende de la pince à griffes du quartier de Davis — encore avec ses yeux doux."
+    },
+    "25": {
+      "name": "Kobi le Koala Mignon",
+      "flavor": "Peluche du rayon supérieur avec une étiquette \"je suis mignon\" sur l'oreille."
+    },
+    "26": {
+      "name": "Lily la Lapine",
+      "flavor": "Un souvenir d'amour — laissé à l'entrée d'un club, ruban rouge sur l'oreille."
+    },
+    "27": {
+      "name": "Foxxy le Petit Renard",
+      "flavor": "Mascotte du coin jeu de Burger Shot — queue rapiécée."
+    },
+    "28": {
+      "name": "Zara la Girafe",
+      "flavor": "Booster de moral miracle de la salle d'attente de Pillbox Hospital — long cou et tout."
+    },
+    "29": {
+      "name": "Toto le Tigre",
+      "flavor": "Témoin silencieux de la scène du Vanilla Unicorn — badge VIP au cou."
+    },
+    "30": {
+      "name": "Lucky le Chien",
+      "flavor": "Prix de la saison finale de Pixel Pete — un porte-bonheur pour ceux qui complètent la collection."
+    },
+    "31": {
+      "name": "Nain de Jardin de Vinewood",
+      "flavor": "Membre survivant du culte des nains des Vinewood Hills — la plus vieille blague de jardin de Rockstar."
+    },
+    "32": {
+      "name": "Figurine de Cheval Cabré",
+      "flavor": "Un bibelot de cheval de course en bronze coulé — le genre de chose qu'un agent Vinewood garde pour paraître plus classe qu'il ne l'est."
+    },
+    "33": {
+      "name": "Sculpture Moderne #4",
+      "flavor": "Pièce moderne de la rotation Penthouse — Tao Cheng a signé le certificat lui-même."
+    },
+    "34": {
+      "name": "Sculpture du Bureau du Cartel",
+      "flavor": "Posée sur le bureau du contremaître du cartel à l'usine de traitement Cluckin' Bell — légèrement tachée de graisse de poulet."
+    },
+    "35": {
+      "name": "Trophée Champion Flipper",
+      "flavor": "Argenterie haut de gamme Arena War — gagnée par le seul pilote qui a terminé Flipper sur ses roues."
+    },
+    "36": {
+      "name": "Casquette Porte-Bonheur de Ron",
+      "flavor": "Ron Jakowski l'a portée pendant chaque stream complotiste de Sandy Shores — niveau de radiation : limite."
+    },
+    "37": {
+      "name": "Jéroboam de Blêuter'd",
+      "flavor": "Un Jéroboam de 3 litres de Blêuter'd '08 — laissé dans le box VIP, intouché."
+    },
+    "38": {
+      "name": "Manette Vintage",
+      "flavor": "La manette de la nuit blanche de Jimmy De Santa — sticks collants inclus."
+    },
+    "39": {
+      "name": "Voiture Pop Art #10",
+      "flavor": "Diamond Heritage Gallery — hommage pop-art aux muscle cars de la décennie d'or de Los Santos."
+    },
+    "40": {
+      "name": "Voiture Pop Art #12",
+      "flavor": "La deuxième moitié du diptyque muscle-car de Diamond — celle qu'Avi Schwartzman a essayé de voler."
+    },
+    "41": {
+      "name": "Voiture Pop Art #9",
+      "flavor": "Pièce d'ouverture du triptyque Pop-Art Car — jamais vendue aux enchères, jamais assurée."
+    },
+    "42": {
+      "name": "Trophée Idole — Petit Aztèque",
+      "flavor": "Jumeau en vitrine de l'idole prisée du Casino Heist — le cartel l'a gardée comme trophée de vantardise."
+    },
+    "43": {
+      "name": "Trophée Idole — Grand Aztèque",
+      "flavor": "Un trophée de l'arrière-bureau Cluckin' Bell — hommage du boss du cartel au Casino Heist qui a tout déclenché."
+    },
+    "44": {
+      "name": "Trophée Planète Pierre-Soleil",
+      "flavor": "La pièce planétaire du set Aztèque — l'un des quatre trophées que le boss de Cluckin' Bell gardait sur l'étagère du bureau."
+    },
+    "45": {
+      "name": "Trophée Tank Scarab",
+      "flavor": "Tank Scarab en bronze coulé pour le champion Arena War qui a survécu aux finales de demolition derby — la base sent encore le caoutchouc brûlé."
+    },
+    "46": {
+      "name": "Trésor Aztèque",
+      "flavor": "Un amas de pièces aztèques et de maillons de chaîne — \"taxe\" du cartel prélevée sur le Casino Heist original."
+    },
+    "47": {
+      "name": "Idole Aztèque Brute",
+      "flavor": "Détachée de sa vitrine — arrachée en plein heist, jamais remontée."
+    },
+    "48": {
+      "name": "Idole Aztèque Jumelle",
+      "flavor": "Jumelle cadette de l'idole Madrazo — même moule, fondeur différent."
+    },
+    "49": {
+      "name": "Trophée Œuf-Soleil Aztèque",
+      "flavor": "L'œuf-soleil aztèque — complète l'étagère trophée à quatre pièces aux côtés de l'idole, du scarabée et de la planète."
+    },
+    "50": {
+      "name": "Trophée Pogo Doré",
+      "flavor": "Objet de collection grand prix de la Lucky Wheel — seulement douze ont été frappés, paraît-il."
+    },
+    "51": {
+      "name": "Pièce d'Art Console Rétro",
+      "flavor": "Console vintage traitée comme de l'art de galerie — Pixel Pete pleure chaque fois qu'elle est vendue."
+    },
+    "52": {
+      "name": "Crâne Diamant \"For the Love of Cash\"",
+      "flavor": "Pièce vaniteuse du penthouse volée pendant le Casino Heist original — ses diamants pavés sont réels, et Lester a encore l'évaluation."
+    },
+    "53": {
+      "name": "Œuf Impérial Tataryn",
+      "flavor": "Un héritage de la famille Tataryn disparu du jour au lendemain — le matin après le départ d'Avi Schwartzman de la ville."
+    },
+    "54": {
+      "name": "El Rubio Reserva Añejo",
+      "flavor": "Passé en contrebande de Cayo Perico dans un sac de sport — le sceau est intact et le tampon de cire est encore celui d'El Rubio."
+    },
+    "55": {
+      "name": "Maquette Declasse Sabre GT",
+      "flavor": "Commandée par le père de Tao Cheng après une nuit gagnante à la table de blackjack à forte limite."
+    },
+    "56": {
+      "name": "Plaque \"OG1\" South Central",
+      "flavor": "Arrachée d'un mur de garage de Davis — les anciens disent qu'elle appartenait à Stretch quand Grove Street signifiait encore quelque chose."
+    },
+    "57": {
+      "name": "Ballon de Match LS Panic",
+      "flavor": "Signé au Sharpie délavé par toute la défense des Los Santos Panic après leur victoire de division '08."
+    },
+    "58": {
+      "name": "Ballon Tournoi Streetball Vespucci",
+      "flavor": "Usé jusqu'au caoutchouc sur les terrains de Vespucci — la marque \"Lamar 23\" est encore lisible."
+    },
+    "59": {
+      "name": "Peluche Pogo le Singe",
+      "flavor": "Prix grand prix de la pince à griffes de l'arrière-salle du diner Up-n-Atom — étiquette dit \"Propriété de Tracey.\""
+    },
+    "60": {
+      "name": "Trophée Tireur d'Élite d'El Rubio",
+      "flavor": "Décerné par El Rubio lui-même à son meilleur sniper du complexe — gravé \"Para mi mejor tirador, 2020.\""
+    },
+    "61": {
+      "name": "Quille de Bowling Dorée (Édition Lebowski)",
+      "flavor": "Un hommage sincère à six chiffres au grand passe-temps américain — Tao Cheng en a trois."
+    },
+    "62": {
+      "name": "Carafe Cristal Macbeth 30 ans",
+      "flavor": "Volée au bar privé d'un cadre de Maze Bank — le monogramme gravé dit \"AB\", les mêmes initiales que le comptable d'Avon Hertz."
+    },
+    "63": {
+      "name": "Trophée Triple-Score Festive Surprise",
+      "flavor": "Décerné aux concurrents de l'Arena qui ont marqué un hat-trick pendant l'événement Festive Surprise — les nœuds sont encore frisés."
+    },
+    "64": {
+      "name": "Trophée Maître Pilote Bandito",
+      "flavor": "Gagné pour dix éliminations à la mine cinétique en RC Bandito — les fans de l'Arena appellent encore ça le \"trophée du sol de garage.\""
+    },
+    "65": {
+      "name": "Tour Ascendant Carrière Arena",
+      "flavor": "Décernée pour avoir survécu à 100 rounds Arena consécutifs — Benny a soudé la plaque de base lui-même."
+    },
+    "66": {
+      "name": "Coupe Grand Champion Arena",
+      "flavor": "Le grand prix que Mr. Bossman a remis aux premières finales de l'Arena — seulement trois ont été coulées, et deux sont manquantes."
+    },
+    "67": {
+      "name": "Maquette Chrome Pegassi Toreador",
+      "flavor": "Une pièce à l'échelle commandée pour marquer les débuts de la Toreador sur Vinewood Boulevard."
+    },
+    "68": {
+      "name": "Figurine à Tête Branlante LS Caesars",
+      "flavor": "Un souvenir des années 90 du vieux dugout des LS Caesars — Franklin en garde une sur son bureau pour la chance."
+    },
+    "69": {
+      "name": "Figurine Recrue San Andreas Stallions",
+      "flavor": "Cadeau Vinewood Bowl du match d'ouverture '04 — la tête à ressort tremble encore après vingt ans."
+    },
+    "70": {
+      "name": "Mug Pit-Boss Atelier Arena",
+      "flavor": "Mug \"World's #1 Boss\" de Mr. Bossman lui-même — anneau de café encore sur le bord."
+    },
+    "71": {
+      "name": "Maquette Display Benefactor Krieger",
+      "flavor": "Pièce d'exposition à un million de jetons de la galerie Penthouse — Yung Ancestor a cité exactement cette sculpture dans un couplet."
+    },
+    "72": {
+      "name": "Sculpture Dorée \"Lancer Franc\"",
+      "flavor": "Une pièce de conversation à six chiffres — la signature de l'artiste, \"Jeff K.\", est gravée au dos."
+    },
+    "73": {
+      "name": "Figurine Fille en Porcelaine",
+      "flavor": "Une petite fille en porcelaine ébréchée qui vivait autrefois sur une cheminée Vinewood — jolie, naïve, et vaut plus qu'elle n'en a l'air."
+    },
+    "74": {
+      "name": "Figurine Clown Arlequin",
+      "flavor": "Une poupée pierrot avec de l'émail craquelé et un sourire qui semble toujours décalé d'un frame."
+    },
+    "75": {
+      "name": "Sculpture Abstraite Cypress",
+      "flavor": "Pièce hipster de galerie laissée sur un quai de chargement de Cypress Flats — étiquetée \"sans titre #4\" et tarifée comme si ça comptait."
+    },
+    "76": {
+      "name": "Figurine Étalon en Bronze",
+      "flavor": "Un étalon miniature qui vivait sur la cheminée de Michael De Santa — quelqu'un l'a chipé pendant les retombées Madrazo."
+    },
+    "77": {
+      "name": "Trophée Crâne Encrier",
+      "flavor": "Un crâne flash-art arraché directement du comptoir d'un salon de tatouage Harmony — sent encore le savon vert."
+    },
+    "78": {
+      "name": "OG Mixtape — Variante 2",
+      "flavor": "Cassette promo scellée d'une pression West Coast piratée — Franklin paierait le double pour ça."
+    },
+    "79": {
+      "name": "Crâne Gladiateur Chromé",
+      "flavor": "Crâne de la taille d'un ornement de capot plaqué en show-chrome — pièce de chevet d'un champion Arena War."
+    },
+    "80": {
+      "name": "Maquette Art Lowrider",
+      "flavor": "Une maquette de galerie d'un lowrider chopé — pinstripes encore humides au toucher."
+    },
+    "81": {
+      "name": "Trophée Pilote d'El Rubio",
+      "flavor": "Un trophée de pilote doré volé dans un coffre d'île privée — la gravure a été grattée."
+    },
+    "82": {
+      "name": "Trophée Or Downtown Cab Co.",
+      "flavor": "Une récompense pour un siècle de service de la Downtown Cab Co. — vu pour la dernière fois sur l'étagère d'un répartiteur avant que le lieu ne soit braqué."
+    },
+    "83": {
+      "name": "Pyramide Cristal Presse-Papiers",
+      "flavor": "Une lourde pyramide de cristal qui pesait sur les contrats d'un producteur — censée évacuer les mauvaises ondes."
+    },
+    "84": {
+      "name": "Gant de Boxe du Champion",
+      "flavor": "Un seul gant rouge laissé dans le coin d'une salle de sport longtemps fermée — poussière des phalanges encore sur le cuir."
+    },
+    "85": {
+      "name": "Miniature Yacht Galaxy",
+      "flavor": "Modèle à l'échelle du Galaxy par un joaillier — plaqué or, ancre fonctionnelle, tarifé comme l'original."
+    },
+    "86": {
+      "name": "Rayon Up-n-Atomizer",
+      "flavor": "Un rayon de la mort rétro chromé tout droit sorti de l'enseigne du diner Up-n-Atom — et étonnamment lourd quand tu le ramasses."
+    },
+    "87": {
+      "name": "Bloc Béton Brutaliste",
+      "flavor": "Un bloc d'art en béton coulé que la galerie insiste pour appeler \"brutaliste post-Vinewood\" — bien qu'il ressemble à un trottoir."
+    },
+    "88": {
+      "name": "Maquette Maze Bank Tower",
+      "flavor": "Un modèle à l'échelle parfait de Maze Bank Tower — la maison de poupée qu'un PDG garde dans le coin de son vrai bureau."
+    },
+    "89": {
+      "name": "Taser Perico Compliance",
+      "flavor": "Un taser du marché noir arraché à un garde d'île — il reste encore une demi-charge dans la cellule."
+    },
+    "90": {
+      "name": "Idole Pierre Aztèque",
+      "flavor": "Une idole en pierre volcanique plus vieille que la ville elle-même — Franklin jurait ne l'avoir jamais achetée, mais elle revenait sans cesse."
+    },
+    "91": {
+      "name": "Trophée Champion Arena Wars",
+      "flavor": "Le gros — trophée du dernier survivant en or massif, décerné une fois par saison Arena Wars et jamais deux fois."
+    },
+    "92": {
+      "name": "Donut Glaçage Rose",
+      "flavor": "Un anneau à glaçage rose à moitié mangé avec des paillettes arc-en-ciel, laissé sur une serviette pendant une longue planque."
+    },
+    "93": {
+      "name": "Flûte à Champagne Cristal",
+      "flavor": "Rouge à lèvres encore sur le bord d'une afterparty Vinewood que personne ne se souvient avoir quittée."
+    },
+    "94": {
+      "name": "Trophée Danseuse Cayo Perico",
+      "flavor": "Une figurine de danseuse dorée, gagnée dans un pari d'équipe de heist et planquée pour un jour de pluie."
+    },
+    "95": {
+      "name": "Trophée Combattant Cayo Perico",
+      "flavor": "Jumeau de la danseuse, celui-ci a été réclamé par le muscle de l'équipe avant qu'ils ne disparaissent."
+    },
+    "96": {
+      "name": "Sculpture Décorative Penthouse",
+      "flavor": "Pièce d'art moderniste mise en gage par un propriétaire d'arcade fauché ; les riches ne savaient pas qu'elle manquait."
+    },
+    "97": {
+      "name": "Barre Chocolatée Météorite",
+      "flavor": "Barre de bonbon thème bingo avec un emballage prétendant qu'elle a été forgée dans l'espace lointain."
+    },
+    "98": {
+      "name": "Boîte de Bonbons P's & Q's",
+      "flavor": "Un carton collant de bonbons alphabet laissé après qu'un anniversaire d'enfant a mal tourné."
+    },
+    "99": {
+      "name": "Enceinte de Concert Murale",
+      "flavor": "Une enceinte PA éraflée libérée d'une block party Vespucci que le LSPD a fermée à 2 h du matin."
+    },
+    "100": {
+      "name": "Café Emporter Bean Machine",
+      "flavor": "Latte tiède avec couvercle desserré — abandonné en route vers une réunion déjà commencée."
+    },
+    "101": {
+      "name": "Pinceau du Tagueur",
+      "flavor": "Poils incrustés de vert fluorescent — lâché en plein tag quand les sirènes ont déboulé dans la ruelle."
+    },
+    "102": {
+      "name": "Boule de Billard Numérotée — 8",
+      "flavor": "La boule noire, éraflée par mille matchs de rancune pour des paris à cinq dollars."
+    },
+    "103": {
+      "name": "Boule de Billard Numérotée — 7",
+      "flavor": "Bande marron a roulé hors de la table et n'est jamais revenue dans le râtelier."
+    },
+    "104": {
+      "name": "Boule de Billard Numérotée — 9",
+      "flavor": "Bande jaune, rayée d'un côté où quelqu'un l'a tenue dans la main comme presse-papiers."
+    },
+    "105": {
+      "name": "Boule de Billard Numérotée — 13",
+      "flavor": "Bande orange avec un coin de laque écaillé d'un dur bank shot qui a mal tourné."
+    },
+    "106": {
+      "name": "Boule de Billard Numérotée — 11",
+      "flavor": "Bande bordeaux tachée de cendre de cigarette — autrefois habituée d'un tournoi de Del Perro."
+    },
+    "107": {
+      "name": "Boule de Billard Numérotée — 5",
+      "flavor": "Orange unie, lisse comme neuve — clairement volée la première nuit après la sortie de la boîte."
+    },
+    "108": {
+      "name": "Boule de Billard Numérotée — 15",
+      "flavor": "Bande marron avec une fissure capillaire qui siffle quand on la frappe juste comme il faut."
+    },
+    "109": {
+      "name": "Boule de Billard Numérotée — 12",
+      "flavor": "Bande violette trouvée dans la poche d'une veste empruntée que personne n'a rendue."
+    },
+    "110": {
+      "name": "Boule de Billard Numérotée — 4",
+      "flavor": "Violet uni, polie presque comme un miroir — la préférée d'un hustler depuis longtemps à la retraite."
+    },
+    "111": {
+      "name": "Boule Blanche",
+      "flavor": "La boule qui a cassé mille racks — trace de craie encore sur son bord avant."
+    },
+    "112": {
+      "name": "Boule de Billard Numérotée — 6",
+      "flavor": "Vert uni avec une bosse de quand elle servait aussi de presse-papiers dans le bureau d'un huissier."
+    },
+    "113": {
+      "name": "Boule de Billard Numérotée — 1",
+      "flavor": "Jaune unie, la chanceuse — gardée dans la main avant chaque casse par un habitué du bar."
+    },
+    "114": {
+      "name": "Boule de Billard Numérotée — 2",
+      "flavor": "Bleu uni avec une initiale délavée au marqueur — revendiquée il y a longtemps, jamais réclamée."
+    },
+    "115": {
+      "name": "Boule de Billard Numérotée — 3",
+      "flavor": "Rouge uni — réputé provenir d'une table où un célèbre one-pocket hustle a eu lieu."
+    },
+    "116": {
+      "name": "Boule de Billard Numérotée — 10",
+      "flavor": "Bande bleue avec une éraflure de feutre d'une des tables que personne n'a le droit de réparer."
+    },
+    "117": {
+      "name": "Boule de Billard Numérotée — 14",
+      "flavor": "Bande verte manquant d'une table de garage de Cypress Flats ; personne n'a redemandé."
+    },
+    "118": {
+      "name": "Cruche Céramique Glaçurée",
+      "flavor": "Une lourde cruche en céramique d'un stand routier Grand Senora — lèvre ébréchée, tient encore l'eau."
+    },
+    "119": {
+      "name": "Plans Architecturaux Roulés",
+      "flavor": "Plans de bâtiment roulés serré et attachés avec de la ficelle — lâchés lors d'une sortie précipitée."
+    },
+    "120": {
+      "name": "Mitraillette SMG Mk II Personnalisée",
+      "flavor": "Une SMG moddée avec un numéro de série limé propre — laissée après qu'un coup à Paleto Bay a tourné bruyant."
+    },
+    "121": {
+      "name": "Marteau à Griffe Industriel",
+      "flavor": "Un lourd marteau à griffe emprunté à un contremaître et jamais rendu à la ceinture à outils."
+    },
+    "122": {
+      "name": "Bol Mousse Barbier",
+      "flavor": "Mousse de barbier à moitié utilisée, parfum santal cuit dedans."
+    },
+    "123": {
+      "name": "Visseuse à Choc Pneumatique",
+      "flavor": "Gâchette collante de poussière de frein et de vieille graisse."
+    },
+    "124": {
+      "name": "Télécommande Surfeur de Chaînes",
+      "flavor": "Couvercle des piles fixé avec un carré de duct tape."
+    },
+    "125": {
+      "name": "Panier à Linge en Osier",
+      "flavor": "Sent l'adoucissant et une chaussette manquante."
+    },
+    "126": {
+      "name": "Téléphone Jetable Verrouillé",
+      "flavor": "Écran verrouillé éclairé de vingt-deux appels manqués."
+    },
+    "127": {
+      "name": "Shaker à Cocktail Chromé",
+      "flavor": "Encore froid, glaçons cliquetant contre l'acier poli."
+    },
+    "128": {
+      "name": "Verre de Whisky Double",
+      "flavor": "Fumé, tourbé, deux doigts de regret."
+    },
+    "129": {
+      "name": "Sculpture Curiosité Marbre",
+      "flavor": "Froide au toucher, signée au crayon sur la base."
+    },
+    "130": {
+      "name": "Pile de Permis Falsifiés",
+      "flavor": "Douze identités, même coupe de cheveux, noms différents."
+    },
+    "131": {
+      "name": "Goutte Saphir Or Blanc",
+      "flavor": "Sertie en or blanc, poids inégal exprès."
+    },
+    "132": {
+      "name": "Pompe à Tambour Street Sweeper",
+      "flavor": "Chargeur tambour chaud, numéro de série gravé."
+    },
+    "133": {
+      "name": "Gamelle Croustillée",
+      "flavor": "Incrustée de sauce séchée, les fourmis tiennent réunion."
+    },
+    "134": {
+      "name": "Douille en Laiton Usagée",
+      "flavor": "Amorce frappée en plein centre, vernis écaillé de la douille."
+    },
+    "135": {
+      "name": "Livre Cartonné Poussiéreux",
+      "flavor": "Dos craqué au chapitre quatre, coins cornés et final."
+    },
+    "136": {
+      "name": "Souris d'Ordinateur Filaire",
+      "flavor": "Molette collante, bouton gauche usé brillant."
+    },
+    "137": {
+      "name": "Réveil de Chevet",
+      "flavor": "Écran bloqué à 12:00, bouton snooze enfoncé."
+    },
+    "138": {
+      "name": "Dossier Plié",
+      "flavor": "Noms biffés au marqueur, bords gondolés par l'humidité."
+    },
+    "139": {
+      "name": "Grille-Pain Deux Tranches",
+      "flavor": "Miettes dans le bac, levier déglingué."
+    },
+    "140": {
+      "name": "Pomme Rouge Meurtrie",
+      "flavor": "Une bouchée prise, posée et oubliée."
+    },
+    "141": {
+      "name": "Lecteur DVD Slim",
+      "flavor": "Tiroir disque coincé, câbles RCA emmêlés en nœud."
+    },
+    "142": {
+      "name": "Brique de C4",
+      "flavor": "Détonateur dévissé, mastic mou et chaud."
+    },
+    "143": {
+      "name": "Cannette Pride Lager",
+      "flavor": "Suant le froid, demi-empreinte sur la languette."
+    },
+    "144": {
+      "name": "Boîtier Caméra Paparazzi",
+      "flavor": "Long objectif éraflé, dernière image encore dans le buffer."
+    },
+    "145": {
+      "name": "Cendrier Cristal Exécutif",
+      "flavor": "Fond lourd, trois cigares enregistrés ce soir."
+    },
+    "146": {
+      "name": "Compteur de Taxi Monté",
+      "flavor": "Bloqué à 14,20$, câble pendant du support du tableau de bord."
+    },
+    "147": {
+      "name": "Solitaire Diamant Taille Princesse",
+      "flavor": "Taille princesse, certifié à un nom qui n'existe plus."
+    },
+    "148": {
+      "name": "Maillet de Air Hockey",
+      "flavor": "Fond en feutre poli, manche taché de sueur."
+    },
+    "149": {
+      "name": "Figurine Obélisque Noir",
+      "flavor": "Pierre polie, base gravée d'un seul symbole."
+    },
+    "150": {
+      "name": "Canette eCola Cabossée",
+      "flavor": "Cabossée sur le bord, condensation s'accumulant à la base."
+    },
+    "151": {
+      "name": "Trimestriel Glacé Casino",
+      "flavor": "Pages glacées vantant des jackpots que personne que tu connais n'a jamais gagnés."
+    },
+    "152": {
+      "name": "Portable Jetable de Clubhouse",
+      "flavor": "Portable couvert de stickers avec une batterie assez chaude pour cuire un œuf dessus."
+    },
+    "153": {
+      "name": "Caddie à Outils Croustillé de Graisse",
+      "flavor": "Chaque tiroir cliquette avec des douilles dépareillées et un fortune cookie graisseux solitaire."
+    },
+    "154": {
+      "name": "Réserve de Cigares Importés",
+      "flavor": "Enveloppée serrée dans du papier alu et sentant comme le salon d'un homme plus riche."
+    },
+    "155": {
+      "name": "Carafe de Whisky en Cristal",
+      "flavor": "Cristal taillé à la main qui contient encore le fantôme d'un single malt de trente ans."
+    },
+    "156": {
+      "name": "Seau à Glace Bouteille",
+      "flavor": "Glace à moitié fondue, bord à rouge à lèvres, et un arrière-goût de la bonne nuit de quelqu'un d'autre."
+    },
+    "157": {
+      "name": "Boîtier DVD Sans Étiquette",
+      "flavor": "Pas de titre, pas de classification, et un résidu collant que tu ne veux pas identifier."
+    },
+    "158": {
+      "name": "Clé à Molette Acier Lourde",
+      "flavor": "Le genre de clé qui a serré plus de mâchoires que de boulons."
+    },
+    "159": {
+      "name": "Une Botte Solitaire",
+      "flavor": "Semelle usée, histoire non dite, deuxième botte probablement dans une benne quelque part."
+    },
+    "160": {
+      "name": "Bouteille Maison Vidée",
+      "flavor": "Étiquette collante décollée, contenu disparu depuis longtemps, scène miniature pour mouches à fruits."
+    },
+    "161": {
+      "name": "Sculpture Penthouse en Laiton",
+      "flavor": "Laiton coulé avec une courbe si arrogante qu'elle a dû coûter un quart de million."
+    },
+    "162": {
+      "name": "Pendentif Saphir Taillé",
+      "flavor": "Froid au toucher et d'une façon plus lourd qu'une pierre de cette taille devrait l'être."
+    },
+    "163": {
+      "name": "Fougère de Jardinerie",
+      "flavor": "Légèrement trop arrosée, légèrement mal aimée, prête à mourir dans un nouveau foyer."
+    },
+    "164": {
+      "name": "Revolver Snubnose à Crosse Bandée",
+      "flavor": "Six chambres, deux usées, crosse enveloppée de ruban adhésif qui sent la sueur."
+    },
+    "165": {
+      "name": "Station d'Accueil Enceinte Éraflée",
+      "flavor": "Batterie morte, basses cassées, mais l'antenne luit encore d'un bleu plein d'espoir."
+    },
+    "166": {
+      "name": "Bombe Aérosol à Moitié Vide",
+      "flavor": "Cliquette quand on la secoue, siffle quand on appuie, chante quand on vise."
+    },
+    "167": {
+      "name": "Gobelet à Soda Froissé",
+      "flavor": "Paille pliée, couvercle mordu, juste assez de sirop pour le coller au trottoir."
+    },
+    "168": {
+      "name": "Masque à Gaz Surplus",
+      "flavor": "Cartouche de filtre croûteuse, lentilles embuées par la panique de quelqu'un d'autre."
+    },
+    "169": {
+      "name": "Smartphone Exécutif",
+      "flavor": "Écran verrouillé, deux appels manqués, photo d'écran de verrouillage d'un yacht inaccessible."
+    },
+    "170": {
+      "name": "Douille Chaude",
+      "flavor": "Laiton encore assez chaud pour se souvenir de la détente pressée."
+    },
+    "171": {
+      "name": "Magnum de Champagne Ouvert",
+      "flavor": "Papier déchiré, bouchon perdu, la nuit déjà en route pour devenir légendaire."
+    },
+    "172": {
+      "name": "Hache de Bataille en Fer",
+      "flavor": "Tranchant entaillé, manche poli, le genre de chose qui va au-dessus d'une cheminée."
+    },
+    "173": {
+      "name": "Whisky Contrebandier Scellé",
+      "flavor": "Ambré à l'intérieur, intouché, étiquette gravée d'un nom que personne ne prononce correctement."
+    },
+    "174": {
+      "name": "Pistolet Vintage à Crosse Nacre",
+      "flavor": "Canon gravé, crosse en nacre, sent légèrement l'huile à arme et le regret."
+    },
+    "175": {
+      "name": "Verre à Vin à Moitié Plein",
+      "flavor": "Rouge à lèvres sur le bord, sédiment au fond, conversation abandonnée depuis longtemps."
+    },
+    "176": {
+      "name": "Pistolet .50 Lourd",
+      "flavor": "Matière à ecchymose de recul, avec un numéro de série limé propre jusqu'à l'argent."
+    },
+    "177": {
+      "name": "Pipe à Eau en Verre Haut",
+      "flavor": "Chambre trouble, downstem fissuré, parfumé comme un plateau de clip vidéo Vinewood."
+    },
+    "178": {
+      "name": "Bouteille de Moutarde Pressée",
+      "flavor": "Embout croûteux, côtés cabossés, couvercle porté disparu."
+    },
+    "179": {
+      "name": "Cannette de Soda Écrasée",
+      "flavor": "Languette encore attachée, côté enfoncé par une botte pressée."
+    },
+    "180": {
+      "name": "Caisse de Munitions Pochoirée",
+      "flavor": "Tamponnée d'un numéro d'unité, scellée avec du ruban d'emballage et une prière."
+    },
+    "181": {
+      "name": "Boîtier DVD Fissuré",
+      "flavor": "Un boîtier plastique éraflé avec le disque manquant et un sticker de location délavé."
+    },
+    "182": {
+      "name": "Boîte de Fusées de Détresse",
+      "flavor": "Une boîte cartonnée roussie tamponnée d'avertissements rouges."
+    },
+    "183": {
+      "name": "Buste Crâne Doré II",
+      "flavor": "Un memento-mori chromé que quelqu'un a emporté avant le vernissage."
+    },
+    "184": {
+      "name": "Casserole en Verre",
+      "flavor": "Une casserole Pyrex tachée par la chaleur sentant encore légèrement la marinara."
+    },
+    "185": {
+      "name": "Mallette de Front-Office",
+      "flavor": "Une mallette aluminium éraflée fermée par une étiquette à bagage en italien."
+    },
+    "186": {
+      "name": "Range-Stylos de Bureau",
+      "flavor": "Un pot à stylos plein qui n'a clairement jamais été organisé."
+    },
+    "187": {
+      "name": "Cache d'Idole Aztèque",
+      "flavor": "Une curiosité pré-colombienne incrustée de mousse de jungle ; quelqu'un n'aurait vraiment pas dû la déplacer."
+    },
+    "188": {
+      "name": "Tas de Détritus de Trottoir",
+      "flavor": "Gobelets écrasés, un billet de loto, et un flyer pour un club fermé en 2014."
+    },
+    "189": {
+      "name": "Caisse Coursier MC",
+      "flavor": "Une caisse de transport verrouillée recouverte de stickers de trois chapitres différents."
+    },
+    "190": {
+      "name": "Portable DJ Résident",
+      "flavor": "Deck marqué au combat encore calé sur un morceau que personne n'admet avoir écrit."
+    },
+    "191": {
+      "name": "Vase d'Exposition Boutique",
+      "flavor": "Une céramique tournée à la main avec un prix valant un mois de loyer."
+    },
+    "192": {
+      "name": "Pistolet 9mm Lâché",
+      "flavor": "Glissière verrouillée, séries limées propre, trois balles de moins qu'un chargeur."
+    },
+    "193": {
+      "name": "Buste Crâne Doré III",
+      "flavor": "Une pièce assortie du triptyque d'installation casino inachevé."
+    },
+    "194": {
+      "name": "Maglite LSPD",
+      "flavor": "Aluminium lourd, lunette cabossée, et un clip de bodycam encore attaché."
+    },
+    "195": {
+      "name": "Pancarte FERMÉ Mom-and-Pop",
+      "flavor": "Retournée à la main mille fois ; coins cornés, heures rayées deux fois."
+    },
+    "196": {
+      "name": "Sneaker de Designer Égaré",
+      "flavor": "Pied droit seulement, bout éraflé, lacets encore noués — quelqu'un a couru."
+    },
+    "197": {
+      "name": "Bouton de Peyote des Plaines",
+      "flavor": "Un bouton de désert cireux qui bourdonne faiblement quand tu t'accroupis à côté."
+    },
+    "198": {
+      "name": "Bidon d'Huile Industriel",
+      "flavor": "Coutures gonflées et une fuite fraîche graissant le gravier en dessous."
+    },
+    "199": {
+      "name": "Boîte de Munitions Surplus",
+      "flavor": "Estampillée militaire, à moitié ouverte, comptage clairement hors des livres."
+    },
+    "200": {
+      "name": "Rolodex Exécutif",
+      "flavor": "Un flipper plein de noms au crayon ; chaque troisième entrée est barrée."
+    },
+    "201": {
+      "name": "Sculpture Voiture Casino Art",
+      "flavor": "Une silhouette de muscle car chromée montée comme un ornement de capot devenu sauvage."
+    },
+    "202": {
+      "name": "Radio Transistor Vintage",
+      "flavor": "Cadran d'accord fissuré, capte encore Los Santos Rock si tu tapes juste comme il faut."
+    },
+    "203": {
+      "name": "Buste Crâne Doré I",
+      "flavor": "Le premier du triptyque — celui que l'artiste a refusé de titrer."
+    },
+    "204": {
+      "name": "Bouteille de Whisky Contrebande",
+      "flavor": "Étiquette étrangère, sceau brisé, le tampon d'import maladroitement gratté."
+    },
+    "205": {
+      "name": "Jouet Nouveauté Jeté",
+      "flavor": "Trouvé derrière la benne ; personne n'admet à qui c'était."
+    },
+    "206": {
+      "name": "Pièce Maîtresse de Headshop",
+      "flavor": "Borosilicate soufflé à la main, chambre enfumée, prix de l'étiquette déjà discuté."
+    },
+    "207": {
+      "name": "Sèche-Cheveux Salon Chromé",
+      "flavor": "Lourd manche chromé, moteur encore chaud au toucher."
+    },
+    "208": {
+      "name": "Boîte Crème de Tomate",
+      "flavor": "Étiquette cabossée, date d'expiration effacée au marqueur."
+    },
+    "209": {
+      "name": "Coffre à Outils Atelier",
+      "flavor": "Tiroir supérieur ouvert ; douilles métriques, cliquets impériaux."
+    },
+    "210": {
+      "name": "Ballon Trophée Casino Court",
+      "flavor": "Une sculpture de basketball dorée, signée au marqueur par un nom à moitié estompé."
+    },
+    "211": {
+      "name": "Caisse de Munitions Pochoirée II",
+      "flavor": "Douilles en laiton cliquettent à l'intérieur comme des dents perdues dans une boîte de café."
+    },
+    "212": {
+      "name": "Boîte Héritage Velours",
+      "flavor": "Minuscules charnières en laiton sentent encore la grand-mère de quelqu'un."
+    },
+    "213": {
+      "name": "Maquette Capot Doré",
+      "flavor": "Laque assez épaisse pour hypothéquer un petit studio."
+    },
+    "214": {
+      "name": "Sculpture Buste Exécutif",
+      "flavor": "Un VP l'a choisi ; l'assistante a roulé des yeux."
+    },
+    "215": {
+      "name": "Pile de CDs Sautant",
+      "flavor": "La moitié des boîtiers sont vides ; le reste est rayé à mort."
+    },
+    "216": {
+      "name": "Boîte Munitions Comptoir",
+      "flavor": "Sticker dit SOLDES ; la boîte n'a jamais bougé."
+    },
+    "217": {
+      "name": "Bocal Citron Bar",
+      "flavor": "Un quartier solitaire flotte comme s'il attendait un pourboire."
+    },
+    "218": {
+      "name": "Bombe Contrefaite",
+      "flavor": "Câbles couleur de bonbon bon marché et un minuteur qui ne fait pas tic-tac."
+    },
+    "219": {
+      "name": "Jouet de Vitrine",
+      "flavor": "Même les chats de ruelle font un large détour autour de celui-là."
+    },
+    "220": {
+      "name": "Bong Tour en Résine",
+      "flavor": "L'eau n'a pas été changée depuis le précédent locataire."
+    },
+    "221": {
+      "name": "Plateau à Cigares Cristal Taillé",
+      "flavor": "Trois bouts de cigares, tous cubains, tous éteints en plein deal."
+    },
+    "222": {
+      "name": "Grille-Pain Comptoir",
+      "flavor": "Le cadran est bloqué sur cinq et personne ne s'est plaint pour l'instant."
+    },
+    "223": {
+      "name": "Pelle de Jardin Sanglante",
+      "flavor": "La terre sur la lame paraît plus rouge que la terre arable devrait."
+    },
+    "224": {
+      "name": "Colis Marron Anonyme",
+      "flavor": "Pas d'adresse de retour, trois stickers d'affranchissement différents."
+    },
+    "225": {
+      "name": "Trophée No.1 Arcade",
+      "flavor": "Gravure dit NUMÉRO UN dans une police de 1983."
+    },
+    "226": {
+      "name": "Bouteille Rayon Pharmacie",
+      "flavor": "Étiquette sans marque, odeur de marque distributeur, prix plein."
+    },
+    "227": {
+      "name": "Tube de Mixage Coupé",
+      "flavor": "Anneaux de résidu à l'intérieur comme une mauvaise année pour les arbres."
+    },
+    "228": {
+      "name": "Masque Tactique",
+      "flavor": "La sangle sent encore l'adrénaline du dernier gars."
+    },
+    "229": {
+      "name": "Sculpture Noire Sans Titre",
+      "flavor": "Le catalogue l'appelle Sans Titre ; le comptable l'appelle une perte."
+    },
+    "230": {
+      "name": "Bouteille Champion Scellée",
+      "flavor": "Date de la plaque plus vieille que la plupart des habitués de l'arcade."
+    },
+    "231": {
+      "name": "Mallette Armes Mousse Dure",
+      "flavor": "Insert mousse encore en forme pour quelque chose de sérieux."
+    },
+    "232": {
+      "name": "Pot Bord-Sel Cayo",
+      "flavor": "Bord de sel autour du couvercle dit que celui-ci est allé aux îles."
+    },
+    "233": {
+      "name": "Bougies Triple-Pilier Boutique",
+      "flavor": "Trois mèches, trois vitesses de combustion différentes, une seule ambiance."
+    },
+    "234": {
+      "name": "Masque à Gaz Sortie Terrain",
+      "flavor": "Filtre frais ; les lentilles rayées comme de la dentelle."
+    },
+    "235": {
+      "name": "Maquette Capot Chromée",
+      "flavor": "Polie à un fini dans lequel on peut se raser."
+    },
+    "236": {
+      "name": "Boîte de Donuts à Moitié Mangée",
+      "flavor": "Trois restants ; un a définitivement été léché."
+    },
+    "237": {
+      "name": "Jardinière en Argile",
+      "flavor": "Terre sèche, succulente têtue, étiquette encore pendue au bord."
+    },
+    "238": {
+      "name": "Jerrycan Rouge",
+      "flavor": "À moitié plein et le bouchon sent un mauvais week-end."
+    },
+    "239": {
+      "name": "Mine à Plaque de Pression",
+      "flavor": "Ressort sur la détente assez tendu pour siffler."
+    },
+    "240": {
+      "name": "Télécommande Hobby RC",
+      "flavor": "Antenne pliée, stick gauche collant, batteries encore bonnes d'une façon ou d'une autre."
+    },
+    "241": {
+      "name": "Mine Magnétique Véhicule",
+      "flavor": "Une mine magnétique d'apparence active que quelqu'un a abandonnée à la hâte."
+    },
+    "242": {
+      "name": "Jouet Nouveauté Rose B",
+      "flavor": "Enveloppé dans un sac papier qui n'a pas survécu au vent."
+    },
+    "243": {
+      "name": "Lecteur VHS Poussiéreux",
+      "flavor": "Cassette coincée à l'intérieur, étiquette dit 'NE PAS REGARDER'."
+    },
+    "244": {
+      "name": "Support Velours Collier",
+      "flavor": "Le bijou est parti mais le velours sent encore le cirage."
+    },
+    "245": {
+      "name": "Carafe Cristal Cayo",
+      "flavor": "Cristal taillé qui chuchote de rhum volé et d'embruns salés."
+    },
+    "246": {
+      "name": "Sneaker Droit",
+      "flavor": "Lacets encore noués, propriétaire sautillant clairement à un pied."
+    },
+    "247": {
+      "name": "Confession sur Falaise",
+      "flavor": "Confession blanchie par le temps épinglée sous un rocher."
+    },
+    "248": {
+      "name": "Pot de Nouilles 24/7",
+      "flavor": "Encore chaud, fourchette droite dans la défaite."
+    },
+    "249": {
+      "name": "Station iPod Vintage",
+      "flavor": "Bourdonnement statique émane encore si tu l'inclines juste comme il faut."
+    },
+    "250": {
+      "name": "Dossier Mission Caviardé",
+      "flavor": "Peau manille, encre caviardée, sent légèrement la poudre."
+    },
+    "251": {
+      "name": "Canette Aluminium Écrasée",
+      "flavor": "La rage parcmètre de quelqu'un, capturée en aluminium."
+    },
+    "252": {
+      "name": "Portable de Lester",
+      "flavor": "Douze fenêtres ouvertes, aucune n'étant légale."
+    },
+    "253": {
+      "name": "Jouet Nouveauté Rose D",
+      "flavor": "Finition pailletée, batteries optimistes."
+    },
+    "254": {
+      "name": "Radio Dispatch Service",
+      "flavor": "Réglée sur une fréquence de dispatch qui n'existe plus."
+    },
+    "255": {
+      "name": "Bouteille de Quarante Onces",
+      "flavor": "Fond encore collant d'une longue soirée à Davis."
+    },
+    "256": {
+      "name": "Cagoule Spec Ops",
+      "flavor": "Sent la cordite et les mauvaises décisions."
+    },
+    "257": {
+      "name": "Pack Munitions Compact",
+      "flavor": "Le laiton tinte quand le vent change."
+    },
+    "258": {
+      "name": "Grille-Pain Comptoir Deux Tranches",
+      "flavor": "Bac à miettes n'a pas été vidé depuis 2013."
+    },
+    "259": {
+      "name": "Pisswasser Tall Boy",
+      "flavor": "À moitié vide, complètement regretté."
+    },
+    "260": {
+      "name": "Bouteille de Rosé Plonk",
+      "flavor": "Bouchon sauté à un anniversaire qui n'est jamais venu."
+    },
+    "261": {
+      "name": "Support Collier Perlé",
+      "flavor": "Une seule perle capte encore le néon Vinewood."
+    },
+    "262": {
+      "name": "Pistolet SNS Mk II",
+      "flavor": "Dissimulable, niable, très réel."
+    },
+    "263": {
+      "name": "Bol de Bureau Céramique",
+      "flavor": "Vide sauf pour un trombone têtu."
+    },
+    "264": {
+      "name": "Pistolet à Coup Unique",
+      "flavor": "Une balle, une chance, un mauvais jour pour quelqu'un."
+    },
+    "265": {
+      "name": "Casque de Combat Fissuré",
+      "flavor": "Sangle effilochée, visière fissurée, histoire non dite."
+    },
+    "266": {
+      "name": "Sculpture Voiture Casino #6",
+      "flavor": "Un modèle à l'échelle d'une voiture valant plus que ce que le casino a payé pour elle."
+    },
+    "267": {
+      "name": "Bouteille de Plonk Rouge",
+      "flavor": "Étiquette délavée, millésime d'une façon pire que le prix."
+    },
+    "268": {
+      "name": "Explosif Cluckin' Bell",
+      "flavor": "Enveloppé dans du ruban à imprimé poulet, ce qui d'une façon le rend pire."
+    },
+    "269": {
+      "name": "Bloc Art Béton I",
+      "flavor": "Brutaliste exprès, taggé par accident."
+    },
+    "270": {
+      "name": "Jouet Nouveauté Rose F",
+      "flavor": "Laissé sur la table de chevet d'un appart Vinewood après un mardi très bruyant."
+    },
+    "271": {
+      "name": "Couperet de Boucher",
+      "flavor": "Sent encore légèrement l'épaule de porc et les mauvaises décisions."
+    },
+    "272": {
+      "name": "Cliquet de Mécanicien",
+      "flavor": "Chaque clé a gravé sa propre prière dans la tête."
+    },
+    "273": {
+      "name": "Téléphone Hotline High-Roller",
+      "flavor": "Combiné encore chaud d'un appel que personne n'admettra avoir passé."
+    },
+    "274": {
+      "name": "Boîte Statique Contrebandier",
+      "flavor": "Le cadran ne capte qu'un canal et il chuchote en espagnol."
+    },
+    "275": {
+      "name": "Support Velours Collier",
+      "flavor": "La chaîne qu'il tenait autrefois a été mise en gage trois fois avant midi."
+    },
+    "276": {
+      "name": "Gobelet Bar Pailles",
+      "flavor": "La moitié des pailles sont pliées dans la même direction, comme des roseaux dans une crue."
+    },
+    "277": {
+      "name": "Caisse Pacific Standard",
+      "flavor": "Huit fermoirs, quatre serrures, une promesse que les porteurs n'ont jamais tenue."
+    },
+    "278": {
+      "name": "Bronze Coulé Speedway",
+      "flavor": "Un trophée d'une course que seuls les dealers se souviennent."
+    },
+    "279": {
+      "name": "Brique de Nouilles Sodium",
+      "flavor": "Expirée en 2008. Encore légalement comestible à Blaine County."
+    },
+    "280": {
+      "name": "Verre de Cognac Gentleman",
+      "flavor": "Trois doigts disparus et le bouchon perdu dans le vent."
+    },
+    "281": {
+      "name": "Visière de Soudeur Étincelée",
+      "flavor": "Les étincelles ont écrit des constellations sur le verre."
+    },
+    "282": {
+      "name": "Coupe du Champion Sans Marque",
+      "flavor": "Aucun nom gravé. Qui a gagné ça n'a jamais voulu de crédit."
+    },
+    "283": {
+      "name": "Idole de Données Chromée",
+      "flavor": "Plaqué chrome et bourré des secrets des stagiaires Lifeinvader."
+    },
+    "284": {
+      "name": "Bouteille Pisswasser Froide",
+      "flavor": "Une bouteille si froide qu'elle a appris à un homme à pardonner."
+    },
+    "285": {
+      "name": "Stroboscope Rouge",
+      "flavor": "Encore chaud. Encore rouge. Bourdonnant encore le même rythme."
+    },
+    "286": {
+      "name": "Caisse Expédition Idole Coke",
+      "flavor": "L'étiquette de douane a été signée avec le sang de quelqu'un d'autre."
+    },
+    "287": {
+      "name": "Bouteille de Whisky Honnête",
+      "flavor": "Qui a bu n'a rien pardonné."
+    },
+    "288": {
+      "name": "Bouton Peyote Tidepool",
+      "flavor": "L'eau salée a préservé ce que le désert a essayé de nier."
+    },
+    "289": {
+      "name": "Cotons-Tiges Salle de Bain",
+      "flavor": "Utilisés. Chacun différent. Ne demande pas."
+    },
+    "290": {
+      "name": "Boîte Céréales Sugar Loop",
+      "flavor": "Yeux de la mascotte grattés par un propriétaire précédent."
+    },
+    "291": {
+      "name": "Maquette Coupé Béton",
+      "flavor": "Une miniature peinte avec la poussière du vrai."
+    },
+    "292": {
+      "name": "Boîte de Stock Oubliée",
+      "flavor": "Ce qu'il y avait dedans a été épuisé avant le lever du soleil."
+    },
+    "293": {
+      "name": "Ovule Doré",
+      "flavor": "Sorti d'un coffre Fleeca dans un étui à violon."
+    },
+    "294": {
+      "name": "Mallette de Diplomate",
+      "flavor": "Combinaison verrouillée sur une date d'anniversaire que personne n'admettra."
+    },
+    "295": {
+      "name": "Crâne Trophée de Chasseur",
+      "flavor": "Un cerf avec un prix sur ses bois."
+    },
+    "296": {
+      "name": "Scribe Annoté en Marge",
+      "flavor": "Chaque page soulignée. Aucune ne concorde."
+    },
+    "297": {
+      "name": "Babiole Tropicale Ananas",
+      "flavor": "Mauvais fruit, mauvaise île, bonne intention."
+    },
+    "298": {
+      "name": "Poupée de Chiffon Décharge",
+      "flavor": "Qui l'a recousue était pressé."
+    },
+    "299": {
+      "name": "Basket Usée",
+      "flavor": "Une seule basket laissée dans la précipitation de la vente d'hier soir."
+    },
+    "300": {
+      "name": "Blaster Space Ranger",
+      "flavor": "Une réplique de rayon d'une franchise Vinewood depuis longtemps annulée."
+    },
+    "301": {
+      "name": "Pack Six Pride Lager",
+      "flavor": "Réapprovisionné hier, déjà à moitié oublié sur l'étagère du bas."
+    },
+    "302": {
+      "name": "Carafe Whisky de Bataille",
+      "flavor": "Un verre maison en verre dépoli d'une cantina fermée depuis longtemps."
+    },
+    "303": {
+      "name": "Figurine Chat Porcelaine",
+      "flavor": "Son œil en céramique est ébréché mais surveille encore la pièce."
+    },
+    "304": {
+      "name": "Pot à Stylos Exécutif",
+      "flavor": "Six stylos à bille, deux secs, un mâché au-delà de toute réparation."
+    },
+    "305": {
+      "name": "Botte de Travail Jetée",
+      "flavor": "La boue colle encore à la semelle d'un travail que personne n'a terminé."
+    },
+    "306": {
+      "name": "Vieille Réserve de Bataille",
+      "flavor": "Étiquette décollée, contenu ambré, millésime impossible à vérifier."
+    },
+    "307": {
+      "name": "Anthologie Reliée Cuir",
+      "flavor": "Notes en marge dans trois mains différentes et une écriture étrangère."
+    },
+    "308": {
+      "name": "Bombe Aérosol Usagée",
+      "flavor": "Bouchon manquant, embout bouché par le bleu électrique d'hier soir."
+    },
+    "309": {
+      "name": "Aérosol Cramoisi",
+      "flavor": "Une teinte préférée des équipes locales, toujours en rupture."
+    },
+    "310": {
+      "name": "Aérosol Minuit",
+      "flavor": "Bombe plus lourde que sa jumelle, secouée jusqu'à ce que la bille cède."
+    },
+    "311": {
+      "name": "Bidon de Gaz Cabossé",
+      "flavor": "À moitié plein, surtout des vapeurs, un sticker d'avertissement délavé depuis longtemps."
+    },
+    "312": {
+      "name": "Coupe Imperator Arena",
+      "flavor": "Un prix d'arène qu'un champion n'est jamais revenu chercher."
+    },
+    "313": {
+      "name": "Dossier Scellé",
+      "flavor": "Pages tamponnées, dates caviardées, trombone rongé par la rouille."
+    },
+    "314": {
+      "name": "Tequila Reposado",
+      "flavor": "Le ver depuis longtemps dissous dans la légende."
+    },
+    "315": {
+      "name": "Volume Reliure Tissu",
+      "flavor": "L'empreinte du pouce d'un lecteur pressée de façon permanente au chapitre quatre."
+    },
+    "316": {
+      "name": "Sneaker Lancé",
+      "flavor": "Lacets attachés ensemble, quelqu'un voulait le lancer par-dessus un fil."
+    },
+    "317": {
+      "name": "Bouteille Champagne Vintage",
+      "flavor": "Papier intact, bouchon suant en silence dans le noir frais."
+    },
+    "318": {
+      "name": "Mug à Café de Diner",
+      "flavor": "Croissant de rouge à lèvres sur le bord, le refill n'est jamais venu."
+    },
+    "319": {
+      "name": "Magazine Pour Adultes Froissé",
+      "flavor": "Pages collées là où le chewing-gum a atterri."
+    },
+    "320": {
+      "name": "Mortier et Pilon Marbre",
+      "flavor": "Résidu blanc déposé dans le grain, pas entièrement du sucre."
+    },
+    "321": {
+      "name": "Masque de Plongée Embué",
+      "flavor": "Sangle durcie par le sel, lentille rayée par un récif de trop."
+    },
+    "322": {
+      "name": "Charge de Démolition Câblée",
+      "flavor": "Qui a réglé le minuteur a aussi dessiné un smiley sur le ruban."
+    },
+    "323": {
+      "name": "Bidon de Peinture Industriel",
+      "flavor": "Couvercle forcé, pinceau coincé, couvercle ne ferme plus."
+    },
+    "324": {
+      "name": "Stetson Taché de Sueur",
+      "flavor": "Le pli te dit que le porteur a chevauché dur, s'est assis grand."
+    },
+    "325": {
+      "name": "Téléphone Hall de Banque",
+      "flavor": "Combiné chaud, quelqu'un a raccroché à la seconde où tu es entré."
+    },
+    "326": {
+      "name": "Vodka Maison Cinquième",
+      "flavor": "Étiquette bon marché, brûlure honnête, à moitié vide avant midi."
+    },
+    "327": {
+      "name": "Haltère en Fonte",
+      "flavor": "Poignée moletée noircie par mille répétitions."
+    },
+    "328": {
+      "name": "Coffre au Trésor Croustillé",
+      "flavor": "Fermoir en laiton soudé par le sel, le loquet siffle quand on le soulève."
+    },
+    "329": {
+      "name": "Carton Redwood",
+      "flavor": "Un paquet de Redwoods aplati glissé derrière le verre de la caisse."
+    },
+    "330": {
+      "name": "Pile de Livres de Référence",
+      "flavor": "Trois reliures empilées par quelqu'un qui n'est jamais revenu les finir."
+    },
+    "331": {
+      "name": "Barre Sucrée de Comptoir",
+      "flavor": "Un emballage de barre snack qui essaie très fort d'avoir l'air gourmet."
+    },
+    "332": {
+      "name": "Rack EQ Booth DJ",
+      "flavor": "Câbles patch luisent faiblement sous le stroboscope."
+    },
+    "333": {
+      "name": "Impression Toile Panthéon",
+      "flavor": "Une toile en attente d'un mur qu'elle ne mérite jamais vraiment."
+    },
+    "334": {
+      "name": "Cagoule à Trois Trous",
+      "flavor": "Elle sent encore la sueur nerveuse."
+    },
+    "335": {
+      "name": "Maquette House Edge",
+      "flavor": "Un minuscule hommage à un bâtiment qui ne rend jamais rien."
+    },
+    "336": {
+      "name": "Tomate Roma Meurtrie",
+      "flavor": "Deux pour un et probablement pour une raison."
+    },
+    "337": {
+      "name": "Bécher Pyrex Cuit",
+      "flavor": "Le résidu au fond dit que quelqu'un a pris un raccourci."
+    },
+    "338": {
+      "name": "Glacé Gentleman",
+      "flavor": "Coins cornés sur la même page depuis 2013."
+    },
+    "339": {
+      "name": "Balise d'Avertissement Chantier",
+      "flavor": "Clignote orange comme si elle avait un endroit où aller."
+    },
+    "340": {
+      "name": "Sneaker Vitrine Droit",
+      "flavor": "Modèle d'exposition, jamais apparié, jamais vendu."
+    },
+    "341": {
+      "name": "Mug à Café de Bureau",
+      "flavor": "Tiède, rouge à lèvres sur le bord, propriétaire inconnu."
+    },
+    "342": {
+      "name": "Carré de Gazon Vitrine",
+      "flavor": "Un joli petit carré prétendant être une prairie."
+    },
+    "343": {
+      "name": "Molotov à Mèche Chiffon",
+      "flavor": "Sent le gin bon marché et les pires décisions."
+    },
+    "344": {
+      "name": "Couvercle Chapter MC",
+      "flavor": "Pin encore chaud de la cérémonie de patch du parking."
+    },
+    "345": {
+      "name": "Stock Contrebandier Scellé",
+      "flavor": "Bouteille encore fraîche d'usine, étiquette nette."
+    },
+    "346": {
+      "name": "Ballon Hélium de Fête",
+      "flavor": "Ficelle emmêlée autour du pied d'une chaise pliante."
+    },
+    "347": {
+      "name": "Sneaker Vitrine Gauche",
+      "flavor": "Semelle intacte, lacets enfilés trop serré pour jamais être portés."
+    },
+    "348": {
+      "name": "Coupé d'Art Laqué",
+      "flavor": "Peint par quelqu'un qui n'a jamais possédé le vrai."
+    },
+    "349": {
+      "name": "Buste Résine Cartel",
+      "flavor": "Un visage que personne n'a demandé à se souvenir."
+    },
+    "350": {
+      "name": "Reliure Cartonnée Solitaire",
+      "flavor": "Dos craqué une fois, deux fois, puis remis."
+    },
+    "351": {
+      "name": "Champagne Ouvert II",
+      "flavor": "À moitié plat, prix plein."
+    },
+    "352": {
+      "name": "Miroir de Coiffeuse",
+      "flavor": "Maculé par quelqu'un qui voulait vraiment être sûr."
+    },
+    "353": {
+      "name": "Cendrier Demi-Paquet",
+      "flavor": "Trois filtres, une allumette, zéro regret."
+    },
+    "354": {
+      "name": "Flacon Testeur Boutique",
+      "flavor": "À moitié vaporisé par des étrangers, jamais acheté."
+    },
+    "355": {
+      "name": "Crochet Cargo Dock",
+      "flavor": "Nœud de corde effiloché là où quelqu'un s'est impatienté."
+    },
+    "356": {
+      "name": "Boîtier Vinyle Crate-Dive",
+      "flavor": "Face B griffonnée au marqueur par le propriétaire d'origine."
+    },
+    "357": {
+      "name": "Pile de Serviettes Diner",
+      "flavor": "Tache de rouge à lèvres encore sur la serviette du dessus."
+    },
+    "358": {
+      "name": "Plaque Bouclier de Commissariat",
+      "flavor": "Une plaque polie plus souvent qu'elle n'a été méritée."
+    },
+    "359": {
+      "name": "Lingot d'Or Pacific",
+      "flavor": "Un seul lingot de soleil pressé, plus lourd que son silence."
+    },
+    "360": {
+      "name": "Babiole Robot d'Arcade",
+      "flavor": "Sourire en étain, cœur en plastique, huit bits de loyauté égarée."
+    },
+    "361": {
+      "name": "Babiole Mascotte Donateur",
+      "flavor": "Un souvenir d'un dîner qui a payé le silence de quelqu'un."
+    },
+    "362": {
+      "name": "DVD de Location Tardive",
+      "flavor": "Le genre de boîtier plastique qui n'est jamais retourné au magasin."
+    },
+    "363": {
+      "name": "Casquette Snapback Discount",
+      "flavor": "Visière encore plissée par l'étagère, jamais par la tête."
+    },
+    "364": {
+      "name": "Téléphone Rotary Antique",
+      "flavor": "Une sonnerie qui croit encore que quelqu'un est à l'autre bout."
+    },
+    "365": {
+      "name": "Boule Orpheline Piste Sept",
+      "flavor": "Trois doigts l'ont manquée ; la gouttière l'a attrapée à la place."
+    },
+    "366": {
+      "name": "Livre à Notes Soulignées",
+      "flavor": "Souligné deux fois, coins cornés, jamais terminé après le chapitre quatre."
+    },
+    "367": {
+      "name": "Conserve Deux Pour Un",
+      "flavor": "Cabossée par la guerre des rayons, encore froide du frigo."
+    },
+    "368": {
+      "name": "Feu de Circulation Mort",
+      "flavor": "Un œil rouge qui a enfin pu se fermer."
+    },
+    "369": {
+      "name": "Cassette Beta Pilote Perdu",
+      "flavor": "Mémoire magnétique d'une émission jamais diffusée."
+    },
+    "370": {
+      "name": "Barre Chocolatée de Caisse",
+      "flavor": "L'achat impulsif qui a vu cent portefeuilles s'ouvrir."
+    },
+    "371": {
+      "name": "Trophée Braise Mérité",
+      "flavor": "Décerné à celui qui a maintenu le feu vivant à travers le froid."
+    },
+    "372": {
+      "name": "Volleyball Vétéran de Court",
+      "flavor": "Panneaux délavés, poches de sable, encore un set en lui."
+    },
+    "373": {
+      "name": "Classeur Prévisions Trimestrielles",
+      "flavor": "Des chiffres qui ont promis plus qu'ils n'ont livré."
+    },
+    "374": {
+      "name": "Tasse Grease Monkey",
+      "flavor": "Polie là où les mains la tiennent, marquée partout ailleurs."
+    },
+    "375": {
+      "name": "Rayon B-Movie",
+      "flavor": "Tubes à vide, ailerons chromés, menaces qu'il ne peut tenir."
+    },
+    "376": {
+      "name": "Bol Porcelaine Récupéré",
+      "flavor": "Porcelaine qui a entendu des choses qu'aucune porcelaine ne devrait."
+    },
+    "377": {
+      "name": "Portable Onglets Ouverts Fissuré",
+      "flavor": "Batterie morte au pire point de sauvegarde possible."
+    },
+    "378": {
+      "name": "Scanner Balise Cachée",
+      "flavor": "Il pépie aux choses que la ville a essayé d'enterrer."
+    },
+    "379": {
+      "name": "Peinture Originale Salle de Conseil",
+      "flavor": "Goût encadré, signé par quelqu'un qui pouvait se le permettre."
+    },
+    "380": {
+      "name": "Bonbon Emballé Appât Caisse",
+      "flavor": "Emballé dans du papier alu, gardé juste à portée de main."
+    },
+    "381": {
+      "name": "DVD Pochette Marron",
+      "flavor": "Un titre venu dans une pochette marron unie."
+    },
+    "382": {
+      "name": "Hachette Pierre Héritage",
+      "flavor": "Taillée patiemment et en silence, par des mains qui connaissaient les bois."
+    },
+    "383": {
+      "name": "Clap Prise Quarante-Sept",
+      "flavor": "Marqué, prévu, jamais utilisé au montage final."
+    },
+    "384": {
+      "name": "Talkie Dispatch Feu",
+      "flavor": "Statique et un indicatif que personne n'a répondu."
+    },
+    "385": {
+      "name": "Voiture Pièce Maîtresse Galerie",
+      "flavor": "Une voiture qui a échangé son moteur contre une opinion."
+    },
+    "386": {
+      "name": "Feu d'Artifice Final Jetée",
+      "flavor": "Une mèche, une éclosion, une vitesse d'obturation."
+    },
+    "387": {
+      "name": "Portefeuille Trouvé Trottoir",
+      "flavor": "Cartes encore dedans, espoir encore plié dans le porte-billets."
+    },
+    "388": {
+      "name": "Flacon de Pilules Terni",
+      "flavor": "Étiquette décollée proprement, bouchon lâche, contenu disparu depuis longtemps."
+    },
+    "389": {
+      "name": "Cannette eCola Froissée",
+      "flavor": "Encore collante d'un été dont personne ne se souvient."
+    },
+    "390": {
+      "name": "Bougies Boutique Usées",
+      "flavor": "Cire fondue en une forme qui ressemble presque à un visage."
+    },
+    "391": {
+      "name": "Boombox Block Party",
+      "flavor": "Lecteur de cassette coincé en plein morceau, batteries fuient de l'acide."
+    },
+    "392": {
+      "name": "Set Sangles Industriel",
+      "flavor": "Sangles effilochées, crochet marqué d'un levage de trop."
+    },
+    "393": {
+      "name": "Bocal à Bonbons Oublié",
+      "flavor": "Verre rayé, bonbons fondus en une masse chewy."
+    },
+    "394": {
+      "name": "Bouteille de Liqueur Cartel",
+      "flavor": "Étiquette étrangère, moitié du sceau encore intact."
+    },
+    "395": {
+      "name": "Chalumeau de Soudeur",
+      "flavor": "Pointe noircie, allumeur clique encore faiblement."
+    },
+    "396": {
+      "name": "Acétone Qualité Labo",
+      "flavor": "Les vapeurs s'enroulent encore du bouchon quand tu l'ouvres."
+    },
+    "397": {
+      "name": "Clavier Entrée Coffre",
+      "flavor": "Cinq et sept lisses, huit clignote rouge."
+    },
+    "398": {
+      "name": "Carafe Cristal Cayo",
+      "flavor": "Ambre séché en anneau à la base, étiquette disparue depuis longtemps."
+    },
+    "399": {
+      "name": "Bobine Fil de Filature",
+      "flavor": "Teint rouge industriel, encore chaud du métier à tisser."
+    },
+    "400": {
+      "name": "Clavier Sécurité Banque",
+      "flavor": "Fente magstripe coincée par un bord de carte déchirée."
+    },
+    "401": {
+      "name": "Base de Toilette Cassée",
+      "flavor": "Porcelaine fissurée, sent légèrement le désinfectant."
+    },
+    "402": {
+      "name": "Sculpture Pistolet Casino",
+      "flavor": "Acier plaqué, support valet ébréché à la bouche."
+    },
+    "403": {
+      "name": "Vieille Unité Console",
+      "flavor": "LED d'alimentation vacille encore quand tu tapotes le boîtier."
+    },
+    "404": {
+      "name": "Sneaker Vitrine",
+      "flavor": "Chaussure unique, lacets encore frais d'usine."
+    },
+    "405": {
+      "name": "Masque Soudage Chantier",
+      "flavor": "Visière embuée de l'intérieur, sangle croûtée de sel."
+    },
+    "406": {
+      "name": "Appareil de Hack de Poche",
+      "flavor": "Écran rayé jusqu'au néant, antenne encore déployée."
+    },
+    "407": {
+      "name": "Batte Aluminium Cabossée",
+      "flavor": "Aluminium cratérisé là où il a rencontré quelque chose de solide."
+    },
+    "408": {
+      "name": "Boîte de Soda Coupe",
+      "flavor": "À moitié vide, cuillère encore enfouie dans la poudre."
+    },
+    "409": {
+      "name": "Obus de Mortier Jetée",
+      "flavor": "Mèche taillée court, anneau de brûlure autour de la base."
+    },
+    "410": {
+      "name": "Appareil de Hack Tactique",
+      "flavor": "Armure caoutchouc déchirée, firmware custom tournant silencieux."
+    },
+    "411": {
+      "name": "Magazine Adulte Taché",
+      "flavor": "Pages collées, le centerfold depuis longtemps arraché."
+    },
+    "412": {
+      "name": "Panneau Triangle Boutique",
+      "flavor": "Plastique délavé, un support tordu par un camion négligent."
+    },
+    "413": {
+      "name": "Chargeur Carabine Doré",
+      "flavor": "Volutes gravées, balles encore en place."
+    },
+    "414": {
+      "name": "Cube Vitrine Curiosités",
+      "flavor": "Cube en verre, contenu capture la lumière sous n'importe quel angle."
+    },
+    "415": {
+      "name": "Disque Dur Externe",
+      "flavor": "Boîtier chaud, indicateur bloqué sur ambre."
+    },
+    "416": {
+      "name": "Cocktail À Moitié Bu",
+      "flavor": "Glace fondue en bouillie, écorce de citron vert s'enroulant."
+    },
+    "417": {
+      "name": "Faisceau Fil Métier",
+      "flavor": "Teinture indigo saigne encore dans le noyau de la bobine."
+    },
+    "418": {
+      "name": "Trophée Patriot Spirit",
+      "flavor": "Décerné au meilleur score qui ne pouvait s'empêcher d'alimenter la borne aigle."
+    },
+    "419": {
+      "name": "Enceinte Stack Scène",
+      "flavor": "Sonne encore d'un set Boris Brejcha de quatre heures que personne ne voulait finir."
+    },
+    "420": {
+      "name": "Trophée Champion QUB3D",
+      "flavor": "Plastique mousse sculpté et pure gloire pixelisée — initiales de classement encore visibles."
+    },
+    "421": {
+      "name": "Plateau Dessert Diner",
+      "flavor": "Une tour de pancakes que quelqu'un a abandonnée à l'instant où sa commande est devenue chaude."
+    },
+    "422": {
+      "name": "Pierre Saphir Taillée",
+      "flavor": "Juste assez facettée pour paraître vraie — le receleur aura besoin d'une loupe et d'un mensonge."
+    },
+    "423": {
+      "name": "Casquette Blanche Boucher",
+      "flavor": "Sent légèrement la saumure et la garde d'hier, visière pliée par des doigts calleux."
+    },
+    "424": {
+      "name": "Carnet du Producteur",
+      "flavor": "Marges encombrées de coupes budgétaires et un numéro de téléphone encerclé quatre fois."
+    },
+    "425": {
+      "name": "Clap Prise Douze",
+      "flavor": "Marque de scène griffonnée à l'effaçable : INT. ENTREPÔT — JOUR. ENCORE."
+    },
+    "426": {
+      "name": "Prix Lucite Entreprise",
+      "flavor": "Éclat de lucite gravé d'un nom que personne dans la firme ne se souvient plus."
+    },
+    "427": {
+      "name": "Douille Laiton Usagée",
+      "flavor": "Encore chaude du stand de tir intérieur — amorce cabossée par un percuteur usé."
+    },
+    "428": {
+      "name": "Grenade Fragmentation Inerte",
+      "flavor": "Goupille droite, cuillère scotchée — quelqu'un voulait vraiment qu'elle soit vendable."
+    },
+    "429": {
+      "name": "Plaque Laiton Tribunal",
+      "flavor": "Plaque en laiton arrachée proprement de la porte d'un juge — initiales grattées à la hâte."
+    },
+    "430": {
+      "name": "Pistolet Combat Modifié",
+      "flavor": "Canon fileté, crosse damasquinée à la main — série poncée au Dremel et à la honte."
+    },
+    "431": {
+      "name": "Sculpture Fusée Casino",
+      "flavor": "Chrome brossé et laque rouge — promis d'emmener un valet chanceux sur la lune."
+    },
+    "432": {
+      "name": "Triangle de Râtelier de Billard",
+      "flavor": "Bois bon marché poli — le feutre dessous a vu dix mille cassures."
+    },
+    "433": {
+      "name": "Réplique Effigie Fissurée",
+      "flavor": "Fichier de texture buggé le jour de sa création — erreur de rendu préservée comme une relique."
+    },
+    "434": {
+      "name": "Boîte Soupe Légumes 24/7",
+      "flavor": "Date limite depuis longtemps passée — l'étiquette promet douze légumes de jardin et zéro saveur."
+    },
+    "435": {
+      "name": "Bouteille de Brandy Vieilli",
+      "flavor": "Bouchon desséché il y a des années — l'autocollant arrière se décolle au coin."
+    },
+    "436": {
+      "name": "Cassette VHS Surveillance",
+      "flavor": "Étiquette dit OPS 04/12 — le reste de l'écriture a été gratté."
+    },
+    "437": {
+      "name": "Mégaphone",
+      "flavor": "Gâchette coince à mi-chemin — quelqu'un s'est crié rauque et l'a laissé sur le trottoir."
+    },
+    "438": {
+      "name": "Disque Modèle ID Gravé",
+      "flavor": "CD-R sent le solvant — table des noms scotchée sur le boîtier, la moitié barrée."
+    },
+    "439": {
+      "name": "Sculpture Bronze Penthouse",
+      "flavor": "Le commissaire-priseur l'appellerait dérivative — le propriétaire l'appelait inestimable et le pensait."
+    },
+    "440": {
+      "name": "Rig Lumières de Scène",
+      "flavor": "Filtre gel noirci à un coin — la fixation craque quand les basses frappent."
+    },
+    "441": {
+      "name": "Diamant Pendentif Or Blanc",
+      "flavor": "Taille ronde, deux carats, serti en or blanc — glissé d'une chaîne qui n'était pas la sienne."
+    },
+    "442": {
+      "name": "Micro Studio Enregistrement",
+      "flavor": "Diaphragme légèrement plié — chaque voix qui passe dedans prend un silence hanté en haut."
+    },
+    "443": {
+      "name": "Distributeur de Savon Piqué",
+      "flavor": "Support de montage tordu — à moitié plein de savon hospitalier rose qui sent rien."
+    },
+    "444": {
+      "name": "Pochette Cache de Chimiste",
+      "flavor": "Vinyle dehors, doublé plomb dedans — plus lourd qu'il ne devrait l'être."
+    },
+    "445": {
+      "name": "Station Enceinte Boutique",
+      "flavor": "Bluetooth se connecte encore à un téléphone nommé aaron's iphone qui n'est pas revenu."
+    },
+    "446": {
+      "name": "Jerrycan Orange",
+      "flavor": "Quart plein de moyenne qualité — bec coule encore quand tu l'inclines au-delà de quarante-cinq."
+    },
+    "447": {
+      "name": "Peyote Séché au Soleil",
+      "flavor": "Tiré de la terre craquelée où le désert se bourdonne à lui-même à midi."
+    },
+    "448": {
+      "name": "Caméra de Terrain Réalisateur",
+      "flavor": "Encore chaude du dernier take, objectif embué par les lumières de plateau et la fausse pluie."
+    },
+    "449": {
+      "name": "Bouton d'Appel High-Roller",
+      "flavor": "Une pression appelait le champagne ; deux poussaient ta chance un peu plus fort."
+    },
+    "450": {
+      "name": "Basket Suède Solitaire",
+      "flavor": "Pied gauche seulement, éraflé au bout comme s'il essayait de suivre le trafic."
+    },
+    "451": {
+      "name": "Carafe Cristal Taillé",
+      "flavor": "Le genre de verre qui transforme la conversation en confession."
+    },
+    "452": {
+      "name": "Plaque Civique Gravée",
+      "flavor": "Un nom en laiton, à moitié poli, à moitié oublié par ceux qui passent."
+    },
+    "453": {
+      "name": "Bobine EMP Banc d'Essai",
+      "flavor": "Câblée avec la patience de quelqu'un qui n'avait à avoir raison qu'une fois."
+    },
+    "454": {
+      "name": "Trophée Champion Arcade",
+      "flavor": "Gagné en tokens, poli par les manches, signé en plastique rayé."
+    },
+    "455": {
+      "name": "Trophée Laiton Caissier",
+      "flavor": "Donné pour quarante ans à compter la fortune des autres."
+    },
+    "456": {
+      "name": "Casque de Sport Rembourré",
+      "flavor": "Sent légèrement les vestiaires et les mauvaises décisions du vendredi soir."
+    },
+    "457": {
+      "name": "Liasse de Passeports Falsifiés",
+      "flavor": "Chaque photo plisse les yeux de la même façon, comme si l'appareil les avait pris en plein mensonge."
+    },
+    "458": {
+      "name": "Piña Colada À Moitié Bue",
+      "flavor": "Le parasol incliné, le rhum déposé, la nuit a refusé de finir."
+    },
+    "459": {
+      "name": "Liasse de Cash Emballée",
+      "flavor": "Sent encore le coffre qu'elle a quitté, bandée par des mains qui n'ont pas compté deux fois."
+    },
+    "460": {
+      "name": "Peluche de Pince à Griffes",
+      "flavor": "Deux pièces, trois essais, une main tremblante sur le joystick."
+    },
+    "461": {
+      "name": "Rack Fioles Laboratoire",
+      "flavor": "Étiquettes à moitié décollées, contenus non étiquetés, ambitions distinctement chimiques."
+    },
+    "462": {
+      "name": "Tabloïd Froissé",
+      "flavor": "Le scandale d'hier, demi-prix, deux fois plus de fautes."
+    },
+    "463": {
+      "name": "Stiletto sur Carrelage",
+      "flavor": "Enlevé à la hâte par quelqu'un essayant de se rappeler son nom."
+    },
+    "464": {
+      "name": "Pistolet Lourd Huilé",
+      "flavor": "Crosse polie par une main qui savait où la sécurité était avant."
+    },
+    "465": {
+      "name": "Caisse de Balles en Vrac",
+      "flavor": "Estampillée d'un numéro de série que personne n'a pris la peine d'effacer cette fois."
+    },
+    "466": {
+      "name": "Casque de Chantier Éraflé",
+      "flavor": "Peinture jaune s'écaillant où les armatures n'arrêtaient pas de poser des questions."
+    },
+    "467": {
+      "name": "Glacé Cornes",
+      "flavor": "Étagère du haut, prix du bas, lu surtout pour les articles, soi-disant."
+    },
+    "468": {
+      "name": "Boîtier Diamant Coffre",
+      "flavor": "Velours dedans, empreintes dehors, histoire non racontée dans aucun des deux."
+    },
+    "469": {
+      "name": "Buste Crâne Onyx",
+      "flavor": "Sculpté par un sculpteur qui insistait que memento mori appartient à une table de craps."
+    },
+    "470": {
+      "name": "Boîte de Retrait Pharmacie",
+      "flavor": "Recharge, recap, répéter, plus une pastille contre la toux pour la route."
+    },
+    "471": {
+      "name": "Bocal en Verre Curiosités",
+      "flavor": "Scellé à la cire, étiqueté avec intention, ouvert par absolument personne."
+    },
+    "472": {
+      "name": "Panier Vapeur Bambou",
+      "flavor": "Couvercle soulevé deux fois, doigts brûlés une fois, raviolis valant tout."
+    },
+    "473": {
+      "name": "Bonbon Emballé Cellophane",
+      "flavor": "Emballage tordu deux fois, sucre encore plus fort que toute conversation."
+    },
+    "474": {
+      "name": "Coussin Décoratif Brodé",
+      "flavor": "Coins à pompons, légère empreinte là où quelqu'un a failli dire quelque chose d'honnête."
+    },
+    "475": {
+      "name": "Coussin Velours Usé",
+      "flavor": "Fil doré délavé, deux poils de chat distincts, une tache qu'il refuse de discuter."
+    },
+    "476": {
+      "name": "Caisse Munitions Cayo Scellée",
+      "flavor": "Pochoir encore humide, caisse encore arrogante, contenu encore bourdonnant."
+    },
+    "477": {
+      "name": "Ballon Forum Drive Court",
+      "flavor": "Dribblé à plat par mille matchs improvisés au sud."
+    },
+    "478": {
+      "name": "Lampe Porche Mirror Park",
+      "flavor": "Ampoule grillée la nuit où le quartier a perdu l'électricité pour de bon."
+    },
+    "479": {
+      "name": "Cagoule Sandy Trailer",
+      "flavor": "Laine qui démange comme un péché et sent la meth et le Pisswasser."
+    },
+    "480": {
+      "name": "Enceinte PC Cubicule",
+      "flavor": "Jouait la musique d'attente pour les analystes qui n'ont jamais été promus."
+    },
+    "481": {
+      "name": "Bombe Tag LS River",
+      "flavor": "Krylon Apple Red, secoué jusqu'à ce que la bille soit usée."
+    },
+    "482": {
+      "name": "Boîte à Curiosités Little Seoul",
+      "flavor": "Incrustation cèdre sent légèrement le camphre et la grand-mère de quelqu'un."
+    },
+    "483": {
+      "name": "Lunette Sandy Ammu-Nation",
+      "flavor": "Réticule décalé d'un cheveu mais le verre est encore propre."
+    },
+    "484": {
+      "name": "Trophée Maze Bank Arena",
+      "flavor": "Tourne sans fin si tu lui donnes la bonne pichenette."
+    },
+    "485": {
+      "name": "Bong Headshop Vespucci",
+      "flavor": "L'eau clapote encore. Ne demande pas de quelle couleur."
+    },
+    "486": {
+      "name": "Carton Strawberry 24/7",
+      "flavor": "Demi-pack de boisson énergisante tiède, collant au fond."
+    },
+    "487": {
+      "name": "Vape Pen Del Perro",
+      "flavor": "La bobine a goût de framboise bleue et de regret."
+    },
+    "488": {
+      "name": "Crâne Résine Vinewood Casino",
+      "flavor": "Résine, pas os, mais assez lourd pour tromper la galerie."
+    },
+    "489": {
+      "name": "Caisse Munitions Cypress Flats",
+      "flavor": "Numéro de lot pochoiré encore lisible sous la graisse."
+    },
+    "490": {
+      "name": "Rose Cimetière Hill Valley",
+      "flavor": "Pétales déjà brunissant aux bords."
+    },
+    "491": {
+      "name": "Cinquième LS Liquor Mart",
+      "flavor": "Étiquette décollée par le fond d'un sac en papier."
+    },
+    "492": {
+      "name": "Casque DJ Galaxy Club",
+      "flavor": "Le coussinet gauche est collant. Le droit pulse encore comme une grosse caisse."
+    },
+    "493": {
+      "name": "Lunettes Smart Rockford",
+      "flavor": "Lentilles vacillent encore quand tu les inclines vers la lumière."
+    },
+    "494": {
+      "name": "Magazine Vogue Ouvert",
+      "flavor": "Ouvert sur une pub Ponsonbys, trois saisons en retard."
+    },
+    "495": {
+      "name": "Glacé Kiosque",
+      "flavor": "Le mannequin de couverture a un anneau de café sur le front."
+    },
+    "496": {
+      "name": "Bouteille Patio Pitchers",
+      "flavor": "Vidée au dernier appel, empreintes encore sur le col."
+    },
+    "497": {
+      "name": "Roquette Clôture Zancudo",
+      "flavor": "Inerte. Probablement. Les ailerons sont pliés mais les marquages sont impeccables."
+    },
+    "498": {
+      "name": "Applique Vinewood Hills",
+      "flavor": "Le filament bourdonne quand tu tapotes la base, verre chaud au toucher."
+    },
+    "499": {
+      "name": "Art Pin Vinewood Bowl",
+      "flavor": "Quille laquée montée sur une planche de pin teinté."
+    },
+    "500": {
+      "name": "Carafe Richman Glen",
+      "flavor": "Cristal taillé si profond qu'il projette des arcs-en-ciel sur le tapis."
+    },
+    "501": {
+      "name": "Trophée Menottes Mission Row",
+      "flavor": "Gravure polie là où le capitaine frottait son pouce."
+    },
+    "502": {
+      "name": "Horloge Pinkcage Motel",
+      "flavor": "Bloquée à 3:17, clignote de la poussière à travers les chiffres."
+    },
+    "503": {
+      "name": "Repose-Nuque Médical Pillbox",
+      "flavor": "Vinyle collant de vieil antiseptique, mousse comprimée plate."
+    },
+    "504": {
+      "name": "Maison Pour Vanilla Unicorn",
+      "flavor": "Rouge à lèvres sur le col, trois teintes différentes."
+    },
+    "505": {
+      "name": "Modèle Oreille Pharmacie",
+      "flavor": "Anatomique, latex, avec un piercing cartilage déjà usé."
+    },
+    "506": {
+      "name": "Brique Hack Murrieta Heights",
+      "flavor": "LED parcourt encore un handshake que personne ne répond plus."
+    },
+    "507": {
+      "name": "Lampe Banquier Laiton",
+      "flavor": "Lueur d'abat-jour vert qui a vu mille mauvais prêts approuvés."
+    },
+    "508": {
+      "name": "Quille Porte-Bonheur Montée",
+      "flavor": "La quille porte-bonheur de la piste sept, vernie après la partie parfaite de 1987."
+    },
+    "509": {
+      "name": "Figure Bronze Boutique",
+      "flavor": "Tarifée à quatre chiffres, vendue en pièces à un receleur de Strawberry."
+    },
+    "510": {
+      "name": "Réplique Coupe Shunt",
+      "flavor": "L'originale est à l'Arena. Celle-ci est plus lourde qu'il n'y paraît."
+    },
+    "511": {
+      "name": "Trophée Stargazer",
+      "flavor": "Décerné à celui qui a trouvé la comète en premier. La plaque est vide."
+    },
+    "512": {
+      "name": "Set Diffuseur Roseaux",
+      "flavor": "Santal, vétiver, et le faible souvenir d'un refus de carte de crédit."
+    },
+    "513": {
+      "name": "Dossier Manille Classifié",
+      "flavor": "Onze pages de caviardages et un post-it passif-agressif."
+    },
+    "514": {
+      "name": "Token Cabinet Flip Jam",
+      "flavor": "Score record appartient à LIL, qui n'a pas été vu depuis 1996."
+    },
+    "515": {
+      "name": "Buste Plâtre Galerie",
+      "flavor": "L'artiste insiste qu'il représente le deuil. L'acheteur insiste qu'il assortit au canapé."
+    },
+    "516": {
+      "name": "Présentoir Comptoir Pharmacie",
+      "flavor": "Comprimés vitamine D et trois coupons expirés scotchés en dessous."
+    },
+    "517": {
+      "name": "Mug Diner Ébréché",
+      "flavor": "Meilleur Papa Acceptable du Monde. Anneau de café fusionné en permanence au bord."
+    },
+    "518": {
+      "name": "Charge Thermite Usée",
+      "flavor": "A brûlé à travers le coffre et le plancher dessous. Encore chaud au toucher."
+    },
+    "519": {
+      "name": "Boîte à Cigares Padron",
+      "flavor": "Trois bâtonnets restants. Le quatrième a été échangé pour un alibi."
+    },
+    "520": {
+      "name": "Numéro Tattle Weekly",
+      "flavor": "Article de couverture : quel couple Vinewood est secrètement la même personne."
+    },
+    "521": {
+      "name": "Carafe à Café Brûlée",
+      "flavor": "Le fond est si calciné que la serveuse appelle ça juste de l'assaisonnement."
+    },
+    "522": {
+      "name": "Bleeder Burger À Moitié Mangé",
+      "flavor": "Deux bouchées, le suspect a fui. Le cornichon est resté loyal."
+    },
+    "523": {
+      "name": "Sac de Dépôt Cash Scellé",
+      "flavor": "Scellé par Fleeca à 15h47. Ouvert par quelqu'un d'autre à 15h51."
+    },
+    "524": {
+      "name": "Bombe Krylon Sundowner",
+      "flavor": "Bouchon mâché, bombe cabossée, message à moitié fini contre une clôture grillagée."
+    },
+    "525": {
+      "name": "Bocal à Mélangeurs Cocktail",
+      "flavor": "Flamants en plastique dans un verre maculé. Personne ne se souvient de l'avoir rempli."
+    },
+    "526": {
+      "name": "Tasse Coco À Moitié Vidée",
+      "flavor": "Deux ombrelles en papier, un glaçon fondant, pas de crème solaire en vue."
+    },
+    "527": {
+      "name": "Mine AP Désamorcée",
+      "flavor": "Goupille tirée, plaque de pression coincée avec une pièce de quart. Ingénierie ou folie."
+    },
+    "528": {
+      "name": "Bouteille Pisswasser Cassée",
+      "flavor": "Col cassé proprement. Trouvée derrière une benne avec une empreinte."
+    },
+    "529": {
+      "name": "Deck CDJ Cabossé",
+      "flavor": "Jog wheel ébréché, canal deux mort, joue encore un set qui vaut l'écoute."
+    },
+    "530": {
+      "name": "Flacon SPF 4",
+      "flavor": "Bouchon manquant, sent la piña colada et de très mauvaises décisions."
+    },
+    "531": {
+      "name": "Buste Patron Marbre",
+      "flavor": "Yeux creusés, expression neutre, lèvres suggérant qu'il a vu des choses."
+    },
+    "532": {
+      "name": "Cannette Logger Lager",
+      "flavor": "Vide, écrasée, remise dans le frigo par quelqu'un espérant que personne ne remarquerait."
+    },
+    "533": {
+      "name": "Artefact Catalogué M-31",
+      "flavor": "Étiquette dit M-31. Provenance dit acquis. Origine dit pas le tien."
+    },
+    "534": {
+      "name": "Trophée Danseuse After Hours",
+      "flavor": "Décerné pour un set si fort que la plainte pour bruit est devenue une lettre de fan."
+    },
+    "535": {
+      "name": "Console Ciblage Orbital",
+      "flavor": "Coordonnées verrouillées, post-it mot de passe encore scotché sur le côté."
+    },
+    "536": {
+      "name": "Bâton Lumineux Valet",
+      "flavor": "Plastique rouge, batterie morte, a signalé trois Adders au mauvais endroit."
+    },
+    "537": {
+      "name": "Buste Marbre Onyx",
+      "flavor": "Une tête d'obsidienne polie, yeux sculptés pour suivre les mains du dealer."
+    },
+    "538": {
+      "name": "Boîte à Curiosités Laquée",
+      "flavor": "Fermoirs en laiton et doublure velours qui sent encore la fumée de cèdre."
+    },
+    "539": {
+      "name": "Diamant Coussin Détaché",
+      "flavor": "Capture la lumière des lampadaires comme s'il était taillé pour exactement ce coin."
+    },
+    "540": {
+      "name": "Disque Serveur Décortiqué",
+      "flavor": "Caddy éjecté en pleine écriture, clignote d'un pouls ambre régulier."
+    },
+    "542": {
+      "name": "Étude Cerceau Galerie",
+      "flavor": "Un ballon de cuir usé coulé dans la laque, signé au marqueur sous la prise."
+    },
+    "543": {
+      "name": "Disque Dur Oublié",
+      "flavor": "Étiquette autocollante à moitié déchirée, dernière date d'écriture au crayon."
+    },
+    "544": {
+      "name": "Récepteur AV Décortiqué",
+      "flavor": "Boutons avant disparus, prises RCA tordues, bourdonne quand mis à la terre."
+    },
+    "545": {
+      "name": "Vanne Fonte Portail",
+      "flavor": "Filetée fermée, peinture s'écaillant en longues volutes."
+    },
+    "546": {
+      "name": "Flacon Cologne Testeur",
+      "flavor": "Atomiseur croûté fermé, étiquette se décollant en boucles humides."
+    },
+    "547": {
+      "name": "Tête de César en Marbre",
+      "flavor": "Éclat au front qui capte la lueur de l'enseigne du casino."
+    },
+    "548": {
+      "name": "Plateau de Jetons Oublié",
+      "flavor": "Quelques jetons noirs de cent encore cliquetant dans le coin du bas."
+    },
+    "549": {
+      "name": "Plaque Banc Coulée",
+      "flavor": "Anneau de rouille sur une face, empreinte de craie sur l'autre."
+    },
+    "550": {
+      "name": "Batte Bois Dur Marquée",
+      "flavor": "Prise ruban, trois entailles brûlées dans le fût."
+    },
+    "551": {
+      "name": "Rattler À Moitié Vide",
+      "flavor": "Bouchon manquant, embout bouché par du magenta séché."
+    },
+    "552": {
+      "name": "Casque Lost Chapter",
+      "flavor": "Doublure humide de graisse moteur, un sticker se décollant à la tempe."
+    },
+    "553": {
+      "name": "Miniature Yacht Laiton",
+      "flavor": "Coque gravée d'un numéro de quai qui n'existe plus."
+    },
+    "554": {
+      "name": "Trophée Arcade Rétro",
+      "flavor": "Plaque rayée par une pièce, une nouvelle initiale gravée dessus."
+    },
+    "555": {
+      "name": "Athlète Marbre Blanc",
+      "flavor": "Frais au toucher, un faible éclat derrière l'oreille gauche."
+    },
+    "556": {
+      "name": "Boîtier Disque Rembourré",
+      "flavor": "Doublure mousse coupée pour un disque qui n'est plus là."
+    },
+    "557": {
+      "name": "Pompe Lotion À Moitié Usée",
+      "flavor": "Pompe encore amorcée, étiquette ramollie par la vapeur."
+    },
+    "558": {
+      "name": "Coupe Champion CamHedz",
+      "flavor": "Gravée du meilleur score de la saison dernière et une empreinte de pouce estompée."
+    },
+    "559": {
+      "name": "Tuile Diorama Casino",
+      "flavor": "Une enseigne à l'échelle avec une petite ligne d'invités figés en plein pas."
+    },
+    "560": {
+      "name": "Batte Slugger Bandée",
+      "flavor": "Ruban athlétique réenroulé deux fois, embout manquant."
+    },
+    "561": {
+      "name": "Trio Figurines Porcelaine",
+      "flavor": "Trois danseuses glaçurées capturées en pleine pirouette, intactes depuis que le casino a ouvert ses portes."
+    },
+    "562": {
+      "name": "Poignard Pawnshop Terni",
+      "flavor": "Quelqu'un l'a mis en gage pour le loyer et n'est jamais revenu le réclamer."
+    },
+    "563": {
+      "name": "Hülle Roquette RPG Inerte",
+      "flavor": "Estampillée MERRYWEATHER, déclassée, et pas du tout un souvenir."
+    },
+    "564": {
+      "name": "Figurine Boutique Vinewood",
+      "flavor": "Une pièce d'exposition d'un étalagiste qui n'a jamais remarqué qu'elle manquait."
+    },
+    "565": {
+      "name": "Souvenir Inavouable",
+      "flavor": "Laissé dans l'allée derrière le sex-shop après la fermeture — personne ne le revendique."
+    },
+    "566": {
+      "name": "Récipient de Bain Céramique",
+      "flavor": "Décor boutique que personne n'achète mais que personne ne retire non plus."
+    },
+    "567": {
+      "name": "Mug Diner Routier",
+      "flavor": "Refill tiède que la serveuse a oublié de débarrasser de la table sept."
+    },
+    "568": {
+      "name": "Casquette Capitaine Marina",
+      "flavor": "Tachée de sel et légèrement pliée — le skipper a pris sa retraite sans elle."
+    },
+    "569": {
+      "name": "Livre de Poche Oublié",
+      "flavor": "Coins cornés au chapitre quatre, avec la liste de courses de quelqu'un comme marque-page."
+    },
+    "570": {
+      "name": "Batte Marabunta",
+      "flavor": "Taggée à la peinture verte et très évidemment pas une batte d'articles de sport."
+    },
+    "571": {
+      "name": "Batte Ballas",
+      "flavor": "Ruban de prise violet, bosses suspectes, appuyée contre une clôture grillagée."
+    },
+    "572": {
+      "name": "Trophée Tournoi Brawler",
+      "flavor": "Gravé Maibatsu Arena Champion — le gagnant n'est jamais revenu le chercher."
+    },
+    "573": {
+      "name": "Tondeuse de Barbier",
+      "flavor": "Bourdonne encore faiblement — le barbier est sorti pour une cigarette il y a une heure."
+    },
+    "574": {
+      "name": "Bouquet de Bougies Déco",
+      "flavor": "Trois piliers de cire arrangés précisément — un présentoir boutique invendu."
+    },
+    "575": {
+      "name": "Batte Perdue MC",
+      "flavor": "Stickers crânes et une chaîne enroulée autour de la prise — propriété du clubhouse."
+    },
+    "576": {
+      "name": "Sculpture Grenade Dorée",
+      "flavor": "Pièce pop-art commandée pour une suite privée — a fini sur le trottoir."
+    },
+    "577": {
+      "name": "Vase Exécutif Boutique",
+      "flavor": "Céramique importée qui se vendait plus cher que le loyer de la plupart des gens."
+    },
+    "578": {
+      "name": "Quille de Bowling Solitaire",
+      "flavor": "Dernière quille debout, puis oubliée dans la gouttière quand la soirée de ligue s'est terminée."
+    },
+    "579": {
+      "name": "Peluche Pince Arcade",
+      "flavor": "Arrachée de la machine après vingt dollars en pièces — chaque centime valait la peine."
+    },
+    "580": {
+      "name": "Casque DJ After Hours",
+      "flavor": "Coussinets encore chauds du booth — quelqu'un a fait une sortie anticipée."
+    },
+    "581": {
+      "name": "Portefeuille Tombé Trottoir",
+      "flavor": "Permis de conduire dedans, pas de cash — quelqu'un est arrivé avant."
+    },
+    "582": {
+      "name": "Casque de Chantier Fissuré",
+      "flavor": "Fente capillaire sur le sommet — le contremaître l'a passé en perte et l'a laissé."
+    },
+    "583": {
+      "name": "Montre Boutique Vitrine",
+      "flavor": "Mouvement suisse, tic-taque encore, pas de prix là où il y en avait un."
+    },
+    "584": {
+      "name": "Portable Démo Tech Store",
+      "flavor": "Écran de veille défile encore — le modèle d'exposition que personne n'a pris la peine de verrouiller."
+    },
+    "585": {
+      "name": "Paire de Figurines Dorées",
+      "flavor": "Une paire de statuettes dorées autrefois exposées dans la vitrine du lobby du casino."
+    },
+    "586": {
+      "name": "Fiole Compte-Gouttes Acide",
+      "flavor": "Une petite fiole compte-gouttes empestant le solvant et les mauvaises décisions."
+    },
+    "587": {
+      "name": "Pile de Jetons House",
+      "flavor": "Une tour soignée de jetons de casino que quelqu'un a oublié d'encaisser."
+    },
+    "588": {
+      "name": "Batterie de Voiture Croûtée",
+      "flavor": "Bornes fourrées de corrosion, tenant encore une faible charge."
+    },
+    "589": {
+      "name": "Yacht Galaxy de Poche",
+      "flavor": "Un modèle à l'échelle du super-yacht Galaxy, chipé d'un showroom."
+    },
+    "590": {
+      "name": "Bouteille de Ketchup Pressée",
+      "flavor": "Une bouteille presque vide de purée rouge, le bouchon collant en permanence."
+    },
+    "591": {
+      "name": "Boîte de Caviar Beluga",
+      "flavor": "Une boîte froide de caviar, couvercle à moitié forcé, cuillère en nacre manquante."
+    },
+    "592": {
+      "name": "Bourgeon d'Herbe Taillé",
+      "flavor": "Une grosse pousse taillée, assez collante pour coller un portefeuille fermé."
+    },
+    "593": {
+      "name": "Cendrier Pitkin Motel",
+      "flavor": "Un cendrier de motel bondé de filtres tachés de rouge à lèvres."
+    },
+    "594": {
+      "name": "Cristal Boutique Vinewood",
+      "flavor": "Un cristal facetté qui projette une lumière prismée sur du velours."
+    },
+    "595": {
+      "name": "Géode en Grappe",
+      "flavor": "Une géode en grappe déchiquetée empruntée d'un plateau éditorial mode."
+    },
+    "596": {
+      "name": "Bouteille de Cava À Moitié Bue",
+      "flavor": "Une bouteille de cava devenue plate entre deux verres vides."
+    },
+    "597": {
+      "name": "Pile Reliée Cordée",
+      "flavor": "Trois reliures attachées avec de la ficelle, dos craqués de trop de retours."
+    },
+    "598": {
+      "name": "Oscillateur Pulsé Terrain",
+      "flavor": "Un oscillateur pulsé tiré d'un chariot diagnostic d'infirmerie."
+    },
+    "599": {
+      "name": "Enseigne Pub Étain PINTS",
+      "flavor": "Une enseigne pub en étain cabossée qui lit encore PINTS en peinture écaillée."
+    },
+    "600": {
+      "name": "Boîte à Chaussures Designer",
+      "flavor": "Une boîte à chaussures boutique avec un stiletto dedans et le reçu encore plié."
+    },
+    "601": {
+      "name": "Micro Condensateur Scène",
+      "flavor": "Un micro condensateur encore chaud d'une prise vocale."
+    },
+    "602": {
+      "name": "Bloc à Couteaux Bambou",
+      "flavor": "Un bloc à couteaux chargé pris d'un comptoir de cuisine Vinewood."
+    },
+    "603": {
+      "name": "Bombe CS Gaz",
+      "flavor": "Une bombe CS gaz avec la goupille encore scotchée, doigts hors de la cuillère."
+    },
+    "604": {
+      "name": "Batte Aluminium Bandée",
+      "flavor": "Une batte aluminium enveloppée de ruban de prise et de mauvaises intentions."
+    },
+    "605": {
+      "name": "Trousseau Fer du Geôlier",
+      "flavor": "Un lourd trousseau en fer qui tinte comme un alibi."
+    },
+    "606": {
+      "name": "Grenade Fumigène Anneau",
+      "flavor": "Une bombe fumigène à anneau qui sent légèrement le phosphore."
+    },
+    "607": {
+      "name": "Calculatrice Pit Boss",
+      "flavor": "Une calculatrice de bureau casino avec le rouleau de bande cassé net."
+    },
+    "608": {
+      "name": "Miniature Diorama Coffre",
+      "flavor": "Un diorama de coffre miniature volé du mur marketing du casino."
+    },
+    "609": {
+      "name": "Caisse Cargo Acier Estampillée",
+      "flavor": "Une caisse en acier rayée estampillée d'un numéro de lot délavé."
+    },
+    "610": {
+      "name": "Fragment de Toile Moderne",
+      "flavor": "Un morceau déchiré de toile de galerie sent encore l'acrylique frais et le champagne éventé."
+    },
+    "611": {
+      "name": "Diamant Coffre Engagé",
+      "flavor": "Taillé pour un coffre de casino, perdu lors d'une remise, trouvé dans la poussière."
+    },
+    "612": {
+      "name": "Pack Bières Caché",
+      "flavor": "Sent l'huile moteur et la bière bon marché, exactement comme l'homme qui l'a caché."
+    },
+    "613": {
+      "name": "Trophée Drapeau du Champion",
+      "flavor": "Gagné sous les lumières du stade, abandonné dès qu'un plus gros prix est apparu."
+    },
+    "614": {
+      "name": "Éventail Battle Club",
+      "flavor": "Peint avec un visage rugissant, bourdonne encore avec la basse d'hier soir."
+    },
+    "615": {
+      "name": "Mag Glacé Ruelle-Humide",
+      "flavor": "Pages collées par la pluie, pas la raison que la plupart devineraient."
+    },
+    "616": {
+      "name": "Télécommande RC Hobbyiste",
+      "flavor": "Antenne pliée par un atterrissage en orbite basse de trop sur une voiture garée."
+    },
+    "617": {
+      "name": "Pile Briques C4 Surplus",
+      "flavor": "L'étiquette décollée, les fils coupés, le danger encore impliqué."
+    },
+    "618": {
+      "name": "Batte Bois Crackée Gazon",
+      "flavor": "Bois éclaté en trois endroits, chaque fissure avec une histoire différente."
+    },
+    "619": {
+      "name": "Casquette Arcade Perdue",
+      "flavor": "Visière enroulée par la sueur, tachée de cola cerise du record."
+    },
+    "620": {
+      "name": "Caddie à Outils du Mécano III",
+      "flavor": "Trois douilles en moins, mais la graisse te dit qu'il a mérité chaque bosse."
+    },
+    "621": {
+      "name": "Volleyball Décoloré au Soleil",
+      "flavor": "Du sable cliquette encore à l'intérieur d'un service qui a duré trop longtemps."
+    },
+    "622": {
+      "name": "Sculpture Casquette Boutique",
+      "flavor": "Vendue comme art portable, tarifée comme un loyer, surtout photographiée."
+    },
+    "623": {
+      "name": "Tube de Mortier Surplus",
+      "flavor": "Pochoiré et volé, la série rayée par un pouce soigneux."
+    },
+    "624": {
+      "name": "Coupe-Boulons Industriel",
+      "flavor": "Mâchoires polies par l'usage, les poignées enveloppées du ruban de quelqu'un d'autre."
+    },
+    "625": {
+      "name": "Trophée Combattant Arcade",
+      "flavor": "Or plastique sur plastique, mais le gamin qui l'a gagné a couru chez lui quand même."
+    },
+    "626": {
+      "name": "Vase Vitrine Fissuré",
+      "flavor": "Une fissure capillaire capte la lumière, doublant le prix demandé."
+    },
+    "627": {
+      "name": "Disque 10kg Gym",
+      "flavor": "Bord caoutchouc mâché par des années de mauvaise forme et de pires lâchers."
+    },
+    "628": {
+      "name": "Récompense Champion Arena",
+      "flavor": "Gravée d'un gagnant qui ne l'a jamais réclamée, polie par quelqu'un qui l'a fait."
+    },
+    "629": {
+      "name": "Balance Coke de Cave",
+      "flavor": "Calibrée au dixième de gramme et à une vie de paranoïa."
+    },
+    "630": {
+      "name": "Buste Velours Collier",
+      "flavor": "La chaîne est partie depuis longtemps, le velours garde encore sa forme."
+    },
+    "631": {
+      "name": "Pistolet Lourd Gravé",
+      "flavor": "Filigrane sur la glissière, un éclat frais sur la crosse, histoire non dite."
+    },
+    "632": {
+      "name": "Feu d'Artifice Jetée Non Tiré",
+      "flavor": "Mèche intacte, étiquette gondolée par l'eau, nom du festival délavé."
+    },
+    "633": {
+      "name": "Savon Lavande Spa",
+      "flavor": "Lavande et chlore, à moitié fondu, monogrammé d'un nom que personne ne reconnaît."
+    },
+    "634": {
+      "name": "Glacé Adulte Retourné",
+      "flavor": "Couverture déchirée, code-barres intact, retourné pour une raison listée uniquement comme usure."
+    },
+    "635": {
+      "name": "Trophée Maxwell Déchiqueté",
+      "flavor": "Plaque déchirée nette à travers le torse, haltère encore levée."
+    },
+    "636": {
+      "name": "OG Mixtape Réédition",
+      "flavor": "Dos de cassette fissuré, étiqueté à la main au Sharpie argent."
+    },
+    "637": {
+      "name": "Rack CD Booth DJ",
+      "flavor": "La moitié des fentes vides, le reste rayé au-delà de tout sauvetage."
+    },
+    "638": {
+      "name": "Trophée No.1 After Hours",
+      "flavor": "Feuille d'or encore intacte, base gravée d'un gamertag oublié."
+    },
+    "639": {
+      "name": "Magazine Motor Enthusiast",
+      "flavor": "Pli au centre par trop de feuilletages de garage."
+    },
+    "640": {
+      "name": "Trophée Champion Champ de Mines",
+      "flavor": "Coulé en étain, base dit Survécu au Round Six en petites lettres tamponnées."
+    },
+    "641": {
+      "name": "Batte Slugger Brûlée",
+      "flavor": "Manche enveloppé de ruban friction, le fût à moitié fondu à la pointe."
+    },
+    "642": {
+      "name": "Téléphone Bureau Piégé",
+      "flavor": "Combiné collé, fils serpentant où le cordon devrait être."
+    },
+    "643": {
+      "name": "Cartouche Homing Déclassée",
+      "flavor": "Inerte et pochoirée POUR EXPOSITION, ailerons pliés d'une caisse qu'elle aurait dû survivre."
+    },
+    "644": {
+      "name": "Bloc à Couteaux Chef",
+      "flavor": "Bloc bois de hêtre poli par vingt ans de manches tirés."
+    },
+    "645": {
+      "name": "Double Page Plastique",
+      "flavor": "Emballée plastique et étiquetée deux fois, les deux numéros barrés."
+    },
+    "646": {
+      "name": "Barre Magnétique Couteaux",
+      "flavor": "Bande magnétique jaunie par l'âge, trois fentes ostensiblement vides."
+    },
+    "647": {
+      "name": "Revolver Doré",
+      "flavor": "Gravure serpente autour du barillet, or écaillé du pontet."
+    },
+    "648": {
+      "name": "Trousse Premier Secours Murale",
+      "flavor": "Loquet à pression cassé, la croix verte délavée en gris."
+    },
+    "649": {
+      "name": "Batterie Voiture Tachée Acide",
+      "flavor": "Tache d'acide séchée en croissant sur un côté, bornes corrodées vert."
+    },
+    "650": {
+      "name": "Touret Récupéré",
+      "flavor": "Roue ébréchée d'avoir coupé quelque chose de plus dur que l'acier, carter moteur brûlé."
+    },
+    "651": {
+      "name": "Station Enceinte Bluetooth",
+      "flavor": "Câble aux encore branché dans rien, poussière incrustée dans la grille."
+    },
+    "652": {
+      "name": "Bobine Fil Polyester",
+      "flavor": "Polyester enroulé sur un noyau carton, extrémité agrafée une fois."
+    },
+    "653": {
+      "name": "Pistolet Combat Luxe",
+      "flavor": "Crosse en nacre, glissière gravée d'un motif de vigne que personne n'a demandé."
+    },
+    "654": {
+      "name": "Accessoire Tête Coupée Wade",
+      "flavor": "Masque latex moulé sur un crâne en mousse, yeux peints légèrement croisés."
+    },
+    "655": {
+      "name": "Baseball Entraînement Éraflé",
+      "flavor": "Coutures rouges lâches, autographe délavé en tache illisible."
+    },
+    "656": {
+      "name": "Batte Enveloppée Rasoir",
+      "flavor": "Fil barbelé croûté de rouille, enveloppe-phalanges trempée sombre à la prise."
+    },
+    "657": {
+      "name": "Sculpture Football Vitrine",
+      "flavor": "Résine coulée avec feuille d'or le long des lacets, base signée par personne de célèbre."
+    }
+  }
+}

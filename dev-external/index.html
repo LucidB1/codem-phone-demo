@@ -1,0 +1,135 @@
+<!doctype html>
+<!-- Dev-only custom app for the external app bridge: logs every message the host posts, echoes broadcasts back through mphone:callback, and exercises each mphone:* and components call. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dev External</title>
+<style>
+    html, body { margin: 0; height: 100%; background: transparent; }
+    body { font-family: system-ui, sans-serif; color: #fff; display: flex; flex-direction: column; box-sizing: border-box; padding: 64px 14px 40px; background: linear-gradient(180deg, #14213d, #0b0f1a); }
+    h1 { font-size: 20px; font-weight: 500; margin: 0 0 4px; }
+    .sub { font-size: 12px; opacity: .6; margin-bottom: 10px; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+    button { font: inherit; font-size: 12px; color: #fff; background: rgba(255,255,255,.1); border: 1px solid rgba(255,255,255,.15); border-radius: 10px; padding: 9px 6px; cursor: pointer; }
+    button:active { background: rgba(255,255,255,.2); }
+    #log { flex: 1; margin-top: 10px; overflow: auto; font: 11px/1.35 ui-monospace, Consolas, monospace; background: rgba(0,0,0,.35); border-radius: 10px; padding: 8px; white-space: pre-wrap; word-break: break-all; }
+    .in { color: #7dd3fc; }
+    .out { color: #fcd34d; }
+    .res { color: #86efac; }
+</style>
+</head>
+<body>
+<h1>Dev External</h1>
+<div class="sub" id="status">waiting for mphone:init</div>
+<div class="grid">
+    <button data-act="callback">callback (client)</button>
+    <button data-act="callbackServer">callback (server)</button>
+    <button data-act="player">player</button>
+    <button data-act="notification">notification</button>
+    <button data-act="waypoint">waypoint</button>
+    <button data-act="close">close app</button>
+    <button data-act="popUp">components.setPopUp</button>
+    <button data-act="form">components.setForm</button>
+    <button data-act="contact">contact selector</button>
+    <button data-act="gallery">gallery</button>
+    <button data-act="emoji">emoji picker</button>
+    <button data-act="nearby">nearby players</button>
+    <button data-act="pay">pay sheet</button>
+    <button data-act="camera">openCamera</button>
+    <button data-act="clear">clear log</button>
+</div>
+<div id="log"></div>
+<script>
+    var logEl = document.getElementById('log');
+    var statusEl = document.getElementById('status');
+    var pending = {};
+    var seq = 0;
+
+    function log(kind, label, value) {
+        var line = document.createElement('div');
+        line.className = kind;
+        var text = '';
+        try { text = value === undefined ? '' : JSON.stringify(value); } catch (e) { text = String(value); }
+        line.textContent = new Date().toLocaleTimeString() + ' ' + label + ' ' + text;
+        logEl.appendChild(line);
+        logEl.scrollTop = logEl.scrollHeight;
+    }
+
+    function send(msg) {
+        log('out', '->', msg);
+        window.parent.postMessage(msg, '*');
+    }
+
+    function request(type, extra) {
+        return new Promise(function (resolve) {
+            var id = 'dev_' + (++seq);
+            pending[id] = resolve;
+            send(Object.assign({ type: type, callbackId: id }, extra || {}));
+        });
+    }
+
+    window.addEventListener('message', function (e) {
+        var data = e.data;
+        if (!data || typeof data !== 'object') return;
+        if (data.type === 'mphone:components:result') return;
+        if (data.type === 'mphone:callback:response' || data.type === 'mphone:player:response') {
+            log('res', '<- ' + data.type, data.result);
+            var fn = pending[data.callbackId];
+            if (fn) { delete pending[data.callbackId]; fn(data.result); }
+            return;
+        }
+        log('in', '<-', data);
+        if (data.type === 'mphone:init') {
+            statusEl.textContent = 'init: ' + data.identifier + ' / ' + (data.player && data.player.phoneNumber) + ' / ' + data.theme;
+        }
+        if (data.type === 'broadcast') {
+            request('mphone:callback', { action: 'echo', payload: { received: data.message } });
+        }
+    });
+
+    function sdk() {
+        if (!globalThis.components) {
+            log('res', 'components SDK not injected (cross-origin frame?)');
+            return null;
+        }
+        return globalThis.components;
+    }
+
+    function report(label) {
+        return function (result) { log('res', '<- ' + label, result); };
+    }
+
+    var actions = {
+        callback: function () { request('mphone:callback', { action: 'hello', payload: { from: 'dev-external', at: Date.now() } }); },
+        callbackServer: function () { request('mphone:callback', { action: 'hello', server: true, payload: { n: 42 } }); },
+        player: function () { request('mphone:player'); },
+        notification: function () { send({ type: 'mphone:notification', header: 'Dev External', message: 'Bridge notification at ' + new Date().toLocaleTimeString() }); },
+        waypoint: function () { send({ type: 'mphone:waypoint', x: 215.5, y: -810.2 }); },
+        close: function () { send({ type: 'mphone:close' }); },
+        popUp: function () {
+            var c = sdk(); if (!c) return;
+            c.setPopUp({ title: 'Dev popup', description: 'Pick one', buttons: [{ title: 'Cancel' }, { title: 'OK', cb: function () { log('res', 'OK button cb fired'); } }] }).then(report('setPopUp'));
+        },
+        form: function () {
+            var c = sdk(); if (!c) return;
+            c.setForm({ title: 'Dev form', description: 'Two fields', confirmText: 'Send', fields: [{ placeholder: 'Name' }, { placeholder: 'Amount', type: 'number', value: '5' }] }).then(report('setForm'));
+        },
+        contact: function () { var c = sdk(); if (c) c.setContactSelector({ title: 'Pick a contact' }).then(report('setContactSelector')); },
+        gallery: function () { var c = sdk(); if (c) c.setGallery({ title: 'Pick media', multiselect: false }).then(report('setGallery')); },
+        emoji: function () { var c = sdk(); if (c) c.setEmojiPickerVisible(true, {}).then(report('setEmojiPicker')); },
+        nearby: function () { var c = sdk(); if (c) c.setNearbyPlayers({ title: 'Nearby' }).then(report('setNearbyPlayers')); },
+        pay: function () {
+            var c = sdk(); if (!c) return;
+            c.setPaySheet({ title: 'Dev purchase', accountName: 'Dev Store', items: [{ label: 'Item', amount: 120 }, { label: 'Tax', amount: 12 }] }).then(report('setPaySheet'));
+        },
+        camera: function () { var c = sdk(); if (c) c.openCamera({}); },
+        clear: function () { logEl.textContent = ''; }
+    };
+
+    document.querySelectorAll('button[data-act]').forEach(function (btn) {
+        btn.addEventListener('click', function () { actions[btn.getAttribute('data-act')](); });
+    });
+</script>
+</body>
+</html>
