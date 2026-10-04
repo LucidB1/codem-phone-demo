@@ -1,1 +1,0 @@
-html.demo,html.demo body{background:0 0;overflow:hidden}html.demo--page,html.demo--page body{background:radial-gradient(#1a1a22 0%,#050507 70%)}html.demo .backdrop{display:none}html.demo .device{--u:min(calc(96vh / 956), calc(96vw / 460));margin:auto;inset:0}html.demo .device--landscape{--u:min(calc(96vh / 460), calc(96vw / 956));transform:rotate(-90deg)}
