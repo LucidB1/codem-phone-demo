@@ -974,6 +974,8 @@
 		"noConnection": "Internetverbindung nicht möglich."
 	},
 	"server": {
+		"serviceFullTitle": "Dienst voll",
+		"serviceFull": "Alle %s Dienstplätze für diesen Job sind belegt.",
 		"vehicleTaxReason": "Kfz-Steuer",
 		"vehicleTaxLine": "Kfz-Steuer: %s",
 		"propertyTaxReason": "Grundsteuer",

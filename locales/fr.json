@@ -974,6 +974,8 @@
 		"noConnection": "Impossible d'accéder à internet."
 	},
 	"server": {
+		"serviceFullTitle": "Service complet",
+		"serviceFull": "Les %s places en service pour ce métier sont toutes prises.",
 		"vehicleTaxReason": "Taxe sur les véhicules",
 		"vehicleTaxLine": "Taxe sur les véhicules : %s",
 		"propertyTaxReason": "Taxe foncière",

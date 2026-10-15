@@ -992,6 +992,8 @@
 		"noConnection": "Unable to reach the internet."
 	},
 	"server": {
+		"serviceFullTitle": "Service full",
+		"serviceFull": "All %s on-duty slots for this job are taken.",
 		"vehicleTaxReason": "Vehicle Tax",
 		"vehicleTaxLine": "Vehicle Tax: %s",
 		"propertyTaxReason": "Property Tax",

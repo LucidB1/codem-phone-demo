@@ -992,6 +992,8 @@
 		"noConnection": "Internet bağlantınıza erişilemiyor."
 	},
 	"server": {
+		"serviceFullTitle": "Servis dolu",
+		"serviceFull": "Bu meslekteki %s mesai yerinin hepsi dolu.",
 		"vehicleTaxReason": "Araç Vergisi",
 		"vehicleTaxLine": "Araç Vergisi: %s",
 		"propertyTaxReason": "Mülk Vergisi",

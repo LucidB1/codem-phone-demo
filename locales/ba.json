@@ -974,6 +974,8 @@
 		"noConnection": "Nije moguće dosegnuti internet."
 	},
 	"server": {
+		"serviceFullTitle": "Servis je popunjen",
+		"serviceFull": "Svih %s mjesta na dužnosti za ovaj posao je zauzeto.",
 		"vehicleTaxReason": "Porez na vozilo",
 		"vehicleTaxLine": "Porez na vozilo: %s",
 		"propertyTaxReason": "Porez na nekretninu",

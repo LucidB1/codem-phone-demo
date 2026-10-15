@@ -974,6 +974,8 @@
 		"noConnection": "Det går inte att nå internet."
 	},
 	"server": {
+		"serviceFullTitle": "Tjänsten full",
+		"serviceFull": "Alla %s tjänsteplatser för det här jobbet är upptagna.",
 		"vehicleTaxReason": "Fordonsskatt",
 		"vehicleTaxLine": "Fordonsskatt: %s",
 		"propertyTaxReason": "Fastighetsskatt",

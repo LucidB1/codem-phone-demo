@@ -974,6 +974,8 @@
 		"noConnection": "Nem érhető el az internet."
 	},
 	"server": {
+		"serviceFullTitle": "Szolgálat megtelt",
+		"serviceFull": "Ennél a munkánál mind a %s szolgálati hely foglalt.",
 		"vehicleTaxReason": "Járműadó",
 		"vehicleTaxLine": "Járműadó: %s",
 		"propertyTaxReason": "Ingatlanadó",

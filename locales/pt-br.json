@@ -974,6 +974,8 @@
 		"noConnection": "Não foi possível acessar a internet."
 	},
 	"server": {
+		"serviceFullTitle": "Serviço lotado",
+		"serviceFull": "Todas as %s vagas em serviço desta profissão estão ocupadas.",
 		"vehicleTaxReason": "Imposto Veicular",
 		"vehicleTaxLine": "Imposto Veicular: %s",
 		"propertyTaxReason": "Imposto Imobiliário",
