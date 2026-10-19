@@ -1414,7 +1414,9 @@
 		"crypto_description": "Échangez les cryptos de la ville, suivez le marché en direct et envoyez des coins à n'importe quel numéro.",
 		"calendar": "Calendrier",
 		"calendar_description": "Gardez vos journées en ordre : créez des entrées, faites-les se répéter et recevez un rappel avant l'heure.",
-		"hive_description": "Crée un Hive avec tes amis et discute dans des salons."
+		"hive_description": "Crée un Hive avec tes amis et discute dans des salons.",
+		"casino": "Casino",
+		"casino_description": "Échangez l'argent de la banque contre des jetons et faites tourner trois machines en cascade. Encaissez quand vous voulez."
 	},
 	"walletapp": {
 		"title": "Cartes",
@@ -5810,5 +5812,92 @@
 		"inHours": "dans {n} h",
 		"inDays": "dans {n} j",
 		"countOne": "1 entrée"
+	},
+	"casino": {
+		"lobby": {
+			"title": "Casino",
+			"yourChips": "Vos jetons",
+			"bank": "Banque {amount}",
+			"deposit": "Déposer",
+			"withdraw": "Retirer",
+			"games": "Jeux"
+		},
+		"cashier": {
+			"bankBalance": "Solde bancaire {amount}",
+			"withdrawable": "Retirable {amount}",
+			"max": "Max",
+			"overBank": "Plus que votre solde bancaire.",
+			"overChips": "Plus que vos jetons.",
+			"noBank": "Pas assez d'argent sur votre compte bancaire.",
+			"noChips": "Vous n'avez pas autant de jetons.",
+			"busy": "Terminez d'abord votre tour.",
+			"failed": "La caisse n'a pas pu terminer l'opération. Réessayez.",
+			"confirmDeposit": "Déposer {amount}",
+			"confirmWithdraw": "Retirer {amount}"
+		},
+		"slot": {
+			"freeSpins": "TOURS GRATUITS",
+			"multi": "MULTI",
+			"total": "TOTAL",
+			"skip": "PASSER",
+			"win": "GAIN",
+			"tumbleWin": "GAIN EN CASCADE",
+			"goodLuck": "BONNE CHANCE",
+			"placeBet": "PLACEZ VOTRE MISE",
+			"chips": "Jetons",
+			"bet": "Mise",
+			"addChips": "Ajouter des jetons",
+			"cashier": "Caisse",
+			"buyFree": "Acheter des tours gratuits",
+			"welcomeBack": "BON RETOUR",
+			"moreSpins": "TOURS EN PLUS",
+			"freeSpinsWin": "GAIN DES TOURS GRATUITS",
+			"tapContinue": "Touchez pour continuer",
+			"paytable": "Table des gains",
+			"paytableNote": "Valeurs pour la mise actuelle de {bet}."
+		},
+		"games": {
+			"sugarfall": {
+				"tagline": "Machine à bonbons en cascade avec tours gratuits et bombes jusqu'à x100",
+				"hintPays": "8+ identiques n'importe où paient · 4",
+				"hintFree": "= 10 tours gratuits",
+				"ruleScatter": "La sucette est le scatter. 4 paient {four}, 5 paient {five}, 6 paient {six} et 4 ou plus lancent 10 tours gratuits. 3 ou plus pendant les tours gratuits en ajoutent 5.",
+				"ruleBomb": "Les bombes bonbons ne tombent que pendant les tours gratuits et portent x2 à x100. Quand un tour gagne, toutes les bombes du plateau s'additionnent et multiplient le gain de ce tour.",
+				"ruleTumble": "Les bonbons gagnants éclatent et de nouveaux tombent d'en haut. Cela se répète tant qu'il reste 8 identiques. Acheter des tours gratuits coûte {cost}x la mise.",
+				"wins": {
+					"0": "GROS GAIN",
+					"1": "MÉGA GAIN",
+					"2": "GAIN SUCRÉ"
+				}
+			},
+			"stormcrown": {
+				"tagline": "Orbes de foudre jusqu'à x500 qui s'additionnent pendant les tours gratuits",
+				"hintPays": "8+ identiques n'importe où paient · 4",
+				"hintFree": "= 15 tours gratuits",
+				"ruleScatter": "Le médaillon de foudre est le scatter. 4 paient {four}, 5 paient {five}, 6 paient {six} et 4 ou plus lancent 15 tours gratuits. 3 ou plus pendant les tours gratuits en ajoutent 5.",
+				"ruleOrb": "Les orbes de foudre portent x2 à x500 et peuvent tomber à chaque tour. Quand un tour gagne, tous les orbes du plateau s'additionnent et multiplient le gain de ce tour.",
+				"ruleMeter": "Pendant les tours gratuits, chaque orbe sur un tour gagnant s'ajoute à un multiplicateur total qui reste jusqu'à la fin de la manche. Acheter des tours gratuits coûte {cost}x la mise.",
+				"wins": {
+					"0": "SUPER !",
+					"1": "MÉGA !",
+					"2": "SUPERBE !",
+					"3": "SENSATIONNEL !"
+				}
+			},
+			"jellyburst": {
+				"tagline": "Gains en grappes sur une grille 7x7 avec des cases qui doublent jusqu'à x128",
+				"hintPays": "Grappes de 5+ paient · 3",
+				"hintFree": "= tours gratuits",
+				"ruleCluster": "Les groupes de 5 gélifiés identiques ou plus qui se touchent côte à côte paient. Les gélifiés gagnants éclatent et de nouveaux tombent jusqu'à ce qu'il n'y ait plus de groupe.",
+				"ruleSpots": "Chaque éclatement marque sa case. Un deuxième éclatement sur une case marquée en fait un multiplicateur x2, et chaque suivant le double, jusqu'à x128. Les multiplicateurs sous un groupe gagnant s'additionnent.",
+				"ruleScatter": "Le distributeur de chewing-gums est le scatter. 3 donnent 10 tours gratuits, 4 en donnent 12, 5 en donnent 15, 6 en donnent 20 et 7 en donnent 30. Pendant les tours gratuits, les cases marquées restent toute la manche. Acheter des tours gratuits coûte {cost}x la mise.",
+				"wins": {
+					"0": "SUPER !",
+					"1": "SUCRÉ !",
+					"2": "DÉLICIEUX !",
+					"3": "EXPLOSION GÉLIFIÉE !"
+				}
+			}
+		}
 	}
 }

@@ -1414,7 +1414,9 @@
 		"crypto_description": "Kereskedj a város érméivel, kövesd élőben a piacot, és küldj kriptót bármelyik számra.",
 		"calendar": "Naptár",
 		"calendar_description": "Tartsd rendben a napjaidat: vegyél fel bejegyzéseket, ismételtesd őket, és kapj emlékeztetőt időben.",
-		"hive_description": "Hozz létre egy Hive-ot a barátaiddal és csevegjetek csatornákban."
+		"hive_description": "Hozz létre egy Hive-ot a barátaiddal és csevegjetek csatornákban.",
+		"casino": "Casino",
+		"casino_description": "Váltsd át a banki pénzt zsetonra, és pörgess három lavinás nyerőgépen. Akkor fizetsz ki, amikor akarsz."
 	},
 	"walletapp": {
 		"title": "Kártyák",
@@ -5810,5 +5812,92 @@
 		"inHours": "{n} óra múlva",
 		"inDays": "{n} nap múlva",
 		"countOne": "1 bejegyzés"
+	},
+	"casino": {
+		"lobby": {
+			"title": "Casino",
+			"yourChips": "Zsetonjaid",
+			"bank": "Bank {amount}",
+			"deposit": "Befizetés",
+			"withdraw": "Kifizetés",
+			"games": "Játékok"
+		},
+		"cashier": {
+			"bankBalance": "Banki egyenleg {amount}",
+			"withdrawable": "Kivehető {amount}",
+			"max": "Max",
+			"overBank": "Több, mint a banki egyenleged.",
+			"overChips": "Több, mint a zsetonjaid.",
+			"noBank": "Nincs elég pénz a bankszámládon.",
+			"noChips": "Nincs ennyi zsetonod.",
+			"busy": "Előbb fejezd be a pörgetést.",
+			"failed": "A pénztár nem tudta befejezni. Próbáld újra.",
+			"confirmDeposit": "{amount} befizetése",
+			"confirmWithdraw": "{amount} kifizetése"
+		},
+		"slot": {
+			"freeSpins": "INGYENES PÖRGETÉS",
+			"multi": "SZORZÓ",
+			"total": "ÖSSZESEN",
+			"skip": "KIHAGY",
+			"win": "NYEREMÉNY",
+			"tumbleWin": "LAVINA NYEREMÉNY",
+			"goodLuck": "SOK SZERENCSÉT",
+			"placeBet": "TEDD MEG A TÉTED",
+			"chips": "Zseton",
+			"bet": "Tét",
+			"addChips": "Zseton vásárlás",
+			"cashier": "Pénztár",
+			"buyFree": "Ingyenes pörgetések vétele",
+			"welcomeBack": "ÜDV ÚJRA",
+			"moreSpins": "EXTRA PÖRGETÉS",
+			"freeSpinsWin": "INGYENES PÖRGETÉS NYEREMÉNY",
+			"tapContinue": "Koppints a folytatáshoz",
+			"paytable": "Kifizetési tábla",
+			"paytableNote": "Az értékek a jelenlegi {bet} tétre vonatkoznak."
+		},
+		"games": {
+			"sugarfall": {
+				"tagline": "Lavinás cukorkás nyerőgép ingyenes pörgetésekkel és x100-ig érő bombákkal",
+				"hintPays": "8+ egyforma bárhol fizet · 4",
+				"hintFree": "= 10 ingyenes pörgetés",
+				"ruleScatter": "A nyalóka a scatter. 4 darab {four}, 5 darab {five}, 6 darab {six} összeget fizet, 4 vagy több 10 ingyenes pörgetést indít. Ingyenes pörgetés alatt 3 vagy több még 5-öt ad.",
+				"ruleBomb": "A cukorbombák csak ingyenes pörgetés alatt esnek, és x2-től x100-ig érnek. Ha egy pörgetés nyer, a táblán lévő összes bomba összeadódik, és megszorozza annak a pörgetésnek a nyereményét.",
+				"ruleTumble": "A nyerő cukorkák szétpukkannak, és újak esnek fentről. Ez addig ismétlődik, amíg nem marad 8 egyforma. Az ingyenes pörgetések ára a tét {cost}-szorosa.",
+				"wins": {
+					"0": "NAGY NYEREMÉNY",
+					"1": "MEGA NYEREMÉNY",
+					"2": "ÉDES NYEREMÉNY"
+				}
+			},
+			"stormcrown": {
+				"tagline": "x500-ig érő villámgömbök, amelyek ingyenes pörgetésben tovább adódnak",
+				"hintPays": "8+ egyforma bárhol fizet · 4",
+				"hintFree": "= 15 ingyenes pörgetés",
+				"ruleScatter": "A villámmedál a scatter. 4 darab {four}, 5 darab {five}, 6 darab {six} összeget fizet, 4 vagy több 15 ingyenes pörgetést indít. Ingyenes pörgetés alatt 3 vagy több még 5-öt ad.",
+				"ruleOrb": "A villámgömbök x2-től x500-ig érnek, és bármelyik pörgetésben megjelenhetnek. Ha egy pörgetés nyer, a táblán lévő összes gömb összeadódik, és megszorozza annak a pörgetésnek a nyereményét.",
+				"ruleMeter": "Ingyenes pörgetés alatt minden nyerő pörgetésen landoló gömb hozzáadódik egy összesített szorzóhoz, amely a kör végéig megmarad. Az ingyenes pörgetések ára a tét {cost}-szorosa.",
+				"wins": {
+					"0": "SZÉP!",
+					"1": "MEGA!",
+					"2": "PAZAR!",
+					"3": "SZENZÁCIÓS!"
+				}
+			},
+			"jellyburst": {
+				"tagline": "Csoportos nyeremény 7x7-es táblán, x128-ig duplázódó mezőkkel",
+				"hintPays": "5+ csoport fizet · 3",
+				"hintFree": "= ingyenes pörgetés",
+				"ruleCluster": "Az oldalukkal érintkező, legalább 5 egyforma zseléből álló csoportok fizetnek. A nyerő zselék szétpukkannak, és újak esnek, amíg el nem fogy a csoport.",
+				"ruleSpots": "Minden pukkanás megjelöli a mezőjét. Egy második pukkanás a megjelölt mezőn x2 szorzóvá teszi, minden további megduplázza, x128-ig. A nyerő csoport alatti szorzók összeadódnak.",
+				"ruleScatter": "A rágógumi-automata a scatter. 3 darab 10, 4 darab 12, 5 darab 15, 6 darab 20, 7 darab 30 ingyenes pörgetést ad. Ingyenes pörgetés alatt a megjelölt mezők az egész körben megmaradnak. Az ingyenes pörgetések ára a tét {cost}-szorosa.",
+				"wins": {
+					"0": "SZÉP!",
+					"1": "ÉDES!",
+					"2": "FINOM!",
+					"3": "ZSELÉROBBANÁS!"
+				}
+			}
+		}
 	}
 }

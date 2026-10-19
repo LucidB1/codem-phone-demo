@@ -1432,7 +1432,9 @@
 		"crypto": "Borsa",
 		"crypto_description": "Şehrin coinlerini al sat, piyasayı canlı izle ve istediğin numaraya kripto gönder.",
 		"calendar": "Takvim",
-		"calendar_description": "Günlerini düzende tut: kayıt oluştur, tekrarlat ve başlamadan önce hatırlatma al."
+		"calendar_description": "Günlerini düzende tut: kayıt oluştur, tekrarlat ve başlamadan önce hatırlatma al.",
+		"casino": "Casino",
+		"casino_description": "Banka paranı çipe çevir, üç farklı slotta şansını dene. İstediğin an bozdur."
 	},
 	"walletapp": {
 		"title": "Kartlarım",
@@ -5810,5 +5812,92 @@
 		"inHours": "{n} sa sonra",
 		"inDays": "{n} gün sonra",
 		"countOne": "1 kayıt"
+	},
+	"casino": {
+		"lobby": {
+			"title": "Casino",
+			"yourChips": "Çiplerin",
+			"bank": "Banka {amount}",
+			"deposit": "Yatır",
+			"withdraw": "Çek",
+			"games": "Oyunlar"
+		},
+		"cashier": {
+			"bankBalance": "Banka bakiyesi {amount}",
+			"withdrawable": "Çekilebilir {amount}",
+			"max": "Tümü",
+			"overBank": "Banka bakiyenden fazla.",
+			"overChips": "Çiplerinden fazla.",
+			"noBank": "Banka hesabında yeterli para yok.",
+			"noChips": "O kadar çipin yok.",
+			"busy": "Önce dönen spini bitir.",
+			"failed": "Kasa bu işlemi yapamadı. Tekrar dene.",
+			"confirmDeposit": "{amount} yatır",
+			"confirmWithdraw": "{amount} çek"
+		},
+		"slot": {
+			"freeSpins": "BEDAVA SPIN",
+			"multi": "ÇARPAN",
+			"total": "TOPLAM",
+			"skip": "ATLA",
+			"win": "KAZANÇ",
+			"tumbleWin": "ZİNCİR KAZANÇ",
+			"goodLuck": "BOL ŞANS",
+			"placeBet": "BAHSİNİ SEÇ",
+			"chips": "Çip",
+			"bet": "Bahis",
+			"addChips": "Çip ekle",
+			"cashier": "Kasa",
+			"buyFree": "Bedava spin satın al",
+			"welcomeBack": "TEKRAR HOŞ GELDİN",
+			"moreSpins": "EK SPİN",
+			"freeSpinsWin": "BEDAVA SPIN KAZANCI",
+			"tapContinue": "Devam etmek için dokun",
+			"paytable": "Ödeme tablosu",
+			"paytableNote": "Değerler şu anki {bet} bahis içindir."
+		},
+		"games": {
+			"sugarfall": {
+				"tagline": "Bedava spinli ve x100'e kadar bombalı düşen şeker slotu",
+				"hintPays": "Her yerde 8+ aynı sembol öder · 4",
+				"hintFree": "= 10 bedava spin",
+				"ruleScatter": "Lolipop scatter'dır. 4 tanesi {four}, 5 tanesi {five}, 6 tanesi {six} öder ve 4 veya fazlası 10 bedava spin başlatır. Bedava spinlerde 3 veya fazlası 5 spin daha ekler.",
+				"ruleBomb": "Şeker bombaları yalnızca bedava spinlerde düşer ve x2 ile x100 arası taşır. Bir spin kazandığında tahtadaki bütün bombalar toplanır ve o spinin kazancını çarpar.",
+				"ruleTumble": "Kazanan şekerler patlar, yukarıdan yenileri düşer. Bu, hiç 8'li grup kalmayana kadar sürer. Bedava spin satın almak bahsin {cost} katıdır.",
+				"wins": {
+					"0": "BÜYÜK KAZANÇ",
+					"1": "MEGA KAZANÇ",
+					"2": "TATLI KAZANÇ"
+				}
+			},
+			"stormcrown": {
+				"tagline": "Bedava spinlerde birikmeye devam eden x500'e kadar şimşek küreleri",
+				"hintPays": "Her yerde 8+ aynı sembol öder · 4",
+				"hintFree": "= 15 bedava spin",
+				"ruleScatter": "Şimşek madalyonu scatter'dır. 4 tanesi {four}, 5 tanesi {five}, 6 tanesi {six} öder ve 4 veya fazlası 15 bedava spin başlatır. Bedava spinlerde 3 veya fazlası 5 spin daha ekler.",
+				"ruleOrb": "Şimşek küreleri x2 ile x500 arası taşır ve her spinde düşebilir. Bir spin kazandığında tahtadaki bütün küreler toplanır ve o spinin kazancını çarpar.",
+				"ruleMeter": "Bedava spinlerde kazanan spine düşen her küre, turun sonuna kadar kalan toplam çarpana eklenir. Bedava spin satın almak bahsin {cost} katıdır.",
+				"wins": {
+					"0": "GÜZEL!",
+					"1": "MEGA!",
+					"2": "MUHTEŞEM!",
+					"3": "EFSANEVİ!"
+				}
+			},
+			"jellyburst": {
+				"tagline": "7x7 tahtada küme kazancı, x128'e kadar ikiye katlanan noktalar",
+				"hintPays": "5+ küme öder · 3",
+				"hintFree": "= bedava spin",
+				"ruleCluster": "Yan yana değen 5 veya daha fazla aynı jöle öder. Kazanan jöleler patlar, grup kalmayana kadar yenileri düşer.",
+				"ruleSpots": "Her patlama yerini işaretler. İşaretli yerde ikinci patlama onu x2 çarpana çevirir, sonraki her patlama x128'e kadar ikiye katlar. Kazanan grubun altındaki çarpanlar toplanır.",
+				"ruleScatter": "Sakız makinesi scatter'dır. 3 tanesi 10, 4 tanesi 12, 5 tanesi 15, 6 tanesi 20, 7 tanesi 30 bedava spin verir. Bedava spinlerde işaretli yerler tur boyunca kalır. Bedava spin satın almak bahsin {cost} katıdır.",
+				"wins": {
+					"0": "GÜZEL!",
+					"1": "TATLI!",
+					"2": "ENFES!",
+					"3": "JÖLE PATLAMASI!"
+				}
+			}
+		}
 	}
 }

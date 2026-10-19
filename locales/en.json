@@ -1432,7 +1432,9 @@
 		"crypto": "Exchange",
 		"crypto_description": "Trade the city's coins, watch the market move live and send crypto to any phone number.",
 		"calendar": "Calendar",
-		"calendar_description": "Keep your days in order: plan entries, repeat them and get reminded before they start."
+		"calendar_description": "Keep your days in order: plan entries, repeat them and get reminded before they start.",
+		"casino": "Casino",
+		"casino_description": "Swap bank money for chips and spin three tumbling slots. Cash out whenever you like."
 	},
 	"walletapp": {
 		"title": "Cards",
@@ -5810,5 +5812,92 @@
 		"inHours": "in {n} h",
 		"inDays": "in {n} d",
 		"countOne": "1 entry"
+	},
+	"casino": {
+		"lobby": {
+			"title": "Casino",
+			"yourChips": "Your chips",
+			"bank": "Bank {amount}",
+			"deposit": "Deposit",
+			"withdraw": "Withdraw",
+			"games": "Games"
+		},
+		"cashier": {
+			"bankBalance": "Bank balance {amount}",
+			"withdrawable": "Withdrawable {amount}",
+			"max": "Max",
+			"overBank": "More than your bank balance.",
+			"overChips": "More than your chips.",
+			"noBank": "Not enough money in your bank account.",
+			"noChips": "You do not have that many chips.",
+			"busy": "Finish your spin first.",
+			"failed": "The cashier could not complete this. Try again.",
+			"confirmDeposit": "Deposit {amount}",
+			"confirmWithdraw": "Withdraw {amount}"
+		},
+		"slot": {
+			"freeSpins": "FREE SPINS",
+			"multi": "MULTI",
+			"total": "TOTAL",
+			"skip": "SKIP",
+			"win": "WIN",
+			"tumbleWin": "TUMBLE WIN",
+			"goodLuck": "GOOD LUCK",
+			"placeBet": "PLACE YOUR BET",
+			"chips": "Chips",
+			"bet": "Bet",
+			"addChips": "Add chips",
+			"cashier": "Cashier",
+			"buyFree": "Buy free spins",
+			"welcomeBack": "WELCOME BACK",
+			"moreSpins": "MORE SPINS",
+			"freeSpinsWin": "FREE SPINS WIN",
+			"tapContinue": "Tap to continue",
+			"paytable": "Paytable",
+			"paytableNote": "Values are for the current bet of {bet}."
+		},
+		"games": {
+			"sugarfall": {
+				"tagline": "Tumbling candy slot with free spins and bombs up to x100",
+				"hintPays": "8+ of a kind anywhere pays · 4",
+				"hintFree": "= 10 free spins",
+				"ruleScatter": "Lollipop is the scatter. 4 pays {four}, 5 pays {five}, 6 pays {six} and 4 or more start 10 free spins. 3 or more during free spins add 5 more.",
+				"ruleBomb": "Candy bombs only fall during free spins and carry x2 to x100. When a spin wins, every bomb on the board is added together and multiplies that spin's win.",
+				"ruleTumble": "Winning candies burst and new ones fall in from above. This repeats until no 8 of a kind are left. Buying free spins costs {cost}x the bet.",
+				"wins": {
+					"0": "BIG WIN",
+					"1": "MEGA WIN",
+					"2": "SWEET WIN"
+				}
+			},
+			"stormcrown": {
+				"tagline": "Thunder orbs up to x500 that keep adding up in free spins",
+				"hintPays": "8+ of a kind anywhere pays · 4",
+				"hintFree": "= 15 free spins",
+				"ruleScatter": "The thunder medallion is the scatter. 4 pays {four}, 5 pays {five}, 6 pays {six} and 4 or more start 15 free spins. 3 or more during free spins add 5 more.",
+				"ruleOrb": "Thunder orbs carry x2 to x500 and can land on any spin. When a spin wins, every orb on the board is added together and multiplies that spin's win.",
+				"ruleMeter": "During free spins every orb that lands on a winning spin is added to a total multiplier that stays for the rest of the round. Buying free spins costs {cost}x the bet.",
+				"wins": {
+					"0": "NICE!",
+					"1": "MEGA!",
+					"2": "SUPERB!",
+					"3": "SENSATIONAL!"
+				}
+			},
+			"jellyburst": {
+				"tagline": "Cluster pays on a 7x7 grid with spots that double up to x128",
+				"hintPays": "Clusters of 5+ pay · 3",
+				"hintFree": "= free spins",
+				"ruleCluster": "Groups of 5 or more matching jellies touching side by side pay. Winning jellies burst and new ones drop in until no group is left.",
+				"ruleSpots": "Every burst marks its spot. A second burst on a marked spot turns it into a x2 multiplier, and every burst after that doubles it, up to x128. Multipliers under a winning group are added together.",
+				"ruleScatter": "The gumball machine is the scatter. 3 give 10 free spins, 4 give 12, 5 give 15, 6 give 20 and 7 give 30. During free spins the marked spots stay for the whole round. Buying free spins costs {cost}x the bet.",
+				"wins": {
+					"0": "NICE!",
+					"1": "SWEET!",
+					"2": "DELICIOUS!",
+					"3": "JELLY BLAST!"
+				}
+			}
+		}
 	}
 }

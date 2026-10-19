@@ -1414,7 +1414,9 @@
 		"crypto_description": "Handla stadens coins, följ marknaden live och skicka krypto till valfritt nummer.",
 		"calendar": "Kalender",
 		"calendar_description": "Håll ordning på dagarna: lägg upp poster, låt dem upprepas och bli påmind i tid.",
-		"hive_description": "Skapa en Hive med dina vänner och chatta i kanaler."
+		"hive_description": "Skapa en Hive med dina vänner och chatta i kanaler.",
+		"casino": "Casino",
+		"casino_description": "Växla bankpengar mot marker och snurra tre slots med kaskader. Ta ut när du vill."
 	},
 	"walletapp": {
 		"title": "Kort",
@@ -5810,5 +5812,92 @@
 		"inHours": "om {n} h",
 		"inDays": "om {n} d",
 		"countOne": "1 post"
+	},
+	"casino": {
+		"lobby": {
+			"title": "Casino",
+			"yourChips": "Dina marker",
+			"bank": "Bank {amount}",
+			"deposit": "Sätt in",
+			"withdraw": "Ta ut",
+			"games": "Spel"
+		},
+		"cashier": {
+			"bankBalance": "Banksaldo {amount}",
+			"withdrawable": "Uttagbart {amount}",
+			"max": "Max",
+			"overBank": "Mer än ditt banksaldo.",
+			"overChips": "Mer än dina marker.",
+			"noBank": "Inte tillräckligt med pengar på bankkontot.",
+			"noChips": "Du har inte så många marker.",
+			"busy": "Avsluta ditt snurr först.",
+			"failed": "Kassan kunde inte slutföra detta. Försök igen.",
+			"confirmDeposit": "Sätt in {amount}",
+			"confirmWithdraw": "Ta ut {amount}"
+		},
+		"slot": {
+			"freeSpins": "FRISNURR",
+			"multi": "MULTI",
+			"total": "TOTALT",
+			"skip": "HOPPA ÖVER",
+			"win": "VINST",
+			"tumbleWin": "KASKADVINST",
+			"goodLuck": "LYCKA TILL",
+			"placeBet": "LÄGG DIN INSATS",
+			"chips": "Marker",
+			"bet": "Insats",
+			"addChips": "Köp marker",
+			"cashier": "Kassa",
+			"buyFree": "Köp frisnurr",
+			"welcomeBack": "VÄLKOMMEN TILLBAKA",
+			"moreSpins": "FLER SNURR",
+			"freeSpinsWin": "FRISNURRVINST",
+			"tapContinue": "Tryck för att fortsätta",
+			"paytable": "Vinsttabell",
+			"paytableNote": "Värdena gäller nuvarande insats på {bet}."
+		},
+		"games": {
+			"sugarfall": {
+				"tagline": "Godisslot med kaskader, frisnurr och bomber upp till x100",
+				"hintPays": "8+ lika var som helst betalar · 4",
+				"hintFree": "= 10 frisnurr",
+				"ruleScatter": "Klubban är scatter. 4 betalar {four}, 5 betalar {five}, 6 betalar {six} och 4 eller fler startar 10 frisnurr. 3 eller fler under frisnurr ger 5 till.",
+				"ruleBomb": "Godisbomber faller bara under frisnurr och bär x2 till x100. När ett snurr vinner läggs alla bomber på brädet ihop och multiplicerar det snurrets vinst.",
+				"ruleTumble": "Vinnande godis spricker och nya faller ner ovanifrån. Det upprepas tills inga 8 lika finns kvar. Att köpa frisnurr kostar {cost}x insatsen.",
+				"wins": {
+					"0": "STORVINST",
+					"1": "MEGAVINST",
+					"2": "SÖT VINST"
+				}
+			},
+			"stormcrown": {
+				"tagline": "Åskklot upp till x500 som fortsätter att summeras under frisnurr",
+				"hintPays": "8+ lika var som helst betalar · 4",
+				"hintFree": "= 15 frisnurr",
+				"ruleScatter": "Åskmedaljongen är scatter. 4 betalar {four}, 5 betalar {five}, 6 betalar {six} och 4 eller fler startar 15 frisnurr. 3 eller fler under frisnurr ger 5 till.",
+				"ruleOrb": "Åskklot bär x2 till x500 och kan landa på vilket snurr som helst. När ett snurr vinner läggs alla klot på brädet ihop och multiplicerar det snurrets vinst.",
+				"ruleMeter": "Under frisnurr läggs varje klot på ett vinnande snurr till en total multiplikator som stannar resten av rundan. Att köpa frisnurr kostar {cost}x insatsen.",
+				"wins": {
+					"0": "SNYGGT!",
+					"1": "MEGA!",
+					"2": "SUPERBT!",
+					"3": "SENSATIONELLT!"
+				}
+			},
+			"jellyburst": {
+				"tagline": "Klustervinster på ett 7x7-bräde med rutor som dubblas upp till x128",
+				"hintPays": "Kluster på 5+ betalar · 3",
+				"hintFree": "= frisnurr",
+				"ruleCluster": "Grupper med 5 eller fler likadana geléer som rör vid varandra i sidled betalar. Vinnande geléer spricker och nya faller in tills ingen grupp finns kvar.",
+				"ruleSpots": "Varje sprängning markerar sin ruta. En andra sprängning på en markerad ruta gör den till en x2-multiplikator, och varje sprängning därefter dubblar den, upp till x128. Multiplikatorer under en vinnande grupp läggs ihop.",
+				"ruleScatter": "Tuggummiautomaten är scatter. 3 ger 10 frisnurr, 4 ger 12, 5 ger 15, 6 ger 20 och 7 ger 30. Under frisnurr stannar markerade rutor hela rundan. Att köpa frisnurr kostar {cost}x insatsen.",
+				"wins": {
+					"0": "SNYGGT!",
+					"1": "SÖTT!",
+					"2": "LÄCKERT!",
+					"3": "GELÉEXPLOSION!"
+				}
+			}
+		}
 	}
 }

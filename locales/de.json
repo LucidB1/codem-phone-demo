@@ -1414,7 +1414,9 @@
 		"crypto_description": "Handle die Coins der Stadt, verfolge den Markt live und sende Krypto an jede Nummer.",
 		"calendar": "Kalender",
 		"calendar_description": "Halte deine Tage in Ordnung: Einträge anlegen, wiederholen lassen und rechtzeitig erinnert werden.",
-		"hive_description": "Erstelle einen Hive mit deinen Freunden und chatte in Kanälen."
+		"hive_description": "Erstelle einen Hive mit deinen Freunden und chatte in Kanälen.",
+		"casino": "Casino",
+		"casino_description": "Tausche Bankgeld gegen Chips und dreh an drei Slots mit Kaskaden. Auszahlen, wann immer du willst."
 	},
 	"walletapp": {
 		"title": "Karten",
@@ -5810,5 +5812,92 @@
 		"inHours": "in {n} Std",
 		"inDays": "in {n} T",
 		"countOne": "1 Eintrag"
+	},
+	"casino": {
+		"lobby": {
+			"title": "Casino",
+			"yourChips": "Deine Chips",
+			"bank": "Bank {amount}",
+			"deposit": "Einzahlen",
+			"withdraw": "Auszahlen",
+			"games": "Spiele"
+		},
+		"cashier": {
+			"bankBalance": "Kontostand {amount}",
+			"withdrawable": "Auszahlbar {amount}",
+			"max": "Max",
+			"overBank": "Mehr als dein Kontostand.",
+			"overChips": "Mehr als deine Chips.",
+			"noBank": "Nicht genug Geld auf deinem Bankkonto.",
+			"noChips": "So viele Chips hast du nicht.",
+			"busy": "Beende zuerst deinen Spin.",
+			"failed": "Die Kasse konnte das nicht abschließen. Versuch es erneut.",
+			"confirmDeposit": "{amount} einzahlen",
+			"confirmWithdraw": "{amount} auszahlen"
+		},
+		"slot": {
+			"freeSpins": "FREISPIELE",
+			"multi": "MULTI",
+			"total": "GESAMT",
+			"skip": "ÜBERSPRINGEN",
+			"win": "GEWINN",
+			"tumbleWin": "KASKADENGEWINN",
+			"goodLuck": "VIEL GLÜCK",
+			"placeBet": "PLATZIERE DEINEN EINSATZ",
+			"chips": "Chips",
+			"bet": "Einsatz",
+			"addChips": "Chips holen",
+			"cashier": "Kasse",
+			"buyFree": "Freispiele kaufen",
+			"welcomeBack": "WILLKOMMEN ZURÜCK",
+			"moreSpins": "MEHR SPINS",
+			"freeSpinsWin": "FREISPIELGEWINN",
+			"tapContinue": "Tippen zum Fortfahren",
+			"paytable": "Gewinntabelle",
+			"paytableNote": "Werte gelten für den aktuellen Einsatz von {bet}."
+		},
+		"games": {
+			"sugarfall": {
+				"tagline": "Süßigkeiten-Kaskadenslot mit Freispielen und Bomben bis x100",
+				"hintPays": "8+ gleiche überall zahlen · 4",
+				"hintFree": "= 10 Freispiele",
+				"ruleScatter": "Der Lutscher ist der Scatter. 4 zahlen {four}, 5 zahlen {five}, 6 zahlen {six} und ab 4 starten 10 Freispiele. Ab 3 während der Freispiele gibt es 5 weitere.",
+				"ruleBomb": "Süßigkeitenbomben fallen nur in Freispielen und tragen x2 bis x100. Gewinnt ein Spin, werden alle Bomben auf dem Feld addiert und multiplizieren den Gewinn dieses Spins.",
+				"ruleTumble": "Gewinnende Süßigkeiten platzen und neue fallen von oben nach. Das wiederholt sich, bis keine 8 gleichen mehr übrig sind. Freispiele kaufen kostet das {cost}-fache des Einsatzes.",
+				"wins": {
+					"0": "GROSSER GEWINN",
+					"1": "MEGA-GEWINN",
+					"2": "SÜSSER GEWINN"
+				}
+			},
+			"stormcrown": {
+				"tagline": "Donnerkugeln bis x500, die sich in Freispielen weiter aufaddieren",
+				"hintPays": "8+ gleiche überall zahlen · 4",
+				"hintFree": "= 15 Freispiele",
+				"ruleScatter": "Das Donnermedaillon ist der Scatter. 4 zahlen {four}, 5 zahlen {five}, 6 zahlen {six} und ab 4 starten 15 Freispiele. Ab 3 während der Freispiele gibt es 5 weitere.",
+				"ruleOrb": "Donnerkugeln tragen x2 bis x500 und können bei jedem Spin landen. Gewinnt ein Spin, werden alle Kugeln auf dem Feld addiert und multiplizieren den Gewinn dieses Spins.",
+				"ruleMeter": "In Freispielen wird jede Kugel auf einem Gewinnspin zu einem Gesamtmultiplikator addiert, der bis zum Ende der Runde bleibt. Freispiele kaufen kostet das {cost}-fache des Einsatzes.",
+				"wins": {
+					"0": "SCHÖN!",
+					"1": "MEGA!",
+					"2": "SUPER!",
+					"3": "SENSATIONELL!"
+				}
+			},
+			"jellyburst": {
+				"tagline": "Clustergewinne auf einem 7x7-Feld mit Feldern, die sich bis x128 verdoppeln",
+				"hintPays": "Cluster ab 5 zahlen · 3",
+				"hintFree": "= Freispiele",
+				"ruleCluster": "Gruppen ab 5 gleichen Gummis, die sich seitlich berühren, zahlen. Gewinnende Gummis platzen und neue fallen nach, bis keine Gruppe mehr übrig ist.",
+				"ruleSpots": "Jedes Platzen markiert sein Feld. Ein zweites Platzen auf einem markierten Feld macht daraus einen x2-Multiplikator, jedes weitere verdoppelt ihn bis x128. Multiplikatoren unter einer Gewinngruppe werden addiert.",
+				"ruleScatter": "Der Kaugummiautomat ist der Scatter. 3 geben 10 Freispiele, 4 geben 12, 5 geben 15, 6 geben 20 und 7 geben 30. In Freispielen bleiben markierte Felder die ganze Runde. Freispiele kaufen kostet das {cost}-fache des Einsatzes.",
+				"wins": {
+					"0": "SCHÖN!",
+					"1": "SÜSS!",
+					"2": "KÖSTLICH!",
+					"3": "GUMMI-EXPLOSION!"
+				}
+			}
+		}
 	}
 }

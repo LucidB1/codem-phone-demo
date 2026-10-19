@@ -1414,7 +1414,9 @@
 		"crypto_description": "Trguj gradskim coinima, prati tržište uživo i šalji kripto na bilo koji broj.",
 		"calendar": "Kalendar",
 		"calendar_description": "Drži dane u redu: dodaj unose, ponavljaj ih i dobij podsjetnik prije nego počnu.",
-		"hive_description": "Napravi Hive sa prijateljima i ćaskaj u kanalima."
+		"hive_description": "Napravi Hive sa prijateljima i ćaskaj u kanalima.",
+		"casino": "Casino",
+		"casino_description": "Zamijeni novac iz banke za žetone i okreći tri slota s kaskadama. Isplati kad god želiš."
 	},
 	"walletapp": {
 		"title": "Kartice",
@@ -5810,5 +5812,92 @@
 		"inHours": "za {n} h",
 		"inDays": "za {n} d",
 		"countOne": "1 unos"
+	},
+	"casino": {
+		"lobby": {
+			"title": "Casino",
+			"yourChips": "Tvoji žetoni",
+			"bank": "Banka {amount}",
+			"deposit": "Uplati",
+			"withdraw": "Isplati",
+			"games": "Igre"
+		},
+		"cashier": {
+			"bankBalance": "Stanje u banci {amount}",
+			"withdrawable": "Za isplatu {amount}",
+			"max": "Max",
+			"overBank": "Više od stanja u banci.",
+			"overChips": "Više od tvojih žetona.",
+			"noBank": "Nemaš dovoljno novca na bankovnom računu.",
+			"noChips": "Nemaš toliko žetona.",
+			"busy": "Prvo završi okretanje.",
+			"failed": "Blagajna nije mogla završiti ovo. Pokušaj ponovo.",
+			"confirmDeposit": "Uplati {amount}",
+			"confirmWithdraw": "Isplati {amount}"
+		},
+		"slot": {
+			"freeSpins": "BESPLATNI OKRETI",
+			"multi": "MULTI",
+			"total": "UKUPNO",
+			"skip": "PRESKOČI",
+			"win": "DOBITAK",
+			"tumbleWin": "KASKADNI DOBITAK",
+			"goodLuck": "SRETNO",
+			"placeBet": "POSTAVI ULOG",
+			"chips": "Žetoni",
+			"bet": "Ulog",
+			"addChips": "Dodaj žetone",
+			"cashier": "Blagajna",
+			"buyFree": "Kupi besplatne okrete",
+			"welcomeBack": "DOBRO DOŠAO NAZAD",
+			"moreSpins": "JOŠ OKRETA",
+			"freeSpinsWin": "DOBITAK BESPLATNIH OKRETA",
+			"tapContinue": "Dodirni za nastavak",
+			"paytable": "Tabela isplata",
+			"paytableNote": "Vrijednosti su za trenutni ulog od {bet}."
+		},
+		"games": {
+			"sugarfall": {
+				"tagline": "Slot sa slatkišima koji padaju, besplatnim okretima i bombama do x100",
+				"hintPays": "8+ istih bilo gdje isplaćuje · 4",
+				"hintFree": "= 10 besplatnih okreta",
+				"ruleScatter": "Lizalica je scatter. 4 isplaćuju {four}, 5 isplaćuju {five}, 6 isplaćuju {six}, a 4 ili više pokreću 10 besplatnih okreta. 3 ili više tokom besplatnih okreta dodaju još 5.",
+				"ruleBomb": "Slatke bombe padaju samo tokom besplatnih okreta i nose x2 do x100. Kad okret dobije, sve bombe na tabli se saberu i množe dobitak tog okreta.",
+				"ruleTumble": "Dobitni slatkiši pucaju, a novi padaju odozgo. To se ponavlja dok ne ostane nijedna osmorka. Kupovina besplatnih okreta košta {cost}x ulog.",
+				"wins": {
+					"0": "VELIKI DOBITAK",
+					"1": "MEGA DOBITAK",
+					"2": "SLATKI DOBITAK"
+				}
+			},
+			"stormcrown": {
+				"tagline": "Gromovne kugle do x500 koje se sabiraju tokom besplatnih okreta",
+				"hintPays": "8+ istih bilo gdje isplaćuje · 4",
+				"hintFree": "= 15 besplatnih okreta",
+				"ruleScatter": "Gromovni medaljon je scatter. 4 isplaćuju {four}, 5 isplaćuju {five}, 6 isplaćuju {six}, a 4 ili više pokreću 15 besplatnih okreta. 3 ili više tokom besplatnih okreta dodaju još 5.",
+				"ruleOrb": "Gromovne kugle nose x2 do x500 i mogu pasti na svakom okretu. Kad okret dobije, sve kugle na tabli se saberu i množe dobitak tog okreta.",
+				"ruleMeter": "Tokom besplatnih okreta svaka kugla na dobitnom okretu dodaje se ukupnom množitelju koji ostaje do kraja runde. Kupovina besplatnih okreta košta {cost}x ulog.",
+				"wins": {
+					"0": "LIJEPO!",
+					"1": "MEGA!",
+					"2": "SJAJNO!",
+					"3": "SENZACIONALNO!"
+				}
+			},
+			"jellyburst": {
+				"tagline": "Dobici u grupama na tabli 7x7 s poljima koja se udvostručuju do x128",
+				"hintPays": "Grupe od 5+ isplaćuju · 3",
+				"hintFree": "= besplatni okreti",
+				"ruleCluster": "Grupe od 5 ili više istih želea koji se dodiruju sa strane isplaćuju. Dobitni želei pucaju, a novi padaju dok ne ostane nijedna grupa.",
+				"ruleSpots": "Svako pucanje označi svoje polje. Drugo pucanje na označenom polju pretvara ga u množitelj x2, a svako sljedeće ga udvostručuje do x128. Množitelji ispod dobitne grupe se sabiraju.",
+				"ruleScatter": "Aparat za žvake je scatter. 3 daju 10 besplatnih okreta, 4 daju 12, 5 daju 15, 6 daju 20, a 7 daju 30. Tokom besplatnih okreta označena polja ostaju cijelu rundu. Kupovina besplatnih okreta košta {cost}x ulog.",
+				"wins": {
+					"0": "LIJEPO!",
+					"1": "SLATKO!",
+					"2": "UKUSNO!",
+					"3": "ŽELE EKSPLOZIJA!"
+				}
+			}
+		}
 	}
 }

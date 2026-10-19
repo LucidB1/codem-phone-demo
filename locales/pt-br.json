@@ -1414,7 +1414,9 @@
 		"crypto_description": "Negocie as moedas da cidade, acompanhe o mercado ao vivo e envie cripto para qualquer número.",
 		"calendar": "Calendário",
 		"calendar_description": "Mantenha seus dias em ordem: crie compromissos, repita-os e receba um lembrete antes da hora.",
-		"hive_description": "Crie um Hive com seus amigos e converse em canais."
+		"hive_description": "Crie um Hive com seus amigos e converse em canais.",
+		"casino": "Casino",
+		"casino_description": "Troque dinheiro do banco por fichas e gire três caça-níqueis em cascata. Saque quando quiser."
 	},
 	"walletapp": {
 		"title": "Cartões",
@@ -5810,5 +5812,92 @@
 		"inHours": "em {n} h",
 		"inDays": "em {n} d",
 		"countOne": "1 compromisso"
+	},
+	"casino": {
+		"lobby": {
+			"title": "Casino",
+			"yourChips": "Suas fichas",
+			"bank": "Banco {amount}",
+			"deposit": "Depositar",
+			"withdraw": "Sacar",
+			"games": "Jogos"
+		},
+		"cashier": {
+			"bankBalance": "Saldo no banco {amount}",
+			"withdrawable": "Disponível para saque {amount}",
+			"max": "Máx",
+			"overBank": "Mais do que seu saldo no banco.",
+			"overChips": "Mais do que suas fichas.",
+			"noBank": "Dinheiro insuficiente na sua conta bancária.",
+			"noChips": "Você não tem tantas fichas.",
+			"busy": "Termine seu giro primeiro.",
+			"failed": "O caixa não conseguiu concluir. Tente novamente.",
+			"confirmDeposit": "Depositar {amount}",
+			"confirmWithdraw": "Sacar {amount}"
+		},
+		"slot": {
+			"freeSpins": "GIROS GRÁTIS",
+			"multi": "MULTI",
+			"total": "TOTAL",
+			"skip": "PULAR",
+			"win": "GANHO",
+			"tumbleWin": "GANHO EM CASCATA",
+			"goodLuck": "BOA SORTE",
+			"placeBet": "FAÇA SUA APOSTA",
+			"chips": "Fichas",
+			"bet": "Aposta",
+			"addChips": "Comprar fichas",
+			"cashier": "Caixa",
+			"buyFree": "Comprar giros grátis",
+			"welcomeBack": "BEM-VINDO DE VOLTA",
+			"moreSpins": "MAIS GIROS",
+			"freeSpinsWin": "GANHO DOS GIROS GRÁTIS",
+			"tapContinue": "Toque para continuar",
+			"paytable": "Tabela de pagamentos",
+			"paytableNote": "Valores para a aposta atual de {bet}."
+		},
+		"games": {
+			"sugarfall": {
+				"tagline": "Caça-níquel de doces em cascata com giros grátis e bombas até x100",
+				"hintPays": "8+ iguais em qualquer lugar pagam · 4",
+				"hintFree": "= 10 giros grátis",
+				"ruleScatter": "O pirulito é o scatter. 4 pagam {four}, 5 pagam {five}, 6 pagam {six} e 4 ou mais iniciam 10 giros grátis. 3 ou mais durante os giros grátis dão mais 5.",
+				"ruleBomb": "As bombas de doce só caem nos giros grátis e valem de x2 a x100. Quando um giro ganha, todas as bombas no tabuleiro são somadas e multiplicam o ganho desse giro.",
+				"ruleTumble": "Os doces vencedores estouram e novos caem de cima. Isso se repete até não restar nenhum grupo de 8. Comprar giros grátis custa {cost}x a aposta.",
+				"wins": {
+					"0": "GRANDE GANHO",
+					"1": "MEGA GANHO",
+					"2": "GANHO DOCE"
+				}
+			},
+			"stormcrown": {
+				"tagline": "Orbes de trovão até x500 que continuam somando nos giros grátis",
+				"hintPays": "8+ iguais em qualquer lugar pagam · 4",
+				"hintFree": "= 15 giros grátis",
+				"ruleScatter": "O medalhão do trovão é o scatter. 4 pagam {four}, 5 pagam {five}, 6 pagam {six} e 4 ou mais iniciam 15 giros grátis. 3 ou mais durante os giros grátis dão mais 5.",
+				"ruleOrb": "Os orbes de trovão valem de x2 a x500 e podem cair em qualquer giro. Quando um giro ganha, todos os orbes no tabuleiro são somados e multiplicam o ganho desse giro.",
+				"ruleMeter": "Nos giros grátis, cada orbe em um giro vencedor é somado a um multiplicador total que fica até o fim da rodada. Comprar giros grátis custa {cost}x a aposta.",
+				"wins": {
+					"0": "BOA!",
+					"1": "MEGA!",
+					"2": "SOBERBO!",
+					"3": "SENSACIONAL!"
+				}
+			},
+			"jellyburst": {
+				"tagline": "Ganhos em grupo num tabuleiro 7x7 com casas que dobram até x128",
+				"hintPays": "Grupos de 5+ pagam · 3",
+				"hintFree": "= giros grátis",
+				"ruleCluster": "Grupos de 5 ou mais jujubas iguais que se tocam pelos lados pagam. As jujubas vencedoras estouram e novas caem até não sobrar grupo.",
+				"ruleSpots": "Cada estouro marca sua casa. Um segundo estouro numa casa marcada a transforma em multiplicador x2, e cada estouro seguinte dobra, até x128. Os multiplicadores sob um grupo vencedor são somados.",
+				"ruleScatter": "A máquina de chiclete é o scatter. 3 dão 10 giros grátis, 4 dão 12, 5 dão 15, 6 dão 20 e 7 dão 30. Nos giros grátis as casas marcadas ficam a rodada inteira. Comprar giros grátis custa {cost}x a aposta.",
+				"wins": {
+					"0": "BOA!",
+					"1": "DOCE!",
+					"2": "DELICIOSO!",
+					"3": "EXPLOSÃO DE JUJUBA!"
+				}
+			}
+		}
 	}
 }
